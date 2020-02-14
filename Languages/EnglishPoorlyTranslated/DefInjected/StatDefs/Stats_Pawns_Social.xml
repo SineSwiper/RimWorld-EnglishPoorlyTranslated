@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- deleted
+    <RecruitPrisonerChance.label>勧誘成功率</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>この人が囚人を勧誘する時の基本的な成功率です.実際の成功率は,囚人の心情,難易度,その他の影響も受けます.</RecruitPrisonerChance.description>
+-->
+  <TameAnimalChance.label>Success rates and tame</TameAnimalChance.label>
+  <TameAnimalChance.description>This is one of the basic level successfully to win the race.True success rate as well as the wild animals in the classroom.Otherwise, maybe victory will attack animals, particularly carnivores, this trend will become stronger.</TameAnimalChance.description>
+  <TrainAnimalChance.label>Violence success rate</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Man, basic training activities and achievements live.Actual speed achieved, diploma wildlife, securities and coaches will be other effects.</TrainAnimalChance.description>
+  <SocialImpact.label>政治力</SocialImpact.label>
+  <SocialImpact.description>What are the effects of social submission.</SocialImpact.description>
+  <NegotiationAbility.label>外交力</NegotiationAbility.label>
+  <NegotiationAbility.description>As a member of the negotiation such as this one, have a lot of influence.If someone is presented with other groups, the degree of influence of the group. also affect the peace talks with other factions.</NegotiationAbility.description>
+  <TradePriceImprovement.label>Business intuition</TradePriceImprovement.label>
+  <TradePriceImprovement.description>What is the importance of the negotiations to buy and sell things and work well for you.</TradePriceImprovement.description>
+</LanguageData>

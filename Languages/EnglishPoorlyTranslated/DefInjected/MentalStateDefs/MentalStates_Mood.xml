@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Berserk.label>rage</Berserk.label>
+  <Berserk.beginLetter>{0} were violent.\n\nAll they see [PAWN_pronoun] attack. </Berserk.beginLetter>
+  <Berserk.recoveryMessage>{0} stopped violent waves. </Berserk.recoveryMessage>
+  <Berserk.baseInspectLine>A Father's attitude</Berserk.baseInspectLine>
+  <FireStartingSpree.label>incendiary</FireStartingSpree.label>
+  <FireStartingSpree.beginLetter>{0} a fire accident.\n\n[PAWN_pronoun] roaming, you may at any time determine fire. </FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>{0} Do not think for a second. </FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>State mental Firebug</FireStartingSpree.baseInspectLine>
+  <GiveUpExit.label>rejected</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>on</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>Removing all the throws {0} colon.\n\n[PAWN_pronoun] are looking for a better life where I decided to go. We have only one day left [PAWN_objective], try to get arrested. </GiveUpExit.beginLetter>
+  <GiveUpExit.recoveryMessage>Wong colony {0} try to change the heart. </GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>State of mental stop</GiveUpExit.baseInspectLine>
+  <!-- Mental breaks: serious -->
+  <Binging_DrugExtreme.label>addicts</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.baseInspectLine>Mood: Medicine {0}</Binging_DrugExtreme.baseInspectLine>
+  <Jailbreaker.label>leaves</Jailbreaker.label>
+  <Jailbreaker.beginLetterLabel>jailbre'ak</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetter>Tired of other prisoners to avoid the temptation {0}. </Jailbreaker.beginLetter>
+  <Jailbreaker.recoveryMessage>{0} delivered entice many. </Jailbreaker.recoveryMessage>
+  <Jailbreaker.baseInspectLine>Mental state: Jailbreak</Jailbreaker.baseInspectLine>
+  <Slaughterer.label>killer</Slaughterer.label>
+  <Slaughterer.beginLetter>{0} chronic stress, expansion gasket is trying [PAWN_possessive] mukeyo. </Slaughterer.beginLetter>
+  <Slaughterer.recoveryMessage>animals slaughtered here and there is no {0}. </Slaughterer.recoveryMessage>
+  <Slaughterer.baseInspectLine>Given the speed of the earth</Slaughterer.baseInspectLine>
+  <MurderousRage.label>Passion murderous intent</MurderousRage.label>
+  <MurderousRage.beginLetter>{0} jets feelings of anger to kill.\n\nI decided to kill [PAWN_pronoun] {1}. </MurderousRage.beginLetter>
+  <MurderousRage.recoveryMessage>The desire to kill goals {0} lost. </MurderousRage.recoveryMessage>
+  <MurderousRage.baseInspectLine>mental state: The killer object passion</MurderousRage.baseInspectLine>
+  <Binging_DrugMajor.label>Drowned in food</Binging_DrugMajor.label>
+  <Binging_DrugMajor.baseInspectLine>Mentality: Pharmaceutical {0}</Binging_DrugMajor.baseInspectLine>
+  <Wander_Psychotic.label>Spirit of the patients seasick</Wander_Psychotic.label>
+  <Wander_Psychotic.beginLetterLabel>You shut up</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetter>{0} understanding around the patient's will. </Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.recoveryMessage>Blurry new {0}. </Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.baseInspectLine>Mental health, mental weakness</Wander_Psychotic.baseInspectLine>
+  <Tantrum.label>Resistant cap</Tantrum.label>
+  <Tantrum.beginLetter>{0} filed bearings nerve damage.\n\nCourt rest [PAWN_pronoun] materials, items, buildings. </Tantrum.beginLetter>
+  <Tantrum.recoveryMessage>Flashing {0} is cool. </Tantrum.recoveryMessage>
+  <Tantrum.baseInspectLine>What sense: a cavernous forever</Tantrum.baseInspectLine>
+  <TargetedTantrum.label>Emotions (men)</TargetedTantrum.label>
+  <TargetedTantrum.beginLetterLabel>Character (man)</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.beginLetter>{0} is pharaipaina.\n\n[PAWN_pronoun] will {1} hand. </TargetedTantrum.beginLetter>
+  <TargetedTantrum.recoveryMessage>A calm and {0}. </TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.baseInspectLine>mental status: tantrums have (people)</TargetedTantrum.baseInspectLine>
+  <BedroomTantrum.label>Nature (room)</BedroomTantrum.label>
+  <BedroomTantrum.beginLetterLabel>Anger (weather)</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.beginLetter>{0} nature.\n\n[PAWN_possessive] [PAWN_pronoun] to try to destroy it. </BedroomTantrum.beginLetter>
+  <BedroomTantrum.recoveryMessage>Hiszt {0} and peace. </BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.baseInspectLine>state of mind: Angry property (Room)</BedroomTantrum.baseInspectLine>
+  <SadisticRage.label>Love, brutal</SadisticRage.label>
+  <SadisticRage.beginLetter>{0} passion runs sadist.\n\n[PAWN_pronoun] try haraso catch bitter anger. </SadisticRage.beginLetter>
+  <SadisticRage.recoveryMessage>{0} sense of humility was gone. </SadisticRage.recoveryMessage>
+  <SadisticRage.baseInspectLine>Emotional abuse of government</SadisticRage.baseInspectLine>
+  <CorpseObsession.label>clinging to the body</CorpseObsession.label>
+  <CorpseObsession.beginLetter>{0} face in the heart obsessed with becoming a delight.\n\n[PAWN_pronoun] decorated digging body, where each of them. </CorpseObsession.beginLetter>
+  <CorpseObsession.recoveryMessage>Do not obsessed with the body of another {0}. </CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>According to the state of mind: the bodies obsession</CorpseObsession.baseInspectLine>
+  <!-- Mental breaks: minor -->
+  <Binging_Food.label>But eating</Binging_Food.label>
+  <Binging_Food.beginLetterLabel>bulimia</Binging_Food.beginLetterLabel>
+  <Binging_Food.beginLetter>Can not stop eating and greedy as a pig {0}. </Binging_Food.beginLetter>
+  <Binging_Food.recoveryMessage>{0} do not eat more greedy than the other pigs. </Binging_Food.recoveryMessage>
+  <Binging_Food.baseInspectLine>Psychology: gobbler of</Binging_Food.baseInspectLine>
+  <Wander_Sad.label>and thin</Wander_Sad.label>
+  <Wander_Sad.beginLetterLabel>frustration</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.beginLetter>{0} illness, sadness, faint ghost hanging over him. </Wander_Sad.beginLetter>
+  <Wander_Sad.recoveryMessage>No other sick sad {0}. </Wander_Sad.recoveryMessage>
+  <Wander_Sad.baseInspectLine>Pessimism about the mental state</Wander_Sad.baseInspectLine>
+  <Wander_OwnRoom.label>drain</Wander_OwnRoom.label>
+  <Wander_OwnRoom.beginLetterLabel>withdrawal</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.beginLetter>{0} olensus basket cartoon [PAWN_possessive] room. </Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.recoveryMessage>Another place not to mora {0} by [PAWN_possessive] car. </Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.baseInspectLine>Mental state: Delete</Wander_OwnRoom.baseInspectLine>
+  <InsultingSpree.label>Insults, word careless</InsultingSpree.label>
+  <InsultingSpree.beginLetter>{0} belching careless remarks.\n\n[PAWN_pronoun] turn, you are insulting other people want. </InsultingSpree.beginLetter>
+  <InsultingSpree.recoveryMessage>{0} surgical opinion is insulting. </InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>Mental condition, equipped with leak</InsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.label>Said neglected (a)</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetterLabel>Wrong, reckless words (a)</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.beginLetter>[PAWN_possessive] goal kick just {1} {0} angry.\n\n[PAWN_pronoun] continue to rape against che awash and {1}. </TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.baseInspectLine>Bui possibilities, Life Less {1}</TargetedInsultingSpree.baseInspectLine>
+  <ManhunterPermanent.label>cutthroat</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetterLabel>inadvertently</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0} worse</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>{0} murder galvanized missing. </ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>Madness, killer</ManhunterPermanent.baseInspectLine>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: luciferium -->
+  <Luciferium.label>Luziferium</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>The great mass, which for all auxeris joke mechaniten limited. Over time, aging and brain damage, not only to restore lost limbs. Unfortunately, the effective amount of consistently unity and the loss of each of the six fifteen mechaniten. In this place, that psychosis, and a large part of the end-user.\n\nThe first dose of the user, and is associated with the exit after no chance.\n\nUrbwelten luziferium to a "contact" is called. Many people, without any red return more attractive to kill his friends.</Luciferium.description>
+  <!-- EN: Take {0} -->
+  <Luciferium.ingestible.ingestCommandString>Will luziferium.</Luciferium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Luciferium.ingestible.ingestReportString>The luziferium.</Luciferium.ingestible.ingestReportString>
+</LanguageData>

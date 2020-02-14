@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Glow -->
+  <Dark>Ax</Dark>
+  <Lit>Lit</Lit>
+  <LitBrightly>Indicator lights</LitBrightly>
+  <!-- Price types -->
+  <PriceTypeVeryCheap>cheap</PriceTypeVeryCheap>
+  <PriceTypeCheap>jacket</PriceTypeCheap>
+  <PriceTypeNormal>ordinary</PriceTypeNormal>
+  <PriceTypeExpensive>dear</PriceTypeExpensive>
+  <PriceTypeExorbitant>you</PriceTypeExorbitant>
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>mittevanandatutest</StoragePriorityUnstored>
+  <StoragePriorityLow>low</StoragePriorityLow>
+  <StoragePriorityNormal>with</StoragePriorityNormal>
+  <StoragePriorityPreferred>deadline</StoragePriorityPreferred>
+  <StoragePriorityImportant>specific</StoragePriorityImportant>
+  <StoragePriorityCritical>hard</StoragePriorityCritical>
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>leaves</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>meat</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>management</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>meat</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>real tree</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>food</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>processed food</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>alcohol</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>cutlery</FoodTypeFlags_Kibble>
+  <!-- Quality category -->
+  <QualityCategory_Awful>out</QualityCategory_Awful>
+  <QualityCategory_Poor>poor</QualityCategory_Poor>
+  <QualityCategory_Normal>plain</QualityCategory_Normal>
+  <QualityCategory_Good>good</QualityCategory_Good>
+  <QualityCategory_Excellent>more</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>masterpiece</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>later</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>and normal</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
+  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>legden</QualityCategoryShort_Legendary>
+  <!-- Hunger -->
+  <HungerLevel_Starving>Hunger</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Emergency opening</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Hunger</HungerLevel_Hungry>
+  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Weary</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>So tired</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Weary</HungerLevel_Tired>
+  <HungerLevel_Rested>Lido</HungerLevel_Rested>
+  <!-- Hilliness -->
+  <Hilliness_Flat>apartment</Hilliness_Flat>
+  <Hilliness_SmallHills>higher</Hilliness_SmallHills>
+  <Hilliness_LargeHills>high mountains</Hilliness_LargeHills>
+  <Hilliness_Mountainous>mountain</Hilliness_Mountainous>
+  <Hilliness_Impassable>finyellehe easily</Hilliness_Impassable>
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Create</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>A suggestion</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Disease</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Offering settings</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Prepared the text file</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>The load on the content of staff</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>The governor file preview</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Changes to</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>a local folder</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Education partners</ContentSource_SteamWorkshop>
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>No hospital</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Attendant care, but no panacea</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Herbs or worse</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Tech industry or bad</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Good-quality drugs</MedicalCareCategory_Best>
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Virtual</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Military</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Run away</HostilityResponseMode_Flee>
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>growth</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stability</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>discounts</HediffGrowthMode_Remission>
+  <!-- TechLevel -->
+  <TechLevel_Animal>animals</TechLevel_Animal>
+  <TechLevel_Neolithic>apps</TechLevel_Neolithic>
+  <TechLevel_Medieval>cvma</TechLevel_Medieval>
+  <TechLevel_Industrial>industry</TechLevel_Industrial>
+  <TechLevel_Spacer>space</TechLevel_Spacer>
+  <TechLevel_Ultra>too</TechLevel_Ultra>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Before</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Fire</PlayerPawnsArriveMethod_DropPods>
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>all products</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>from letters player</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>companies listed play</PawnGenerationContext_NonPlayer>
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Display name animals</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Tame (with name)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>(ok)</AnimalNameDisplayMode_TameAll>
+  <!-- Temperature -->
+  <Celsius>Hot</Celsius>
+  <Fahrenheit>Fahrenheit 9</Fahrenheit>
+  <Kelvin>Open</Kelvin>
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  <!-- Diet category -->
+  <DietCategory_NeverEats>Eat</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Vegetarian</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Omnivores</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Eat</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+  <!-- Food poison cause -->
+  <FoodPoisonCause_IncompetentCook>food</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>preparation of pis</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>outdated food</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>food risk</FoodPoisonCause_DangerousFoodType>
+  <!-- Psychic drone level -->
+  <PsychicDroneLevel_None>do not have</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>second</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>low</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>underwear</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>the highest</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>too</PsychicDroneLevel_BadExtreme>
+</LanguageData>

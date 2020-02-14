@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Tool>Tool</Tool>
+  <DamageLower>loss</DamageLower>
+  <SecondsPerAttackLower>each successive attack</SecondsPerAttackLower>
+  <StatsReport_BaseValue>Constitution</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Essential qualities</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Related gear</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Relevant health</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Part of life</StatsReport_LifeStage>
+  <StatsReport_Material>It</StatsReport_Material>
+  <StatsReport_CharacterQuality>Quality characteristics</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Capacity</StatsReport_Skills>
+  <StatsReport_OtherStats>Team statistics</StatsReport_OtherStats>
+  <StatsReport_Health>Health</StatsReport_Health>
+  <HealthFactorPercentImpact>the main {0}</HealthFactorPercentImpact>
+  <HealthOffsetScale>the effects of {0}</HealthOffsetScale>
+  <HealthFactorMaxImpact>{0} up</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>if {0}</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>The last curve</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Final</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Software and services</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>It is as thin</StatsReport_QualityMultiplier>
+  <StatsReport_MaxGain>Top benefits</StatsReport_MaxGain>
+  <StatsReport_AgeMultiplier>Rent multiplier of {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Thank you for saving {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Multiplier {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>{0} light module</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>A difficulty is multiplied by the number {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Bed</StatsReport_InBed>
+  <StatsReport_Facilities>Objects</StatsReport_Facilities>
+  <StatsReport_BodySize>{0} moving part of</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Dss = compensation buffet * meles and the possibility / sec cooling</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Cause injury</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Pain relieving</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Chance to hit melee</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} wha</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Longevity</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Multiplier body parts missing</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Odi</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Nothing personal list</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>all secondary</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>Property</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>Literature</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>The situation in terms of quality.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>Add parts</StatsReport_AddedBodyPartsMass>
+  <StatsReport_StuffEffectMultiplier>Things multiplier effect</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>Hotel</StatsReport_Resting>
+  <StatsReport_JoyKind>recreation</StatsReport_JoyKind>
+  <StatsReport_WorkToUninstall>delete work</StatsReport_WorkToUninstall>
+  <StatsReport_PlantGrowth>Publishers increase {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>the percentage of forest</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>Not in the flesh</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>Forwarded</StatsReport_NotFresh>
+  <StatsReport_WildMan>Man wilderness</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>Attack</StatsReport_NonToolAttack>
+</LanguageData>

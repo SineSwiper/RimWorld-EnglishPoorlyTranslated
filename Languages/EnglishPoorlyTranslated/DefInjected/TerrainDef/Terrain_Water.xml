@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: marsh -->
+  <Marsh.label>Trifling</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>Water</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>The hl</Marsh.tools.mud.label>
+  <!-- EN: deep water -->
+  <WaterDeep.label>Deep</WaterDeep.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>Country</WaterDeep.tools.water.label>
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>The flow of the water (the deep chest)</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>Water</WaterMovingChestDeep.tools.water.label>
+  <!-- EN: shallow moving water -->
+  <WaterMovingShallow.label>Water, dust, like a volcano</WaterMovingShallow.label>
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>Water</WaterMovingShallow.tools.water.label>
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>Deep sea water</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>Water</WaterOceanDeep.tools.water.label>
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>Shallow sea water</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>City</WaterOceanShallow.tools.water.label>
+  <!-- EN: shallow water -->
+  <WaterShallow.label>Shallows</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>Water</WaterShallow.tools.water.label>
+</LanguageData>

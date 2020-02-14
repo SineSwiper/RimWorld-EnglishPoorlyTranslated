@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>A tasty meal</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>Cook a balanced variety of plants and meat.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>Delicious food.</CookMealFine.jobString>
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>Cook sumptuous meals</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>Cook, food, plants and special food. However, many materials, and destiny.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>Cooking food is great.</CookMealLavish.jobString>
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>Create a simple meal</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Cooking consisting of a single ingredient.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>Simple food.</CookMealSimple.jobString>
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>Acute food to cook</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>Various vegetable and meat to cook food emergency. However, although many sector was lost in this process.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>A special, limited food.</CookMealSurvival.jobString>
+</LanguageData>

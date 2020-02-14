@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>Alzheimer's</Alzheimers.label>
+  <Alzheimers.labelNoun>Alzheimer's disease</Alzheimers.labelNoun>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>first</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>slightly higher</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>advanced</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>yes advanced</Alzheimers.stages.major-1.label>
+  <!-- EN: asthma -->
+  <Asthma.label>Cancer</Asthma.label>
+  <Asthma.labelNoun>Asthma</Asthma.labelNoun>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>easy</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>the purpose of the</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>very</Asthma.stages.major-1.label>
+  <!-- EN: bad back -->
+  <BadBack.label>Pain behind</BadBack.label>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>lumbago</BadBack.labelNoun>
+  <!-- EN: blindness -->
+  <Blindness.label>Blind</Blindness.label>
+  <Blindness.labelNoun>Skin</Blindness.labelNoun>
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>Cancer</Carcinoma.label>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>cancer</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>small</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>small</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>centrally</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>average</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>great</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>elderly</Carcinoma.stages.extreme-1.label>
+  <!-- EN: cataract -->
+  <Cataract.label>Waterfalls</Cataract.label>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>cereals</Cataract.labelNoun>
+  <!-- EN: dementia -->
+  <Dementia.label>Dementia</Dementia.label>
+  <Dementia.labelNoun>Senile</Dementia.labelNoun>
+  <!-- EN: frail -->
+  <Frail.label>The kid-gi ravhusi</Frail.label>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>Disease</Frail.labelNoun>
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>Stiffness</HearingLoss.label>
+  <HearingLoss.labelNoun>Insensibility</HearingLoss.labelNoun>
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>Artery occlusion</HeartArteryBlockage.label>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>The main obstacle</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>easily</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>easy</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>power</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>strength</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>extreme</HeartArteryBlockage.stages.extreme.label>
+</LanguageData>

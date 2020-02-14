@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CallOnRadio>The {0}</CallOnRadio>
+  <CannotUseReason>You can not use ({0})</CannotUseReason>
+  <CannotUseSolarFlare>You can not use (flare)</CannotUseSolarFlare>
+  <CannotUseNoPower>You can not use (the occasion)</CannotUseNoPower>
+  <CannotUseNoPath>It can be used (in some way)</CannotUseNoPath>
+  <CannotUseReserved>Do not use (safe)</CannotUseReserved>
+  <CannotUseFull>Can be used (total)</CannotUseFull>
+  <LeaderUnavailable>No {1_labelShort}</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>heads not available</LeaderUnavailableNoLeader>
+  <FireAt>Fire {1_label}</FireAt>
+  <OutOfRange>press out</OutOfRange>
+  <TooClose>ends</TooClose>
+  <CannotHitTarget>the aim can not be killed</CannotHitTarget>
+  <IsIncapableOfViolenceLower>violence {1_labelShort}</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>violence can</IncapableOfViolenceLower>
+  <IsNotDraftedLower>{1_labelShort} not produce</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>if you can not determine the order in letter</CannotOrderNonControlledLower>
+  <CannotAttackSelf>he does not want to attack</CannotAttackSelf>
+  <OrderManThing>{1_labelShort}</OrderManThing>
+  <MeleeAttack>Meli {1_label}</MeleeAttack>
+  <MeleeAttackToDeath>{1_label} close melee</MeleeAttackToDeath>
+  <NoPath>is not</NoPath>
+  <ForbiddenLower>to prevent</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>in addition, the range</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>any place in</NotInHomeArea>
+  <BurningLower>explosion</BurningLower>
+  <NoEmptyPlaceLower>space is regulated, available to store empty</NoEmptyPlaceLower>
+  <NoMergeTarget>no collected on ice</NoMergeTarget>
+  <AlreadyFilledLower>hail</AlreadyFilledLower>
+  <MissingMaterials>necessary</MissingMaterials>
+  <UnderRequiredSkill>{0} necessary skills</UnderRequiredSkill>
+  <UnderAllowedSkill>skills that allows {0}</UnderAllowedSkill>
+  <AboveAllowedSkill>the technology allowed {0}</AboveAllowedSkill>
+  <MissingRequiredSkillLevel>level skills needed</MissingRequiredSkillLevel>
+  <AnimalInteractedTooRecently>interaction little animals</AnimalInteractedTooRecently>
+  <NoUsableFood>food is not profitable</NoUsableFood>
+  <NoFood>right</NoFood>
+  <AnimalsSkillTooLow>animals must be very low qualifications - the {0}</AnimalsSkillTooLow>
+  <CantInteractAnimalDowned>knocking animals</CantInteractAnimalDowned>
+  <CantInteractAnimalAsleep>animals sleep</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>pets busy</CantInteractAnimalBusy>
+  <ConstructionSkillTooLow>the lowest level of construction skills</ConstructionSkillTooLow>
+  <NoComponentsToRepair>requires repair</NoComponentsToRepair>
+  <NoFuelToRefuel>we have {0}</NoFuelToRefuel>
+  <NoWort>demand voice</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>to provide food for the storage of high priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>any match</NoFoodToFillHopper>
+  <SelfTendDisabled>self guided disabilities</SelfTendDisabled>
+  <ReservedForPrisoners>custody</ReservedForPrisoners>
+  <CannotReach>this can be achieved</CannotReach>
+  <NotSurgeryReady>he is not ready for operation</NotSurgeryReady>
+  <SkillDisabled>unable to manufacturer</SkillDisabled>
+  <CantSowCavePlantBecauseOfLight>shiny</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>nude</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>you can not deconstruct</IncapableOfDeconstruction>
+  <IncapableOfMining>mining could</IncapableOfMining>
+  <AngersFaction>annecy verse</AngersFaction>
+  <ConsumeThing>Alcohol {1_labelShort}</ConsumeThing>
+  <CannotGoNoPath>You can not be here (unsigned)</CannotGoNoPath>
+  <GoHere>You can be found here</GoHere>
+  <Arrest>{0}</Arrest>
+  <TryToArrest>Try to {1_label}</TryToArrest>
+  <CannotArrest>To borrow</CannotArrest>
+  <Capture>Thank {1_label}</Capture>
+  <CannotCapture>Not borrow</CannotCapture>
+  <Rescue>{1_label} survival</Rescue>
+  <CannotRescue>Thank you for saving</CannotRescue>
+  <CarryToCryptosleepCasket>Cryptographic keys {1_label} sleep</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>You can take dead criptosleep</CannotCarryToCryptosleepCasket>
+  <NoCryptosleepCasket>A coffin cryptosleep.</NoCryptosleepCasket>
+  <NoPrisonerBed>No, we can not communicate, -in prevention, bed surrounded by fields marked ransom heat.</NoPrisonerBed>
+  <NoNonPrisonerBed>Which has reached a safe temperature, the sun unprotected, prison beds.</NoNonPrisonerBed>
+  <NoAnimalBed>Our bed-temperature animal biscuits can not do.</NoAnimalBed>
+  <Reserved>Other support.</Reserved>
+  <ReservedBy>{1_labelShort} place</ReservedBy>
+  <IsReservedBy>{0} {1} reserved.</IsReservedBy>
+  <TooHeavy>Strict</TooHeavy>
+  <Incapable>unfit</Incapable>
+  <IncapableOfCapacity>helpless {0}</IncapableOfCapacity>
+  <MinSkill>skill type</MinSkill>
+  <Equip>{0} was</Equip>
+  <EquipWarningBrawler>(not a flyer will be unhappy)</EquipWarningBrawler>
+  <CannotEquip>Over the last finishing {0}</CannotEquip>
+  <CannotManThing>People can do {1_labelShort}</CannotManThing>
+  <ForceWear>Force {1_labelShort}</ForceWear>
+  <CannotWear>Can {1_label} provided</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>body b</CannotWearBecauseOfMissingBodyParts>
+  <CannotPickUp>You can pick {1_label}</CannotPickUp>
+  <CannotPickUpAll>(a) is {1_label}</CannotPickUpAll>
+  <PickUp>{1_label}</PickUp>
+  <PickUpAll>Pick {1_label} (all)</PickUpAll>
+  <PickUpSome>E lawe'oe the bus {1_labelShort} ...</PickUpSome>
+  <PickUpCount>Pick {1_labelShort} {{0}}</PickUpCount>
+  <CannotGiveToPackAnimal>You can not pack animals {1_label}</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>{1_label} (if not all) do not give a pack animal</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Fresh package {1_label}</GiveToPackAnimal>
+  <GiveToPackAnimalAll>If {1_label} (all) storage stability</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>{1_labelShort} and livestock ...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>{1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  <CannotLoadIntoCaravan>You command a group {1_label}</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>Unable to load {1_label} caravan (all)</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>The new {1_label}</LoadIntoCaravan>
+  <LoadIntoCaravanAll>Loading {1_label} (all) caravan</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>{1_labelShort} load the winter ...</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>{1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <OverweightLower>obesity</OverweightLower>
+  <CannotCarryToExit>{1_label} and leave the area</CannotCarryToExit>
+  <CarryToExit>Kerry and accommodation {1_label}</CarryToExit>
+  <CarryToExitAndCapture>Capture {1_label} leaving the territory</CarryToExitAndCapture>
+  <Strip>Gaza {1_label}</Strip>
+  <CannotStrip>You can not allow {1_label}</CannotStrip>
+  <SelfDestructHere>Remove yourself</SelfDestructHere>
+  <Drop>{1_label} fall</Drop>
+  <UseMedicalBed>Rest to recover</UseMedicalBed>
+  <NotInjured>disease</NotInjured>
+  <SomeoneElseSleeping>busy {0}</SomeoneElseSleeping>
+  <TradeWith>{0} business</TradeWith>
+  <CannotTrade>You can not trade</CannotTrade>
+  <Open>{0_label}</Open>
+  <CannotOpen>Able {0_label}</CannotOpen>
+  <EnterMap>{0}</EnterMap>
+  <VisitSettlement>Go {0}</VisitSettlement>
+  <VisitPeaceTalks>Travel {0}</VisitPeaceTalks>
+  <VisitEscapeShip>{0} visit</VisitEscapeShip>
+  <AttackSettlement>{0} attack</AttackSettlement>
+  <ApproachSite>Go {0}</ApproachSite>
+  <ApproachingSite>The sample {0}</ApproachingSite>
+  <OfferGifts>Gifts</OfferGifts>
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Listen cryptosleep box</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Shelves cryptosleep</OpenCryptosleepCasket>
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <CannotGenericWork>Not {0} {1}</CannotGenericWork>
+  <CannotGenericWorkCustom>This can not be {0}</CannotGenericWorkCustom>
+  <CannotMissingHealthActivities>If you do not get ({0})</CannotMissingHealthActivities>
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <CannotGenericAlreadyAm>{0} and {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotPrioritizeWorkTypeDisabled>At first he can not (will {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkGiverDisabled>You can not be first (never {0})</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>{0}</WillNever>
+  <CannotPrioritizeNotAssignedToWorkType>As a key (assigned {0})</CannotPrioritizeNotAssignedToWorkType>
+  <NotAssigned>assuming</NotAssigned>
+  <CannotPrioritizeResearch>(non- priority research after work)</CannotPrioritizeResearch>
+  <CannotPrioritizeForbidden>Prohibit priority ({1_label})</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>There will be significant (prohibited)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Support from outside the region</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <PrioritizeGeneric>Her main {0} {1}</PrioritizeGeneric>
+  <DropAtEdge>Download beach</DropAtEdge>
+  <DropInCenter>Keep the center</DropInCenter>
+  <AttackAndDropAtEdge>{0} attack: decrease coast</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>The jewish center attack {0}</AttackAndDropInCenter>
+  <VomitingLower>pour</VomitingLower>
+  <NotInterruptibleLower>ole is not cut</NotInterruptibleLower>
+  <AddWaypoint>Where a new waypoint will come</AddWaypoint>
+  <RemoveWaypoint>Remove this item</RemoveWaypoint>
+  <RemoveAllDesignations>Cancel all appointments</RemoveAllDesignations>
+  <DesignateAll>All settings</DesignateAll>
+  <CountToDesignate>impact {0}</CountToDesignate>
+  <ForbidAllItems>A ban on all items</ForbidAllItems>
+  <UnforbidAllItems>All unforbid</UnforbidAllItems>
+  <!-- Transport pods -->
+  <LandInExistingMap>Cut selected {0} exchange</LandInExistingMap>
+  <TransportPodsContentsWillBeLost>One death</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>And make a trip here</FormCaravanHere>
+  <GiveToCaravan>Day {0}</GiveToCaravan>
+  <GiveGiftViaTransportPods>A gift {0} ({1})</GiveGiftViaTransportPods>
+  <!-- Rescue quest -->
+  <FreePrisoner>Prisoners released</FreePrisoner>
+  <OfferHelp>Provide assistance</OfferHelp>
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: battery -->
+  <Battery.label>Battery</Battery.label>
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>Save power consumption. A battery may explode if exposed to rain or fire.</Battery.description>
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>Gasoline generator</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>It produces electricity from fuel combustion. This guide should be ready for the season.</ChemfuelPoweredGenerator.description>
+  <!-- EN: geothermal generator -->
+  <GeothermalGenerator.label>Geothermal power plants</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description>Dampfgeysirs electricity. We are giving new icon proper value.</GeothermalGenerator.description>
+  <!-- EN: power conduit -->
+  <PowerConduit.label>Power cable</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>Energy consumer. This may be on the wall, and more.</PowerConduit.description>
+  <!-- EN: power switch -->
+  <PowerSwitch.label>Switch</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>/ turning off.</PowerSwitch.description>
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>Solar system</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>The light of the sun to power. Does not work in the dark and artificial light.</SolarGenerator.description>
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Origin electric water</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>Power hydro-electricity. Paddle wheel must be placed in flowing water. Wheels as he put in a lot close to each other, to create tossed reduction work.</WatermillGenerator.description>
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>Electric cables (water)</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>Incredible opportunities through a dedicated cable.</WaterproofConduit.description>
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>Wind turbine</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>Air supply electric generator. Koi are in the presence of and behind you to make sure the air flow over.</WindTurbine.description>
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>Generation woes</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Wood-burning power generation. These were mostly filled by hand.</WoodFiredGenerator.description>
+</LanguageData>

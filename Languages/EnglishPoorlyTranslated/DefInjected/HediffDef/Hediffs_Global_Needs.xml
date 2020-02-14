@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>Food shortages</Malnutrition.label>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>peddling</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>easy</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>moderate</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>hard</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>finally</Malnutrition.stages.extreme.label>
+</LanguageData>

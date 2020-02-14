@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>Pod</ActiveDropPod.label>
+  <!-- EN: fire -->
+  <Fire.label>Fire</Fire.label>
+  <!-- EN: spark -->
+  <Spark.label>Spark</Spark.label>
+</LanguageData>

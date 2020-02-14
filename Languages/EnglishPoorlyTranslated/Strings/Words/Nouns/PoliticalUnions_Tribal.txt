@@ -1,0 +1,31 @@
+﻿//Common with outlanders
+
+union
+stability
+country
+people
+group
+confederation
+federation
+union
+union
+unity
+ken league
+cousin league
+protocol
+agreement
+agreement
+second
+convention
+agreement
+union
+elements
+
+
+//Tribe specific
+
+relationships
+kinsfolk
+people
+shortage
+three

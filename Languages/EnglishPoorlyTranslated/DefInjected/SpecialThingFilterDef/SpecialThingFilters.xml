@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>The competent authorities colonist</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>In the colonial era, to allow the death of the body.</AllowCorpsesColonist.description>
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>An authorized body</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>Sign in with strangers and enemies organization.</AllowCorpsesStranger.description>
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>Let's dirty clothes</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>Clothing and worn on the body. Many people have found clothing and the physical pain and did not accept their distribution.</AllowDeadmansApparel.description>
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>Online support</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>It began to decay of organic matter.</AllowFresh.description>
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>Let me clean clothes</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>Clothing companies that are not in use. The majority of intrusive bodies and clothing merchants do not accept that.</AllowNonDeadmansApparel.description>
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>Do not allow to thaw</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>Weapons can not be left to melt.</AllowNonSmeltableWeapons.description>
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>Courtesy of hay</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Such as eating high-quality fruit unharvested. FOR EXAMPLE, There.</AllowPlantFood.description>
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>Repeat the process</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Ora began which allows organic materials.</AllowRotten.description>
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>Full</AllowSmeltable.label>
+  <AllowSmeltable.description>However, it may be allowed to merge.</AllowSmeltable.description>
+</LanguageData>

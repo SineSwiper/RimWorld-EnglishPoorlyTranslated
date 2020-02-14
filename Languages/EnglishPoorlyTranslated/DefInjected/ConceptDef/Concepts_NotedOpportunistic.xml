@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Animals don't attack doors -->
+  <AnimalsDontAttackDoors.label>Animals are attacking the door</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
+  <AnimalsDontAttackDoors.helpText>The animals often turn to the gate tower or menschenjagende without work.\n\nWhen the going gets rough, or run away or hidden in your room you can not wall. They are waiting for you, however, please take note.</AnimalsDontAttackDoors.helpText>
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Tab works</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>Click on the dessert table tab option to find out what an action to complete the task. Depending on the operating table can, for example, Cooked meals, or sacrifice made to the object.</BillsTab.helpText>
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Flexible light</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>Camp information and orbit the money dealers funk earth building fire that sent you into orbit.</BuildOrbitalTradeBeacon.helpText>
+  <!-- EN: Capturing -->
+  <Capturing.label>Won</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Ground was unconscious enemy hands.\n\nTo '' hold '' on the consciousness of colonial and right-click.\n\nRemember inmates who highlighted the bed.</Capturing.helpText>
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Go home quickly</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Opened at different speeds depending on the material.\n\nWarned that the slow building stone. Who invented the high-speed track.</DoorOpenSpeed.helpText>
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>To activate combat mode</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>Refugees battle can control directly. Choose citizens and click "host says" is.\n\nBattle immigrants just what they are, they are not only able to take action to combat performance. If it is possible to use their weapons, they do.\n\nOtherwise, this may be a poor and hungry, came back after the war, the conflict will not be forgotten.</Drafting.helpText>
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Addiction</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Tab in the region is necessary to ensure and / or drug addiction.\n\nBlack addiction, "is found in breast milk will have been canceled. Rom condition can be a relative term.\n\nHowever, if the battle will almost depend on the situation.</DrugAddiction.helpText>
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>A new vaccine</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Medicine can be conveniently generated, but also a dangerous addiction.\n\nIf you want to your cell colonies without drugs, they can be burned in the fire.</DrugBurning.helpText>
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Policy</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>All batteries schedule when taking the drug. For example, you can keep the change in administration in drinking, drugs or organized against beer cans pleasure every day.\n\nOpen category placement and click "drug policy" a new policy to create jobs. And you will be able to adjust its colonial policy.\n\nWhen the time of food on the seat. You do not get limited to them what they should do, but they are more important than the need to settle this!</DrugPolicies.helpText>
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Interaction with traders</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpText>You can not? select the application.\n\nWomen who colonized by the question mark near the head, and the right mouse button to select.</InteractingWithTraders.helpText>
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Radio was used</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>Colonial choose one and click the mouse left button built into the system of the radio to share with other connections.</OpeningComms.helpText>
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>But prison</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>But in the prison, and to determine the order that they should be treated.\n\nYou need to wear them most, such as food and health care, must be adopted if at all.\n\nAs the settlers, out of the series note, it is possible to interact with the prisoners.</PrisonerTab.helpText>
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Workstring</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>If you do not want to give the settlers, and do many things, you can put your key 'shift' (or. Shift key). This action war to win.</QueueOrders.helpText>
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Reform trains</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>After the incident, which could have used the caravan reform reform "the world map caravan.</ReformCaravan.helpText>
+  <!-- EN: Rescuing -->
+  <Rescuing.label>But</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>Consciousness can be saved. Selected residents recover, and click the right mouse button on top of the unconscious.\n\nIt is that people are not included in the colony to colony, is possible. Otherwise, they are just doing since returning. To get the candidate is arrested, it must attempt to recruit them.</Rescuing.helpText>
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Sort growing area</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>You grew up in a farming area villages you can specify how. This tree, you can!\n\nChoose a planting site and click on the "plant".</SetGrowingZonePlant.helpText>
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Binding energy shield</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Slate city government to block incoming and outgoing missiles. They only affects ready to attack the day.\n\nIn order to effectively support the fight to keep the energy shield, the shield should be rejected or excluded on the basis of earlier varieties.</ShieldBelts.helpText>
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>Patients tv</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>The patient is happy, you should keep watch tv while lying in bed.</TVForSickPeople.helpText>
+</LanguageData>

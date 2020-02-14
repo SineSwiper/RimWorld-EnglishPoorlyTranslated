@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MainPageCredit>Generator history tynan sylvester</MainPageCredit>
+  <Credits_Developers>Promotion</Credits_Developers>
+  <Credit_DirectionVarious>Arts, design, code</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
+  <Credit_Code>Legal code</Credit_Code>
+  <Credit_GameArt>Art</Credit_GameArt>
+  <Credit_MenuArt>Art menu</Credit_MenuArt>
+  <Credit_AdditionalCode>Verifycode</Credit_AdditionalCode>
+  <Credits_AdditionalDevelopment>More development</Credits_AdditionalDevelopment>
+  <Credit_SpecialThanks>A very special thanks</Credit_SpecialThanks>
+  <Credits_TitleCommunity>And public volunteers</Credits_TitleCommunity>
+  <Credit_Tester>Investigation</Credit_Tester>
+  <Credit_ModDonation>Sponsors mode</Credit_ModDonation>
+  <Credit_WritingDonation>Donor development</Credit_WritingDonation>
+  <Credit_Moderator>Mediator</Credit_Moderator>
+  <Credit_WikiMaster>Vicky bell</Credit_WikiMaster>
+  <Credits_TitleLanguage>{0}</Credits_TitleLanguage>
+  <Credit_Writer>Author</Credit_Writer>
+  <Credit_Translator>Online</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Burst of noise</Credit_NoiseGeneration>
+  <ThanksForPlaying>Learn how to play!</ThanksForPlaying>
+</LanguageData>

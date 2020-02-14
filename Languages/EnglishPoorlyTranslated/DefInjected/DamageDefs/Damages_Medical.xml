@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SurgicalCut.label>手術死</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} is in danger of breathing during surgery</SurgicalCut.deathMessage>
+  <ExecutionCut.label>処刑</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} death</ExecutionCut.deathMessage>
+</LanguageData>

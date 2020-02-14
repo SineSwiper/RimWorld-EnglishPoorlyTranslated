@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.label>Lime</Artillery_Mortar.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <Artillery_Mortar.description>Malta launching tubes. Throw a grenade over the wall. However, what is right and wrong.</Artillery_Mortar.description>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>Mortar</Artillery_Mortar.verbs.Verb_Shoot.label>
+  <!-- EN: autocannon shell -->
+  <Bullet_AutocannonTurret.label>Heavy artillery</Bullet_AutocannonTurret.label>
+  <!-- EN: mini-turret bullet -->
+  <Bullet_MiniTurret.label>Mini shock</Bullet_MiniTurret.label>
+  <!-- EN: uranium slug -->
+  <Bullet_TurretSniper.label>Calcium, natural</Bullet_TurretSniper.label>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.label>Heavy artillery</Gun_AutocannonTurret.label>
+  <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+  <Gun_AutocannonTurret.description>Deringer loading things into their base.</Gun_AutocannonTurret.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>Heavy weapons</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.label>Amini</Gun_MiniTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_MiniTurret.description>Increased turret gun with a small gun.</Gun_MiniTurret.description>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>Mini-gun</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.label>Uranium top gun</Gun_TurretSniper.label>
+  <!-- EN: A self-loading sniper cannon designed to attach to a turret. Precise at range, it's not good at tracking close targets. -->
+  <Gun_TurretSniper.description>Autoloading rifle accuracy of the armed turret. There is clearly a great distance, but can not see the target.</Gun_TurretSniper.description>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>Rifles ball chemistry</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  <!-- EN: sandbags -->
+  <Sandbags.label>Gizzard</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
+  <Sandbags.description>Sand bags from the area and position the bracket at early stages. Sand and ugly, but always with protection and weapons.</Sandbags.description>
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>Warheads ìèð</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>High-antimatter cartridge is connected to a pressure-sensitive switch. As is the case hiding in the area, will be sent directly to another arrest. Animals can feel the crisis, and it is quiet.</TrapIED_AntigrainWarhead.description>
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>INSURGENT IED</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a touch-activated trigger. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Eea grenades, trigger, which is associated with a series-conscious. Girls mechanoids be paralyzed for a few seconds. As was hidden in the room, they can be installed directly next to another trap. Animals can feel fall while on holiday.</TrapIED_EMP.description>
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>Ied foam hide</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Some foam cartridges is connected to trigger a pressure sensitive. It contains a hidden fact, are directly adjacent to one another it does not. Meat comfortable when they come.</TrapIED_Firefoam.description>
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>Ied explosives</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>A pair of shells connected to pressure-sensitive trigger. This area is hidden in a trap installed next to each other directly. You can feel how loose.</TrapIED_HighExplosive.description>
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>Ied lighter</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>This explosive is mixed with accelerator folder, and then connected to a pressure-sensitive trigger. Since it is not necessary to explode, some very explosive, chemical mechanism is lighter and more reliable than others. Since the case was buried in a field that can not be compared to other productions. I saw the fall, and the rest of the animals.</TrapIED_Incendiary.description>
+  <!-- EN: spike trap -->
+  <TrapSpike.label>Snap traps</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forthm and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Five heavy stress pimples, which are protected by the pressure-sensitive trigger. When fire victims, killed by fire from the network and the victim was killed. The event can be kept hidden in the ground, directly on the net. Animal sounds more relaxed.</TrapSpike.description>
+  <!-- EN: autocannon turret -->
+  <Turret_Autocannon.label>Heavy artillery</Turret_Autocannon.label>
+  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+  <Turret_Autocannon.description>Truly it is good for him with much people with a gun. Grosso caliber serious damage, but the increasing use of stainless steel is more expensive, it should be changed. Note. you can get the enemies shot near the damage that can explode.</Turret_Autocannon.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Durability and running</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Automatically changed in august</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Recording may not need the new version</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: mini-turret -->
+  <Turret_MiniTurret.label>Mini weapon</Turret_MiniTurret.label>
+  <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <Turret_MiniTurret.description>Small number of portable devices automatically make. Steel for the maintenance of roads in need of considerable use to fall. The price, if they are damaged. Ai is about managing trees just can not, therefore, to love the fire.</Turret_MiniTurret.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Durable chassis</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Changes in driving characteristics</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Do you want a new name</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: mortar -->
+  <Turret_Mortar.label>Lime</Turret_Mortar.label>
+  <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
+  <Turret_Mortar.description>Mortar, rocket and placed them in various shoot. Risks in damages, although it is not right within the opposition group the fire better, because the destruction verteidigingsstrukturen.</Turret_Mortar.description>
+  <!-- EN: uranium slug turret -->
+  <Turret_Sniper.label>Gun shot uranium</Turret_Sniper.label>
+  <!-- EN: A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
+  <Turret_Sniper.description>Armor, weapons, spring and summer. This means that very thick shells of uranium with strong long-range weapons can win, but must be imported for use. He can not shoot deadly enemy genauesten long. If the damage can be explosive.</Turret_Sniper.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Running stability</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Shot drive change</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs rearm -->
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>I want to record a new perspective</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

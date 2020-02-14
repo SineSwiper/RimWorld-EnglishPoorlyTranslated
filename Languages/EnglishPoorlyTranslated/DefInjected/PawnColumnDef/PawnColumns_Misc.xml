@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: allowed area -->
+  <AllowedArea.label>Guarantee</AllowedArea.label>
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>Provided</AllowedAreaWide.label>
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>Drug policy</DrugPolicy.label>
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>Meal plan</FoodRestriction.label>
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Attack response</HostilityResponse.headerTip>
+  <!-- EN: master -->
+  <Master.label>Bully</Master.label>
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Medical help</MedicalCare.headerTip>
+  <!-- EN: current outfit -->
+  <Outfit.label>The current uniform</Outfit.label>
+</LanguageData>

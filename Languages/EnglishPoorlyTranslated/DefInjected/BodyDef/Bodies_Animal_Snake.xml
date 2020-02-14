@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: snake -->
+  <Snake.label>Hawse</Snake.label>
+  <!-- EN: left lung -->
+  <Snake.corePart.parts.left_lung.customLabel>Left lung</Snake.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Snake.corePart.parts.right_lung.customLabel>The right lung</Snake.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Snake.corePart.parts.left_kidney.customLabel>Left kidney</Snake.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Snake.corePart.parts.right_kidney.customLabel>Right kidney</Snake.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>Left eye</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>Right</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
+</LanguageData>

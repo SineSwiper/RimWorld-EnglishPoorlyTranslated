@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Apparel -->
+  <Apparel.label>Clothing</Apparel.label>
+  <!-- EN: Basics -->
+  <Basics.label>Pitcher</Basics.label>
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Ceramic jug</BasicsNonPawn.label>
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Background</BasicsPawn.label>
+  <!-- EN: Building -->
+  <Building.label>Construction</Building.label>
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Installing additional costs</EquippedStatOffsets.label>
+  <!-- EN: Combat -->
+  <PawnCombat.label>Campaign</PawnCombat.label>
+  <!-- EN: Misc -->
+  <PawnMisc.label>Differences</PawnMisc.label>
+  <!-- EN: Social -->
+  <PawnSocial.label>Social</PawnSocial.label>
+  <!-- EN: Work -->
+  <PawnWork.label>Office</PawnWork.label>
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>To be eligible for production equipment</StuffOfEquipmentStatFactors.label>
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>The value of the final product of the multiplication</StuffStatFactors.label>
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>And the value of the final product</StuffStatOffsets.label>
+  <!-- EN: Surgical -->
+  <Surgery.label>process</Surgery.label>
+  <!-- EN: Weapon -->
+  <Weapon.label>Dawn</Weapon.label>
+</LanguageData>

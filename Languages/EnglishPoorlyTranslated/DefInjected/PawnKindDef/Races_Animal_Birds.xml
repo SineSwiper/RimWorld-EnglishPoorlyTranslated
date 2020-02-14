@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cassowary -->
+  <Cassowary.label>Cassowary</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>Caseavari'es</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>Kasuarkuken</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.1.label>casoar young</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.2.label>Cassowary</Cassowary.lifeStages.2.label>
+  <!-- EN: emu -->
+  <Emu.label>Emu</Emu.label>
+  <Emu.labelPlural>Emus</Emu.labelPlural>
+  <Emu.lifeStages.0.label>Emuküken</Emu.lifeStages.0.label>
+  <Emu.lifeStages.1.label>small groups</Emu.lifeStages.1.label>
+  <Emu.lifeStages.2.label>Emu</Emu.lifeStages.2.label>
+  <!-- EN: ostrich -->
+  <Ostrich.label>Turkish</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>Austria</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>Poultry, ostriches</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.1.label>young Ostrich</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.2.label>And owls</Ostrich.lifeStages.2.label>
+  <!-- EN: turkey -->
+  <Turkey.label>Turkey</Turkey.label>
+  <Turkey.labelPlural>Turkey</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>Domestic birds</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.1.label>Turkey young</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.2.label>French</Turkey.lifeStages.2.label>
+</LanguageData>

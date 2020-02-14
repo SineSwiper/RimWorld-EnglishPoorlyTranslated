@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blunt damage -->
+  <BluntDamageMultiplier.label>Schmetterscden</BluntDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>Schmetterschaden multiplier, for example, Shock.</BluntDamageMultiplier.description>
+  <!-- EN: melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>Armor crossing near the battle</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- EN: Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>Scored an average of weapons.</MeleeWeapon_AverageArmorPenetration.description>
+  <!-- EN: melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>Another riot damage</MeleeWeapon_AverageDPS.label>
+  <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>The average share of helen damage when hitting second attack.</MeleeWeapon_AverageDPS.description>
+  <!-- EN: melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>Nahkampfabklingzeit</MeleeWeapon_CooldownMultiplier.label>
+  <!-- EN: A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>Multiplier attacks and weapons are manufactured.</MeleeWeapon_CooldownMultiplier.description>
+  <!-- EN: melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>Melee damage multiplier</MeleeWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>Melee damage multiplier.</MeleeWeapon_DamageMultiplier.description>
+  <!-- EN: sharp damage -->
+  <SharpDamageMultiplier.label>Lack of exercise</SharpDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
+  <SharpDamageMultiplier.description>Multiplier serious injuries. Internet or strip.</SharpDamageMultiplier.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: architect -->
+  <Architect.label>Engineering</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>Buttons architect, to support general well.</Architect.description>
+  <!-- EN: developer tools -->
+  <Development.label>Development</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>Key modders and developers. How active development.</Development.description>
+  <!-- EN: in-game global -->
+  <Game.label>Global group (game)</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Colonial is always active control group.</Game.description>
+  <!-- EN: camera -->
+  <GameMapCamera.label>Camera</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>You can control the camera.</GameMapCamera.description>
+  <!-- EN: main tabs -->
+  <MainTabs.label>The main keys</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Important jobs at big.</MainTabs.description>
+  <!-- EN: modifiers -->
+  <Modifiers.label>Change</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>The major changes identified for the project.</Modifiers.description>
+  <!-- EN: misc -->
+  <SelectionMisc.label>Groups</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>The game industry in general, and many things in the past.</SelectionMisc.description>
+  <!-- EN: special -->
+  <SelectionSpecial.label>Expert</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Reserved special keys for specific features on specific objects.</SelectionSpecial.description>
+</LanguageData>

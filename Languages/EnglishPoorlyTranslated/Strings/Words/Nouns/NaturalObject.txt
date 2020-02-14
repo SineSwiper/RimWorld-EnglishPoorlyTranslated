@@ -1,0 +1,59 @@
+﻿//Intended as small-scale objects, not major terrain formations
+
+//Includes animal, vegetable, and mineral
+
+stone
+rock
+stone
+stone
+cliffs
+wood
+coconut
+bush
+the raspberries
+bush
+people
+pool
+pond
+swimming pool
+pool
+beat
+water
+hill
+curious
+cave
+hollow
+(stump)
+shackles
+shell
+skin
+the pen
+spring
+seed
+heat
+body
+the title
+fruit
+robbery
+shot
+team
+known
+beetle
+bug
+hoof
+corpse
+unguiculi
+claws
+tail
+latent
+hide
+leather
+skin
+horn
+antlers
+teeth
+xin
+shoulder
+wing
+trees
+forest

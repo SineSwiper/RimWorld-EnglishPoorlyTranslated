@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>'{1}' colonial capsules feature takes {0}!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Fraction '{1}' {0} friendship away from direct road to the colony!</CenterDrop.textFriendly>
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>{0} and air capsule landed near '{1}'.</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>{0} '{1}' following the designated capsule crowd ended.</EdgeDrop.textFriendly>
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>'{1}' right {0} recent face.</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Sala sala lao different groups of volleyball {0} '{1}' port and capsules.</EdgeDropGroups.textFriendly>
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>{0} '{1}' there.</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>I bring near an approach {0} '{1}' fraction seems to be.</EdgeWalkIn.textFriendly>
+  <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textEnemy>I {0} '{1}' fractions of different groups were nearby.</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textFriendly>Pets {0} '{1}' appeared fraction of parties.</EdgeWalkInGroups.textFriendly>
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>{0} '{1}' the fraction of the target capsule. However, this control has failed, and they were killed across the region.</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>'{1}' part came in the face of environment-friendly {0}. However, the control has failed and they were scattered in the area.</RandomDrop.textFriendly>
+</LanguageData>

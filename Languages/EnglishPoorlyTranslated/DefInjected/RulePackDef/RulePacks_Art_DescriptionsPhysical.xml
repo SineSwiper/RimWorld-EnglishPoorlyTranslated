@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->[image] [depiction] furniture. [desc_sentence_group]</li>
+    <li>physical_description_root->Piece of furniture, che e [depiction] [image] [desc_sentence_group]</li>
+    <li>physical_description_root->Furniture, wood [image] [depicts] this piece: [desc_sentence_group] and</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
+  <!-- EN:
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>physical_description_root->The homes [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->[depiction] [image] waitress. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus is [depiction] on [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->[depicts] [image] image box chains. [desc_sentence_group]</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  <!-- EN:
+    <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>sculpture->sculpture</li>
+    <li>sculpture->work</li>
+    <li>sculpture->piece</li>
+    <li>sculpture->carving</li>
+  -->
+  <ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>physical_description_root->[image] with [depicts] [sculpture]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [sculpture] [image] [depiction] [desc_sentence_group]</li>
+    <li>physical_description_root->This [sculpture] [depiction] in [image] [desc_sentence_group]</li>
+    <li>sculpture->Rest</li>
+    <li>sculpture->Business</li>
+    <li>sculpture->Games</li>
+    <li>sculpture->Carving</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>physical_description_root->This weapon [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This war is about [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->In [depicts] [image] cutting tool. [desc_sentence_group]</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>physical_description_root->This is based in [depiction] [image] dawn. [desc_sentence_group]</li>
+    <li>physical_description_root->A [image] [depiction] a weapon is about. [desc_sentence_group]</li>
+    <li>physical_description_root->Weapons taken on [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+</LanguageData>

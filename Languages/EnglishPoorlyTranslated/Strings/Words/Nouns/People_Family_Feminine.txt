@@ -1,0 +1,15 @@
+﻿//Example:"Eine ..."
+
+Oma
+Parents
+Mother
+Daughter
+Girl
+Sister
+Sisters
+Aunt
+Fight
+Son
+Niece
+
+

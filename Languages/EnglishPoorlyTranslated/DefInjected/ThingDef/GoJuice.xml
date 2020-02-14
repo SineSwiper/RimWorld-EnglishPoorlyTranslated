@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: go-juice -->
+  <GoJuice.label>Go juice</GoJuice.label>
+  <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nMilitary chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
+  <GoJuice.description>The first draft of interplanetary warfare taking synthetic drugs. To block pain and juice were able to increase the range and consumers. In addition, the accelerated movement.\n\nNever remove the addictive properties of chemically treated in the military. Some of the side effects is seen as effective.</GoJuice.description>
+  <!-- EN: Inject {0} -->
+  <GoJuice.ingestible.ingestCommandString>Take one of the go juice.</GoJuice.ingestible.ingestCommandString>
+  <!-- EN: Injecting {0}. -->
+  <GoJuice.ingestible.ingestReportString>In one o-juice.</GoJuice.ingestible.ingestReportString>
+</LanguageData>

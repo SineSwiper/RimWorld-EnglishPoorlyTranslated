@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: turrets -->
+  <Turrets.label>Weapon</Turrets.label>
+  <!-- EN: A group of turrets. -->
+  <Turrets.description>Some weapons.</Turrets.description>
+  <!-- EN: There are enemy turrets in this area. -->
+  <Turrets.arrivedLetter>No enemy weapons in the area.</Turrets.arrivedLetter>
+  <!-- EN: {0} defend the site -->
+  <Turrets.descriptionDialogue>Protected areas {0}</Turrets.descriptionDialogue>
+</LanguageData>

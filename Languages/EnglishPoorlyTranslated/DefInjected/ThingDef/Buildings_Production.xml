@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>Biofuel refinery</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>As the trees and the plants change the aloha'ia as fuel.</BiofuelRefinery.description>
+  <!-- EN: brewery -->
+  <Brewery.label>Port</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>The need for a different design and research. Grass is beer.</Brewery.description>
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>Combat</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Animals slaughtered. It provides only 70% of the meat and skin of dead people.</ButcherSpot.description>
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>Activity</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>This is the place where you can do simple things like knives and bows. Due to lack of equipment, production here is very slow.</CraftingSpot.description>
+  <!-- EN: deep drill -->
+  <DeepDrill.label>Drilling depth</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Deep below the surface of minerals in diameter to facilitate a joke. Using radar and depth of the vein minerals. If there is no money, we suggest that you now have the epilwe group. You can move.</DeepDrill.description>
+  <!-- EN: drug lab -->
+  <DrugLab.label>Metarabo</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Unterschiedlichst office for a bath 'water and measuring equipment for various containers. Here you can relinquishes prepared food.</DrugLab.description>
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>Fire (fire)</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>If the temperature of the burned bodies were the remains of a very large stone.</ElectricCrematorium.description>
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>Melting furnace (electric)</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Should scrap steel and other metal metal objects extracted from. This power is much needed.</ElectricSmelter.description>
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>Back (power)</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>For the production of weapons in the home, work or electricity.</ElectricSmithy.description>
+  <!-- EN: electric stove -->
+  <ElectricStove.label>Stove (electricity)</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Electric stove and countertop cooking.</ElectricStove.description>
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>Sewing machines (electric)</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Table decided electric sewing ambulance. This can work with the normal rate of 50% without electricity.</ElectricTailoringBench.description>
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>Desktop</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Special equipment, excellent technology, it is possible to plate.</FabricationBench.description>
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>Fermentier barrel</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Barrel fermented yeast from the brewery.</FermentingBarrel.description>
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>Presentation of (fire)</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Simple, wood products and tools and weapons to lie to non-mechanical.</FueledSmithy.description>
+  <!-- EN: fueled stove -->
+  <FueledStove.label>Soba (fireplace)</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Food is a wood stove, fuel and ammunition to prepare for the panel, is simple.</FueledStove.description>
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>Sewing table</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Use the production table. It may be 50% of the speed of the electric sewing machine.</HandTailoringBench.description>
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>Tech stocks</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>High-tech desktop computer and electronic measuring devices. More research should allow free quick survey.</HiTechResearchBench.description>
+  <!-- EN: hopper -->
+  <Hopper.label>Fireplace</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Protect data, for example, the device was found. Performance has been prepared foods.</Hopper.description>
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>Tanks pounds</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>O'imi dishonest person can bring to the factory. This is to all the time, the need for nutrients is necessary. The plant will die.</HydroponicsBasin.description>
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>Nutrients distributors</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Engines on natural raw materials for the production of the article that the name of the house. These materials must be introduced through a funnel (annex). On a question, less material and less than other kinds of production time - but they are not taking nutritional paste. Receive a source of energy, but also for the animals to eat. B. Hey.</NutrientPasteDispenser.description>
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>A simple bench</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Simple top with writing materials and simple tools. Researchers are working to find new things.</SimpleResearchBench.description>
+  <!-- EN: butcher table -->
+  <TableButcher.label>Blood</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>Dead animals of dissolved heavy table.</TableButcher.description>
+  <!-- EN: machining table -->
+  <TableMachining.label>Desktop innovations</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Including weapons and ammunition, equipment and production mechanoids such as cars can be removed.</TableMachining.description>
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>Architect working table</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>An artist's work. Allowed to create images.</TableSculpting.description>
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>Steinmetz workbench</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>List of construction materials used for sawing machining and muddy rubble.</TableStonecutter.description>
+</LanguageData>

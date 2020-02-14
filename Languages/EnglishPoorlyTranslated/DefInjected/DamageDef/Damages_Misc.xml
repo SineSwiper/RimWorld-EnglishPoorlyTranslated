@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bomb -->
+  <Bomb.label>Blast</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>The explosion in this {0} dead.</Bomb.deathMessage>
+  <!-- EN: bomb -->
+  <BombSuper.label>Clash</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} killed in the explosion.</BombSuper.deathMessage>
+  <!-- EN: deterioration -->
+  <Deterioration.label>Booty</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} damaged.</Deterioration.deathMessage>
+  <!-- EN: extinguish -->
+  <Extinguish.label>Clear</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0}.</Extinguish.deathMessage>
+  <!-- EN: mining -->
+  <Mining.label>Deal</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>It extract {0}.</Mining.deathMessage>
+  <!-- EN: rotting -->
+  <Rotting.label>Rot</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0}.</Rotting.deathMessage>
+  <!-- EN: smoke -->
+  <Smoke.label>Smoke</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>{0} inhaling the smoke died.</Smoke.deathMessage>
+</LanguageData>

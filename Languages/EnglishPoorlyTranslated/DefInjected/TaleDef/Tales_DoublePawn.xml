@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: person captured -->
+  <Captured.label>Captive</Captured.label>
+  <!-- EN:
+    <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
+    <li>tale_noun->the capturing of [PRISONER_nameDef]</li>
+    <li>image->[CAPTURER_nameFull] capturing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] tying [PRISONER_nameFull]'s hands [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] smacking [PRISONER_nameFull] while capturing [PRISONER_objective] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is looking into [PRISONER_nameDef]'s eyes with a sense of dominance.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is injured and seems to be in pain.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks resigned to [PRISONER_possessive] fate.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is snarling with the fury of defeat.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is slapping [PRISONER_nameDef] to subdue [PRISONER_objective].</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is twisting [PRISONER_nameDef]'s ear.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is holding [PRISONER_nameDef] in a joint lock.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is spitting into [PRISONER_nameDef]'s face.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is laughing as tears well up in [PRISONER_nameDef]'s eyes.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
+  -->
+  <Captured.rulePack.rulesStrings>
+    <li>tale_noun->[CAPTURER_nameDef] caught [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] [CAPTURER_nameDef] away</li>
+    <li>tale_noun->[PRISONER_nameDef] says</li>
+    <li>image->[CAPTURER_pronoun] [circumstance_group] [PRISONER_nameFull] how [CAPTURER_nameFull]</li>
+    <li>image->[CAPTURER_pronoun] [circumstance_group] pinion [PRISONER_nameFull] in [CAPTURER_nameFull]</li>
+    <li>image->To the bureau [CAPTURER_pronoun] [circumstance_group] [PRISONER_nameFull] [PRISONER_objective] [CAPTURER_nameFull]</li>
+    <li>circumstance_phrase->Although [PRISONER_nameDef] Located on the ground</li>
+    <li>circumstance_phrase->[PRISONER_nameDef] hot bends,</li>
+    <li>circumstance_phrase->professional performance</li>
+    <li>circumstance_phrase->roughly, amateur</li>
+    <li>circumstance_phrase->Obviously, excessive force</li>
+    <li>circumstance_phrase->And the simple and pure joy</li>
+    <li>circumstance_phrase->bases with smile</li>
+    <li>desc_sentence->Ke e [CAPTURER_nameDef] [PRISONER_nameDef] problems.</li>
+    <li>desc_sentence->[PRISONER_nameDef] wounded, and it is a pain.</li>
+    <li>desc_sentence->Fate seems [PRISONER_possessive] [PRISONER_nameDef] resigned.</li>
+    <li>desc_sentence->Growling and angry because [PRISONER_nameDef] defeat.</li>
+    <li>desc_sentence->[PRISONER_objective] [PRISONER_nameDef] [CAPTURER_nameDef] proposal for his good.</li>
+    <li>desc_sentence->Ear [CAPTURER_nameDef] jintao [PRISONER_nameDef].</li>
+    <li>desc_sentence->[CAPTURER_nameDef] has [PRISONER_nameDef] water.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] [PRISONER_nameDef] feet face.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] [PRISONER_nameDef] tears when I laugh.</li>
+    <li>desc_sentence->There's no obvious reason [CAPTURER_nameDef] [PRISONER_nameDef].</li>
+  </Captured.rulePack.rulesStrings>
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeader.label>The leaders of the enemy</DefeatedHostileFactionLeader.label>
+  <!-- EN: surgery performed -->
+  <DidSurgery.label>Operation conducted</DidSurgery.label>
+  <!-- EN:
+    <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
+    <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
+    <li>tale_noun->[PATIENT_nameDef]'s medical operation</li>
+    <li>image->[SURGEON_nameFull] putting [PATIENT_nameFull] to sleep with anesthetic [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] elbow-deep in [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] slicing into [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>circumstance_phrase->as [PATIENT_pronoun] trembles with fear</li>
+    <li>circumstance_phrase->as blood pools at [SURGEON_nameDef]'s feet</li>
+    <li>circumstance_phrase->while surrounded by scary-looking surgical tools</li>
+    <li>circumstance_phrase->with improvised but effective tools</li>
+    <li>desc_sentence->[SURGEON_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[SURGEON_nameDef] looks incredibly focused on the task.</li>
+    <li>desc_sentence->[SURGEON_nameDef] has blood smeared on [SURGEON_possessive] face.</li>
+    <li>desc_sentence->[PATIENT_nameDef] is shaking and writhing.</li>
+  -->
+  <DidSurgery.rulePack.rulesStrings>
+    <li>tale_noun->[SURGEON_nameDef] slowly [PATIENT_nameDef]</li>
+    <li>tale_noun->Medical [SURGEON_nameDef] action [PATIENT_nameDef]</li>
+    <li>tale_noun->Caesarean section [PATIENT_nameDef]</li>
+    <li>image->[circumstance_group] [PATIENT_nameFull] [SURGEON_pronoun] under general anesthesia as [SURGEON_nameDef]</li>
+    <li>image->Keep your wrist and information [PATIENT_nameFull] [circumstance_group] in [SURGEON_pronoun] [SURGEON_nameDef]</li>
+    <li>image->[SURGEON_nameDef] [SURGEON_pronoun] cut around [PATIENT_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->[PATIENT_pronoun] serious fear,</li>
+    <li>circumstance_phrase->[SURGEON_possessive] leg blood</li>
+    <li>circumstance_phrase->The surgical instrument around [PATIENT_pronoun] Eerie,</li>
+    <li>circumstance_phrase->other improvised</li>
+    <li>desc_sentence->Many come [SURGEON_nameDef] sweat.</li>
+    <li>desc_sentence->It can be very sure to focus on your work [SURGEON_nameDef].</li>
+    <li>desc_sentence->Face plant [SURGEON_nameDef] [SURGEON_possessive].</li>
+    <li>desc_sentence->[PATIENT_nameDef] and powerful vibration.</li>
+  </DidSurgery.rulePack.rulesStrings>
+  <!-- EN: prisoner executed -->
+  <ExecutedPrisoner.label>Execution of prisoners</ExecutedPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->the execution of [PRISONER_nameDef]</li>
+    <li>image->[EXECUTIONER_nameFull] executing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] putting [PRISONER_nameFull] to death [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] preparing to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] entering a prison cell, going to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] cries out in terror</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->with tears in [EXECUTIONER_possessive] eyes</li>
+    <li>circumstance_phrase->with a look of utter indifference</li>
+    <li>circumstance_phrase->while inflicting unnecessary pain</li>
+    <li>circumstance_phrase->while thinking of something else</li>
+    <li>circumstance_phrase->for the greater good</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is drooling a little bit.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] has blood smeared on [EXECUTIONER_possessive] face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is shaking and writhing.</li>
+    <li>desc_sentence->[PRISONER_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[PRISONER_nameDef] has closed [PRISONER_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks defiant.</li>
+  -->
+  <ExecutedPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->exekutierte [executioner] [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] died [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] make</li>
+    <li>image->[EXECUTIONER_nameFull] the [EXECUTIONER_pronoun] [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] [EXECUTIONER_pronoun] [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] [EXECUTIONER_pronoun] has prepared [circumstance_group] [PRISONER_nameFull]</li>
+    <li>image->[EXECUTIONER_nameFull] [PRISONER_nameFull] [circumstance_group] managed as prison [EXECUTIONER_pronoun]</li>
+    <li>circumstance_phrase->The area [PRISONER_pronoun] Spasms</li>
+    <li>circumstance_phrase->While bending hot [PRISONER_pronoun],</li>
+    <li>circumstance_phrase->[PRISONER_pronoun] crying in fear</li>
+    <li>circumstance_phrase->very professional</li>
+    <li>circumstance_phrase->And as enthusiasts</li>
+    <li>circumstance_phrase->Power High</li>
+    <li>circumstance_phrase->qb</li>
+    <li>circumstance_phrase->bad smile</li>
+    <li>circumstance_phrase->regretfully</li>
+    <li>circumstance_phrase->and of course</li>
+    <li>circumstance_phrase->this is also</li>
+    <li>circumstance_phrase->absently</li>
+    <li>circumstance_phrase->Public good</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] sweating.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] drools a little.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] blood smear [EXECUTIONER_possessive].</li>
+    <li>desc_sentence->[PRISONER_nameDef] start shaking and writhing.</li>
+    <li>desc_sentence->[PRISONER_nameDef] will find it.</li>
+    <li>desc_sentence->It has more power [PRISONER_nameDef] [PRISONER_possessive] eyes shut and prayed that.</li>
+    <li>desc_sentence->[PRISONER_nameDef] [PRISONER_possessive] hanged flights.</li>
+  </ExecutedPrisoner.rulePack.rulesStrings>
+  <!-- EN: animal hunted -->
+  <Hunted.label>Game animals</Hunted.label>
+  <!-- EN:
+    <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
+    <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
+    <li>tale_noun->[HUNTER_nameDef]'s successful hunt</li>
+    <li>image->[PREY_nameFull] being hunted by [HUNTER_nameFull] [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] stalking [PREY_nameFull] from afar [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] hunting [PREY_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PREY_nameDef] relaxes</li>
+    <li>circumstance_phrase->as [PREY_nameDef] travels</li>
+    <li>circumstance_phrase->as [PREY_nameDef] eats</li>
+    <li>desc_sentence->[PREY_nameDef] seems totally oblivious.</li>
+    <li>desc_sentence->[HUNTER_nameDef] is gripping [HUNTER_possessive] weapon tightly.</li>
+    <li>desc_sentence->[PREY_nameDef] is looking around as though [PREY_pronoun] senses that something is wrong.</li>
+  -->
+  <Hunted.rulePack.rulesStrings>
+    <li>tale_noun->[HUNTER_nameDef] opening game [PREY_nameDef]</li>
+    <li>tale_noun->[PREY_nameDef] be pursued [HUNTER_nameDef]</li>
+    <li>tale_noun->[HUNTER_nameDef] successful hunt</li>
+    <li>image->As [PREY_pronoun] [PREY_nameFull] [HUNTER_nameFull] seek [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] is [HUNTER_pronoun] stalking [PREY_nameFull] slow, [circumstance_group]</li>
+    <li>image->[HUNTER_pronoun] [PREY_nameFull], [HUNTER_nameFull] about corner [circumstance_group]</li>
+    <li>circumstance_phrase->How nice quiet [PREY_nameDef]</li>
+    <li>circumstance_phrase->Wander again [PREY_nameDef]</li>
+    <li>circumstance_phrase->[PREY_nameDef]</li>
+    <li>desc_sentence->[PREY_nameDef] takes notice.</li>
+    <li>desc_sentence->[HUNTER_nameDef] hand firmly holds [HUNTER_possessive].</li>
+    <li>desc_sentence->Concern with the responsibility of what is wrong [PREY_nameDef] feeling [PREY_pronoun].</li>
+  </Hunted.rulePack.rulesStrings>
+  <!-- EN: colonist kidnapped -->
+  <KidnappedColonist.label>Abducted in the villages</KidnappedColonist.label>
+  <!-- EN:
+    <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->the kidnapping of [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] carrying [VICTIM_nameFull] away to [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] of [KIDNAPPER_factionName] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [VICTIM_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->while covered in blood and filth</li>
+    <li>desc_sentence->[VICTIM_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[VICTIM_nameDef] has closed [VICTIM_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks defiant.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is screaming with rage and terror.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks broken and exhausted.</li>
+    <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
+  -->
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[KIDNAPPER_nameDef] [VICTIM_nameDef] robbery</li>
+    <li>tale_noun->He was kidnapped by [VICTIM_nameDef] [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] kidnapping</li>
+    <li>image->'[KIDNAPPER_factionName]' partial support for [KIDNAPPER_nameFull] [KIDNAPPER_pronoun] [circumstance_group] [VICTIM_nameFull]</li>
+    <li>image->[KIDNAPPER_nameFull] [KIDNAPPER_pronoun] [circumstance_group] [VICTIM_nameFull] kidnapped part '[KIDNAPPER_factionName]'</li>
+    <li>image->They deliberately as [KIDNAPPER_nameFull] [VICTIM_nameFull] [KIDNAPPER_pronoun] [circumstance_group]</li>
+    <li>circumstance_phrase->But [VICTIM_nameDef] abdominal pain</li>
+    <li>circumstance_phrase->very professional</li>
+    <li>circumstance_phrase->raw amateur</li>
+    <li>circumstance_phrase->Excessive Force</li>
+    <li>circumstance_phrase->Clear joy</li>
+    <li>circumstance_phrase->domination smile</li>
+    <li>circumstance_phrase->dirty and bloody</li>
+    <li>desc_sentence->[VICTIM_nameDef] was seen last.</li>
+    <li>desc_sentence->No [VICTIM_nameDef] [VICTIM_possessive] eyes in prayer and eyes closed higher power.</li>
+    <li>desc_sentence->It seems slaves bold [VICTIM_nameDef] [VICTIM_possessive].</li>
+    <li>desc_sentence->[VICTIM_nameDef] anger, shouting concerned.</li>
+    <li>desc_sentence->[VICTIM_nameDef] man desperate and broke.</li>
+    <li>desc_sentence->[VICTIM_nameDef] look injured.</li>
+  </KidnappedColonist.rulePack.rulesStrings>
+  <!-- EN: death -->
+  <KilledBy.label>Tod</KilledBy.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being killed by [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] killing [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] ending [VICTIM_nameFull]'s life [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] brutally murdering [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] being killed [circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are rendered in a realistically lifeless fashion.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] killed [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] killed [KILLER_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [VICTIM_nameDef] murder</li>
+    <li>tale_noun->Killed [VICTIM_nameDef]</li>
+    <li>image->Who killed [KILLER_nameFull] [circumstance_group] [VICTIM_pronoun] in both [VICTIM_nameFull]</li>
+    <li>image->Kill [KILLER_nameFull] [VICTIM_nameFull] [KILLER_pronoun] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] [circumstance_group] [KILLER_pronoun] in [VICTIM_nameFull]</li>
+    <li>image->[KILLER_nameFull] in [KILLER_pronoun] [circumstance_group] [VICTIM_nameFull] brutally murdered</li>
+    <li>image->[VICTIM_nameFull] is [VICTIM_pronoun] [circumstance_group]</li>
+    <li>circumstance_phrase->It is clear that without blame</li>
+    <li>circumstance_phrase->Cold efficiency</li>
+    <li>circumstance_phrase->Anger and passion</li>
+    <li>circumstance_phrase->Quickly, efficiently and exercise</li>
+    <li>circumstance_phrase->if we express</li>
+    <li>circumstance_phrase->the net</li>
+    <li>circumstance_phrase->iNERTIA Grauen</li>
+    <li>desc_sentence->The sun sets behind a place of symbolic representation.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] seen.</li>
+    <li>desc_sentence->[PersonJob] is [side_position] mind.</li>
+    <li>desc_sentence->[VICTIM_nameDef] body formation around the blood.</li>
+    <li>desc_sentence->[VICTIM_nameDef] vibration appeared in a real way.</li>
+    <li>desc_sentence->[KILLER_nameDef] [killer_possessive] bares teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] appears to be met.</li>
+    <li>desc_sentence->Forgiveness [KILLER_nameDef] [KILLER_pronoun] day here.</li>
+    <li>desc_sentence->[KILLER_nameDef] to explain the situation.</li>
+    <li>desc_sentence->It seems [KILLER_nameDef] success.</li>
+  </KilledBy.rulePack.rulesStrings>
+  <!-- EN: colonist killed -->
+  <KilledColonist.label>Settlers killed</KilledColonist.label>
+  <!-- EN: colony animal killed -->
+  <KilledColonyAnimal.label>A colony of dead animals</KilledColonyAnimal.label>
+  <!-- EN: person recruited -->
+  <Recruited.label>Employee</Recruited.label>
+  <!-- EN:
+    <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
+    <li>tale_noun->the recruitment of [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] recruiting [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] welcoming [JOINER_nameFull] as [JOINER_pronoun] becomes a colonist [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] speaking convincingly to [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with obvious goodwill</li>
+    <li>circumstance_phrase->with a hearty handshake</li>
+    <li>circumstance_phrase->with smiles all around</li>
+    <li>circumstance_phrase->in front of the whole colony</li>
+    <li>circumstance_phrase->in a prison cell</li>
+    <li>desc_sentence->[JOINER_nameDef] is nodding in understanding.</li>
+    <li>desc_sentence->[JOINER_nameDef] is smiling and making eye contact.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks relieved.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
+  -->
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->Collection [RECRUITER_nameDef] [JOINER_nameDef]</li>
+    <li>tale_noun->[RECRUITER_nameDef] [JOINER_nameDef] work</li>
+    <li>tale_noun->[JOINER_nameDef] change</li>
+    <li>image->[RECRUITER_nameFull] tenant [RECRUITER_pronoun] [circumstance_group] [JOINER_nameFull]</li>
+    <li>image->Welcomes new residents [circumstance_group] [JOINER_nameFull] for [RECRUITER_nameFull] [RECRUITER_pronoun] information</li>
+    <li>image->Join [RECRUITER_nameFull] to ensure the destruction of the colony [JOINER_nameFull] [circumstance_group] [RECRUITER_pronoun]</li>
+    <li>circumstance_phrase->clean</li>
+    <li>circumstance_phrase->rich operation</li>
+    <li>circumstance_phrase->Smiling faces everywhere</li>
+    <li>circumstance_phrase->Before the colony in its entirety</li>
+    <li>circumstance_phrase->prison cell</li>
+    <li>desc_sentence->[JOINER_nameDef] who understood and nodded.</li>
+    <li>desc_sentence->[JOINER_nameDef] he laughs and expectations.</li>
+    <li>desc_sentence->[JOINER_nameDef] seems released.</li>
+    <li>desc_sentence->[JOINER_nameDef] look promising.</li>
+  </Recruited.rulePack.rulesStrings>
+  <!-- EN: prisoner sold -->
+  <SoldPrisoner.label>Sales prisoners</SoldPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
+    <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
+    <li>tale_noun->[PRISONER_nameDef] being sold as a slave by [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] buying [PRISONER_nameFull] from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling [PRISONER_nameFull] to [TRADER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as the other colonists look on in disapproval</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] counts [TRADER_possessive] money</li>
+    <li>circumstance_phrase->while [PRISONER_nameDef] moans plaintively</li>
+    <li>circumstance_phrase->to [PRISONER_nameDef]'s chagrin</li>
+    <li>desc_sentence->[TRADER_nameDef] is smiling devilishly.</li>
+    <li>desc_sentence->[SELLER_nameDef] is laughing maniacally.</li>
+    <li>desc_sentence->[SELLER_nameDef] reluctantly hands [PRISONER_nameDef] over to the trader.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares defiantly at [PRISONER_possessive] new master.</li>
+    <li>desc_sentence->[TRADER_nameDef] drags [PRISONER_nameDef] away by [PRISONER_possessive] chains.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares at [SELLER_nameDef], plotting [PRISONER_possessive] revenge.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is crying.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is spitting in [SELLER_nameDef]'s face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is melting into the ground.</li>
+    <li>desc_sentence->[SELLER_nameDef] is thrusting the chains of [PRISONER_nameDef] into [TRADER_nameDef]'s hands.</li>
+    <li>desc_sentence->An air of hopelessness pervades the situation.</li>
+  -->
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->Match respect [PRISONER_nameDef]</li>
+    <li>tale_noun->Sold into slavery [SELLER_nameDef] [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] sold into slavery [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull], [SELLER_nameFull] [TRADER_pronoun] [circumstance_group] [PRISONER_nameDef]</li>
+    <li>image->If [SELLER_pronoun] [PRISONER_nameDef] [SELLER_nameFull] [TRADER_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->Settlers are not met</li>
+    <li>circumstance_phrase->commercial [SELLER_nameDef]</li>
+    <li>circumstance_phrase->The number on the wall [PRISONER_nameDef]</li>
+    <li>circumstance_phrase->While anger [PRISONER_nameDef]</li>
+    <li>desc_sentence->[TRADER_nameDef] devilish smile.</li>
+    <li>desc_sentence->[SELLER_nameDef] evil laughter.</li>
+    <li>desc_sentence->[SELLER_nameDef] are reluctant to [PRISONER_nameDef] seller.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares defiantly a new victory [PRISONER_possessive].</li>
+    <li>desc_sentence->Looking [TRADER_nameDef] [PRISONER_nameDef] attraction array.</li>
+    <li>desc_sentence->[PRISONER_nameDef] [PRISONER_possessive] looking to change [SELLER_nameDef] and intelligence planning.</li>
+    <li>desc_sentence->[PRISONER_nameDef] you.</li>
+    <li>desc_sentence->[PRISONER_nameDef] [SELLER_nameDef] mouth and tongue.</li>
+    <li>desc_sentence->Mall [PRISONER_nameDef] is spit on the ground.</li>
+    <li>desc_sentence->[TRADER_nameDef]'s and had [PRISONER_nameDef] [SELLER_nameDef] accident.</li>
+    <li>desc_sentence->A touch of despair affecting work.</li>
+  </SoldPrisoner.rulePack.rulesStrings>
+  <!-- EN: animal tamed -->
+  <TamedAnimal.label>Small animals</TamedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
+    <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snarling aggressively.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be in some sort of hypnotic state.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks scared but interested.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears fascinated.</li>
+    <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
+  -->
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[ANIMAL_nameDef] ads [TAMER_nameDef]</li>
+    <li>tale_noun->Obedience [TAMER_nameDef] [ANIMAL_nameDef]</li>
+    <li>image->Out as reined in [TAMER_pronoun] [circumstance_group] [ANIMAL_nameFull] [TAMER_nameFull]</li>
+    <li>image->[TAMER_pronoun] treatment gives [circumstance_group] [ANIMAL_nameFull] [TAMER_nameFull]</li>
+    <li>image->[TAMER_pronoun] [TAMER_nameFull] soft whispers that [circumstance_group] [ANIMAL_nameFull]</li>
+    <li>image->[TAMER_pronoun] appeal as [circumstance_group] [ANIMAL_nameFull] [TAMER_nameFull]</li>
+    <li>circumstance_phrase->slowly and carefully</li>
+    <li>circumstance_phrase->a smile</li>
+    <li>circumstance_phrase->exhausted, but happy</li>
+    <li>desc_sentence->[ANIMAL_nameDef] behave aggressively.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] love seems to be tired, stunned.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] apparently hypnotic form.</li>
+    <li>desc_sentence->Afraid to see the [ANIMAL_nameDef] not interested.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] seemed impressed.</li>
+    <li>desc_sentence->[TAMER_nameDef] [ANIMAL_nameDef] developed a strong sense of love:</li>
+  </TamedAnimal.rulePack.rulesStrings>
+  <!-- EN: traded with someone -->
+  <TradedWith.label>Doing business with a</TradedWith.label>
+  <!-- EN:
+    <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling goods to [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with greedy intent</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] smirks at [BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] is examining [SELLER_nameDef]'s wares.</li>
+    <li>desc_sentence->[SELLER_nameDef] considers an item.</li>
+    <li>desc_sentence->[SELLER_nameDef] starts haggling.</li>
+    <li>desc_sentence->[BUYER_nameDef] argues with [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] and [BUYER_nameDef] agree on a price.</li>
+    <li>desc_sentence->[BUYER_nameDef] pays for the item.</li>
+    <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
+    <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
+  -->
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->[SELLER_nameFull] magazines and trade [BUYER_nameFull]</li>
+    <li>image->Goods purchased [BUYER_pronoun] [circumstance_group] ke e la [SELLER_nameFull] [BUYER_nameFull]</li>
+    <li>image->Products are sold [SELLER_nameFull] [circumstance_group] [SELLER_pronoun] [BUYER_nameFull]</li>
+    <li>circumstance_phrase->look greedy</li>
+    <li>circumstance_phrase->[SELLER_nameDef] conflict during [BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] [SELLER_nameDef] materials are reviewed.</li>
+    <li>desc_sentence->[SELLER_nameDef] focused.</li>
+    <li>desc_sentence->[SELLER_nameDef] arrangements.</li>
+    <li>desc_sentence->[SELLER_nameDef] talking [BUYER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] [BUYER_nameDef] get price.</li>
+    <li>desc_sentence->Pay per [BUYER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] [SELLER_possessive] money.</li>
+    <li>desc_sentence->[BUYER_possessive] [BUYER_nameDef] products.</li>
+  </TradedWith.rulePack.rulesStrings>
+  <!-- EN: animal trained -->
+  <TrainedAnimal.label>Training animals</TrainedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef] by [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] in [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] teaching [TRAINABLE_label] to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] practicing [TRAINABLE_label] with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->training</li>
+    <li>train_syn->drilling</li>
+    <li>train_syn->coaching</li>
+    <li>train_syn->indoctrinating</li>
+    <li>train_syn->educating</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->as wild [Animal]s look on in disgust</li>
+    <li>circumstance_phrase->as [ANIMAL_nameDef] thinks of the simpler days when [ANIMAL_pronoun] was a feral beast</li>
+    <li>circumstance_phrase->as [TRAINER_nameDef] thinks of what's for lunch</li>
+    <li>circumstance_phrase->as the other colonists do actual work</li>
+    <li>desc_sentence->[TRAINER_nameDef] is showing pleasure.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is smiling.</li>
+    <li>desc_sentence->[TRAINER_nameDef] looks bored.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is threateningly brandishing [TRAINER_possessive] fist.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is wrinkling [TRAINER_possessive] brow in concentration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks puzzled.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] has a weapon in [ANIMAL_possessive] mouth.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is emitting effortful grunts.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is shaking [TRAINER_possessive] head is frustration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is trembling in fear.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be morphing into a [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
+  -->
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[ANIMAL_nameDef] train [TRAINER_nameDef]</li>
+    <li>tale_noun->The purchase [ANIMAL_nameDef]</li>
+    <li>tale_noun->[ANIMAL_nameDef] training [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [TRAINER_pronoun] dealt with [ANIMAL_nameFull] '[TRAINABLE_label]', [circumstance_group]</li>
+    <li>image->Study [TRAINER_pronoun] [ANIMAL_nameFull] '[TRAINABLE_label]', as [circumstance_group] [TRAINER_nameFull]</li>
+    <li>image->[TRAINER_nameFull] [ANIMAL_nameFull], [circumstance_group] and [TRAINER_pronoun] '[TRAINABLE_label]'</li>
+    <li>train_syn->learning</li>
+    <li>train_syn->drill</li>
+    <li>train_syn->is</li>
+    <li>train_syn->leeds</li>
+    <li>train_syn->education</li>
+    <li>circumstance_phrase->while others watch</li>
+    <li>circumstance_phrase->watched in anger, while the biodiversity [AnimalPlural]</li>
+    <li>circumstance_phrase->He thought back to the days just [ANIMAL_nameDef] wildlife [ANIMAL_pronoun]</li>
+    <li>circumstance_phrase->But thought it would be the sixth [TRAINER_nameDef]</li>
+    <li>circumstance_phrase->In fact, some of the colonies</li>
+    <li>desc_sentence->[TRAINER_nameDef] see his eyes.</li>
+    <li>desc_sentence->[TRAINER_nameDef] smile.</li>
+    <li>desc_sentence->[TRAINER_nameDef] look ridiculous.</li>
+    <li>desc_sentence->[TRAINER_possessive] [TRAINER_nameDef] svinging received threats.</li>
+    <li>desc_sentence->[TRAINER_nameDef] forehead wrinkles reflect concentration on [TRAINER_possessive].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks confused.</li>
+    <li>desc_sentence->[ANIMAL_possessive] [ANIMAL_nameDef] gun in his mouth.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] strong growl that giri said.</li>
+    <li>desc_sentence->[TRAINER_possessive] disappointed [TRAINER_nameDef] head.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] quake.</li>
+    <li>desc_sentence->You can change [ANIMAL_nameDef] [VegetableSingularMas].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] [VegetableSingularFem] seem to.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] compared with coal power tools.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] some [Color] and [Color].</li>
+    <li>desc_sentence->Dandruff [ANIMAL_nameDef].</li>
+    <li>desc_sentence->[TRAINER_nameDef], shows [quantity] hand.</li>
+    <li>desc_sentence->[ANIMAL_ShortDefinite] the active [TRAINER_nameDef].</li>
+  </TrainedAnimal.rulePack.rulesStrings>
+</LanguageData>

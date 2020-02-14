@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--======== Common to various mechanoids ========-->
+  <MechanicalNeck.label>Hals</MechanicalNeck.label>
+  <MechanicalHead.label>head</MechanicalHead.label>
+  <ArtificialBrain.label>Cybernetics</ArtificialBrain.label>
+  <Reactor.label>reactor</Reactor.label>
+  <FluidReprocessor.label>Circulating fluid treatment equipment</FluidReprocessor.label>
+  <SightSensor.label>Visual sensor</SightSensor.label>
+  <HearingSensor.label>indicator auditory</HearingSensor.label>
+  <SmellSensor.label>the smell sensor</SmellSensor.label>
+  <MechanicalShoulder.label>shoulder</MechanicalShoulder.label>
+  <MechanicalArm.label>cancer</MechanicalArm.label>
+  <MechanicalHand.label>hand</MechanicalHand.label>
+  <MechanicalFinger.label>branch</MechanicalFinger.label>
+  <MechanicalLeg.label>foot</MechanicalLeg.label>
+  <MechanicalFoot.label>foot</MechanicalFoot.label>
+  <!--===================== Human-like specific (lancer, scyther) ====================-->
+  <MechanicalThorax.label>thorax</MechanicalThorax.label>
+  <!--===================== Scyther specific ====================-->
+  <Blade.label>pay</Blade.label>
+  <!--===================== Centipede specific ====================-->
+  <MechanicalCentipedeBodyFirstRing.label>first stage</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>channel</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.label>Part II</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>II</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.label>PART III</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>section where</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.label>Fourth</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>four times</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.label>of V</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>old school</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.label>Article 6</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>part 6</MechanicalCentipedeBodySixthRing.labelShort>
+</LanguageData>

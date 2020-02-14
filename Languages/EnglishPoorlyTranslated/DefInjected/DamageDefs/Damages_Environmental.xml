@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Flame.label>焼身</Flame.label>
+  <Flame.deathMessage>{0} died in fire</Flame.deathMessage>
+  <Burn.label>火傷</Burn.label>
+  <Burn.deathMessage>Burns died {0}</Burn.deathMessage>
+  <Frostbite.label>凍傷</Frostbite.label>
+  <Frostbite.deathMessage>{0} frostbite died</Frostbite.deathMessage>
+  <TornadoScratch.label>外傷</TornadoScratch.label>
+  <TornadoScratch.deathMessage>{0} hurricanes struck dead</TornadoScratch.deathMessage>
+</LanguageData>

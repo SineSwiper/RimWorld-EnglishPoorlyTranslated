@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>adjustable</Bridgeable.label>
+  <!-- EN: diggable -->
+  <Diggable.label>biodegradable</Diggable.label>
+  <!-- EN: growable -->
+  <GrowSoil.label>anpfalnshber</GrowSoil.label>
+  <!-- EN: heavy -->
+  <Heavy.label>difficult</Heavy.label>
+  <!-- EN: light -->
+  <Light.label>easy</Light.label>
+  <!-- EN: medium -->
+  <Medium.label>into the middle</Medium.label>
+  <!-- EN: moving water -->
+  <MovingFluid.label>water</MovingFluid.label>
+  <!-- EN: shallow water -->
+  <ShallowWater.label>roll</ShallowWater.label>
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>claw</SmoothableStone.label>
+</LanguageData>

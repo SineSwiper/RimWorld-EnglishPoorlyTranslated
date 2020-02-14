@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>Archotech</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>Points</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>al archotechnologischer</ArchotechArm.labelNoun>
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>I archeatech</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>and look at archeatechnealeagisches</ArchotechEye.labelNoun>
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>Archotech to</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>archotechnologisches am</ArchotechLeg.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicArm.label>Bionic hand</BionicArm.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>Patrice</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>A bionic arm</BionicArm.labelNoun>
+  <!-- EN: bionic ear -->
+  <BionicEar.label>Bionic ear</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>Bionic ear</BionicEar.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicEye.label>Bionic eye</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>Bionic eye</BionicEye.labelNoun>
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>Bionic heart</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>A Bionic Heart</BionicHeart.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>Bionic legs</BionicLeg.label>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>bionic leg</BionicLeg.labelNoun>
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>Spinal film</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>Bionic back</BionicSpine.labelNoun>
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>Bionic stomach</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>managed stomach</BionicStomach.labelNoun>
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>Cochlear involved</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>cochlear implant</CochlearImplant.labelNoun>
+  <!-- EN: denture -->
+  <Denture.label>Top</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>false teeth</Denture.labelNoun>
+  <!-- EN: peg leg -->
+  <PegLeg.label>Pegleg</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>A wooden legs</PegLeg.labelNoun>
+  <!-- EN: power claw -->
+  <PowerClaw.label>The power of the claw</PowerClaw.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>Leg</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>Energy Claw</PowerClaw.labelNoun>
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>Prosthetic arm</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>Punching</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>Amended draft</SimpleProstheticArm.labelNoun>
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>Artificial heart</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>Artificial heart</SimpleProstheticHeart.labelNoun>
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>Bone</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>A prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>Ss healjphu</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>wood</WoodenFoot.labelNoun>
+</LanguageData>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jaw -->
+  <AnimalJaw.label>Pine</AnimalJaw.label>
+  <!-- EN: antenna -->
+  <Antenna.label>Sensation</Antenna.label>
+  <!-- EN: beak -->
+  <Beak.label>Bill</Beak.label>
+  <!-- EN: body -->
+  <Body.label>Group</Body.label>
+  <!-- EN: elytra -->
+  <Elytra.label>Casement ceiling</Elytra.label>
+  <!-- EN: front claw -->
+  <FrontClaw.label>Pre-launch</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>Nail</FrontClaw.labelShort>
+  <!-- EN: head claw -->
+  <HeadClaw.label>The head of the harp</HeadClaw.label>
+  <!-- EN: hoof -->
+  <Hoof.label>Huf</Hoof.label>
+  <!-- EN: horn -->
+  <Horn.label>Corn</Horn.label>
+  <!-- EN: hump -->
+  <Hump.label>Relievo</Hump.label>
+  <!-- EN: head -->
+  <InsectHead.label>Head</InsectHead.label>
+  <!-- EN: heart -->
+  <InsectHeart.label>Heart</InsectHeart.label>
+  <!-- EN: leg -->
+  <InsectLeg.label>Leg</InsectLeg.label>
+  <!-- EN: mouth -->
+  <InsectMouth.label>Mouth</InsectMouth.label>
+  <!-- EN: nostril -->
+  <InsectNostril.label>Nose</InsectNostril.label>
+  <!-- EN: jowl -->
+  <Jowl.label>Image</Jowl.label>
+  <!-- EN: paw -->
+  <Paw.label>Tie</Paw.label>
+  <!-- EN: plastron -->
+  <Plastron.label>Plas tron</Plastron.label>
+  <!-- EN: pronotum -->
+  <Pronotum.label>Pronotum</Pronotum.label>
+  <!-- EN: rear claw -->
+  <RearClaw.label>Back tepper</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>Claw</RearClaw.labelShort>
+  <!-- EN: shell -->
+  <Shell.label>Weapons</Shell.label>
+  <!-- EN: body -->
+  <SnakeBody.label>Dead body</SnakeBody.label>
+  <!-- EN: head -->
+  <SnakeHead.label>Head</SnakeHead.label>
+  <!-- EN: mouth -->
+  <SnakeMouth.label>Mouth</SnakeMouth.label>
+  <!-- EN: tail -->
+  <Tail.label>Tail</Tail.label>
+  <!-- EN: trunk -->
+  <Trunk.label>Primary</Trunk.label>
+  <!-- EN: beak -->
+  <TurtleBeak.label>Bill</TurtleBeak.label>
+  <!-- EN: shell -->
+  <TurtleShell.label>Armor</TurtleShell.label>
+  <!-- EN: tusk -->
+  <Tusk.label>Dog</Tusk.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿//Example: "Das ..."
+
+Cup
+Knife
+Sword
+Scimitar
+Sword
+A spear
+Bayonet
+Axe
+Ax
+Weapon
+Cannon
+Gun
+Kara mbit
+Deputy mbps

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Work tab -->
+  <ManualPriorities>Priority for users</ManualPriorities>
+  <HigherPriority>on top</HigherPriority>
+  <LowerPriority>under de adline</LowerPriority>
+  <RelevantSkills>Associated Skills: {0}\n{1} with ordinary skill / {2}</RelevantSkills>
+  <ClickToJumpTo>Click on the go.</ClickToJumpTo>
+  <CannotDoThisWork>{} 1_labelShort can not do this kind of work.</CannotDoThisWork>
+  <NoneBrackets>(or)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Colon, you can work for this guy for his health.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>IN</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>Note: Average skills are very low.</SelectedWorkTypeWithVeryBadSkill>
+  <!-- Assign tab -->
+  <ManageOutfits>To control</ManageOutfits>
+  <ClearForcedApparel>CLR. Force</ClearForcedApparel>
+  <ApparelForcedLower>force</ApparelForcedLower>
+  <ForcedApparel>Involuntary clothes</ForcedApparel>
+  <AssignTabEdit>Changing ...</AssignTabEdit>
+  <ManageDrugPolicies>Drug policy</ManageDrugPolicies>
+  <ManageFoodRestrictions>Diet management</ManageFoodRestrictions>
+  <!-- Restrictions tab -->
+  <Copy>For example,</Copy>
+  <Paste>Close</Paste>
+  <AllowedArea>Road range</AllowedArea>
+  <!-- Animals tab -->
+  <Master>Chairman</Master>
+  <PregnantIconDesc>Gibb ({0} / {1}).</PregnantIconDesc>
+  <BondedTo>Connected</BondedTo>
+  <!-- Wildlife tab -->
+  <IsPredator>This powerful creature. When people go hungry animals and children.</IsPredator>
+  <!-- Factions tab -->
+  <Hostile>Cold</Hostile>
+  <Ally>United</Ally>
+  <DefeatedLower>beat</DefeatedLower>
+  <HostileTo>Enemies {0}</HostileTo>
+  <CurrentGoodwillTip>When the purpose of the good current state of relations between the factions.</CurrentGoodwillTip>
+  <CurrentGoodwillTip_PermanentEnemy>This group of permanent hostility. Your home and convoys. What ever your reason for better relations with them.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>This includes the factions. They can send fighters to help you. {0} ratio dropped, they will become neutral.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>This section is modified. They want to talk to you for purchase independently. {0} then fell relationships, they are enemies. Click {1} relations, enhance participation and start working seriously.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>This is a small part of the enemy. This will eliminate all their columns. If power is {0} neutral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_NaturalGoodwill>This faction {1} {0} is a natural emotional spectrum. {1} for more than just be a good idea to this day, {3}. If the parole {0}, {2} day is growing.</CurrentGoodwillTip_NaturalGoodwill>
+  <!-- Social tab -->
+  <Friend>Friends</Friend>
+  <Rival>Author</Rival>
+  <Acquaintance>Addiction</Acquaintance>
+  <!-- History tab - subtabs -->
+  <Graph>Image</Graph>
+  <Messages>Messenger</Messages>
+  <Statistics>Figures</Statistics>
+  <!-- History tab - Graphs -->
+  <SelectGraph>Chart selection</SelectGraph>
+  <Last30Days>30 days</Last30Days>
+  <Last100Days>Last 100 Days</Last100Days>
+  <Last300Days>The last 300 days</Last300Days>
+  <AllDays>And</AllDays>
+  <Value>Meaning</Value>
+  <External>Out</External>
+  <!-- History tab - Messages -->
+  <ShowLetters>A letter</ShowLetters>
+  <ShowMessages>Monitor comments</ShowMessages>
+  <PinArchivableTip>Share or condition.\n\nUnpinned old notes automatically holoi'ia the table after coming to the end of the, 0} messages.</PinArchivableTip>
+  <NoMessages>message</NoMessages>
+  <!-- History tab - Statistics -->
+  <Playtime>Game time</Playtime>
+  <Storyteller>Teller</Storyteller>
+  <ThisMapColonyWealthTotal>Wealth Colony (map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>COLONY Estate (percent) (MAP)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Colony of wealth (buildings) (map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Create wealth (human and animal) (more)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <NumThreatBigs>The real danger</NumThreatBigs>
+  <NumEnemyRaids>Enemy attack</NumEnemyRaids>
+  <ThisMapDamageTaken>Ross (map)</ThisMapDamageTaken>
+  <ColonistsKilled>Killed residents</ColonistsKilled>
+  <ColonistsLaunched>Pioneer launched into space.</ColonistsLaunched>
+  <!-- Research tab -->
+  <ProjectTechLevel>technical level of the project</ProjectTechLevel>
+  <YourTechLevel>your technical level</YourTechLevel>
+  <ResearchCostMultiplier>multiplier costs</ResearchCostMultiplier>
+  <ResearchCostComparison>As your level of cost structure project technology, you to {0}, you {1}.</ResearchCostComparison>
+</LanguageData>

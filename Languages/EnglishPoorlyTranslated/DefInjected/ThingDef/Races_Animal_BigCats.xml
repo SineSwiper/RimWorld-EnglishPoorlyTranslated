@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cougar -->
+  <Cougar.label>Puma</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>Most dangerous big cats list puma. Bread alone, but for a long, sharp teeth and claws of the children out. They kidnapped the victim and then secretly beat them.\n\nThe usual menu, they offer, but they are already weak human body can be a tasty dish.</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>left leg</Cougar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>toe</Cougar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>Head</Cougar.tools.head.label>
+  <!-- EN: lynx -->
+  <Lynx.label>Lynx</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
+  <Lynx.description>Wild cats, but the cats a few large puma. Birds and small animals lynx survive on a diet. You can also warm up the coldest day of the month of space gefrohrenen:</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>left grip</Lynx.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>Tell the truth</Lynx.tools.right_claw.label>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>Head</Lynx.tools.head.label>
+  <!-- EN: panther -->
+  <Panther.label>Giraffe</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>Slide the powered cats forest great old country,. Panther ndenga and hide in particular. So, they will kill the original, large and small prey. Observers wonderful wave of interest with the development usually mainly break the skull force.</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>Left hand</Panther.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>right foot</Panther.tools.right_claw.label>
+  <!-- EN: head -->
+  <Panther.tools.head.label>Head</Panther.tools.head.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ImmediateAttack -->
+  <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.arrivalTextEnemy>Even now, they win.\n\nArticle - ended their smart tactics.\nTry to be considered for the network blocks.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Current support.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttackSmart.letterLabelEnemy>襲撃</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>They immediately impact!\n\nPlease note! We planted how tricky.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>They wanted to give you immediate assistance.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- StageThenAttack -->
+  <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>They are ready in time, and then come to attack.\n\nOr prepare themselves to defend, throw Pre attacks prevented.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>This will help you when they are ready.</StageThenAttack.arrivalTextFriendly>
+  <!--ImmediateAttackSappers -->
+  <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Tunnel Hollow tried to break through their defense.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!--Siege -->
+  <Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
+  <Siege.arrivalTextEnemy>Try this place is by far the siege Uttederu bored. To laughter.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>This policy will help the park.</Siege.arrivalTextFriendly>
+</LanguageData>

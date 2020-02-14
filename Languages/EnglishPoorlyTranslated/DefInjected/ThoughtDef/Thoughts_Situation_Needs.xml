@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hideous environment -->
+  <NeedBeauty.stages.hideous_environment.label>Under primitive conditions</NeedBeauty.stages.hideous_environment.label>
+  <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
+  <NeedBeauty.stages.hideous_environment.description>This is bad. Help !!! I want to go !!!</NeedBeauty.stages.hideous_environment.description>
+  <!-- EN: ugly environment -->
+  <NeedBeauty.stages.ugly_environment.label>Dirty environment</NeedBeauty.stages.ugly_environment.label>
+  <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
+  <NeedBeauty.stages.ugly_environment.description>This place is really unbearable. I would not be here. I gotta get out of here!</NeedBeauty.stages.ugly_environment.description>
+  <!-- EN: unsightly environment -->
+  <NeedBeauty.stages.unsightly_environment.label>Franchise in the uk</NeedBeauty.stages.unsightly_environment.label>
+  <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
+  <NeedBeauty.stages.unsightly_environment.description>This is nasty. You really need to see?</NeedBeauty.stages.unsightly_environment.description>
+  <!-- EN: pretty environment -->
+  <NeedBeauty.stages.pretty_environment.label>Environment</NeedBeauty.stages.pretty_environment.label>
+  <!-- EN: This place looks nice. -->
+  <NeedBeauty.stages.pretty_environment.description>This place is very, very good.</NeedBeauty.stages.pretty_environment.description>
+  <!-- EN: beautiful environment -->
+  <NeedBeauty.stages.beautiful_environment.label>Beautiful surroundings</NeedBeauty.stages.beautiful_environment.label>
+  <!-- EN: I really like this place. It's beautiful. -->
+  <NeedBeauty.stages.beautiful_environment.description>I am very happy. Here is very nice.</NeedBeauty.stages.beautiful_environment.description>
+  <!-- EN: gorgeous environment -->
+  <NeedBeauty.stages.gorgeous_environment.label>Great</NeedBeauty.stages.gorgeous_environment.label>
+  <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
+  <NeedBeauty.stages.gorgeous_environment.description>Very beautiful. At this point I was really alive.</NeedBeauty.stages.gorgeous_environment.description>
+  <!-- EN: uncomfortable -->
+  <NeedComfort.stages.uncomfortable.label>Book</NeedComfort.stages.uncomfortable.label>
+  <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
+  <NeedComfort.stages.uncomfortable.description>Most uncomfortable for me here. And we need something soft to sit on.</NeedComfort.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <NeedComfort.stages.comfortable.label>Movie</NeedComfort.stages.comfortable.label>
+  <!-- EN: I've been comfortable recently. -->
+  <NeedComfort.stages.comfortable.description>I was in a better location.</NeedComfort.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <NeedComfort.stages.quite_comfortable.label>Very comfortable</NeedComfort.stages.quite_comfortable.label>
+  <!-- EN: I've been very comfortable recently. -->
+  <NeedComfort.stages.quite_comfortable.description>I feel very good here.</NeedComfort.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <NeedComfort.stages.extremely_comfortable.label>Very convenient</NeedComfort.stages.extremely_comfortable.label>
+  <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
+  <NeedComfort.stages.extremely_comfortable.description>I think it is really easy. It is very welcome!</NeedComfort.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <NeedComfort.stages.luxuriantly_comfortable.label>Comfortable, luxurious</NeedComfort.stages.luxuriantly_comfortable.label>
+  <!-- EN: I am resting on clouds of heaven. -->
+  <NeedComfort.stages.luxuriantly_comfortable.description>I was sleeping on a cloud!</NeedComfort.stages.luxuriantly_comfortable.description>
+  <!-- EN: hungry -->
+  <NeedFood.stages.hungry.label>Hungry</NeedFood.stages.hungry.label>
+  <!-- EN: I'm really hungry. -->
+  <NeedFood.stages.hungry.description>I did not eat for some time and was very hungry.</NeedFood.stages.hungry.description>
+  <!-- EN: ravenously hungry -->
+  <NeedFood.stages.ravenously_hungry.label>Very hungry</NeedFood.stages.ravenously_hungry.label>
+  <!-- EN: These hunger pangs are hard to ignore. -->
+  <NeedFood.stages.ravenously_hungry.description>Food cravings body annoying and difficult to ignore.</NeedFood.stages.ravenously_hungry.description>
+  <!-- EN: malnourished -->
+  <NeedFood.stages.malnourished.label>Feed</NeedFood.stages.malnourished.label>
+  <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
+  <NeedFood.stages.malnourished.description>This is because I have eaten at the end of time, that is a long time. I can not imagine it's easy to understand.</NeedFood.stages.malnourished.description>
+  <!-- EN: badly malnourished -->
+  <NeedFood.stages.badly_malnourished.label>Some</NeedFood.stages.badly_malnourished.label>
+  <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
+  <NeedFood.stages.badly_malnourished.description>My body is dead, I would like to think. Pre abdominal pain.</NeedFood.stages.badly_malnourished.description>
+  <!-- EN: starving -->
+  <NeedFood.stages.starving.label>Hungry</NeedFood.stages.starving.label>
+  <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
+  <NeedFood.stages.starving.description>I can hardly think about how to eat someone else. My flesh, my bones are already stretched. I'm alive?</NeedFood.stages.starving.description>
+  <!-- EN: advanced starvation -->
+  <NeedFood.stages.advanced_starvation.label>Ravenousness</NeedFood.stages.advanced_starvation.label>
+  <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
+  <NeedFood.stages.advanced_starvation.description>I could barely move and could only think of food. My stomach pain unbearable. I feel like I'm going to collapse at any time.</NeedFood.stages.advanced_starvation.description>
+  <!-- EN: extreme starvation -->
+  <NeedFood.stages.extreme_starvation.label>Hunger</NeedFood.stages.extreme_starvation.label>
+  <!-- EN: Food... food... anything... please... -->
+  <NeedFood.stages.extreme_starvation.description>Food ... Food ... Just a little ... All ... Please ...</NeedFood.stages.extreme_starvation.description>
+  <!-- EN: recreation-starved -->
+  <NeedJoy.stages.recreationstarved.label>The total lack of entertainment</NeedJoy.stages.recreationstarved.label>
+  <!-- EN: It's been so long since I did anything for fun on my own time. -->
+  <NeedJoy.stages.recreationstarved.description>This would be a very long time, because I had a lot of fun to do something to produce.</NeedJoy.stages.recreationstarved.description>
+  <!-- EN: recreation-deprived -->
+  <NeedJoy.stages.recreationdeprived.label>A severe shortage of recovery</NeedJoy.stages.recreationdeprived.label>
+  <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
+  <NeedJoy.stages.recreationdeprived.description>We need more opportunities for rest and I need more time, I still use. This place is really boring.</NeedJoy.stages.recreationdeprived.description>
+  <!-- EN: recreation unfulfilled -->
+  <NeedJoy.stages.recreation_unfulfilled.label>Slight improvement in the deficit</NeedJoy.stages.recreation_unfulfilled.label>
+  <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
+  <NeedJoy.stages.recreation_unfulfilled.description>We also have the opportunity to have fun, and we can use, and it requires a little more time.</NeedJoy.stages.recreation_unfulfilled.description>
+  <!-- EN: recreation satisfied -->
+  <NeedJoy.stages.recreation_satisfied.label>Collection</NeedJoy.stages.recreation_satisfied.label>
+  <!-- EN: I've been having a great time doing various things I like to do. -->
+  <NeedJoy.stages.recreation_satisfied.description>You can find a wide range of creative possibilities I had a good time.</NeedJoy.stages.recreation_satisfied.description>
+  <!-- EN: recreation fully satisfied -->
+  <NeedJoy.stages.recreation_fully_satisfied.label>Wet wells</NeedJoy.stages.recreation_fully_satisfied.label>
+  <!-- EN: I've been enjoying myself so much, I love it! -->
+  <NeedJoy.stages.recreation_fully_satisfied.description>I am very happy. Only once. Was great!</NeedJoy.stages.recreation_fully_satisfied.description>
+  <!-- EN: entombed underground -->
+  <NeedOutdoors.stages.entombed_underground.label>Buried underground</NeedOutdoors.stages.entombed_underground.label>
+  <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
+  <NeedOutdoors.stages.entombed_underground.description>I was also hidden. It's like the same thing, I will destroy them from. We need a key to get out and see the sky, after the new environment eyes.</NeedOutdoors.stages.entombed_underground.description>
+  <!-- EN: trapped underground -->
+  <NeedOutdoors.stages.trapped_underground.label>Cut the</NeedOutdoors.stages.trapped_underground.label>
+  <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
+  <NeedOutdoors.stages.trapped_underground.description>How long have I been here on the floor? I must once again be under the open skies air time.</NeedOutdoors.stages.trapped_underground.description>
+  <!-- EN: cabin fever -->
+  <NeedOutdoors.stages.cabin_fever.label>Heating captain</NeedOutdoors.stages.cabin_fever.label>
+  <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
+  <NeedOutdoors.stages.cabin_fever.description>I am a long time outside, it seems that if the roof falls slowly. This may come to see the sky and breathe fresh air.</NeedOutdoors.stages.cabin_fever.description>
+  <!-- EN: trapped indoors -->
+  <NeedOutdoors.stages.trapped_indoors.label>There is no one in jail</NeedOutdoors.stages.trapped_indoors.label>
+  <!-- EN: It's been too long since I've seen the sky. -->
+  <NeedOutdoors.stages.trapped_indoors.description>Although the last time looking at the sky because i.</NeedOutdoors.stages.trapped_indoors.description>
+  <!-- EN: stuck indoors -->
+  <NeedOutdoors.stages.stuck_indoors.label>Want to clean air</NeedOutdoors.stages.stuck_indoors.label>
+  <!-- EN: I'd like to go outside and get some fresh air. -->
+  <NeedOutdoors.stages.stuck_indoors.description>I went out and fresh air is good.</NeedOutdoors.stages.stuck_indoors.description>
+  <!-- EN: drowsy -->
+  <NeedRest.stages.drowsy.label>Dán</NeedRest.stages.drowsy.label>
+  <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
+  <NeedRest.stages.drowsy.description>I could not sleep for a few hours. Once concentrate.</NeedRest.stages.drowsy.description>
+  <!-- EN: tired -->
+  <NeedRest.stages.tired.label>I was tired</NeedRest.stages.tired.label>
+  <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
+  <NeedRest.stages.tired.description>I am bored. I just want to lie down and rest for a few minutes ......</NeedRest.stages.tired.description>
+  <!-- EN: exhausted -->
+  <NeedRest.stages.exhausted.label>Ready</NeedRest.stages.exhausted.label>
+  <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
+  <NeedRest.stages.exhausted.description>Everything is ready, I can hardly stand. Eyes are heavy. Please wake up...</NeedRest.stages.exhausted.description>
+  <!-- EN: confined interior -->
+  <NeedRoomSize.stages.confined_interior.label>Little</NeedRoomSize.stages.confined_interior.label>
+  <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
+  <NeedRoomSize.stages.confined_interior.description>This place is so small. I can not go anywhere. I go and feel like rats in a cage can not.</NeedRoomSize.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <NeedRoomSize.stages.cramped_interior.label>Weather</NeedRoomSize.stages.cramped_interior.label>
+  <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
+  <NeedRoomSize.stages.cramped_interior.description>The location is good. I want more space. Here, you will not need to breathe.</NeedRoomSize.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <NeedRoomSize.stages.spacious_interior.label>Shape</NeedRoomSize.stages.spacious_interior.label>
+  <!-- EN: This room is so expansive, I feel free. -->
+  <NeedRoomSize.stages.spacious_interior.description>Here it is beautiful and great. I feel free username:</NeedRoomSize.stages.spacious_interior.description>
+</LanguageData>

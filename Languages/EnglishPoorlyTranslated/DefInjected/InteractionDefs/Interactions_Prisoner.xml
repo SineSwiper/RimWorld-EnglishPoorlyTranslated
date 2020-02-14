@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- BuildRapport -->
+  <BuildRapport.label>And trying to understand</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] from [subject][toldastoryabout] that [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] [subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[subject][talkabout] [INITIATOR_nameDef] recommended that [RECIPIENT_nameDef]</li>
+    <li>r_logentry->We encourage [RECIPIENT_nameDef] [INITIATOR_nameDef] [subject][talkabout]</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [PersonalCharacteristic] expressed interest [INITIATOR_nameDef]</li>
+    <li>r_logentry->He asked [INITIATOR_nameDef] [RECIPIENT_possessive][PersonalCharacteristic] [RECIPIENT_nameDef]</li>
+    <li>toldastoryabout(p=2)->I'm talking about</li>
+    <li>toldastoryabout->There is a funny story about</li>
+    <li>toldastoryabout->Talk about</li>
+    <li>toldastoryabout->This is an old story</li>
+    <li>toldastoryabout->This is a family story</li>
+    <li>toldastoryabout->History</li>
+    <li>toldastoryabout->The story does not say</li>
+    <li>talkabout->interview</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->You have the opportunity to speak</li>
+    <li>talkabout->required</li>
+    <li>talkabout->I do not think that this power</li>
+    <li>talkabout->A faith changes</li>
+    <li>subject->植民地</li>
+    <li>subject->共同体</li>
+    <li>subject->colony participation</li>
+    <li>subject->change horses</li>
+    <li>subject->It gives people</li>
+    <li>subject->A Madonna meets</li>
+    <li>subject->Redeliberations [RECIPIENT_possessive]</li>
+    <li>subject->Reflection [RECIPIENT_possessive] trust</li>
+    <li>subject->健康</li>
+    <li>subject->未来</li>
+    <li>subject->見送り</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[RECIPIENT_possessive][PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  <!-- RecruitAttempt -->
+  <RecruitAttempt.label>勧誘</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] make a [RECIPIENT_nameDef], it can be a partner of the</li>
+    <li>r_logentry->[INITIATOR_nameDef] [goodthing] of [RECIPIENT_nameDef] promised, he was invited to become [RECIPIENT_nameDef]</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->The new freedom and [Vegetable]</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  <!-- SparkJailbreak -->
+  <SparkJailbreak.label>vacation guide</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[freedom] is proposed to discuss the best vacation [INITIATOR_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef], how many [TerrainFeature] was invited to speak about free good</li>
+    <li>r_logentry->[INITIATOR_nameDef] [freedom] promised to show clearly how to get rid of [RECIPIENT_nameDef]</li>
+    <li>r_logentry->Talk [INITIATOR_nameDef] login to escape because of lax security [RECIPIENT_nameDef]</li>
+    <li>freedom->自由</li>
+    <li>freedom->If you want to have a family</li>
+    <li>freedom->帰郷</li>
+    <li>freedom->It is Yareru</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+</LanguageData>

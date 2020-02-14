@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Disease_Flu.label>flu</Disease_Flu.label>
+  <Disease_Flu.letterLabel>Epidemics (flu)</Disease_Flu.letterLabel>
+  <Disease_Flu.letterText>{1}{0} people go {2}.\n\nThis course is for doctors and beds.\nDespite the fact that they are undergoing treatment to make sure they are in bed.\n\nListed below are prone to disease {1}\n\n{3}</Disease_Flu.letterText>
+  <Disease_Plague.label>ペスト</Disease_Plague.label>
+  <Disease_Plague.letterLabel>Epidemics (plague)</Disease_Plague.letterLabel>
+  <Disease_Plague.letterText>{1}{0} took {2}.\n\nThis is definitely the bed and the doctor.\nThey get the right treatment, make sure that you spend in bed as much as possible.\n\n{1} susceptible to the disease:\n\n{3}</Disease_Plague.letterText>
+  <Disease_Malaria.label>malaria</Disease_Malaria.label>
+  <Disease_Malaria.letterLabel>Disease (malaria)</Disease_Malaria.letterLabel>
+  <Disease_Malaria.letterText>{1}{0} {2}.\n\nMedical provides the perfect bed.\nIf treated properly, make sure that your bed is possible.\n\n{1} critical illness follows:\n\n{3}</Disease_Malaria.letterText>
+  <Disease_SleepingSickness.label>Pln'gn frozen sleep</Disease_SleepingSickness.label>
+  <Disease_SleepingSickness.letterLabel>Diseases (Coma frozen)</Disease_SleepingSickness.letterLabel>
+  <Disease_SleepingSickness.letterText>Had {1}{0} {2}.\n\nThis, of course, the provision of a medical doctor and the bed.\nThey get good treatment, you have to do is spend in bed.\n\n{1} among susceptible to disease\n\n{3}</Disease_SleepingSickness.letterText>
+  <Disease_FibrousMechanites.label>muscle pain system</Disease_FibrousMechanites.label>
+  <Disease_FibrousMechanites.letterLabel>Disease (machining muscle fibers)</Disease_FibrousMechanites.letterLabel>
+  <Disease_FibrousMechanites.letterText>{1} people {2}.\n\nThis, of course, beds and doctors.\nEven if they get proper treatment, make sure that it is used in bed as much as possible.\n\n{1} was susceptible to the disease as follows:\n\n{3}</Disease_FibrousMechanites.letterText>
+  <Disease_SensoryMechanites.label>Mechanical sensors disease</Disease_SensoryMechanites.label>
+  <Disease_SensoryMechanites.letterLabel>Eileen (sensory tests keratosis)</Disease_SensoryMechanites.letterLabel>
+  <Disease_SensoryMechanites.letterText>{1}{0} {2} people.\n\nThis, of course, could be a doctor or a bed.\nappropriate treatment, make sure you can spend in bed.\n\nAnd the difficulty down {1}:\n\n{3}</Disease_SensoryMechanites.letterText>
+  <Disease_GutWorms.label>回虫</Disease_GutWorms.label>
+  <Disease_GutWorms.letterLabel>Disease (insect)</Disease_GutWorms.letterLabel>
+  <Disease_GutWorms.letterText>{1}{0} {2}.\n\nThe medical and hospital bed.\nYou can go to bed check was given proper care.\n\nTa Ra {1} listed below, the rate of infection.\n\n{3}</Disease_GutWorms.letterText>
+  <Disease_MuscleParasites.label>candles worm</Disease_MuscleParasites.label>
+  <Disease_MuscleParasites.letterLabel>(Bang disease, earthquakes)</Disease_MuscleParasites.letterLabel>
+  <Disease_MuscleParasites.letterText>{1}{0} {2} people.\n\nThis course gives the doctor bed.\nIf they get the right treatment, to ensure that it got in bed for as long as possible.\n\n{1} following:\n\n{3}</Disease_MuscleParasites.letterText>
+  <Disease_AnimalFlu.label>Influenza (PET)</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.letterLabel>Diseases (influenza)</Disease_AnimalFlu.letterLabel>
+  <Disease_AnimalFlu.letterText>Take your animal and livestock {0} {2}.\n\nMaybe they sleep with as many as possible in order to ensure proper treatment.\nAnimals of these diseases:\n\n{3}</Disease_AnimalFlu.letterText>
+  <Disease_AnimalPlague.label>Disaster (animal)</Disease_AnimalPlague.label>
+  <Disease_AnimalPlague.letterLabel>Death (meat)</Disease_AnimalPlague.letterLabel>
+  <Disease_AnimalPlague.letterText>{0} cattle co {2}.\n\nBy accepting to be treated, and how can you make sure.\nThe following animals susceptible to the disease:\n\n{3}</Disease_AnimalPlague.letterText>
+</LanguageData>

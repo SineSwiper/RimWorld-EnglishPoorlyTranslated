@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Grenadier_Destructive.label>Journeyman (embryos)</Grenadier_Destructive.label>
+  <Grenadier_EMP.label>Cooley (Earthquake Grenadier)</Grenadier_EMP.label>
+  <Mercenary_Gunner.label>Leasing (gunmen)</Mercenary_Gunner.label>
+  <Mercenary_Sniper.label>Agir (sniper)</Mercenary_Sniper.label>
+  <Mercenary_Slasher.label>Add Engine (Special Forces)</Mercenary_Slasher.label>
+  <Mercenary_Heavy.label>Mercenary (heavy weapons)</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>Mercenaries (heavy weapons)</Mercenary_Heavy.labelPlural>
+  <PirateBoss.label>カシラ</PirateBoss.label>
+  <PirateBoss.labelPlural>the agent</PirateBoss.labelPlural>
+  <Mercenary_Elite.label>Merca (Elite)</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>Killer (elite)</Mercenary_Elite.labelPlural>
+</LanguageData>

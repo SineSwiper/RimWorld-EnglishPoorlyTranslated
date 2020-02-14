@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mood.label>心情</Mood.label>
+  <Mood.description>How lucky the emphasis on feelings not.If feelings are too low, there is a risk of collapse mind.In a few days or feel stuffy room several determine if continued for a murderer.</Mood.description>
+  <Food.label>食事</Food.label>
+  <Food.description>Finally, the amount of nutrients in food animals. Then gradually become malnourished, leading to a long death would be zero.</Food.description>
+  <Rest.label>睡眠</Rest.label>
+  <Rest.description>The amount of the next body sleep sleep.A drop to zero, it is a place to sleep.</Rest.description>
+  <Joy.label>娯楽</Joy.label>
+  <Joy.description>The game is expected for fun and enjoyment.repeat the tired in different ways.</Joy.description>
+  <Beauty.label>美しさ</Beauty.label>
+  <Beauty.description>There was a thrill in the context of visual representation of the beauty of virtue.Nice stuff cosmetics and beauty, such as improving images and rock and dust less disgusting things.</Beauty.description>
+  <Comfort.label>快適性</Comfort.label>
+  <Comfort.description>It will increase or sleep on the comfortable seat or casual furniture value.Courage, the bed can be achieved between sitting in the chair.</Comfort.description>
+  <Outdoors.label>room</Outdoors.label>
+  <Outdoors.description>If you do not want to stay in our house to reflect Arman.A long time ago there was a negative impact due to the snow.If you raise the bar in time in heaven and on reform and abroad.Room size, sometimes in different countries and examinations.In fact any time when you're out there is a problem that there are rules to live by subway.</Outdoors.description>
+  <RoomSize.label>間取り</RoomSize.label>
+  <!-- Alcohol_Beer.xml -->
+  <Chemical_Alcohol.label>invited</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>In order to avoid giving up alcohol, you should always use alcohol.</Chemical_Alcohol.description>
+  <!-- WakeUp.xml -->
+  <Chemical_WakeUp.label>to keep</Chemical_WakeUp.label>
+  <Chemical_WakeUp.description>To avoid the symptoms of addiction Looga backup, they must take medication regularly.</Chemical_WakeUp.description>
+  <!-- Smokeleaf.xml -->
+  <Chemical_Smokeleaf.label>sheet of smoke</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>Smoking tobacco addiction which is subject to regular medication-induced avoid withdrawal symptoms.</Chemical_Smokeleaf.description>
+  <!-- Psychite_Yayo.xml -->
+  <Chemical_Psychite.label>Saikaito</Chemical_Psychite.label>
+  <Chemical_Psychite.description>If the cancellation Saikaito addiction, prescription drugs are required.</Chemical_Psychite.description>
+  <!-- GoJuice.xml -->
+  <Chemical_GoJuice.label>Back juice</Chemical_GoJuice.label>
+  <Chemical_GoJuice.description>Characteristics, to avoid the removal of fluid from slavery, he was a regular drug use.</Chemical_GoJuice.description>
+  <!-- Luciferium.xml -->
+  <Chemical_Luciferium.label>Rushiferiumu</Chemical_Luciferium.label>
+  <Chemical_Luciferium.description>Human development mechanism of iron, potassium Cie night.\n\nIf the unit is not normal Rushiferiumu Mekanaito will be lost.Customers Affected insane violence continues, the death of your last warning.\n\nThis is done by results.</Chemical_Luciferium.description>
+  <!--	Ambrosia.xml -->
+  <Chemical_Ambrosia.label>Anburojia</Chemical_Ambrosia.label>
+  <Chemical_Ambrosia.description>Following the adoption of the permanent abolition Anburojia mark it is to avoid Anburojia.</Chemical_Ambrosia.description>
+</LanguageData>

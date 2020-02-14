@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beautiful aurora -->
+  <Aurora.stages.beautiful_aurora.label>Beautiful aurora</Aurora.stages.beautiful_aurora.label>
+  <!-- EN: The view is amazing. -->
+  <Aurora.stages.beautiful_aurora.description>It seems unbelievable.</Aurora.stages.beautiful_aurora.description>
+  <!-- EN: colonist left unburied -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>Plantation buried</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>Let us die, to sleep. No one in this area remains open to sleep. People are, for the tomb.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  <!-- EN: minor passion for my work -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>Ease</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <!-- EN: I enjoy my work. -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>I love my work.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <!-- EN: burning passion for my work -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>They wish to work</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <!-- EN: I love my work. I could do this all day, every day. -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>I love my job. I will work every day.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  <!-- EN: joywire -->
+  <Joywire.stages.joywire.label>Gl ü kxeeligkeitstship</Joywire.stages.joywire.label>
+  <!-- EN: It feels amazing. -->
+  <Joywire.stages.joywire.description>He does not remember.</Joywire.stages.joywire.description>
+  <!-- EN: naked -->
+  <Naked.stages.naked.label>No</Naked.stages.naked.label>
+  <!-- EN: I'm naked. This is humiliating. -->
+  <Naked.stages.naked.description>Naked. This is really an insult.</Naked.stages.naked.description>
+  <!-- EN: minor pain -->
+  <Pain.stages.minor_pain.label>Mild pain</Pain.stages.minor_pain.label>
+  <!-- EN: Ow... That hurts. -->
+  <Pain.stages.minor_pain.description>Three ... I was injured.</Pain.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <Pain.stages.serious_pain.label>More painful</Pain.stages.serious_pain.label>
+  <!-- EN: Ughhh... When will it end? -->
+  <Pain.stages.serious_pain.description>Ughhh ... This pain. Who oppose?</Pain.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <Pain.stages.intense_pain.label>Torture</Pain.stages.intense_pain.label>
+  <!-- EN: Make it stop... make it stop... make it stop... -->
+  <Pain.stages.intense_pain.description>What will stop ... Let's stop this ... It is forbidden!</Pain.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <Pain.stages.mindshattering_pain.label>Pain ready</Pain.stages.mindshattering_pain.label>
+  <!-- EN: AAAAAHHH! -->
+  <Pain.stages.mindshattering_pain.description>AAAHHH!</Pain.stages.mindshattering_pain.description>
+  <!-- EN: psychic soothe -->
+  <PsychicDrone.stages.psychic_soothe.label>Spirit of hope</PsychicDrone.stages.psychic_soothe.label>
+  <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
+  <PsychicDrone.stages.psychic_soothe.description>This may be a voice in my head the voice of the people appeared. They felt my nerves relaxed.</PsychicDrone.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDrone.stages.low_psychic_drone.label>Mental small hum</PsychicDrone.stages.low_psychic_drone.label>
+  <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
+  <PsychicDrone.stages.low_psychic_drone.description>It was like a tired smile. And voice and send it to me. I have a few words, but what it means to love.</PsychicDrone.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDrone.stages.moderate_psychic_drone.label>Buzz psychic medium</PsychicDrone.stages.moderate_psychic_drone.label>
+  <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
+  <PsychicDrone.stages.moderate_psychic_drone.description>I think if there is one. Sight. The sound will change, but it does not say. I would like to add to the pain of others. In order to prevent!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDrone.stages.high_psychic_drone.label>Hmm powerful bass</PsychicDrone.stages.high_psychic_drone.label>
+  <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
+  <PsychicDrone.stages.high_psychic_drone.description>Song is wild. It is very difficult to concentrate. I stopped zuschreie know how to respond. So I have to answer the call.</PsychicDrone.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDrone.stages.extreme_psychic_drone.label>Extreme mental rumored</PsychicDrone.stages.extreme_psychic_drone.label>
+  <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
+  <PsychicDrone.stages.extreme_psychic_drone.description>My heart is pounding and I'm sweating. I remember almost all the pain, suffering and all enemies. I have a nightmare I had a dream ...</PsychicDrone.stages.extreme_psychic_drone.description>
+  <!-- EN: psychic emanator soothe -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>Crazy spotlights hotel</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Psycho looks different feeling, but very relaxed.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  <!-- EN: sharing bed -->
+  <SharedBed.stages.sharing_bed.label>Shared bedroom</SharedBed.stages.sharing_bed.label>
+  <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
+  <SharedBed.stages.sharing_bed.description>I did not like alexander I face my bed want.</SharedBed.stages.sharing_bed.description>
+</LanguageData>

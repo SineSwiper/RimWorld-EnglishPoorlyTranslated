@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: attended party -->
+  <AttendedParty.stages.attended_party.label>I had a party</AttendedParty.stages.attended_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <AttendedParty.stages.attended_party.description>I have a fun party.</AttendedParty.stages.attended_party.description>
+  <!-- EN: attended wedding -->
+  <AttendedWedding.stages.attended_wedding.label>I married</AttendedWedding.stages.attended_wedding.label>
+  <!-- EN: It was great to see two people come together to build a future like that. -->
+  <AttendedWedding.stages.attended_wedding.description>We want to build the future of this beautiful two people.</AttendedWedding.stages.attended_wedding.description>
+  <!-- EN: got married to {0} -->
+  <GotMarried.stages.got_married_to.label>He {0}</GotMarried.stages.got_married_to.label>
+  <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
+  <GotMarried.stages.got_married_to.description>I'm married! Just start a new life with fun!</GotMarried.stages.got_married_to.description>
+</LanguageData>

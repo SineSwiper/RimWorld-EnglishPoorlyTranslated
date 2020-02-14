@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Consciousness.label>意識</Consciousness.label>
+  <Consciousness.labelMechanoids>data management</Consciousness.labelMechanoids>
+  <Sight.label>視覚</Sight.label>
+  <Hearing.label>聴覚</Hearing.label>
+  <Moving.label>Exercise Capacity</Moving.label>
+  <Manipulation.label>finger function</Manipulation.label>
+  <Talking.label>Communication skills</Talking.label>
+  <Talking.labelMechanoids>Work relations</Talking.labelMechanoids>
+  <Eating.label>Purpose of thawing food</Eating.label>
+  <Breathing.label>肺機能</Breathing.label>
+  <BloodFiltration.label>腎機能</BloodFiltration.label>
+  <BloodFiltration.labelMechanoids>The fluid around</BloodFiltration.labelMechanoids>
+  <BloodPumping.label>心機能</BloodPumping.label>
+  <BloodPumping.labelMechanoids>Generator Power</BloodPumping.labelMechanoids>
+  <Metabolism.label>Alimentation</Metabolism.label>
+</LanguageData>

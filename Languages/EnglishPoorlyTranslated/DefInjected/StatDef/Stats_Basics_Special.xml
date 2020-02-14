@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>Design conditions</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>The great value of the speed and building materials. Some materials, such as, Stein is one of only slowly, and others, such as. Brisk walk tree.</ConstructionSpeedFactor.description>
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>Healing potential</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Efficiency is the supply, injuries and illnesses. For patients with a high injury and high success probability healing complications of surgery can boast huge potential, it is rarely possible. Success, doctors, equipment, cleaning, operational effects on a little bit of luck.</MedicalPotency.description>
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>To be treated with the highest quality</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>This quality can be achieved in the process. Allowing doctors damaged food. more efficient and more reliable.</MedicalQualityMax.description>
+</LanguageData>

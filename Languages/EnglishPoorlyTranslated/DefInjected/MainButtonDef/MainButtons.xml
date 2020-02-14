@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animals -->
+  <Animals.label>Animals</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>The colony at the local animal treatment decisions.</Animals.description>
+  <!-- EN: architect -->
+  <Architect.label>Architect</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>This is to save you, explaining that settlers built the plant. Ad should.</Architect.description>
+  <!-- EN: assign -->
+  <Assign.label>Part</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Trio behavior of settlers. Z. What kind of clothes to wear, what remedies should be taken, or how to respond to surrounding enemies.</Assign.description>
+  <!-- EN: factions -->
+  <Factions.label>Particles</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>See other groups around the world, and it is with them.</Factions.description>
+  <!-- EN: history -->
+  <History.label>Story</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Let history record.</History.description>
+  <!-- EN: inspect -->
+  <Inspect.label>To find</Inspect.label>
+  <!-- EN: menu -->
+  <Menu.label>Menu</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>You can download or complete the game to save, change the setting.</Menu.description>
+  <!-- EN: research -->
+  <Research.label>Research</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>The opportunity to explore and study my current research.</Research.description>
+  <!-- EN: restrict -->
+  <Restrict.label>Border</Restrict.label>
+  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <Restrict.description>As a daily operation of settlements in the countries in which it can be limited, it is now.</Restrict.description>
+  <!-- EN: wildlife -->
+  <Wildlife.label>Fauna</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>List of wildlife in the area, or whether the victim is tied to maintaining a presence.</Wildlife.description>
+  <!-- EN: work -->
+  <Work.label>Business</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>What role do you get settler.</Work.description>
+  <!-- EN: world -->
+  <World.label>Land</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Turn on the world map and manage a group of travelers.</World.description>
+</LanguageData>

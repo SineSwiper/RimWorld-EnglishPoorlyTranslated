@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: clear -->
+  <Clear.label>Heaven</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Two stars accelerate. Rules or services.</Clear.description>
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>Dry storm</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>As the fire burned dry lightning storm can be dangerous, but there is no rain, and the negative impact.</DryThunderstorm.description>
+  <!-- EN: fog -->
+  <Fog.label>Wrong</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Frequent reduce the accuracy of weapons you can reach the long term.</Fog.description>
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>Light rain</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Reduce speed and accuracy.</FoggyRain.description>
+  <!-- EN: rain -->
+  <Rain.label>Rain</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Rain reduced accuracy, long-range weapons, in order to reduce the speed of the cleaning flame.</Rain.description>
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>Rainy time</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Flash fire, but also wet cleaning. Rain accuracy and decreases speed.</RainyThunderstorm.description>
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>Light snow</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Exact weight of the weapon from a distance, slow down and extinguish the fire.</SnowGentle.description>
+  <!-- EN: hard snow -->
+  <SnowHard.label>Heavy snow</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Far away from the snow, hand, reduces the accuracy of speed and power on the track.</SnowHard.description>
+</LanguageData>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ArtDescriptionRoot_HasTale -->
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->The [depiction] eg copy calendar: thrills [DATE] "[tale_noun]". </li>
+    <li>context_sentence->The [depiction], schedule: [DATE] [tale_noun] related matters. ". </li>
+    <li>context_sentence->This [depiction] calendar: [DATE] for example, tells the story in "[tale_noun] now. </li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  <!-- ArtDescriptionRoot_Taleless -->
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  <!-- ArtDescriptionUtility_Global -->
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group->[artextra_clause]. [style_clause]. </li>
+    <li>style_group->[artextra_clause]. [artconjunction] [style_clause]. </li>
+    <li>style_group->[style_clause]. </li>
+    <li>style_group->[artextra_clause]. </li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->An interesting contrast, </li>
+    <li>artconjunction->Shorten surgery </li>
+    <li>artconjunction->'Come on, </li>
+    <li>artconjunction->Surprisingly, </li>
+    <li>artconjunction->Provocative, however, </li>
+    <li>artconjunction->But, like any special </li>
+    <li>artconjunction->Although some people want it, </li>
+    <li>artconjunction->At the same time, </li>
+    <!--=== artextra_clause ===-->
+		<!-- Subimage included -->
+    <li>artextra_clause->It is like using [subimageplural]</li>
+    <li>artextra_clause->There are no images [subimageplural]</li>
+    <li>artextra_clause->There [subimagesingle] [side_position]</li>
+    <li>artextra_clause->before [subimageany]</li>
+    <li>artextra_clause->The lower part of the picture [subimageany]</li>
+    <!-- Scene is near terrain -->
+    <li>artextra_clause->The scene takes place in the middle [Community]</li>
+    <li>artextra_clause->This scene took place on the outskirts of this [Community]</li>
+    <li>artextra_clause->Buckwheat [TerrainFeature] scene occurs [Community]</li>
+    <!-- Pawn in side position -->
+    <li>artextra_clause->To [Character]'re [idles] [side_position]</li>
+    <li>artextra_clause->[PAWN_adj] [Character]'re [idles] on [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character] appeared [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [side_position] [Character]</li>
+    <li>artextra_clause->[Animal]'re [idles] [side_position]</li>
+    <!-- One-offs -->
+    <li>artextra_clause->If you look at cross eyes, information structure represents [composition] [subimageany] karatanya</li>
+    <li>artextra_clause->[PersonJob] [PAWN_adj] [emotional_expression] day look</li>
+    <li>artextra_clause->If [PAWN_adj] [PersonJob] end at the end I want to face the feeling of openness [emotional_expression]</li>
+    <li>artextra_clause->And partly from the start to finish [PAWN_adj] [PersonJob]</li>
+    <li>artextra_clause->This shows [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->[Character]</li>
+    <li>subimagesingle->[TerrainFeature]</li>
+    <li>subimagesingle->There [Community]</li>
+    <li>subimagesingle->[TreeType] Trees</li>
+    <li>subimagesingle->May [Vegetable]</li>
+    <li>subimagesingle->[Animal] of [AnimalGroup]</li>
+    <li>subimageplural(p=3)->Web [Character] [Quantity_adjphrase]</li>
+    <li>subimageplural->[Vegetable] of [Quantity_adjphrase]</li>
+    <li>subimageplural->[Shape] on [Quantity_adjphrase]</li>
+    <li>pawn_adj->dead</li>
+    <li>pawn_adj->cry</li>
+    <li>pawn_adj->I wound</li>
+    <li>pawn_adj->Changed</li>
+    <li>pawn_adj->Posts</li>
+    <li>pawn_adj->Saturn</li>
+    <li>pawn_adj->a love</li>
+    <li>pawn_adj->before</li>
+    <li>pawn_adj->ex Area</li>
+    <li>pawn_adj->[Gore] of thapuna</li>
+    <li>pawn_adj->grey</li>
+    <li>pawn_adj->[Apparel]</li>
+    <li>pawn_adj->This is not [Weapon]</li>
+    <li>pawn_adj->Home should [Vegetable]</li>
+    <li>emotional_expression->smile</li>
+    <li>emotional_expression->species</li>
+    <li>emotional_expression->see</li>
+    <li>emotional_expression->I would like to</li>
+    <li>emotional_expression->stain</li>
+    <li>emotional_expression->dangerous</li>
+    <li>emotional_expression->inflated</li>
+    <li>emotional_expression->love</li>
+    <li>idles->his</li>
+    <li>idles->on</li>
+    <li>idles->silent</li>
+    <li>idles->other games</li>
+    <li>idles->false</li>
+    <li>idles->and</li>
+    <li>idles->production</li>
+    <li>idles->Trying to see the scene</li>
+    <li>idles->They tried turning style</li>
+    <li>idles->floating</li>
+    <li>side_position->I was biased</li>
+    <li>side_position->background</li>
+    <li>side_position->Tokage</li>
+    <li>side_position->Photos below</li>
+    <li>side_position->The top image</li>
+    <li>side_position->The lev side of the building</li>
+    <li>side_position->also featured</li>
+    <li>side_position->edge description</li>
+    <li>side_position->Near the head</li>
+    <li>side_position->That many of the theme</li>
+    <li>side_position->topics</li>
+    <li>side_position->Back focus</li>
+    <!--=== style_clause ===-->
+    <li>style_clause(p=4)->In this study, [ConceptAny] I am [symbolizes]</li>
+    <li>artextra_clause->If [side_position] [ConceptAny] [symbolizes] by TA f [subimagesingle]</li>
+    <li>style_clause->This work, [ConceptAny] is the idea, it became a style [artstyle_adj]</li>
+    <li>style_clause->This method [artstyle_adj]</li>
+    <li>style_clause->[artstyle_adj] backyard and fighting styles reflect the views of the main [artstyle_adj]</li>
+    <li>style_clause->[composition], style structure is [artstyle_adj]</li>
+    <li>style_clause->All in all it looks like a system [composition]</li>
+    <li>style_clause->Both models include things [artstyle_adj] body [artstyle_adj]</li>
+    <li>style_clause->This image, or [ConceptAny] and he revealed [ConceptAny]</li>
+    <li>style_clause->This figure, although [ConceptAny] and [ConceptAny]</li>
+    <li>style_clause->[composition] mediation and conflict styles, such as images and [artstyle_adj]</li>
+    <li>style_clause->Nuances of this work, [Color] be changed from slow [Color]</li>
+    <li>style_clause->Like almost every species appears to be structural [composition]</li>
+    <li>symbolizes->Represents</li>
+    <li>symbolizes->representative</li>
+    <li>symbolizes->show</li>
+    <li>symbolizes->It seems to show</li>
+    <li>symbolizes->it seems to represent</li>
+    <li>symbolizes->What do you see that recalls</li>
+    <li>symbolizes->And the emotion of the message</li>
+    <li>symbolizes->Think about what you goodbye</li>
+    <li>symbolizes->show</li>
+    <li>symbolizes->philosophies and theories</li>
+    <li>depicts->certificate</li>
+    <li>depicts->show</li>
+    <li>depicts->This image</li>
+    <li>depicts->And subscriptions to survive</li>
+    <li>depicts->pictures of</li>
+    <li>depicts->Show</li>
+    <li>depicts->This photo was taken in the form of</li>
+    <li>depiction->good</li>
+    <li>depiction->Photo</li>
+    <li>depiction->picture</li>
+    <li>depiction->Expression</li>
+    <li>depiction->Pictures</li>
+    <li>depiction->Art Walk</li>
+    <li>composition->Triangular</li>
+    <li>composition->Rectangle</li>
+    <li>composition->rectangle</li>
+    <li>composition->It's dangerous</li>
+    <li>composition->established a good balance</li>
+    <li>composition->dynamic</li>
+    <li>composition->resident</li>
+    <li>composition->directly</li>
+    <li>composition->A Level</li>
+    <li>composition->Central</li>
+    <li>artstyle_adj->Originating</li>
+    <li>artstyle_adj->light</li>
+    <li>artstyle_adj->The complexity and realism</li>
+    <li>artstyle_adj->surreal</li>
+    <li>artstyle_adj->Classical</li>
+    <li>artstyle_adj->modern</li>
+    <li>artstyle_adj->mark</li>
+    <li>artstyle_adj->No device moves</li>
+    <li>artstyle_adj->for every</li>
+    <li>artstyle_adj->The stocky</li>
+    <li>artstyle_adj->Evaluation of geometric patterns</li>
+    <li>artstyle_adj->Impressionists</li>
+    <li>artstyle_adj->representatives of school</li>
+    <li>artstyle_adj->In this photo</li>
+    <li>artstyle_adj->baroque</li>
+    <li>artstyle_adj->Dadaist</li>
+    <li>artstyle_adj->We expect art</li>
+    <li>artstyle_adj->Working Pixel</li>
+    <li>artstyle_adj->FOBUS</li>
+    <li>artstyle_adj->Ordinary people are divided</li>
+    <li>artstyle_adj->Reference</li>
+    <li>artstyle_adj->such institutions</li>
+    <li>artstyle_adj->geometric</li>
+    <li>artstyle_adj->abstraction</li>
+    <li>artstyle_adj->strange</li>
+    <li>artstyle_adj->such pop</li>
+    <li>artstyle_adj->Minimal as Art</li>
+    <li>artstyle_adj->new Classic</li>
+    <li>artstyle_adj->shade cells</li>
+    <li>artstyle_adj->postimpressionism</li>
+    <li>artstyle_adj->PWR comment</li>
+    <li>artstyle_adj->and</li>
+    <li>artstyle_adj->Romanesque</li>
+    <li>artstyle_adj->weird</li>
+    <li>artstyle_adj->voice graffiti</li>
+    <li>artstyle_adj->Fashion Check</li>
+    <li>artstyle_adj->sex</li>
+    <li>artstyle_adj->intelligence community</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+</LanguageData>

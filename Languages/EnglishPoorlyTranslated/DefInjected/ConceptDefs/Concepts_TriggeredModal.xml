@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--=============== Concepts taught in modal dialogs ===========-->
+  <TradeGoodsMustBeNearBeacon.label>Trade between the stars</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>Transactions with merchants in a row, it is important for the business group about the construction of the pool.</TradeGoodsMustBeNearBeacon.helpText>
+  <ArrestingCreatesEnemies.label>Disability and the threat of kidnapping</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>Warning: if you do not, you can try some sad.\n\nDetained persons, not refugees, they are on opposing sides.</ArrestingCreatesEnemies.helpText>
+  <SwitchFlickingDesignation.label>mode switch</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>[Optional] only buyer and off, and so on.\n\nDue to the direct link to the community ( "work"), nothing happens.</SwitchFlickingDesignation.helpText>
+  <MaxNumberOfPlayerSettlements.label>The maximum number of colonies</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>[Warning]: RimWorld designed to play a colony at the time. But you have to finish the game, it is considered an imbalance and poor performance can be a lot of energy. Within easy reach, at least in the beginning, it is advisable to play one of the lead.</MaxNumberOfPlayerSettlements.helpText>
+</LanguageData>

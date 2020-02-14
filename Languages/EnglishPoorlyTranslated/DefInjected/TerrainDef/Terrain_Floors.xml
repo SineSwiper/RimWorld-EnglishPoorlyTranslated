@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blue carpet -->
+  <CarpetBlue.label>Matt blue</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>Blue shag carpet in winter.</CarpetBlue.description>
+  <!-- EN: cream carpet -->
+  <CarpetCream.label>Cream carpets</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <CarpetCream.description>With cream-colored prayer rug.</CarpetCream.description>
+  <!-- EN: dark carpet -->
+  <CarpetDark.label>Roog gray</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <CarpetDark.description>Our charge for a professional-looking carpet.</CarpetDark.description>
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>Green carpet</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Green carpet. age "color the world" ".</CarpetGreen.description>
+  <!-- EN: red carpet -->
+  <CarpetRed.label>Red carpet</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Beautiful red carpet of hand.</CarpetRed.description>
+  <!-- EN: concrete -->
+  <Concrete.label>Concrete</Concrete.label>
+  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Heavy concrete. When possible, as it is faster and cheaper. But it is also very ugly.</Concrete.description>
+  <!-- EN: gold tile -->
+  <GoldTile.label>Ceramic gold</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>What is much more important than the image that flows into gold bullion. They are exceptional individuals expensive, look good and feel it's a great snob is actually lived.</GoldTile.description>
+  <!-- EN: metal tile -->
+  <MetalTile.label>Tripped</MetalTile.label>
+  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Sheet metal for the spacecraft to be at first glance. Nice and clean, smooth surface is small.</MetalTile.description>
+  <!-- EN: paved tile -->
+  <PavedTile.label>Concrete floor</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Specifically, simple slab. Fast and cheap, but you can be more neutral, more neutral view.</PavedTile.description>
+  <!-- EN: silver tile -->
+  <SilverTile.label>Silver plate</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Royal look forward. Silver tiles could see peace and a bonus very good.</SilverTile.description>
+  <!-- EN: sterile tile -->
+  <SterileTile.label>White without nectar</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Clean pillows development and extension room clean. Room for additional clinics and research laboratories to improve results. It takes a long time to get this piece.</SterileTile.description>
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>Wooden floors</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>A wooden floor. Talk, feel cozy. This easy to install, but it is very stable.</WoodPlankFloor.description>
+</LanguageData>

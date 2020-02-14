@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: afro -->
+  <Afro.label>Afro</Afro.label>
+  <!-- EN: bob -->
+  <Bob.label>Bob</Bob.label>
+  <!-- EN: braided knot -->
+  <BraidedKnot.label>Braided wick</BraidedKnot.label>
+  <!-- EN: brief ponytail -->
+  <BriefPonytail.label>Short tail</BriefPonytail.label>
+  <!-- EN: burgundy -->
+  <Burgundy.label>Burgundy</Burgundy.label>
+  <!-- EN: curly -->
+  <Curly.label>Frizz</Curly.label>
+  <!-- EN: firestarter -->
+  <Firestarter.label>Firestarter</Firestarter.label>
+  <!-- EN: flowy -->
+  <Flowy.label>Curly</Flowy.label>
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>Pompadour</GreasySwoop.label>
+  <!-- EN: long -->
+  <Long.label>Younger</Long.label>
+  <!-- EN: messy -->
+  <Messy.label>Slatternly</Messy.label>
+  <!-- EN: mohawk -->
+  <Mohawk.label>Iroquois</Mohawk.label>
+  <!-- EN: mop -->
+  <Mop.label>Mop</Mop.label>
+  <!-- EN: pigtails -->
+  <Pigtails.label>Gallon</Pigtails.label>
+  <!-- EN: princess -->
+  <Princess.label>Princess</Princess.label>
+  <!-- EN: scatman -->
+  <Scatman.label>Scatman</Scatman.label>
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>Scorpion tail</ScorpionTail.label>
+  <!-- EN: senorita -->
+  <Senorita.label>Senearita</Senorita.label>
+  <!-- EN: shaved -->
+  <Shaved.label>Bald head</Shaved.label>
+  <!-- EN: spikes -->
+  <Spikes.label>Elephant</Spikes.label>
+  <!-- EN: topdog -->
+  <Topdog.label>Owner</Topdog.label>
+  <!-- EN: troubadour -->
+  <Troubadour.label>A harp</Troubadour.label>
+  <!-- EN: tuft -->
+  <Tuft.label>Gestrubbelt</Tuft.label>
+  <!-- EN: wavy -->
+  <Wavy.label>Cardboard</Wavy.label>
+</LanguageData>

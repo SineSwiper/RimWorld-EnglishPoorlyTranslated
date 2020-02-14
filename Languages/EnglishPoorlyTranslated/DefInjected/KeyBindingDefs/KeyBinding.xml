@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MapDolly_Up.label>camera</MapDolly_Up.label>
+  <MapDolly_Down.label>under Room</MapDolly_Down.label>
+  <MapDolly_Left.label>The camera on the right</MapDolly_Left.label>
+  <MapDolly_Right.label>the camera right</MapDolly_Right.label>
+  <MapZoom_In.label>Enlarge</MapZoom_In.label>
+  <MapZoom_Out.label>knee</MapZoom_Out.label>
+  <!-- Map play -->
+<!--	<ArchitectMode.label>アーキテクトメニューを表示</ArchitectMode.label> -->
+  <Accept.label>承諾</Accept.label>
+  <Cancel.label>中止</Cancel.label>
+  <TakeScreenshot.label>take a Screenshot</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>Changing the display mode</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>Select the next cell</SelectNextInCell.label>
+  <TogglePause.label>low / unknown</TogglePause.label>
+  <TimeSpeed_Normal.label>Game Speed: Normal</TimeSpeed_Normal.label>
+  <TimeSpeed_Fast.label>Game speed: x 2</TimeSpeed_Fast.label>
+  <TimeSpeed_Superfast.label>The speed of the game: X3</TimeSpeed_Superfast.label>
+  <TimeSpeed_Ultrafast.label>Game Speed: (In progress) X4</TimeSpeed_Ultrafast.label>
+  <PreviousColonist.label>Select the previous immigrants</PreviousColonist.label>
+  <NextColonist.label>By choosing to live in the coming</NextColonist.label>
+  <ToggleRoomStatsDisplay.label>conversion rates</ToggleRoomStatsDisplay.label>
+  <ToggleBeautyDisplay.label>changing the display beauty</ToggleBeautyDisplay.label>
+  <!-- Misc (re-used) -->
+  <Misc1.label>1 other</Misc1.label>
+  <Misc2.label>The other two</Misc2.label>
+  <Misc3.label>and other 3</Misc3.label>
+  <Misc4.label>Other 4</Misc4.label>
+  <Misc5.label>some 5</Misc5.label>
+  <Misc6.label>6 others</Misc6.label>
+  <Misc7.label>Other 7</Misc7.label>
+  <Misc8.label>Eight others</Misc8.label>
+  <Misc9.label>some 9</Misc9.label>
+  <Misc10.label>Other 10</Misc10.label>
+  <Misc11.label>another 11</Misc11.label>
+  <Misc12.label>The remaining 12</Misc12.label>
+  <!-- Selection special -->
+  <Command_TogglePower.label>power light</Command_TogglePower.label>
+  <Command_ItemForbid.label>password protection</Command_ItemForbid.label>
+  <Command_ColonistDraft.label>徴兵</Command_ColonistDraft.label>
+  <!-- Architect: Common -->
+  <Designator_Cancel.label>中止</Designator_Cancel.label>
+  <Designator_Deconstruct.label>破壊</Designator_Deconstruct.label>
+  <Designator_RotateLeft.label>turn to the right</Designator_RotateLeft.label>
+  <Designator_RotateRight.label>clockwise</Designator_RotateRight.label>
+  <!-- Modifiers -->
+  <ModifierIncrement_10x.label>The growth of the X10</ModifierIncrement_10x.label>
+  <ModifierIncrement_100x.label>X100 has increased</ModifierIncrement_100x.label>
+  <QueueOrder.label>In this matrix</QueueOrder.label>
+  <Dev_TickOnce.label>sign of time</Dev_TickOnce.label>
+  <Dev_ToggleGodMode.label>spiritual way last</Dev_ToggleGodMode.label>
+  <Dev_ToggleDebugLog.label>Go to debug procedures</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugActionsMenu.label>Edit menu using the debugging</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugLogMenu.label>I had to change debug log</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugInspector.label>Remove to allow an inspector</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugSettingsMenu.label>Make a list correction</Dev_ToggleDebugSettingsMenu.label>
+</LanguageData>

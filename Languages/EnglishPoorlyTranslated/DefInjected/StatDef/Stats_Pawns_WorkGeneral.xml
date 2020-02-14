@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>Speed of processing animals</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>How fast milking animal or human resources.</AnimalGatherSpeed.description>
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>Work meat processing</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>When a person has effective shear, milk or other resources. It reduces the chances of losing a high percentage.</AnimalGatherYield.description>
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>Speed of construction</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>How fast can you make nothing.</ConstructionSpeed.description>
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>Building dispute</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something. Failing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Perhaps the owner of the colonial building. This does not mean that a lot of time and material losses.</ConstructSuccessChance.description>
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>To improve the chances of success</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Perhaps it is because of a successful colony of repair. This means that at the wrong time and material losses. Note: this information is valid for the device failed. Anything else would be in line with.</FixBrokenDownBuildingSuccessChance.description>
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>Secret fighter</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack. -->
+  <HuntingStealth.description>This reduces the value of the fishermen animal hunting opportunities. That means no secret 0% reduction. Animals are not 100%, rather than the driver.</HuntingStealth.description>
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>The rate degradation</MiningSpeed.label>
+  <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
+  <MiningSpeed.description>How to accelerate the reduction of operating and mining equipment.</MiningSpeed.description>
+  <!-- EN: mining yield -->
+  <MiningYield.label>The destruction of revenues</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
+  <MiningYield.description>How productive mining equipment and the production of the event. Because he really is healthy. No solution on the rock.</MiningYield.description>
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>Crops</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>You can bring people together effectively. To reduce production costs, increase the likelihood of damage or accidental.</PlantHarvestYield.description>
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>Speed east</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>How quickly a person and planting crops.</PlantWorkSpeed.description>
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>Speed research</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>How fast and how quickly you can search to find something like a weapon.</ResearchSpeed.description>
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>Speed list</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>You can quickly and easily on the floor and wall.</SmoothingSpeed.description>
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>Speed of operation</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>How can one person per work quickly.</WorkSpeedGlobal.description>
+</LanguageData>

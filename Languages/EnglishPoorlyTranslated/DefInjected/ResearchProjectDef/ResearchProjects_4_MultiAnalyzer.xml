@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>Advanced manufacturing</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Now add the component to those made from common ingredients and other materials.</AdvancedFabrication.description>
+  <!-- EN: bionics -->
+  <Bionics.label>Bionic</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Around the area of damage to the high-tech bionic body. To create a professional service standards.</Bionics.description>
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>Energy weapons</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Damage to the electric drill gun and more. Note: this is a high-tech components.</ChargedShot.description>
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>Taetsitshireletso sleep cartridge</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>The adapter cap sleep free tour. The colonists will be put in an artificial coma.</Cryptosleep.description>
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>Sting</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Raw materials will be improved by making the depth of tiefenbohrtürme ground. Raw materials that need to get a perfect scanner.</DeepDrilling.description>
+  <!-- EN: fabrication -->
+  <Fabrication.label>In the form</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Barley production plant can produce a variety of high-tech or energy projects and armor workshops to achieve.</Fabrication.description>
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>Depth scanner</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
+  <GroundPenetratingScanner.description>Start depth scanner, de gradable items can be found in the depths of the earth. The need for the creation of electronic components.</GroundPenetratingScanner.description>
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>Analyzer</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Built analyzer. This improves the speed and allow the investigation to continue looking.</MultiAnalyzer.description>
+  <!-- EN: powered armor -->
+  <PoweredArmor.label>Energy armor</PoweredArmor.label>
+  <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
+  <PoweredArmor.description>About energy saving point of the helmet and armor. Note: requires additional data.</PoweredArmor.description>
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>Turret Stratum-cone</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Make uranium weapons were built. Show that uranium protestant jectile deep look plasteel paper. However, using size.</SniperTurret.description>
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>Monitor</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Vital to follow. These improvements lay in a hospital bed for the quality of patient care (not a regular hospital bed bed!).</VitalsMonitor.description>
+</LanguageData>

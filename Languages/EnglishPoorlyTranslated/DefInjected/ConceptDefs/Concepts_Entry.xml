@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--===================== Concepts taught in the entry screens ===================-->
+  <WorldCameraMovement.label>camera movement</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>mouse wheel to zoom in or {keyword: MapZoom_In}: {main} Key MapZoom_Out.\n\nPAN key: MapDolly_Up {} - {{main}: MapDolly_Left - basic: MapDolly_Down} {main}: Do MapDolly_Right or the main drag, click the mouse wheel.</WorldCameraMovement.helpText>
+</LanguageData>

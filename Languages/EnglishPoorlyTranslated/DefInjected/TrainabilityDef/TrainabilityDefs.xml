@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced -->
+  <Advanced.label>Gut</Advanced.label>
+  <!-- EN: intermediate -->
+  <Intermediate.label>What</Intermediate.label>
+  <!-- EN: none -->
+  <None.label>There is, you</None.label>
+  <!-- EN: simple -->
+  <Simple.label>But</Simple.label>
+</LanguageData>

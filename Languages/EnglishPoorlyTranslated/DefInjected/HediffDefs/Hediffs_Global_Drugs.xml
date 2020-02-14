@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Alcohol_Beer.xml -->
+  <AlcoholHigh.label>Beverage</AlcoholHigh.label>
+  <AlcoholHigh.labelNoun>Stuck</AlcoholHigh.labelNoun>
+  <AlcoholHigh.stages.warm.label>Here intoxicated</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.tipsy.label>Addictive</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.drunk.label>drunkenness</AlcoholHigh.stages.drunk.label>
+  <AlcoholHigh.stages.hammered.label>drunk</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.blackout.label>light drunkenness</AlcoholHigh.stages.blackout.label>
+  <Hangover.label>drowsiness</Hangover.label>
+  <Hangover.labelNoun>Drugs</Hangover.labelNoun>
+  <Hangover.stages.slight.label>soft</Hangover.stages.slight.label>
+  <Hangover.stages.strong.label>serious</Hangover.stages.strong.label>
+  <Hangover.stages.pounding.label>dreadful</Hangover.stages.pounding.label>
+  <AlcoholTolerance.label>Alcohol-resistant</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.small-0.label>under</AlcoholTolerance.stages.small-0.label>
+  <AlcoholTolerance.stages.small-1.label>small</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.large.label>thick</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.massive.label>our</AlcoholTolerance.stages.massive.label>
+  <AlcoholAddiction.label>alcohol</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.withdrawal.label>cancellation</AlcoholAddiction.stages.withdrawal.label>
+  <!-- WakeUp.xml -->
+  <WakeUpHigh.label>Eggs exciting Status</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>high level alarm</WakeUpHigh.labelNoun>
+  <WakeUpTolerance.label>security alert</WakeUpTolerance.label>
+  <WakeUpTolerance.stages.small-0.label>little</WakeUpTolerance.stages.small-0.label>
+  <WakeUpTolerance.stages.small-1.label>small</WakeUpTolerance.stages.small-1.label>
+  <WakeUpTolerance.stages.large.label>Great</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>more</WakeUpTolerance.stages.massive.label>
+  <WakeUpAddiction.label>wake addiction</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.withdrawal.label>Signs of recovery</WakeUpAddiction.stages.withdrawal.label>
+  <!-- Smokeleaf.xml -->
+  <SmokeleafHigh.label>Alcoholism and leaves smoke</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>High Smoke leaves</SmokeleafHigh.labelNoun>
+  <SmokeleafTolerance.label>Smoke Sheet Resistance</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.small-0.label>Small</SmokeleafTolerance.stages.small-0.label>
+  <SmokeleafTolerance.stages.small-1.label>small</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.large.label>big</SmokeleafTolerance.stages.large.label>
+  <SmokeleafTolerance.stages.massive.label>All</SmokeleafTolerance.stages.massive.label>
+  <SmokeleafAddiction.label>Smoking harm on paper</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.withdrawal.label>withdrawal symptoms</SmokeleafAddiction.stages.withdrawal.label>
+  <!-- Psychite_Flake.xml -->
+  <FlakeHigh.label>Interested Flex</FlakeHigh.label>
+  <FlakeHigh.labelNoun>majority</FlakeHigh.labelNoun>
+  <PsychiteTeaHigh.label>Fortunately Endlessly cyclical dragon tea</PsychiteTeaHigh.label>
+  <PsychiteTeaHigh.labelNoun>high saikaitea</PsychiteTeaHigh.labelNoun>
+  <!-- Psychite_Yayo.xml -->
+  <YayoHigh.label>Josh states with Ieiyo</YayoHigh.label>
+  <YayoHigh.labelNoun>Ieiyo</YayoHigh.labelNoun>
+  <PsychiteTolerance.label>Saikaito resistance</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.small-0.label>Short</PsychiteTolerance.stages.small-0.label>
+  <PsychiteTolerance.stages.small-1.label>small</PsychiteTolerance.stages.small-1.label>
+  <PsychiteTolerance.stages.large.label>great</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.massive.label>more</PsychiteTolerance.stages.massive.label>
+  <PsychiteAddiction.label>Saikaito bad</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.withdrawal.label>withdrawal symptoms</PsychiteAddiction.stages.withdrawal.label>
+  <!-- GoJuice.xml -->
+  <GoJuiceHigh.label>Teak is an avid Go</GoJuiceHigh.label>
+  <GoJuiceHigh.labelNoun>Go high juice</GoJuiceHigh.labelNoun>
+  <GoJuiceTolerance.label>juice resistant to Go</GoJuiceTolerance.label>
+  <GoJuiceTolerance.stages.small-0.label>small</GoJuiceTolerance.stages.small-0.label>
+  <GoJuiceTolerance.stages.small-1.label>small</GoJuiceTolerance.stages.small-1.label>
+  <GoJuiceTolerance.stages.large.label>great</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.massive.label>Tales</GoJuiceTolerance.stages.massive.label>
+  <GoJuiceAddiction.label>Go addictive water</GoJuiceAddiction.label>
+  <GoJuiceAddiction.stages.withdrawal.label>Removal</GoJuiceAddiction.stages.withdrawal.label>
+  <!-- Luciferium.xml -->
+  <LuciferiumHigh.label>Hriushifaeriumu</LuciferiumHigh.label>
+  <LuciferiumAddiction.label>ru habits do not stop ri'umu</LuciferiumAddiction.label>
+  <LuciferiumAddiction.stages.unmet.label>not exactly</LuciferiumAddiction.stages.unmet.label>
+  <!-- MalariBlock.xml -->
+  <PenoxycylineHigh.label>peneakisirin</PenoxycylineHigh.label>
+  <AmbrosiaHigh.label>The higher the position of nbu rojia</AmbrosiaHigh.label>
+  <AmbrosiaTolerance.label>Anburojia resistant</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.stages.small-0.label>small</AmbrosiaTolerance.stages.small-0.label>
+  <AmbrosiaTolerance.stages.small-1.label>small</AmbrosiaTolerance.stages.small-1.label>
+  <AmbrosiaTolerance.stages.large.label>more</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.massive.label>Maximum</AmbrosiaTolerance.stages.massive.label>
+  <AmbrosiaAddiction.label>ate Anburojia</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.stages.withdrawal.label>Hunting</AmbrosiaAddiction.stages.withdrawal.label>
+</LanguageData>

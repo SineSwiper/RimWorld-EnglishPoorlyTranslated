@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancients -->
+  <Ancients.label>Vahana</Ancients.label>
+  <Ancients.description>The people in the past.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Up</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>Father</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>To appoint</Ancients.pawnsPlural>
+  <!-- EN: ancients -->
+  <AncientsHostile.label>Correction</AncientsHostile.label>
+  <AncientsHostile.description>Relationships with the people.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Carry out</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>Grandfather</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>Driving</AncientsHostile.pawnsPlural>
+  <!-- EN: insects -->
+  <Insect.label>Insect</Insect.label>
+  <Insect.description>In general, the feeling is the study of insects.</Insect.description>
+  <!-- EN: insects -->
+  <Insect.fixedName>Insect</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>Line</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>Insects</Insect.pawnsPlural>
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Metshanoids crowd</Mechanoid.label>
+  <Mechanoid.description>Crowd robot the ability to self-replicate.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>Group mechanoids</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>Mechanoid</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>Mechanoids</Mechanoid.pawnsPlural>
+</LanguageData>

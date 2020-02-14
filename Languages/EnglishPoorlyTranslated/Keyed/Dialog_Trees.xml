@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FactionGreetingHostile>{0} throw-in microphone and distribution of some of the epithets.</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>{0_possessive} base load offering a gesture of goodwill or {0_possessive} {0} was released from prison. And {0_pronoun}.\n\nMuttering {0_pronoun} attack was interrupted.</FactionGreetingHostileAppreciative>
+  <FactionGreetingWary>Ask {0} happy company with {NEGOTIATOR_labelShort} caution that you want to manage.</FactionGreetingWary>
+  <FactionGreetingWarm>Meet {NEGOTIATOR_labelShort} {0} warm and {LEADER_pronoun} will ask what you can do to help.</FactionGreetingWarm>
+  <Disconnect>Separation</Disconnect>
+  <!-- Gift offer -->
+  <OfferGift>Give a gift</OfferGift>
+  <MustBeAlly>friend</MustBeAlly>
+  <NeedGoodwill>good faith has {0}</NeedGoodwill>
+  <NeedSilverLaunchable>want {0} unnecessary trading mountain of silver</NeedSilverLaunchable>
+  <NotEnoughSilver>not enough money</NotEnoughSilver>
+  <SilverForGoodwill>{1} {0} of love silver bear</SilverForGoodwill>
+  <SilverGiftSent>thank you {0}.\n\n(faith in {1} good)</SilverGiftSent>
+  <!-- Trade caravan request -->
+  <RequestTrader>Retail industry (as {0} goodwill)</RequestTrader>
+  <ChooseTraderKind>{0} you want to ask what type of business tourists.</ChooseTraderKind>
+  <TraderSent>{0} 'agree that the air. This comes after a few days.</TraderSent>
+  <WaitTime>expected {0}</WaitTime>
+  <!-- AI core request -->
+  <RequestAICoreInformation>{0} position request (price: {1} black)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} sends a request message, and she, like good luck.</RequestAICoreInformationResult>
+  <NoKnownAICore>no space</NoKnownAICore>
+  <!-- Military aid request -->
+  <RequestMilitaryAid>Requested military assistance (cost: {0} intention)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>fighting will not help your department {0} other enemies. This is now {1} I covered his face with you. However, if you want to support?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>However, they said.</CallConfirm>
+  <CallCancel>No, it does not matter.</CallCancel>
+  <MilitaryAidSent>{0} allowed to send soldiers to help.</MilitaryAidSent>
+  <CantSendMilitaryAidInTime>forgiveness {0}, and they came in time.\n\n(a group of very low technology for module transport)</CantSendMilitaryAidInTime>
+  <HostileVisitorsPresent>enemy now</HostileVisitorsPresent>
+</LanguageData>

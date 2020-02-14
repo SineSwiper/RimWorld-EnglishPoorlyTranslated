@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>Grizzly</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Many mammal animals are consistent with the cold weather sets in. Fish and bear a warm winter coat.\n\nFood fish, fruits, honey and corn ergattertem characteristic, however, bear hunting is a powerful bird of prey, are able to survive and even death. Great form was terrible.</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>Bear meat</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>left paw</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>right Paw</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>The</Bear_Grizzly.tools.head.label>
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>Polar bear</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>The large, white teddy bear gets terribly cold. Bushy hair and body fat, and also helped by winter temperatures.\n\nWhile eating a natural fish today, bears, hunting and power and, where appropriate, that the world fishing. Its huge and very scary movie.</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>left foot</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>paw</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>Head</Bear_Polar.tools.head.label>
+</LanguageData>

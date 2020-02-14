@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.label>Accident</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.description>They sleep through the noise in the ears, sirens and echoes of encryption from the metal when it wakes up. Despite the pain, and you manage to get dry and catapult you into the daylight and in the presence of their boats.\n\nAfter a while, you're taken to the edge of an unknown country stars.</Crashlanded.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.scenario.description>Through encryption, the siren sound of a lightning rod for wall sleep your way to your ears. Although survive in the blast of breath, only to get to the escape pods and the area for the boat to break your exercise.\n\nAfter some time, landing on a planet on the edge of the unknown galaxy.</Crashlanded.scenario.description>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>An hour</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Crashlanded.scenario.summary>Click the three survivors - RimWorld traditional experience.</Crashlanded.scenario.summary>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.label>Lost tribe</LostTribe.label>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <LostTribe.description>Many bloody attacks, and the gods of destruction was low. He died only five survived and escaped. Now you have created a new home for the moment.\n\nNote: as little progress in the investigation very bad start, it is a difficult situation.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <LostTribe.scenario.description>His tribe attacked a sea of blood and destroying cars gods. Five or escape death. Now is the time to build a new home.</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>The lost tribe</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>The gods are angry. Blood machines at night. The sword, burned down the village and the fire demon.\n\nYou can avoid some carnage. Now you can contact it hard to go without them, did you build a new life in the wilderness. Many parents said.</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
+  <LostTribe.scenario.summary>Lost five family members can continue. Heavy.</LostTribe.scenario.summary>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>Naked rough</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>Anesthesia is standard practice in quotes ... Now granted transport capsule, which crashed on a strange planet. You're not naked, only cash amount. Why are these things\n\nNote: this situation is very serious, it is not true! - and death can occur at any time, anywhere.</NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>Surgical anesthesia standard, you sleep a little ... Now you wake up in the transport capsule, but crashed alien planets. You alone, naked, totally unprepared. How's life\n\nWarning: it is not just another nice one! - if not all losses of time.</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>Naked cruelty</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>This will be only a small representation. It is under the body. I felt completely safe for you.\n\nThe lion big unknown now moved immediately above the lower cup.\n\nIn addition to the mysterious goo in your body, you're naked. Without preparation, without supplies and without tools.\n\nYou can avoid this?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>I was naked, alone and completely unprepared. Have you been? Very heavy and unfair!</NakedBrutality.scenario.summary>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.label>Rich adventure</TheRichExplorer.label>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.description>People will think you are crazy to have to leave glitz - house, but not always attracted to the stars? Simulator neuro - do not always want to immediately investigate. Her arm at the end of a long journey encryption will have the right to tell the world about sleep wake countries. Now we can offer you.\n\nNote: the first skill is, because that's something that, well into the early stages of a very difficult situation.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>Flashy people out of the house, the devil you think they have, but because the star is drawn. Simulator nerve - I want you to investigate all of the rights. When the earth from the end, I know that at the end of a long journey in your sleep cryptographic straight to your capsule. Now let's see what gives.</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>The rich</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Neuro simulator, you have enough hollow, is the envy of the free games. Follow him in real life experiences and the history books there - want more. They want to know the true feelings of the tournament saw their consequences.\n\nCrypt sleep, a hundred years later, an unknown country on the edge of the world. These effects are waiting for you.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
+  <TheRichExplorer.scenario.summary>To listen to the new one. Especially difficult.</TheRichExplorer.scenario.summary>
+</LanguageData>

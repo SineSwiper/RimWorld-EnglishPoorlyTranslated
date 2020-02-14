@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: autodoor -->
+  <Autodoor.label>Door</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>Farewell rooms. Interlocking power version. Distribution colonies did not slow down.</Autodoor.description>
+  <!-- EN: door -->
+  <Door.label>Tür</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Goodbye room. Simple door must be opened and closed manually, so that the settlers off. How the recession, it's because this material.</Door.description>
+  <!-- EN: wall -->
+  <Wall.label>Wall</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>An impenetrable wall, the roof supports.</Wall.description>
+</LanguageData>

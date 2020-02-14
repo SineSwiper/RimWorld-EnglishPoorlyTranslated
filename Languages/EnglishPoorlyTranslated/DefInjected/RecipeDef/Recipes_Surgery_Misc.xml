@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>Administration heilungsnaniten</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>Heilungsnaniten management.</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>Managed heilungsnanit.</AdministerMechSerumHealer.jobString>
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>Shock</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Spinal anesthesia administered a biodiversity.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>In shock.</Anesthetize.jobString>
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>Palsy</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Give euthanasia.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Cradle.</Euthanize.jobString>
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>Ulcers cleared</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Leading cancer.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Remove wounds.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>Ulcer took {1} {0}:</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>Removal of body</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Removing parts of the body.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Repair parts of the body.</RemoveBodyPart.jobString>
+</LanguageData>

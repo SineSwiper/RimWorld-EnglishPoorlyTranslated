@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Root.label>table of contents</Root.label>
+  <Foods.label>food</Foods.label>
+  <FoodMeals.label>finished</FoodMeals.label>
+  <FoodRaw.label>raw food diet</FoodRaw.label>
+  <MeatRaw.label>raw meat</MeatRaw.label>
+  <PlantFoodRaw.label>green vegetables</PlantFoodRaw.label>
+  <AnimalProductRaw.label>he says, a raw egg</AnimalProductRaw.label>
+  <EggsUnfertilized.label>Eggs (sterile)</EggsUnfertilized.label>
+  <EggsFertilized.label>Eggs (fertilized ova)</EggsFertilized.label>
+  <!-- Manufactured -->
+  <Manufactured.label>used goods</Manufactured.label>
+  <Textiles.label>clothing</Textiles.label>
+  <Leathers.label>skin</Leathers.label>
+  <Medicine.label>Medical</Medicine.label>
+  <Drugs.label>tractor</Drugs.label>
+  <MortarShells.label>mortar rounds</MortarShells.label>
+  <!-- Raw resources -->
+  <ResourcesRaw.label>raw materials</ResourcesRaw.label>
+  <PlantMatter.label>plant Materials</PlantMatter.label>
+  <StoneBlocks.label>stone</StoneBlocks.label>
+  <!--==================== Non-resource readout categories =====================-->
+
+    <!-- Items -->
+  <Items.label>goods</Items.label>
+  <Unfinished.label>Work in Progress</Unfinished.label>
+  <Artifacts.label>violation</Artifacts.label>
+  <BodyParts.label>prostheses</BodyParts.label>
+  <BodyPartsNatural.label>body</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>synthetic</BodyPartsArtificial.label>
+  <!-- Weapons -->
+  <Weapons.label>killing</Weapons.label>
+  <WeaponsMelee.label>Hand in hand combat weapon</WeaponsMelee.label>
+  <WeaponsRanged.label>weapons</WeaponsRanged.label>
+  <Grenades.label>weapon</Grenades.label>
+  <!-- Apparel -->
+  <Apparel.label>sheet</Apparel.label>
+  <Headgear.label>headdress</Headgear.label>
+  <Buildings.label>construction</Buildings.label>
+  <BuildingsArt.label>Conversation</BuildingsArt.label>
+  <BuildingsProduction.label>goods</BuildingsProduction.label>
+  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
+  <BuildingsPower.label>power</BuildingsPower.label>
+  <BuildingsSecurity.label>defense</BuildingsSecurity.label>
+  <BuildingsMisc.label>Otherwise</BuildingsMisc.label>
+  <BuildingsJoy.label>Fun</BuildingsJoy.label>
+  <BuildingsTemperature.label>Temperature ~~ POS = TRUNC</BuildingsTemperature.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <Chunks.label>because</Chunks.label>
+  <StoneChunks.label>stone</StoneChunks.label>
+  <!-- 死骸 -->
+  <Corpses.label>and body</Corpses.label>
+  <CorpsesHumanlike.label>human bodies</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>dead</CorpsesAnimal.label>
+  <CorpsesInsect.label>Dead insects</CorpsesInsect.label>
+  <CorpsesMechanoid.label>waste machine</CorpsesMechanoid.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: builder -->
+  <Easy.label>Just</Easy.label>
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>Built-in power but is still used in some danger.\n\nTip: players free to play new players.\n\nLet a big risk, but it is weak. Some of the most threatening danger disabled.</Easy.description>
+  <!-- EN: merciless -->
+  <Extreme.label>Warring</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
+  <Extreme.description>One way is to work hard for an uncomfortable living in the world is not at greater risk by the possibility of a RimWorld.\n\nIt is recommended: experienced players who are willing to learn, with great skill, a challenge to which they, how cruel and unjust death, we can not avoid.\n\nIn this way, it is about loss and how to use it, because it is impossible to stop. No clear battle game, and if you have the time and was lost.</Extreme.description>
+  <!-- EN: savage -->
+  <Hard.label>Seriously</Hard.label>
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
+  <Hard.description>Fighting a brutal game of survival. Blood money.\n\nThe following is recommended: experienced players, and I will do my best to make it as a serious mode.\n\nTo succeed here, it has developed a method of discipline and training it takes to survive with limited success\n\nAlthough some risks have to survive until found to be increased so as to accept the loss of a good game and could be strengthened.</Hard.description>
+  <!-- EN: medium -->
+  <Medium.label>Meaning of</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
+  <Medium.description>The community and face the risk.\n\nRecommended: the first time, or some breathing space, RimWorld for all the volunteers to play the RimWorld game interesting, the strange goal to keep track of any of the players.\n\nTime to grow and progress, but it is a dangerous planet.</Medium.description>
+  <!-- EN: peaceful -->
+  <Peaceful.label>Peaceful</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <Peaceful.description>How to create a relaxed atmosphere.\n\nPlayers who focuses on community building RimWorld: recommended.\n\nIn this mode, but accidents still, such as animal disease or circulation problems or minor disabilities who are not satisfied by the results of this possible.</Peaceful.description>
+  <!-- EN: rough -->
+  <Rough.label>Rau</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
+  <Rough.description>To survive in the environment is dangerous.\n\nRimWorld experience, there is nothing to live for players who want to play.\n\nBut it will be bad good times. Victoria and tragedy. The whole dramn geschiet.</Rough.description>
+</LanguageData>

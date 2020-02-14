@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: do forever -->
+  <Forever.label>coup</Forever.label>
+  <!-- EN: do X times -->
+  <RepeatCount.label>X again</RepeatCount.label>
+  <!-- EN: do until you have X -->
+  <TargetCount.label>Repeat until there are long X</TargetCount.label>
+</LanguageData>

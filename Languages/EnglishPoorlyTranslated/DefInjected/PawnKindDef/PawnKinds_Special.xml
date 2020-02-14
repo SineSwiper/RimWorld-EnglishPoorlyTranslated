@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slave.label>奴隷</Slave.label>
+  <WildMan.label>野蛮人</WildMan.label>
+  <WildMan.labelPlural>residents of the island</WildMan.labelPlural>
+  <WildMan.labelFemale>Women in the wild</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>wild woman</WildMan.labelFemalePlural>
+  <StrangerInBlack.label>Suspicious man dressed in black</StrangerInBlack.label>
+  <StrangerInBlack.labelFemale>black man</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelMale>The People's Black Dress</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelPlural>The old man in a black dress</StrangerInBlack.labelPlural>
+</LanguageData>

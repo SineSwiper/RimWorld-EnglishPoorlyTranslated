@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bite.label>Bite</Bite.label>
+  <Blunt.label>Blow</Blunt.label>
+  <Cut.label>Department</Cut.label>
+  <Poke.label>Dona</Poke.label>
+  <Scratch.label>Rub</Scratch.label>
+  <Stab.label>Sewing</Stab.label>
+  <ToxicBite.label>Poisonous bites</ToxicBite.label>
+</LanguageData>

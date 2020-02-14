@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bandit camp quest -->
+  <Quest_BanditCamp.label>Name: emerald station</Quest_BanditCamp.label>
+  <!-- EN: Bandit camp quest -->
+  <Quest_BanditCamp.letterLabel>Action. bandit camp</Quest_BanditCamp.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
+  <Quest_BanditCamp.letterText>{0}, {1} '{2}' faction, sent us a message.\n\nAs you can see, the robbers attacked travelers near them. He asked us to destroy the camp. First and foremost, you have to build all the enemies and get away from it.\n\n{0} {5} said.\n\nIf we are successful, this relationship is to improve delivery, and they will receive the highest quality (value: {6})\n\n{3}\n\n{4} what camp did not make a day of it.</Quest_BanditCamp.letterText>
+  <!-- EN: incapacitated refugee quest -->
+  <Quest_DownedRefugee.label>Status: poor refugees</Quest_DownedRefugee.label>
+  <!-- EN: Incapacitated refugee quest -->
+  <Quest_DownedRefugee.letterLabel>Task: displaced unknowingly</Quest_DownedRefugee.letterLabel>
+  <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
+  <Quest_DownedRefugee.letterText>{PAWN_nameDef} ask for contact and support. {PAWN_pronoun} almost aware of the damage. Ke e la {PAWN_pronoun} without help him die a few days {0}.\n\n{PAWN_nameDef} is {1} {2} years. {PAWN_pronoun} promised to take part in the area, and if you can deliver {PAWN_objective}.\n\n{PAWN_nameDef} {3}.</Quest_DownedRefugee.letterText>
+  <!-- EN: item stash quest -->
+  <Quest_ItemStash.label>Mission: hidden objects</Quest_ItemStash.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStash.letterLabel>Purpose: the purpose hidden</Quest_ItemStash.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStash.letterText>Group {0} {1} '{2}', please contact us.\n\nLearn about the importance of (important: {6}) is a collection of things, they found waiting in a nearby house. Collection includes:\n\n{3}\n\nUnfortunately, it will not stay there for long - as well as other groups, but it has not done in the early days {4}.\n\nBeware of the danger of an appeal so.\n\nSaid {0} {5}.</Quest_ItemStash.letterText>
+  <!-- EN: item stash quest (AI core) -->
+  <Quest_ItemStashAICore.label>Work: hidden things (base)</Quest_ItemStashAICore.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStashAICore.letterLabel>Activity: hidden objects</Quest_ItemStashAICore.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStashAICore.letterText>Group {0} {1} '{2}'.\n\nLearn valuable collection of objects (value: {6}), waiting to be hiding in the store. The collection consists of:\n\n{3}\n\nUnfortunately, he did not live there a long time - as you walk the next day it's {4}.\n\nTreasures attract dangerous, so be careful.\n\n{0} {5}</Quest_ItemStashAICore.letterText>
+  <!-- EN: escape ship quest -->
+  <Quest_JourneyOffer.label>Task: recommend travel</Quest_JourneyOffer.label>
+  <!-- EN: peace talks quest -->
+  <Quest_PeaceTalks.label>The task of peace talks</Quest_PeaceTalks.label>
+  <!-- EN: Peace talks quest -->
+  <Quest_PeaceTalks.letterLabel>Mission: peace talks</Quest_PeaceTalks.letterLabel>
+  <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, group messages were sent '{1}' {0}. we have the history of the city, and I would like to see the environment {PAWN_pronoun}.\n\nThis may be the best way to improve their relations with the winning group. But be careful, perhaps, worse negotiator, and more useful than the worst, you can let us.\n\nOffer ends {2} day.</Quest_PeaceTalks.letterText>
+  <!-- EN: prisoner rescue quest -->
+  <Quest_PrisonerRescue.label>Activities: prison</Quest_PrisonerRescue.label>
+  <!-- EN: Prisoner rescue quest -->
+  <Quest_PrisonerRescue.letterLabel>Task: a</Quest_PrisonerRescue.letterLabel>
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
+  <Quest_PrisonerRescue.letterText>{0} prisoners radio and anfunken steal!\n\n{PAWN_nameDef} went close to a military camp guards. {PAWN_objective} and join {PAWN_pronoun} save their colonies. {1} {PAWN_pronoun} {2} for years.\n\n{PAWN_nameDef} {3}.</Quest_PrisonerRescue.letterText>
+  <!-- EN: trade request -->
+  <Quest_TradeRequest.label>Trade request</Quest_TradeRequest.label>
+</LanguageData>

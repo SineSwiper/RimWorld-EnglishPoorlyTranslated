@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make wort -->
+  <Make_Wort.label>Wort</Make_Wort.label>
+  <!-- EN: Make wort from hops. -->
+  <Make_Wort.description>Plant jumped mix</Make_Wort.description>
+  <!-- EN: Making wort. -->
+  <Make_Wort.jobString>Wort ambiguous.</Make_Wort.jobString>
+</LanguageData>

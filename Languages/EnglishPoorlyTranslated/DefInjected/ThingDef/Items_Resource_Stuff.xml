@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cloth -->
+  <Cloth.label>Dress</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.description>The constitution, the organization quilts.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>Cloth</Cloth.stuffProps.stuffAdjective>
+  <!-- EN: devilstrand -->
+  <DevilstrandCloth.label>Teufaelsgarn</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>Teufelsgarnpilz found, which is highly resistant micro fabric. In particular, good insulation and fire protection, it is very difficult.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>Teufelsgarn</DevilstrandCloth.stuffProps.stuffAdjective>
+  <!-- EN: gold -->
+  <Gold.label>Gold</Gold.label>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>Attracts more than metal. Soft iron has almost no head, but very good, but not love. Millions of people died of the human greed for gold.</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>Comments</Gold.stuffProps.stuffAdjective>
+  <!-- EN: hyperweave -->
+  <Hyperweave.label>Damage control</Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.description>Nanofiber molecule molecules nano fabrics in a special mechanoids. Material is very flexible, but it was quickly captured by punches and more powerful. However, the only one who knows the secret to making this decision.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>Nanofiber</Hyperweave.stuffProps.stuffAdjective>
+  <!-- EN: jade -->
+  <Jade.label>Jade</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.description>Rock hard greens. Because of his rare jade its appearance is often used as an ornamental and skills. Their hardness and density of the material that big apartment.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>Nibble</Jade.stuffProps.stuffAdjective>
+  <!-- EN: plasteel -->
+  <Plasteel.label>Flaashtala</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>Advanced space technology. Plasteel very strong, because of their unique molecular structure.</Plasteel.description>
+  <!-- EN: silver -->
+  <Silver.label>Business</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>Free trade, in particular, but also can be used for decoration.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>Silver</Silver.stuffProps.stuffAdjective>
+  <!-- EN: steel -->
+  <Steel.label>Steel</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>Structure, steel, construction of all types of weapons and equipment, the metal is used.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>Stainless steel</Steel.stuffProps.stuffAdjective>
+  <!-- EN: synthread -->
+  <Synthread.label>Syngarn</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.description>It 'was the development of space technology for public apparel fabrics. Light, soft, hard and well insulated.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>Syngarn</Synthread.stuffProps.stuffAdjective>
+  <!-- EN: uranium -->
+  <Uranium.label>Uranium</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>Hard. Although it is known to use such reactor materials designed units, which is a very good material for weapons, ammunition and weapons.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>Uranium</Uranium.stuffProps.stuffAdjective>
+  <!-- EN: wood -->
+  <WoodLog.label>Wood</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>Other woody trees or wood. Wooden structures are useful for making weapons. It is good that the electronic devices wood and wood to fire possible. Or wood can be used as a weapon.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>Wood</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>Pieces of wood</WoodLog.tools.log.label>
+  <!-- EN: alpaca wool -->
+  <WoolAlpaca.label>Alpaca wool</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
+  <WoolAlpaca.description>Alpaca wool is very soft. It is very hot.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>Alpaca</WoolAlpaca.stuffProps.stuffAdjective>
+  <!-- EN: camelhair -->
+  <WoolCamel.label>Ceratoides</WoolCamel.label>
+  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
+  <WoolCamel.description>Camel hair, clothing, usually to protect it from the heat, walking in the desert. This is because of their ability to thermostatically heat insulation.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>Camel</WoolCamel.stuffProps.stuffAdjective>
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>Lazy loading</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>It is the hair until it is firmly committed to the blind was very humble. It's hot.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>Wool kids</WoolMegasloth.stuffProps.stuffAdjective>
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>Muphphaleavealle</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>Soft, thermal insulation and very good. Body clothing lowolle ruffa can also turn very cold and heat.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>Muffalovolle</WoolMuffalo.stuffProps.stuffAdjective>
+</LanguageData>

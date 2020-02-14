@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slaughter.headerTip>屠殺</Slaughter.headerTip>
+  <FollowDrafted.headerTip>Then, when the wire is continued man</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>Owner supervision and field (hunting, pets)</FollowFieldwork.headerTip>
+  <!-- Misc -->
+  <Master.label>主人</Master.label>
+  <AllowedArea.label>Restricted area</AllowedArea.label>
+  <AllowedAreaWide.label>Restricted Area</AllowedAreaWide.label>
+  <Outfit.label>服装</Outfit.label>
+  <DrugPolicy.label>drug policy</DrugPolicy.label>
+  <Hunt.headerTip>to hunt prey highlight the hunter.</Hunt.headerTip>
+  <Tame.headerTip>Not from wild animals.</Tame.headerTip>
+  <Bond.headerTip>絆</Bond.headerTip>
+  <Info.headerTip>情報</Info.headerTip>
+  <MedicalCare.headerTip>治療</MedicalCare.headerTip>
+  <HostilityResponse.headerTip>敵愾心</HostilityResponse.headerTip>
+  <FoodRestriction.label>Food restrictions</FoodRestriction.label>
+</LanguageData>

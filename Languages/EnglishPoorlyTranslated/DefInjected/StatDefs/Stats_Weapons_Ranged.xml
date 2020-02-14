@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AccuracyTouch.label>Resolution (document)</AccuracyTouch.label>
+  <AccuracyTouch.description>It is not a weapon for a short distance in front of the cell is less keen to hit 3.In fact, a variety of factors that contribute to best practice.</AccuracyTouch.description>
+  <AccuracyShort.label>Precision (distance)</AccuracyShort.label>
+  <AccuracyShort.description>12 cells is an absolute certainty of this weapon.In fact, depending on a number of reasons.</AccuracyShort.description>
+  <AccuracyMedium.label>Accuracy (middle distance)</AccuracyMedium.label>
+  <AccuracyMedium.description>It is played on a grid accuracy of 25 guns.There are several reasons for the fact that if there are people.</AccuracyMedium.description>
+  <AccuracyLong.label>Accuracy (area)</AccuracyLong.label>
+  <AccuracyLong.description>The accuracy of these weapons to hit 40 or more cells for a long distance.In fact, different in terms of accuracy.</AccuracyLong.description>
+  <RangedWeapon_Cooldown.label>Down Time (Weapons Range)</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>No time to wait, once armed.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} seconds</RangedWeapon_Cooldown.formatString>
+  <RangedWeapon_DamageMultiplier.label>Damage Multiplier Value</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.description>This measure is used repeatedly damaged by a meteorite from a gun.</RangedWeapon_DamageMultiplier.description>
+</LanguageData>

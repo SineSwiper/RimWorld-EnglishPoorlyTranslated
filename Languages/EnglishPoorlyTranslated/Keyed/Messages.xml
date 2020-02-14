@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MessageSiegersAssaulting>The siege of the colony is attacked by {1} {0}.</MessageSiegersAssaulting>
+  <MessageRaidersBeginningAssault>{1} {0} to attack him.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{1} first {0} research and began their attack.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>Wish to carry out a {0} {1}.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{1} {0} be, and decided to steal.</MessageRaidersStealing>
+  <MessageRaidersLeaving>{1} by {0}.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{1} {0} from the back and leaves.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} {1} damage and left satisfied.</MessageRaidersSatisfiedLeaving>
+  <MessageFightersFleeing>{0} {1} escape.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>{1} {0} friends left.</MessageFriendlyFightersLeaving>
+  <MessageVisitorsTakingWounded>{0} the {1} retracted.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} captured by {1} and drilling operation.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} {1} leave because hot air paper.</MessageVisitorsDangerousTemperature>
+  <MessageWornApparelDeterioratedAway>{1_nameFull} {0} crime.</MessageWornApparelDeterioratedAway>
+  <MessageSeasonBegun>{0} began.</MessageSeasonBegun>
+  <MessageShipHasLeftCommsRange>Left {0} wax order.</MessageShipHasLeftCommsRange>
+  <MessageNeedBeaconToTradeWithShip>If you are dealing with trading ships should lighthouse electric orbit.</MessageNeedBeaconToTradeWithShip>
+  <MessageBillComplete>{0} the final list.</MessageBillComplete>
+  <MessageFullyHealed>{1_label} fully recovered.</MessageFullyHealed>
+  <MessagePrisonerIsEscaping>{1_labelShort} prisoners escaped.</MessagePrisonerIsEscaping>
+  <MessageOutOfNearbyShellsFor>{GUN_label} at {PAWN_labelShort} detecting wife.</MessageOutOfNearbyShellsFor>
+  <MessageAnimalsGoPsychoHunted>Note: the shooting range against the possibility of damage {1}, {ANIMAL_kindBasePlural}. The probability is higher if less hidden good closing angle.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Warning: can {ANIMAL_kindBasePlural} attack also failed effort available (access {1}).</MessageAnimalManhuntsOnTameFailed>
+  <LetterLabelMessageRecruitSuccess>New</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>The success {RECRUITEE_nameFull} (optional {2} a) {RECRUITER_nameFull}.</MessageRecruitSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} mouth {1} ({2} far).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} file successfully {1} ({2}) and name {RECRUITEE_objective} {RECRUITEE_nameFull} chance.</MessageTameAndNameSuccess>
+  <MessageColonyCannotAfford>Colonies can be infected.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>It should explain commercially available.</MessageColonyNotEnoughSilver>
+  <MessageCriticalAlert>Risk warning: {0}</MessageCriticalAlert>
+  <MessageMustDesignateHarvestable>Not rvestable vegetable growing, does not consider a lot.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>It should explain how the tree naked, completely away from crops.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>You must identify the plants.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Haulable and what should be. Some things are always haulable and power lines.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>You industrially important contract impassable cliffs.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Will be designated animals hunted.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>You'll need to modify animal that can subdue.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>You must designate the structure of the artificial mouth.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableSurface>To determine the surface rough stone.</MessageMustDesignateSmoothableSurface>
+  <MessageNothingCanRemoveThickRoofs>Nothing can take away the thick roof.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>This is a high priority so that the body remembers.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>If the body can edit or valuable quality members kill clothing.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Tame animals need to see this.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Shall designate a severe or a box.</MessageMustDesignateOpenable>
+  <MessageMustDesignateForbiddable>The smallpox.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateUnforbiddable>You can find must be stopped.</MessageMustDesignateUnforbiddable>
+  <MessageRefusedArrest>{1_labelShort}, not be arrested!</MessageRefusedArrest>
+  <MessageNoMedicalBeds>Hospital bed.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>A bed is available.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>{0} or good, but now built {PAWN_labelShort} medical need "{2}" use.</MessageTooLowMedCare>
+  <PawnDiedBecauseOf>{PAWN_labelShort} death. Reason: {1}.</PawnDiedBecauseOf>
+  <PawnDied>{1_labelShort} died.</PawnDied>
+  <MessageNoLongerDowned>{1_label} incompetent behavior.</MessageNoLongerDowned>
+  <MessageInvoluntarySleep>{1_labelShort} housing; he is responsible for the links.</MessageInvoluntarySleep>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} {PATIENT_labelShort} decreased activity.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} failed catastrophically on {PATIENT_labelShort} country.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{PATIENT_labelShort} a funny way of working {SURGEON_labelShort}, he failed.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} made a fatal error {PATIENT_labelShort} the great challenges for operation: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationWillAngerFaction>This works {0} anger.</MessageMedicalOperationWillAngerFaction>
+  <MessageMiscarriedStarvation>{0} fell hunger.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} health has been canceled.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} bore.</MessageGaveBirth>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} {1} {NAMEE_nameFull} name when asked.</MessageNuzzledPawnGaveNameTo>
+  <MessageNoHandlerSkilledEnough>Undomesticated handler can {ANIMAL_kindBase} (level {1} {2} good {HANDLER_labelShort} manager of {4}).</MessageNoHandlerSkilledEnough>
+  <MessageEatenByPredator>{EATEN_labelShort} eat {PREDATOR}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} {PREDATOR} attack!</MessageAttackedByPredator>
+  <MessageHiveReproduced>Hive is just the problem.</MessageHiveReproduced>
+  <MessageTraderCaravanLeaving>Union {0} our holiday.</MessageTraderCaravanLeaving>
+  <MessageCantSelectDeadPawn>{1_labelShort} died.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} on paper.</MessageCantSelectOffMapPawn>
+  <MessageSocialFight>Q electronic la {PAWN1_labelShort} {PAWN2_labelShort} people are now fighting.</MessageSocialFight>
+  <MessageNewMarriageCeremony>Gathering to celebrate the wedding {PAWN1_labelShort} and {PAWN2_labelShort} settlers.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{PAWN2_labelShort} {PAWN1_labelShort} and the marriage ceremony first!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort} {PAWN2_labelShort} and was recognized for the wedding reception.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{PAWN2_labelShort} {PAWN1_labelShort} and have a wedding. Lud to celebrate the occasion.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} and {PAWN2_labelShort} full marriage ceremony.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewBondRelation>{HUMAN_labelShort} bond {ANIMAL_labelShort}.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{1} {HUMAN_labelShort} bond formed. {HUMAN_labelShort} {ANIMAL_objective} {ANIMAL_nameFull} is called.</MessageNewBondRelationNewName>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} against interference death {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} {ANIMAL_label} name because the rest were dead souls {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animals have a break after brain death {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} {PATIENT_labelShort} {HEDIFF} removed safely.</MessageSuccessfullyRemovedHediff>
+  <MessageShipChunkDrop>Places nearby ships were. You can produce resources deconstruction.</MessageShipChunkDrop>
+  <MessagePartyCalledOff>The party is called.</MessagePartyCalledOff>
+  <MessagePartyFinished>Ended in the evening.</MessagePartyFinished>
+  <MessageCannotSellItemsReason>Because some things to sell</MessageCannotSellItemsReason>
+  <MessageConstructionFailed>Although not {WORKER_labelShort} {0} building. Some of the damaged products.</MessageConstructionFailed>
+  <MessageScreenshotSavedAs>Well {0} office</MessageScreenshotSavedAs>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} and social {PAWN2_labelShort} fight again.</MessageNoLongerSocialFighting>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} is back {1} binging.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerOnTargetedInsultingSpree>More about {TARGET_label} use {PAWN_labelShort} blinded.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageRottedAwayInStorage>{1_label} storage rotted.</MessageRottedAwayInStorage>
+  <MessageFoodPoisoning>{FOOD_labelShort}: {PAWN_labelShort} with food poisoning. Pros: {2}.</MessageFoodPoisoning>
+  <MessagePawnLostWhileFormingCaravan>{0} is removed from the vehicle.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan_AllLost>To build a caravan at the end of the process.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessageCaravanFormationPaused>Process caravan training will last for updates on their intellectual freedom.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Then came, so I created a caravan will continue.</MessageCaravanFormationUnpaused>
+  <MessageCaravanMemberHasExtremeMentalBreak>A member of the caravan has a mental vacation.</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageMaxPlanetCoveragePerformanceWarning>Note: sometimes it takes a long time for the entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessagePlantDiedOfCold>She died because of the cold {0}.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot_LeftUnharvested>Because of the conflict in the dead {0}, left without fish.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_ExposedToLight>Because the light {0} to display.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot>{0} died rotting.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfPoison>{0} the poisoning death.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfBlight>{1_label} killed explosive.</MessagePlantDiedOfBlight>
+  <MessagePawnBeingBurned>{1_labelShort} will burn hot air!</MessagePawnBeingBurned>
+  <MessageAccidentalOverdose>{INGESTER} {DRUG_labelShort} consumption is sick!</MessageAccidentalOverdose>
+  <MessageCaravanArrivedAtDestination>{0} destination.</MessageCaravanArrivedAtDestination>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} security was established to leave the area.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Added pet again.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessageSettledInExistingMap>You have successfully solved a new area.</MessageSettledInExistingMap>
+  <MessagePermanentWoundHealed>{PAWN_labelShort} {2}. Reason: {0}</MessagePermanentWoundHealed>
+  <MessageRescueeJoined>Escape {1_labelShort} his team!</MessageRescueeJoined>
+  <MessageTransporterUnreachable>Some pods are available transportation.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>Sample transport to the next all launchers attached trailer.</MessageTransportersNotAdjacent>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>The transport pods off a loss to cancel.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>This process dates loaded with a new reason for launch is canceled.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadingProcessStarted>Immigrants your current charges that elements of the transport container.</MessageTransportersLoadingProcessStarted>
+  <MessageTransportPodsArrived>You've reached the green beans.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>The pods, but because it is calm, content is lost.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>First seen. Additional {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageFinishedLoadingTransporters>Settlers individual has completed the installation.</MessageFinishedLoadingTransporters>
+  <MessageCantLoadMoreIntoTransporters>{1} want to move the pods to transport because of some kind, or do not want to ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageTransportPodsDestinationIsInvalid>The selected site is not valid.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Each launch pod least {0}x chemfuel far to transport the crop will leave.</MessageTransportPodsDestinationIsTooFar>
+  <MessageReformedCaravan>The cycle is created.</MessageReformedCaravan>
+  <MessageCantBanishLastColonist>You can not be the last job.</MessageCantBanishLastColonist>
+  <MessageCantEquipIncapableOfViolence>You can not escape {1_labelShort} education of violence.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>You can equip: helplessness.</MessageCantEquipIncapableOfManipulation>
+  <MessageSlaughteringBondedAnimal>Because of them, with the battles and {DESIGNATED_labelShort} {BONDED_labelShort} unhappy associated.</MessageSlaughteringBondedAnimal>
+  <MessageCaravanRanOutOfFood>{0} food ({PAWN_label}) end.</MessageCaravanRanOutOfFood>
+  <MessageSelectOwnBaseToFormCaravan>Caravan yemen debate or generate some places people choose.</MessageSelectOwnBaseToFormCaravan>
+  <MessageScreenResTooSmallForUIScale>Level and ui interface, the game will not fit on the screen. The user interface reduces the scale of the increase, or resolution.</MessageScreenResTooSmallForUIScale>
+  <MessageYouHaveToReformCaravanNow>Now you must file the rest. All that's left behind the ruins.</MessageYouHaveToReformCaravanNow>
+  <MessageDefendersAttacking>{1} {2} attack {0} is yours.</MessageDefendersAttacking>
+  <MessageSelfTendUnsatisfied>The spread of {1_labelShort} sent the doctor.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{1_labelShort} can do medical work, and therefore they can not be themselves prone.</MessageCannotSelfTendEver>
+  <MessageCantAddWaypointBecauseImpassable>This tile lasting.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>The last stop, you will not be able to access the great things.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>You can add more waypoints {0}.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>This rate can not.</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Keep any guard violence. Punishment can not get through.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageSiteCountdownBecauseNoMoreEnemies>You need enemies. {0}, the poem should be updated.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>Caravans also must decide {0}. You can change the song in their own world.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageCantBanishDownedPawn>It is because if you can not log {1_labelShort} {1_pronoun}.</MessageCantBanishDownedPawn>
+  <MessageSleepingPawnsWokenUp>{0} wake capillaries.</MessageSleepingPawnsWokenUp>
+  <MessageCompSpawnerSpawnedItem>Products they produce: {0}.</MessageCompSpawnerSpawnedItem>
+  <MessageHediffCuredByItem>{0} declare the state of life.</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>Recovery of the body: {0}.</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>Technology transfer: {0}.</MessageResearchProjectFinishedByItem>
+  <MessagePawnResurrected>Resurrection {0}!</MessagePawnResurrected>
+  <MessageFailedToRescueRelative>{PAWN_labelShort} rescue failed. It is tantamount {RELATIVE_labelShort}.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>It saves {PAWN_labelShort}. It {RELATIVE_labelShort} do.</MessageRescuedRelative>
+  <MessageTornadoLeftMap>And communication of rainfall.</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>The tornado.</MessageTornadoDissipated>
+  <MessagePeaceTalksNoDiplomat>Well, they do, you can do it.</MessagePeaceTalksNoDiplomat>
+  <MessageWarningCavePlantsExposedToLight>Warning: you may be exposed to live {0} light.</MessageWarningCavePlantsExposedToLight>
+  <MessageTargetedTantrumChangedTarget>After reaching {OLDTARGET_label} {PAWN_labelShort} decided to {PAWN_possessive} angry {PAWN_pronoun} {TARGET_label} leadership.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} {OLDTARGET_label} {PAWN_pronoun} to redirect the anger {PAWN_possessive} {TARGET_label} can not come to the decision.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} decided to give audio {PAWN_possessive} {TARGET_label}.</MessageMurderousRageChangedTarget>
+  <MessagePlantIncompatibleWithRoof>Grow under one roof {0}.</MessagePlantIncompatibleWithRoof>
+  <MessageRoofIncompatibleWithPlant>{0} build housing.</MessageRoofIncompatibleWithPlant>
+  <MessageChoseRoute>The field will automatically go to the first reference.</MessageChoseRoute>
+  <MessageCraftedMasterwork>{WORKER_labelShort} developed {CRAFTED_labelShort}.</MessageCraftedMasterwork>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Where can you use the "change in the carriage.".</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>You can not leave the map.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessageGoodwillChanged>Relations with the change {0} {1} {2}.</MessageGoodwillChanged>
+  <MessageGoodwillChangedWithReason>Contact change {0} {2} {1} ({3}).</MessageGoodwillChangedWithReason>
+  <GoodwillChangedReason_AttackedPawn>{1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>{ITEM_labelShort} used {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_RemovedBodyPart>industry {0}</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>install in vain {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_CapturedPawn>closed {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} grinding</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} death</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_Traded>buy and sell</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_AttackedCaravan>the attack on convoy</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_NaturallyOverTime>{0} time for a course in order to achieve trend</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} sound card</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>usually, {1_labelShort}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ReceivedGift>you will receive a gift</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_FulfilledTradeRequest>compliance and business proposals</GoodwillChangedReason_FulfilledTradeRequest>
+  <MessageGiftGivenButNotAppreciated>Take the value of any gift or a {0}.</MessageGiftGivenButNotAppreciated>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>The trailer is already loaded and you can do nothing else.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarry>I will not be able to do many things. {0} gifts, but the weight of the caravan {1} straight forward.</MessageCantGiveGiftBecauseCantCarry>
+  <MessageFormedCaravan>{0} establishment, now traveling the world map.</MessageFormedCaravan>
+  <MessageFormedCaravan_Orders>Contracts</MessageFormedCaravan_Orders>
+  <MessageBillValidationStoreZoneDeleted>Now only {2} promoted "{0}" how can {1}.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>{1} «{0}» can provide {2} available stock.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} can «{1}» will work {2}. Remove barriers.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>{1} of {0} can not count the items in the room {2} valley.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>{1} "{0}" not to think about things in new inventions {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>{1} "{0}" {2} stock all products can not reach.</MessageBillValidationStoreZoneInsufficient>
+  <MessageAnimalReturnedWild>Lack of maintenance {1_labelShort} back to nature.</MessageAnimalReturnedWild>
+  <MessageAnimalLostSkill>Because of training, maintenance, {ANIMAL_labelShort} lack of skills lost: {1}</MessageAnimalLostSkill>
+  <MessageTranslationReportSaved>Affect translational written {0}</MessageTranslationReportSaved>
+  <MessageCaravanArrivalActionNoLongerValid>{0} not be reached.</MessageCaravanArrivalActionNoLongerValid>
+  <MessageEnterCooldownBlocksEntering>You will re-enter the other {0} it can not be.</MessageEnterCooldownBlocksEntering>
+  <MessagePredatorHuntingPlayerAnimal>Hunting food {PREDATOR} {PREY_definite}!</MessagePredatorHuntingPlayerAnimal>
+  <MessagePrisonerResistanceBroken>Prisoners went resistance {WARDEN_labelShort} {PRISONER_labelShort}.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Extra first to be attacked.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessageDisableModsBeforeCleaningTranslationFiles>With this tool, you can turn off all the mod before.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageTranslationFilesCleanupDone>This allows. A valid folder: {0}</MessageTranslationFilesCleanupDone>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Filed goals ({0}) can not be loaded one. All parsing errors will be resolved before tomorrow.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCapturingWillAngerFaction>Note: capture {PAWN_nameDef} anger {PAWN_possessive} {PAWN_factionName} score.</MessageCapturingWillAngerFaction>
+  <MessageCantShootInMelee>Helen with fire.</MessageCantShootInMelee>
+</LanguageData>

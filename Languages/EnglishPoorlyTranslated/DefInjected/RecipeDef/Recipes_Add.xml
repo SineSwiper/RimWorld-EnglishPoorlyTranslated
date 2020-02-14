@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_StoneBlocksSandstone.label>Sandstone block reproduction</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.description>To prevent the concentration of cut sandstone m.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.jobString>The weight cut</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksGranite.label>Get the best granite</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.description>Granite parallel to the fence.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.jobString>During cutting more</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksLimestone.label>Building blocks made of cement</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.description>Proposals on a limestone block disappointed once.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.jobString>cut</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksSlate.label>Lithograph</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.description>Itchy blocks before cutting benefits.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.jobString>during Mass</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksMarble.label>marble blocks</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.description>On the block useful cutting blocks of marble.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.jobString>Weight reductions</Make_StoneBlocksMarble.jobString>
+</LanguageData>

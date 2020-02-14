@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrosia -->
+  <Ambrosia.label>Iva</Ambrosia.label>
+  <!-- EN: A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction. -->
+  <Ambrosia.description>It is usually green fruit, is not. Ambrosia has a wonderful taste and smell and causes increased choice mood improves. However, a slight chance of light while they also usually eat there.</Ambrosia.description>
+  <Ambrosia.ingestible.ingestCommandString>Eat ambrosia.</Ambrosia.ingestible.ingestCommandString>
+  <Ambrosia.ingestible.ingestReportString>Ambrosia eat.</Ambrosia.ingestible.ingestReportString>
+</LanguageData>

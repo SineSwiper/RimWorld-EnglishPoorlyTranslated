@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dirt -->
+  <DirtInEyes.label>In the eyes of the</DirtInEyes.label>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>blind</DirtInEyes.battleStateLabel>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>Dirt</DirtInEyes.labelNoun>
+  <!-- EN: gravel -->
+  <GravelInEyes.label>A layer of the eye</GravelInEyes.label>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>blind</GravelInEyes.battleStateLabel>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>Rock</GravelInEyes.labelNoun>
+  <!-- EN: mud -->
+  <MudInEyes.label>Landslides in the eye</MudInEyes.label>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>blind</MudInEyes.battleStateLabel>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>Kee</MudInEyes.labelNoun>
+  <!-- EN: sand -->
+  <SandInEyes.label>Sand in my eyes</SandInEyes.label>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>blind</SandInEyes.battleStateLabel>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>Sand</SandInEyes.labelNoun>
+  <!-- EN: water -->
+  <WaterInEyes.label>Tears</WaterInEyes.label>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>blind</WaterInEyes.battleStateLabel>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>Water</WaterInEyes.labelNoun>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>Tragacanth</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>A stable, small tree growing in the alps.</Plant_Astragalus.description>
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>Fruits forest</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Trees and fresh on the vine. Baca can eat, but you can not eat it raw as well.</Plant_Berry.description>
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>Dandelion</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Yellow trees growing in small groups. Although often considered weeds, such as reproduction, dandelion flowers are very beautiful.</Plant_Dandelion.description>
+  <!-- EN: moss -->
+  <Plant_Moss.label>Kai racomitrium</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>When the algae grass growing in areas less heat, light and low. Moss grows fall, all the events, but very durable and hard.</Plant_Moss.description>
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>Act-in</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Midfielder thin paper-like white shell found.</Plant_TreeBirch.description>
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>Oak</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Hardwood. Oak takes a long time to grow. but wood is difficult to "heart of oak" in many cultures as a metaphor for power.</Plant_TreeOak.description>
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>Pine</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Start with a large covered conifers tree species. Significant bump.</Plant_TreePine.description>
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>People</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Cork oaks grow. However, wood is very weak, so it gives much less wood wooden masts.</Plant_TreePoplar.description>
+</LanguageData>

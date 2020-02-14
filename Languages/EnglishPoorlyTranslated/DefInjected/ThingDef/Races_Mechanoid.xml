@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>Caterpillar</Mech_Centipede.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_Centipede.description>Kampfmechanoid dozens of small feet slide. He is against heavy armor and powerful weapon other points are very close, very true. They are mobile, the machinations of the hit-and may be more or less.</Mech_Centipede.description>
+  <!-- EN: head -->
+  <Mech_Centipede.tools.head.label>Head</Mech_Centipede.tools.head.label>
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>More</Mech_Lancer.label>
+  <!-- EN: A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
+  <Mech_Lancer.description>Kampfmechanoid robots with sensors larger devices color space. It is much more effective. but the weak. This is often a safe mechanoids lanc war veterans of the war, and she storms off to fight jihad.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>left fist</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>right Thumb</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>Chairman</Mech_Lancer.tools.head.label>
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>Mowers</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Slim fast hurry quick big man kampfmechanoid specialists in the following chaos. His body was covered with sharp spikes, but often tried in his hands and a knife track sections of food or a live opponent.</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>your right</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>right kidney</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>Head</Mech_Scyther.tools.head.label>
+</LanguageData>

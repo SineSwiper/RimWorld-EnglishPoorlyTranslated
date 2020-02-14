@@ -1,0 +1,36 @@
+﻿//Example: "Das Kochen mit ..."
+
+Carrot
+Roots
+Onions
+Onion
+Turnips
+Radish
+Pumpkin
+Bud
+Pumpkin
+Cabbage
+Cauliflower
+The pepper
+Paprika
+Pepper
+Fish
+Mushroom
+Peas
+Pea
+Artichokes
+Artichoke
+Eggplant
+Tomatoes
+Lentils
+View
+White hot
+Water power
+Beet
+Beetroot
+Corncob
+Cob
+Sweet potatoes
+Sweet potato
+Zucchini
+Pumpkin

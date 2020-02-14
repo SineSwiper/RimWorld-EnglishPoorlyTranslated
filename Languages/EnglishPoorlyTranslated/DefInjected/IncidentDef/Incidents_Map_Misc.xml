@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>Alpha beaver</Alphabeavers.label>
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>A good mbrosia</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Ambrose heiner</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>It is near addictive type personal ambrosia busch gardens! If you have time to stop, will continue to grow until the plant can not produce good fruit, hot and soft addiction reap.</AmbrosiaSprout.letterText>
+  <!-- EN: cold snap -->
+  <ColdSnap.label>The cold</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Cold wave</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>It started unusually cold snap.\n\nCold spells can cause hypothermia can cause rapid death. Of course, you are frozen in the room is heated by grooming your colonists died sweater and dress your best.</ColdSnap.letterText>
+  <!-- EN: crop blight -->
+  <CropBlight.label>To destroy</CropBlight.label>
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>Animal farm</FarmAnimalsWanderIn.label>
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Thunderstorms</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Wreck</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Lightning a lot of small towns. As a result, calls can be made.</Flashstorm.letterText>
+  <!-- EN: heat wave -->
+  <HeatWave.label>Heat</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>The temperature began to rise.\n\nCan heat the heat, which leads to death. Cool air from the line, or if you are currently deep in the mountains.</HeatWave.letterText>
+  <!-- EN: herd migration -->
+  <HerdMigration.label>Transhumance</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>{0} nomadic</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>{0} trying to shepherd through the soil.\n\nUnless they are provoked, they can not kill.</HerdMigration.letterText>
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>Astrobleme</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>A large meteorite took place in this region. He left behind a large part of {0}.</MeteoriteImpact.letterText>
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>Intellectual roar</PsychicDrone.label>
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>Psychological confirmed</PsychicSoothe.label>
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>Redemption</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Atone</RansomDemand.letterLabel>
+  <!-- EN: chased refugee -->
+  <RefugeeChased.label>Persecution of refugees</RefugeeChased.label>
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>Accident rescue capsule</RefugeePodCrash.label>
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>Autumn normal load</ResourcePodCrash.label>
+  <!-- EN: self-tame -->
+  <SelfTame.label>Selbstjahmun'g</SelfTame.label>
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>Short</ShortCircuit.label>
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>Trumbo</ThrumboPasses.label>
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Toxic rain</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Toxic waste</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>Chemical fire spreading toxic cloud live in the area.\n\nAll in all animals and protect the roof, and usually poisoned dust in the air.\n\nMany days during these things less difficult.</ToxicFallout.letterText>
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>Volcanic winter</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>The supervolcano erupted remote and spend millions of tons of ash.\n\nAs a result, leads to a drop gray, reflecting the sunlight and temperature. The lack of sunlight, the plants and the ability to suffer. There will be a few weeks later, he owned several seasons.</VolcanicWinter.letterText>
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>The life of mountaineers</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>Walkers hotel</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>{PAWN_gender? A: a} {PAWN_kind} is called {PAWN_nameDef} input score colonies.\n'{PAWN_title}' {PAWN_possessive} address.\n\nHelp {PAWN_pronoun} {PAWN_possessive}en part, but they did not go voluntarily. If you want {PAWN_nameDef} could lose {PAWN_objective} {PAWN_objective} sold as slaves, or just shoot {PAWN_objective}. However, this can be done, and the rest of those who remain.</WandererJoin.letterText>
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>The jews</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>A field incident {PAWN_kind}</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>People who live with animals, to enter the scene. called {PAWN_pronoun} {0}.\n\nYou can try {PAWN_objective} or enemies.</WildManWandersIn.letterText>
+</LanguageData>

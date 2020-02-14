@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: aurora -->
+  <Aurora.label>Dawn</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Daybreak</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Aurora bright clear sky.\n\nThe undulating color, improve mood for those who are outside views.</Aurora.letterText>
+  <!-- EN: eclipse -->
+  <Eclipse.label>Solar eclipse</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Solar eclipse</Eclipse.letterLabel>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>One of the planets, the sun and the moon is hidden. Solar eclipse began.</Eclipse.letterText>
+  <!-- EN: solar flare -->
+  <SolarFlare.label>Torch</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Lighthouse</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>It is from the beginning.\n\nColumn (measuring) with power supplied by a lot of non-intervention studies.\n\nShould return in a day.</SolarFlare.letterText>
+</LanguageData>

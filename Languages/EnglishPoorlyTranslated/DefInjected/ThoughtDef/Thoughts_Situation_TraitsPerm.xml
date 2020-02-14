@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>Depression</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>Penalty after surgery natural "depression".</MoodOffsetDepressive.stages.depressive.description>
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>Optimistic</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Natural bonus feature is "optimistic".</MoodOffsetOptimist.stages.optimist.description>
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>Pessimistic</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Natural good "optimistic".</MoodOffsetPessimist.stages.pessimist.description>
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>Frohnatur</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Bonus joy of creation.</MoodOffsetSanguine.stages.sanguine.description>
+</LanguageData>

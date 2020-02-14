@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>Transport capacity</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>As you can imagine, and a large number of this person. The world map on the transfer of power differs from.</CarryingCapacity.description>
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Maximum comfort</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Prices are high temperatures dude. If someone wants to greatly exceed this is a hazard or heat stroke, suffering or death.</ComfyTemperatureMax.description>
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Warm and comfortable down</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>This temperature is down dissatisfaction. Some of the data, when the temperature of less serious injury, or cold, or there is a risk of dying, or dead.</ComfyTemperatureMin.description>
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>Speed eating</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Anyone can be faster.</EatingSpeed.description>
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>Prices of food writing</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Of food daily.</ForagedNutritionPerDay.description>
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>Capacity global learning</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>How quickly a person learns something.</GlobalLearningFactor.description>
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>Appetite rate multiplier</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>The multiplication people like to eat food.</HungerRateMultiplier.description>
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>Vaccination status</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>How quickly a disease in the body. If vaccination is very long, died from the disease.</ImmunityGainSpeed.description>
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>The amount of shoes</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
+  <LeatherAmount.description>The number of skin that all is if they kill these people.</LeatherAmount.description>
+  <!-- EN: meat amount -->
+  <MeatAmount.label>Body count</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>The amount of meat that came to kill him.</MeatAmount.description>
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>Sellers</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Private consumption, there is a risk of neurological gentleness. How much depends on much more than the hard threshold.</MentalBreakThreshold.description>
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>Live animals at least</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>But boy could teach the animals a week, or when caring for animals and the importance of this.</MinimumHandlingSkill.description>
+  <!-- EN: move speed -->
+  <MoveSpeed.label>Speed chase</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>How fast this man's sport. The second is not.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} m / s</MoveSpeed.formatString>
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>Pain barrier</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>The level of consciousness where the pain is.</PainShockThreshold.description>
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>Feeling</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Multiplier effect of the phenomenon affects a person's psychology. How more accessible and more negative earnings impact of any damage.</PsychicSensitivity.description>
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>Increase return rates</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>When she slept, quickly found a place.</RestRateMultiplier.description>
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>Sensitivity poisoning</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>The propagation of toxic effects.</ToxicSensitivity.description>
+</LanguageData>

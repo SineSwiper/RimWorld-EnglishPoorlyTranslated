@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beauty -->
+  <Beauty.label>Shape</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>How is your community form at the moment. How nice things, The rate of growth of the ugly, beautiful things, such as reduction of sand, stone and rough.</Beauty.description>
+  <!-- EN: comfort -->
+  <Comfort.label>Comfort</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>When very comfortable rest or sleep comfortably. This time or other during the work increases, while lying in bed.</Comfort.description>
+  <!-- EN: food -->
+  <Food.label>Eat</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Return as nutritious food. If they go, the injury or death of the physical copper.</Food.description>
+  <!-- EN: recreation -->
+  <Joy.label>Recreation</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Now the rest of the requirements, then set aside for work and play. Reduce successful creations such as boring, so I keep a variety of entertainment alternatives.</Joy.description>
+  <!-- EN: mood -->
+  <Mood.label>Shower</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <Mood.description>How happy or depressed person speaking environment. If it is too low, a person can suffer a nervous breakdown. Depending on how low her mood, hiding in your room, or in the day, they go crazy.</Mood.description>
+  <!-- EN: outdoors -->
+  <Outdoors.label>Nature</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Nature shows a willingness to work hard. Reduction in the value of the building for a long time, or the world, especially good. This will increase if more open air out of it. It is not the size of the room, but from time to time for some time. Lack of time outdoors is a particular problem for people living in underground bases.</Outdoors.description>
+  <!-- EN: rest -->
+  <Rest.label>Peace</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>The rest sleep enough time to respond to what you can see. Zero if they stay where animals.</Rest.description>
+  <!-- EN: room size -->
+  <RoomSize.label>Room size</RoomSize.label>
+  <RoomSize.description>The size of the room to advise on any planet now that you're happy with your size.</RoomSize.description>
+</LanguageData>

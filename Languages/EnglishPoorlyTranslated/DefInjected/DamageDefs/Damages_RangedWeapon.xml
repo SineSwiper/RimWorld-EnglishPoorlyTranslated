@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RangedStab.label>to enter</RangedStab.label>
+  <RangedStab.deathMessage>{0} injured died.</RangedStab.deathMessage>
+  <Bullet.label>撃つ</Bullet.label>
+  <Bullet.deathMessage>{0} killed</Bullet.deathMessage>
+  <Arrow.label>射る</Arrow.label>
+  <Arrow.deathMessage>{0} Inuko not die</Arrow.deathMessage>
+  <ArrowHighVelocity.label>射る</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>Yours died Ta ra {0}</ArrowHighVelocity.deathMessage>
+</LanguageData>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: granite blocks -->
+  <BlocksGranite.label>List of granite</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
+  <BlocksGranite.description>Granite block. Granite is a very solid rock.</BlocksGranite.description>
+  <!-- EN: granite -->
+  <BlocksGranite.stuffProps.stuffAdjective>Granite</BlocksGranite.stuffProps.stuffAdjective>
+  <!-- EN: limestone blocks -->
+  <BlocksLimestone.label>Hour</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
+  <BlocksLimestone.description>There brackets di thupi difficult.</BlocksLimestone.description>
+  <!-- EN: limestone -->
+  <BlocksLimestone.stuffProps.stuffAdjective>Rest</BlocksLimestone.stuffProps.stuffAdjective>
+  <!-- EN: marble blocks -->
+  <BlocksMarble.label>Marble blocks</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
+  <BlocksMarble.description>Solid marble. A large rock, not soft support, statues.</BlocksMarble.description>
+  <!-- EN: marble -->
+  <BlocksMarble.stuffProps.stuffAdjective>Marble</BlocksMarble.stuffProps.stuffAdjective>
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>Sand blocks</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>Solid sandstone blocks. Relatively soft sandstone rocks easily divided.</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>Gravel</BlocksSandstone.stuffProps.stuffAdjective>
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>Slate tiles</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>A special bond prova. Dull rock easily separable.</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>Schist</BlocksSlate.stuffProps.stuffAdjective>
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>Granite</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>A stone. You can remove the boulders here.</ChunkGranite.description>
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>Concrete pieces</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>It rocks. You can prevent stone ignorance here.</ChunkLimestone.description>
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>Pounds</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>Rock a. You can knock a stone block.</ChunkMarble.description>
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>Sandstone rock</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>A rock. You need to hit the concrete blocks.</ChunkSandstone.description>
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>Hamo'ia metals</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>It can heap which is present in the form suitable, but dissolved in the steel win.</ChunkSlagSteel.description>
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>Not a piece of equipment</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>Rock. Here you can knock out a stone was the material of committing an offense.</ChunkSlate.description>
+  <!-- EN: granite -->
+  <Granite.label>Granite</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>Volcanic rock hard.</Granite.description>
+  <!-- EN: limestone -->
+  <Limestone.label>Limestone</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>Sedimentary rocks, ancient remnants of rounds again breaking.</Limestone.description>
+  <!-- EN: marble -->
+  <Marble.label>Marble</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>A soft metamorphic rocks.</Marble.description>
+  <!-- EN: sandstone -->
+  <Sandstone.label>Gravel</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>Sedimentary rocks contain compressed sand.</Sandstone.description>
+  <!-- EN: slate -->
+  <Slate.label>Crockery</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>Metamorphic rock is a layer of a light color. A thin layer of shale having a duck.</Slate.description>
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>Polished granite</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>Very hard volcanic rock. Bright top, black, white and red spots and photographs.</SmoothedGranite.description>
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>Paved with limestone</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>Sea stone ruins that trouble shooting. These compounds, and filled with an amazing design with a soft white.</SmoothedLimestone.description>
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>Marble</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>Soft metamorphic rock. This stone is semi-polished seem to glow from within.</SmoothedMarble.description>
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>Gently sand</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>Sand compressed sedimentary rocks. A layer of sand is formed by a flat horizontal.</SmoothedSandstone.description>
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>Slate</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>It is closed metamorphic layer. A fine equivalent to defining the right to ensure that common. Polished surface of the inner layer can be recognized.</SmoothedSlate.description>
+</LanguageData>

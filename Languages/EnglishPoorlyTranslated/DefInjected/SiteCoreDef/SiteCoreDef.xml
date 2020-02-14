@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ItemStash.label>埋蔵品</ItemStash.label>
+  <ItemStash.description>Save precious Memorial</ItemStash.description>
+  <Nothing.label>サイト</Nothing.label>
+  <Nothing.description>This is particularly important in this project is not</Nothing.description>
+  <PreciousLump.label>small silver</PreciousLump.label>
+  <PreciousLump.description>Mineral stone precious</PreciousLump.description>
+  <DownedRefugee.label>Yukidaore refugees</DownedRefugee.label>
+  <DownedRefugee.description>Yukidaore marginalized to seek help for refugees</DownedRefugee.description>
+  <PrisonerWillingToJoin.label>camp closure</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>Prisoners captured enemy forces that join the rescue.</PrisonerWillingToJoin.description>
+</LanguageData>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClickToJumpToProblem>Problem click here</ClickToJumpToProblem>
+  <BreakRiskMinor>Little holiday risks</BreakRiskMinor>
+  <BreakRiskMajor>For the most vulnerable</BreakRiskMajor>
+  <BreakRiskExtreme>Providing a growing danger</BreakRiskExtreme>
+  <BreakRiskMinorDesc>These immigrants may have a bad feeling in mind some rest at any time;\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Too bad mood, and at any time of the colony could be a major psychological break:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Colon cancer is the pressure, you can have a major (perhaps violent) to rest at any time:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>See what cards are troubled residents.\n\nImmigrants feel more comfortable, you can, for example, eat a big meal, giving them more time for leisure and entertainment, and beautiful the most beautiful urban environment, they drink, smoke, and so on.</BreakRiskDescEnding>
+  <ColonistNeedsRescue>The farmer must deliver</ColonistNeedsRescue>
+  <ColonistsNeedRescue>In defense colony</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Settlers grounds for disqualification;\n\n{0}\nOther deposits in the colony and can relax.\n\n(another option of being oppressed and select save to save, right-click and then.</ColonistsNeedRescueDesc>
+  <NeedDefenses>Security</NeedDefenses>
+  <NeedDefensesDesc>We are here for a long time and probably saw it. Pirate attacks are starting soon.\n\nYou must be prepared to protect sandbags or traps.</NeedDefensesDesc>
+  <NeedDoctor>If you need a doctor</NeedDoctor>
+  <NeedDoctorDesc>Check treatment, but they are a vital part of the doctor.\n\n{0}\nDr. colonizer health. If treated, wounds can not heal properly and may be permanent.</NeedDoctorDesc>
+  <NeedMiner>Have minor</NeedMiner>
+  <NeedMinerDesc>Some of overwriting rock group, but no case of domestic settler.\n\nMining colonists.</NeedMinerDesc>
+  <NeedWarden>Caregivers</NeedWarden>
+  <NeedWardenDesc>Here is a prisoner, or any kind of trade with the region warden.\n\nA colonial guard.</NeedWardenDesc>
+  <LowFood>Bad food</LowFood>
+  <LowFoodDesc>It is less food insecurity.\n\nFull of bars and coins' silver meat is stored, {0}\nPrisoners colony to get food: {1}\nFood storage: {2}\n\nGrow, buy, find, kill or eat something.</LowFoodDesc>
+  <LowMedicine>Low trees</LowMedicine>
+  <LowMedicineDesc>You just {0} safety.\n\nBuy more drugs from dealers.</LowMedicineDesc>
+  <NoMedicineDesc>There is no place to store medicines.\n\nDealers buy some medicine.</NoMedicineDesc>
+  <NeedColonistBeds>Empty beds colonies</NeedColonistBeds>
+  <NeedColonistBedsDesc>You colonists colony sleep. There is no house to stay in one place.\n\nMaking beds or more, or eye-catching change bed sleeping farmer.\n\nIf you do not have the resources, sleep seats are free and can be used immediately.</NeedColonistBedsDesc>
+  <HunterLacksWeapon>The voids between hunter tools</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Visitor and the hands were determined hunter.\n\nAffects up to one of the control devices.</HunterLacksWeaponDesc>
+  <AlertTatteredApparel>The ragged clothes</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These are the settlers, unfortunately, in tatters clothes, and:\n\n{0}\nEvilly people and clothing that does not mean it is not bad.\n\nYou can complete the table to sew or buy from merchants.</AlertTatteredApparelDesc>
+  <AlertUnhappyNudity>Nudity and bad</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonies are naked, are not happy about:\n\n{0}\nEaster clothes.\n\nYou can still adjust the sewing table, or you can purchase them from the business.</AlertUnhappyNudityDesc>
+  <Starvation>Popularity</Starvation>
+  <StarvationDesc>Immigration hungry:\n\n{0}\nGive food.</StarvationDesc>
+  <StarvationAnimals>Hungry beast</StarvationAnimals>
+  <StarvationAnimalsDesc>These animals are hungry colony:\n\n{0}\nSome of the dishes.</StarvationAnimalsDesc>
+  <Exhaustion>Fatigue</Exhaustion>
+  <ExhaustionDesc>Colonial tired and need a rest:\n\n{0}\nThey get a little rest. This sign will be used for the camp bed. Also, make sure that you are ready.</ExhaustionDesc>
+  <NeedFoodHopper>The need for food bunker</NeedFoodHopper>
+  <NeedFoodHopperDesc>Do you have a hopper feeder and nutrients with it.\n\nWork, should be integrated into the dispensers using whole raw foods adjoining hopper.\n\nPreparation of a crib close to the donor.</NeedFoodHopperDesc>
+  <NeedMealSource>The importance of food resources</NeedMealSource>
+  <NeedMealSourceDesc>There is no way to prepare fresh food.\n\nBuild a stove, fireplace, or fruit quality.\n\n(there can be a prison cell, consistent use it in any other way.)</NeedMealSourceDesc>
+  <NeedJoySource>Diversity entertainment</NeedJoySource>
+  <NeedJoySourceDesc>House {3} variety of recreational activities for immigrants are still to be fulfilled, the current level ({2}) are widely available as {0} {1}, but wait. Holidays and vacations create a series of new and provides a different.\n\n{4}\n\n{5}\n\nNote: if the item is "i have no access to the rest of the stats' button, you can write.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>For this kind of entertainment</AvailableRecreationTypes>
+  <MissingRecreationTypes>Different forms of entertainment</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>On the skin ({0}) to promote tolerance daily {1}. {2} to promote the image of the games.</CurrentExpectationsAndRecreation>
+  <bored>is convinced that</bored>
+  <Boredom>Health</Boredom>
+  <BoredomDesc>These people do not need to open or entertainment. it is a source of entertainment.\n\n{0}\n\nYour peace.\n\nNow, {PAWN_labelShort}- this kind of entertainment.\n\n{2}</BoredomDesc>
+  <NeedBatteries>Battery</NeedBatteries>
+  <NeedBatteriesDesc>Do you have a generator or solar wind, but no batteries. How often kept quiet force of the wind, the sun goes down.\n\nSustainable energy guaranteed the battery or two projects.</NeedBatteriesDesc>
+  <BrawlerHasRangedWeapon>Rooster more weapons</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>One of your colonies, but are carrying the gun consists of a gangster character. This makes them very happy.</BrawlerHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Until the armed protection of users</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of the settlers belt shield and ranged weapons. They shield (the gun to shoot will be) made contact with them separated.</ShieldUserHasRangedWeaponDesc>
+  <NeedResearchProject>Projects should seek</NeedResearchProject>
+  <NeedResearchProjectDesc>You have to do research, but not selected for a particular job.\n\nOpen the menu and select research.</NeedResearchProjectDesc>
+  <ColonistsIdle>tests for settlement {0}</ColonistsIdle>
+  <ColonistsIdleDesc>Leisurely roaming migrants;\n\n{0}\nYou can find something useful.</ColonistsIdleDesc>
+  <ColonistNeedsTreatment>Settlers who require medical care</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Low need for treatment. Passed, because dying because of their injuries, or will be able to stay injury.\n\n{0}\nWhat gave them in bed.\n\n(first, assign a medical bed, choose to change the medical bed. Then, one injured administration rights bottles medical beds.)</ColonistNeedsTreatmentDesc>
+  <AlertHypothermia>Heat</AlertHypothermia>
+  <AlertHypothermiaDesc>These colonies and body temperature low.\n\n{0}\nIn the heated clothes and place.</AlertHypothermiaDesc>
+  <PatientsAwaitingMedicalOperation>{0} patients awaiting surgery</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients are waiting for a medical operation:\n\n{0}\nCheck out all of the tools available to kaoe medical doctors.</PatientsAwaitingMedicalOperationDesc>
+  <FireInHomeArea>Fire!</FireInHomeArea>
+  <FireInHomeAreaDesc>The fire in the house.</FireInHomeAreaDesc>
+  <PawnsWithLifeThreateningDisease>Emergency medical care</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Why at greater risk of death and serious:\n\n{0}\nMake that the best possible treatment.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People who are at risk of serious illness and death due to:\n\n{0}\nIf possible, consider replacing chop or save a colony of living bond contracts.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <BilliardsNeedsSpace>We have to put greetings</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Wherein the barrier next to a pool table, in order to prevent the use of immigration.\n\nPool table requires all parties around cleaning it exists.</BilliardsNeedsSpaceDesc>
+  <HunterHasShieldAndRangedWeapon>Hunter has long arms and weapons</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>His hunter who wore a shield prevents belt with a weapon and shooting range, use.\n\nThey will be able to fish when removed shield.</HunterHasShieldAndRangedWeaponDesc>
+  <NeedWarmClothes>Warm clothing</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} residents will hardly warm clothing in cold weather comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>He moved cold season because all the clothes, it is not hot enough.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>{0} outside temperature.\n\nYou can adjust the temperature sewing clothes benches, or buy them from vendors.</NeedWarmClothesDesc2>
+  <ImmobileCaravan>Film events</ImmobileCaravan>
+  <ImmobileCaravanDesc>It also brings a lot, do not give up one of your songs.\n\nKahn mobile trailer and gave certain things about tab things.</ImmobileCaravanDesc>
+</LanguageData>

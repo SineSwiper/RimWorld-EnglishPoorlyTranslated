@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: aurora -->
+  <Aurora.label>Daybreak</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>Aurora fall in a flash. Watch out for each color to enhance the mood is striking.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>Aurora has been completed.</Aurora.endMessage>
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>Weather volume</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>Because of years of climatic cycle high elliptical orbit.</ClimateCycle.description>
+  <!-- EN: cold snap -->
+  <ColdSnap.label>Cold wave</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Special cold ice the area immediately. He let it out to tenants cool.</ColdSnap.description>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>The cold wave is.</ColdSnap.endMessage>
+  <!-- EN: eclipse -->
+  <Eclipse.label>Solar eclipse</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Valley occurred. Today, they sit in the dark.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>Eclipse will shut down.</Eclipse.endMessage>
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Storm</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Usually a storm knocked power to leave a very small area.</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>Lightning.</Flashstorm.endMessage>
+  <!-- EN: heat wave -->
+  <HeatWave.label>Heatwave</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Intense heat wave in the kitchen. Termination should be based in the netherlands.</HeatWave.description>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>Heat wave.</HeatWave.endMessage>
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>Planetkiller</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>World's missile destroyer, is about the planet star. Destroys the planet like a ball of fresh eggs. Light of all life.</Planetkiller.description>
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>Spiritual hum</PsychicDrone.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
+  <PsychicDrone.description>Discharge far artificial intelligence say waves. This results in a long echo of the mental state of the settlers, and may cause nerve damage.</PsychicDrone.description>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>Mental roar stopped.</PsychicDrone.endMessage>
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>With emphasis on the psychological</PsychicSoothe.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Khutsise mind smart grid artificially. This relaxing calm waves of settlers and stabilize your consciousness.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>Announcement stopped mind.</PsychicSoothe.endMessage>
+  <!-- EN: solar flare -->
+  <SolarFlare.label>Solar storm</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
+  <SolarFlare.description>Fire shower planet in the solar particle radiation. This powerful solar wind is generated intense electromagnetic fields. Loog all electrical equipment in order to avoid greater damage will be closed automatically.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>Solar storms are substantial.</SolarFlare.endMessage>
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Hail adventure</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Adventure low lying clouds in the region. Those who are not under the same roof can slowly poisoned to stop and forget.</ToxicFallout.description>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>Toxic rain.</ToxicFallout.endMessage>
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>Snow explosion</VolcanicWinter.label>
+  <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Saturated volcanic eruption of dust particles in the atmosphere absorb sunlight. It was cold, and take it slow growing tree.</VolcanicWinter.description>
+  <!-- EN: Most of the volcanic ash has settled. -->
+  <VolcanicWinter.endMessage>Most volcanic ash has been resolved.</VolcanicWinter.endMessage>
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>-ase</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>Use of heat to destroy weapons. This process is more quickly dissolved and also works with non-melting gun but did not produce raw materials.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>Destruction of weapons.</DestroyWeapon.jobString>
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>Hamo'ia dissolved metals</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>Useful metal heat recovery and use power electronic scrap iron or steel.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>Scrap metal processing.</ExtractMetalFromSlag.jobString>
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>From a certain point of the fuel (organic)</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Think of oil and bio-organic.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>Fuel kidney ian</Make_ChemfuelFromOrganics.jobString>
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>Fuels (wood)</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Strain the plant's flue gas condenser plant.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>Kidney raff</Make_ChemfuelFromWood.jobString>
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>Shengchandanwei</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>Part of the product.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>Making things.</Make_ComponentIndustrial.jobString>
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>High production</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>Working as part of a high-tech.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>Production of high-tech components.</Make_ComponentSpacer.jobString>
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>Product hidecrafter</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>Loose hidecrafter is a type of skin together.</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>Hua hidecrafter.</Make_Patchleather.jobString>
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>See all the blocks of stone</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>Rock recycled into usable minaret.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>Special stones.</Make_StoneBlocksAny.jobString>
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>Weapons, sweetheart</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>Using hot melt steel into the hands of the more powerful electronics.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>Metal materials processed.</SmeltWeapon.jobString>
+</LanguageData>

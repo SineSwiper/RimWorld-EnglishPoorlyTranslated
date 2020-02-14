@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: grand sculpture -->
+  <SculptureGrand.label>Sculpture (a)</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>Great art work throughout the room dominance.</SculptureGrand.description>
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>Sculpture (large)</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>The formation of a large work of art.</SculptureLarge.description>
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>(small game)</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Bust a large part of the material is formed into a work of art.</SculptureSmall.description>
+  <!-- EN: snowman -->
+  <Snowman.label>Snowman</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>They are on top of the snow cap placed on the three-line, two for each person. The entertainment was made.</Snowman.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: haul -->
+  <Haul.label>Highway</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>Animals in the movement of goods.</Haul.description>
+  <!-- EN: obedience -->
+  <Obedience.label>Auditory</Obedience.label>
+  <!-- EN: The animal can be assigned a master who it will follow and defend. -->
+  <Obedience.description>The animal can be assigned to the "master" to agree with him, and he is.</Obedience.description>
+  <!-- EN: release -->
+  <Release.label>To curb</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
+  <Release.description>Animals that come from animals, etc., not just the "master" will hit targets far.</Release.description>
+  <!-- EN: rescue -->
+  <Rescue.label>Self defense</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Animal stored supporters were hurt and pull them to safety.</Rescue.description>
+  <!-- EN: tameness -->
+  <Tameness.label>The ceng</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>I think, however, note that animals are part of the society.</Tameness.description>
+</LanguageData>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: manhunter -->
+  <Manhunter.label>Chase</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Angry, rescue</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} hunter of men.</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>Inspect</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0} through blood disease.</Manhunter.recoveryMessage>
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>Chase</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Angry: hunter</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} hunter is a male.</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>Hunting</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>During {0} starved to blood.</ManhunterPermanent.recoveryMessage>
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>Free horror movies</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>Status: escape terror</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} flee in fear.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>-adhair</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0}.</PanicFlee.recoveryMessage>
+  <!-- EN: social fighting -->
+  <SocialFighting.label>From the</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>Class: stone</SocialFighting.baseInspectLine>
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>Tirikirane confused</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>They were to be disappointed</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>Details {0} was mixed approach.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>Confusion</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} to confusion.</WanderConfused.recoveryMessage>
+</LanguageData>

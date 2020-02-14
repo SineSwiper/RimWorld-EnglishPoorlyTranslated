@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GameMapCamera.label>control of the camera</GameMapCamera.label>
+  <GameMapCamera.description>Camera Mode</GameMapCamera.description>
+  <Game.label>I play</Game.label>
+  <Game.description>They often work in bringing</Game.description>
+  <SelectionMisc.label>other activities</SelectionMisc.label>
+  <SelectionMisc.description>This process modification or use Swap</SelectionMisc.description>
+  <SelectionSpecial.label>special events</SelectionSpecial.label>
+  <SelectionSpecial.description>certain activities may be protected by a special</SelectionSpecial.description>
+  <Architect.label>designer</Architect.label>
+  <Architect.description>Action is used to design menu</Architect.description>
+  <MainTabs.label>Basic tab</MainTabs.label>
+  <MainTabs.description>On the Home tab operations</MainTabs.description>
+  <Modifiers.label>修飾</Modifiers.label>
+  <Modifiers.description>Internet should be used to change other habits</Modifiers.description>
+  <Development.label>How to Develop</Development.label>
+  <Development.description>· Ana mode the Creator</Development.description>
+</LanguageData>

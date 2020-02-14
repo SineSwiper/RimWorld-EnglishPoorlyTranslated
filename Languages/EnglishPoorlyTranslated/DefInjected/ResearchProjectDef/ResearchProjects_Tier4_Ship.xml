@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>Basics of space flight</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>The construction unit of the vehicle and support. It is the first step in the construction of roads, the solar system spacecraft.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Escape from the world - will eventually mean the freedom to return home.\n\nBut it is very dangerous.\n\nMany people are desperate, they are on the planet. 15 days reactor vessel necessary for charging. You can start this process still shone with a unique energy signature, which can scale to thousands of kilometers away from the reactor if needed. Pirates will attack you waves of unprecedented strength. Also metshanoids is known to be attracted to these signs. What the? There is a mystery.\n\nAttacks wanted only the beginning of the reactor, but when they start, it will be very difficult. We hope that the attack and escape this will be for a total of cooked food, weapons and protection vobereiten.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Note: the start of the bus</ShipBasics.discoveredLetterTitle>
+  <!-- EN: AI persuasion -->
+  <ShipComputerCore.label>Than any one anticipated the feet of</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Construction sign compensation systems and ai personality convince skipper star. No flight from the common sleeping broken, and live to be a hundred, and understand the problems related construction, it was decided that it would be one of the planes that.</ShipComputerCore.description>
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>Mandatory encryption pills fishermen</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Building strong crypto sleeping capsules are stable enough that it will not be able to cope with the challenges of the region. Own life and the stars fly down in secret.</ShipCryptosleep.description>
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>Johnson drives tanaka</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Tanaka johnson's drive to build a ship. More protection and jt-speed turn the result of all the stars and crew. But this year will be held.</ShipEngine.description>
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>Starship reactor</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Building long term given to the reactor vessel. Then, it should consider that the reactor's enemies to create a long takes.</ShipReactor.description>
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>Sensors based on spot</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Develop a long-range sensor for spacecraft. These sensors, navigation, communications and injury is very important.</ShipSensorCluster.description>
+</LanguageData>

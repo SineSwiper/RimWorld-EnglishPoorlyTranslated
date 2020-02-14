@@ -1,0 +1,86 @@
+﻿//Example: "Die ..."
+
+Level
+Phase
+Surface
+Agency
+Meadow
+Lawn
+Floating
+Plateau
+Good
+Level
+Waste
+Vulnerable
+Fields
+Website
+Pedestal
+Forests
+Cactus
+The tree
+Tree
+Meadow
+Forest
+Thicket
+Understory
+Pin bush
+Thorn bush
+Stone
+Career
+Quarry
+Stone
+Mountain
+See
+Hill
+Highlands
+Highland
+Rock
+Stop
+Posture
+Level
+Steilufer
+Shteilufaer
+Glens
+-dohasaha
+Together
+Loyalty
+Strip
+Unpleasant
+Sanctuary
+That
+Area
+Sheds
+Ouen to à lair
+Auentäler
+Says
+Caves
+Cave
+Hole
+River
+Flood
+Leak
+Entrance
+Vacuum cleaner
+Inflow
+To wander
+Canal
+Bay
+Phjeards
+Fiord
+Lake
+Bird
+Sea
+Pool
+Pond
+Pools
+Swimming pool
+Lagoon
+Swimming pool
+Hole
+Drilling
+Wet
+Marshy
+Teerlöcher
+Terlöcher
+Swamp
+Mucus

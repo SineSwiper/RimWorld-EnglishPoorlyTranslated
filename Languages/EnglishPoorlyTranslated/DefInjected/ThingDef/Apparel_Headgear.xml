@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced helmet -->
+  <Apparel_AdvancedHelmet.label>Modern helmets</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>Good layering design complexity, fighting helmet lights. Is not effective against a blunt weapon.</Apparel_AdvancedHelmet.description>
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>Watermelon</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>Easy style gives money as a beautiful hat in urban areas. Social impact.</Apparel_BowlerHat.description>
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>Hat</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>These things, and some people - cute, but wildly hat to keep the sun and rain. This is an important part of traditional western clothing.</Apparel_CowboyHat.description>
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>Electrical equipment crown</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>Plus teel concrete steel helmet with the power of computers and the appropriate number of layers built.\n\nThis type of armor worn by marines emperor eingreifstruppe janissaries.</Apparel_PowerArmorHelmet.description>
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>Anti-psycho foil helmets</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>Spirit and mask some absorption film coating. Reduce emotional waves.</Apparel_PsychicFoilHelmet.description>
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>Casual hats</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>Provides a simple helmet to protect the soft sharp attacks. The result is actually dull.</Apparel_SimpleHelmet.description>
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>Full screen</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>Usually dressed in elegant traditional religious significance. Community feeling.</Apparel_TribalHeaddress.description>
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>Casanova</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>Soft woolen hat. Very hot winter.</Apparel_Tuque.description>
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>Mask war</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>Martial arts scary mask. Hide the user's face, and gives you more confidence.</Apparel_WarMask.description>
+  <!-- EN: war veil -->
+  <Apparel_WarVeil.label>Veil</Apparel_WarVeil.label>
+  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <Apparel_WarVeil.description>War veil cloth enhanced. He is a sales order for veterans. Some people think that the charm of the building.</Apparel_WarVeil.description>
+</LanguageData>

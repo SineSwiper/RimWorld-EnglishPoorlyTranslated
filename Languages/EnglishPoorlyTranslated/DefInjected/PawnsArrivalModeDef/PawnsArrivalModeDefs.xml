@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EdgeWalkIn.textEnemy>{0} {1} came from the situation immediately.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>Type {0} {1} he immediately arrived at the scene.</EdgeWalkIn.textFriendly>
+  <EdgeDrop.textEnemy>{0} made {1} is currently on the fly pumping region.</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>Friendly {0} {1} was close to transport pods.</EdgeDrop.textFriendly>
+  <EdgeWalkInGroups.textEnemy>He {0} or {1} There are many in this area.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>{0} {1} the country has been divided into a number from a friend to enter.</EdgeWalkInGroups.textFriendly>
+  <EdgeDropGroups.textEnemy>{0} and transport sectors have shared a number of nearby {1}.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>The tires shipped off on a number of pieces in the friendly {0} {1}.</EdgeDropGroups.textFriendly>
+  <CenterDrop.textEnemy>Come {0} {1} Donpishari fell on his head!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>{0} friendly {1} come Donpishari refused to slide!</CenterDrop.textFriendly>
+  <RandomDrop.textEnemy>{0} {1} come to give one.Transport pod, quite separately from the land are scattered around!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>{1} {0} in appropriate transport pods.The behavior of the trailer, all without landing scattered in this together!</RandomDrop.textFriendly>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cougar.label>Cougar</Cougar.label>
+  <Panther.label>panther</Panther.label>
+  <Lynx.label>vildcat</Lynx.label>
+  <Lynx.labelPlural>wild cats</Lynx.labelPlural>
+  <Lynx.lifeStages.lynx_kitten.label>Suddenly pagan</Lynx.lifeStages.lynx_kitten.label>
+</LanguageData>

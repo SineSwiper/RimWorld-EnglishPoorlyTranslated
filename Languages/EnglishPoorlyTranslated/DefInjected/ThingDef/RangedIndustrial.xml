@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: assault rifle bullet -->
+  <Bullet_AssaultRifle.label>Half shot</Bullet_AssaultRifle.label>
+  <!-- EN: autopistol bullet -->
+  <Bullet_Autopistol.label>Bullet of semi-automatic pistols</Bullet_Autopistol.label>
+  <!-- EN: bolt-action rifle bullet -->
+  <Bullet_BoltActionRifle.label>Repeat rifle bullet</Bullet_BoltActionRifle.label>
+  <!-- EN: heavy SMG bullet -->
+  <Bullet_HeavySMG.label>Ball mp</Bullet_HeavySMG.label>
+  <!-- EN: incendiary bolt -->
+  <Bullet_IncendiaryLauncher.label>The light</Bullet_IncendiaryLauncher.label>
+  <!-- EN: LMG bullet -->
+  <Bullet_LMG.label>Mihir ball</Bullet_LMG.label>
+  <!-- EN: machine pistol bullet -->
+  <Bullet_MachinePistol.label>Gun</Bullet_MachinePistol.label>
+  <!-- EN: minigun bullet -->
+  <Bullet_Minigun.label>Ball weapons</Bullet_Minigun.label>
+  <!-- EN: revolver bullet -->
+  <Bullet_Revolver.label>Revolver bullets</Bullet_Revolver.label>
+  <!-- EN: shotgun blast -->
+  <Bullet_Shotgun.label>Fire</Bullet_Shotgun.label>
+  <!-- EN: sniper rifle bullet -->
+  <Bullet_SniperRifle.label>Accuracy ammunition</Bullet_SniperRifle.label>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.label>Assault rifle</Gun_AssaultRifle.label>
+  <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
+  <Gun_AssaultRifle.description>Various guns and fight the city. There is good power and accuracy, as well as a useful stop.</Gun_AssaultRifle.description>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle.tools.stock.label>Healing</Gun_AssaultRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle.tools.barrel.label>Rock</Gun_AssaultRifle.tools.barrel.label>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>Rifle</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.label>Weapon</Gun_Autopistol.label>
+  <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
+  <Gun_Autopistol.description>Antique, semi-automatic pistol. Do not close to the bottom of the well, and you can kill quickly.</Gun_Autopistol.description>
+  <!-- EN: grip -->
+  <Gun_Autopistol.tools.grip.label>Power</Gun_Autopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Autopistol.tools.barrel.label>Race</Gun_Autopistol.tools.barrel.label>
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.verbs.Verb_Shoot.label>Rifle</Gun_Autopistol.verbs.Verb_Shoot.label>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.label>Repeating rifle</Gun_BoltActionRifle.label>
+  <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
+  <Gun_BoltActionRifle.description>Guns regular old. Wide choice and low rate of fire, the animal is why the army is in favor of hunting, it is unlikely that the plural.</Gun_BoltActionRifle.description>
+  <!-- EN: stock -->
+  <Gun_BoltActionRifle.tools.stock.label>Shank</Gun_BoltActionRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoltActionRifle.tools.barrel.label>Flight</Gun_BoltActionRifle.tools.barrel.label>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>Rifle, second</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.label>Automatically. Pistol</Gun_ChainShotgun.label>
+  <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
+  <Gun_ChainShotgun.description>A magazine fully automatic rifle. How normal shotgun, but extremely dangerous fire a small part.</Gun_ChainShotgun.description>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun.tools.stock.label>Data</Gun_ChainShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun.tools.barrel.label>Racing</Gun_ChainShotgun.tools.barrel.label>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>Aute: Shot gun</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.label>Heavy machine gun</Gun_HeavySMG.label>
+  <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
+  <Gun_HeavySMG.description>Compact lead coffee and large caliber. With very low power but high impact and good governance.</Gun_HeavySMG.description>
+  <!-- EN: grip -->
+  <Gun_HeavySMG.tools.grip.label>Grip</Gun_HeavySMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG.tools.barrel.label>What</Gun_HeavySMG.tools.barrel.label>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>Heavy machine guns</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.label>The first fire bullets</Gun_IncendiaryLauncher.label>
+  <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
+  <Gun_IncendiaryLauncher.description>A large jar of ballistics. Carriers offer a small chip that effect and sets the targets.</Gun_IncendiaryLauncher.description>
+  <!-- EN: stock -->
+  <Gun_IncendiaryLauncher.tools.stock.label>Es</Gun_IncendiaryLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_IncendiaryLauncher.tools.barrel.label>And destroy</Gun_IncendiaryLauncher.tools.barrel.label>
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>Fire missile</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: LMG -->
+  <Gun_LMG.label>Light machine gun</Gun_LMG.label>
+  <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
+  <Gun_LMG.description>Light machine gun. And ranolava the fire from the time - to support the user groups who are against you in the eye.</Gun_LMG.description>
+  <!-- EN: stock -->
+  <Gun_LMG.tools.stock.label>My</Gun_LMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LMG.tools.barrel.label>Bill</Gun_LMG.tools.barrel.label>
+  <!-- EN: LMG -->
+  <Gun_LMG.verbs.Verb_Shoot.label>Cannon bern</Gun_LMG.verbs.Verb_Shoot.label>
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.label>Light machine gun</Gun_MachinePistol.label>
+  <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
+  <Gun_MachinePistol.description>Micro machines. In low light in his hands. But the rate of fire, it has the power.</Gun_MachinePistol.description>
+  <!-- EN: grip -->
+  <Gun_MachinePistol.tools.grip.label>For the influence</Gun_MachinePistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_MachinePistol.tools.barrel.label>Print</Gun_MachinePistol.tools.barrel.label>
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>Light machine gun</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  <!-- EN: minigun -->
+  <Gun_Minigun.label>Inside information</Gun_Minigun.label>
+  <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
+  <Gun_Minigun.description>Fully automatic machine guns mehrläufiges. It's huge, but very soon in order to start, and drag the bridge again. While many members of the restoration of the power of gunpowder and firearms, fire magazines, transported quickly to the gun.</Gun_Minigun.description>
+  <!-- EN: barrels -->
+  <Gun_Minigun.tools.barrels.label>Tracks</Gun_Minigun.tools.barrels.label>
+  <!-- EN: minigun -->
+  <Gun_Minigun.verbs.Verb_Shoot.label>Machine gun</Gun_Minigun.verbs.Verb_Shoot.label>
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.label>Gun</Gun_PumpShotgun.label>
+  <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
+  <Gun_PumpShotgun.description>Image of vintage design, xx verschi'e ss the bill shot. Black, but over a very short distance.</Gun_PumpShotgun.description>
+  <!-- EN: stock -->
+  <Gun_PumpShotgun.tools.stock.label>Mine</Gun_PumpShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PumpShotgun.tools.barrel.label>Finnish travel</Gun_PumpShotgun.tools.barrel.label>
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>Rifle</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: revolver -->
+  <Gun_Revolver.label>In a straight line</Gun_Revolver.label>
+  <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
+  <Gun_Revolver.description>The clash of ancient trees is great. He did not have a good braking power, but quickly pulled out a gun and a good choice, as much as possible.</Gun_Revolver.description>
+  <!-- EN: grip -->
+  <Gun_Revolver.tools.grip.label>Started off</Gun_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver.tools.barrel.label>Bullfight</Gun_Revolver.tools.barrel.label>
+  <!-- EN: revolver -->
+  <Gun_Revolver.verbs.Verb_Shoot.label>Gun</Gun_Revolver.verbs.Verb_Shoot.label>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.label>Sniper rifle</Gun_SniperRifle.label>
+  <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
+  <Gun_SniperRifle.description>Hunting rifle right. Bolt action. It has a high penetration power law long and precise. This is because the size, so they annoying, but weapons are very close range.</Gun_SniperRifle.description>
+  <!-- EN: stock -->
+  <Gun_SniperRifle.tools.stock.label>Axis</Gun_SniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle.tools.barrel.label>Riding</Gun_SniperRifle.tools.barrel.label>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>Sniper rifles</Gun_SniperRifle.verbs.Verb_Shoot.label>
+</LanguageData>

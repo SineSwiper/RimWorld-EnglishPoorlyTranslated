@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Warg.label>ワーグ</Warg.label>
+  <Warg.lifeStages.warg_puppy.label>Warg son</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelPlural>children Warg</Warg.lifeStages.warg_puppy.labelPlural>
+  <Wolf_Timber.label>Wolf</Wolf_Timber.label>
+  <Wolf_Timber.labelPlural>Shan, phosphorus wolf pack</Wolf_Timber.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>Enter by Lobo</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>Shin child phosphorus Hunt</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Arctic.label>Arctic wolf</Wolf_Arctic.label>
+  <Wolf_Arctic.labelPlural>Arctic wolf herd</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>Kids Arctic Wolf</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>Baby Wolf, Arctic</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Fox_Fennec.label>fox phennec</Fox_Fennec.label>
+  <Fox_Fennec.labelPlural>fennek flock</Fox_Fennec.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>The Desert Fox</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>The Desert Fox</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Red.label>Red book</Fox_Red.label>
+  <Fox_Red.labelPlural>Red foxes, cattle</Fox_Red.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.label>Young red fox</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>Children red wolves</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Arctic.label>Arctic fox</Fox_Arctic.label>
+  <Fox_Arctic.labelPlural>Arctic disaster</Fox_Arctic.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>Arctic Fox</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>Arctic Fox</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+</LanguageData>

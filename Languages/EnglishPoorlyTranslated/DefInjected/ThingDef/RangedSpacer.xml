@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>Engcon power case</Bullet_ChargeLance.label>
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>Energy level</Bullet_ChargeRifle.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>The power of the sword</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>Tools grenades firepower, a new rail system. High speed, leaving a shell command and unstable power use up addition to iron, in.</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>Print</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>Starting power</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>Energy weapons</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>Guns, pulse energy used missiles. Volatile leaving the barrel this force and without technology gives strength for each team. He launched the damage from the shock is still very strong.</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>Shaft</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>Bullfight</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>Energy gun</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

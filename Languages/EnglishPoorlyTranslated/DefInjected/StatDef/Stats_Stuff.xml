@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Armor - Blunt -->
+  <StuffPower_Armor_Blunt.label>Armor - stump</StuffPower_Armor_Blunt.label>
+  <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
+  <StuffPower_Armor_Blunt.description>Surgical weapons will fall on the damage such attacks with a stick and a rock explosion.</StuffPower_Armor_Blunt.description>
+  <!-- EN: Armor - Heat -->
+  <StuffPower_Armor_Heat.label>Coach - anal</StuffPower_Armor_Heat.label>
+  <!-- EN: Armor against temperature-related damage like burns. -->
+  <StuffPower_Armor_Heat.description>For example, heat, fire armor.</StuffPower_Armor_Heat.description>
+  <!-- EN: Armor - Sharp -->
+  <StuffPower_Armor_Sharp.label>Armored - stich</StuffPower_Armor_Sharp.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <StuffPower_Armor_Sharp.description>Piercing damage, such as the painting distilleries, knife wounds and animal fear.</StuffPower_Armor_Sharp.description>
+  <!-- EN: Insulation - Cold -->
+  <StuffPower_Insulation_Cold.label>Insulation - cold</StuffPower_Insulation_Cold.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Cold.description>Piha extremely low temperature base price. Below the minimum temperature value for the carrier directly. (principles better).</StuffPower_Insulation_Cold.description>
+  <!-- EN: Insulation - Heat -->
+  <StuffPower_Insulation_Heat.label>Block - temperature</StuffPower_Insulation_Heat.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Heat.description>High temperature limit has been better comfort and support. Heat conductor, the number of great price. (better number).</StuffPower_Insulation_Heat.description>
+</LanguageData>

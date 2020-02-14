@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beer brewing -->
+  <Brewing.label>Eating</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>And fermentierungsfässer beer with hops and beer.</Brewing.description>
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>Making multicolored</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Mats made of linen cloth.</CarpetMaking.description>
+  <!-- EN: cocoa -->
+  <Cocoa.label>Cocoa plantations</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>Cocoa plant trees around their chocolate theme. Chocolate relaxed, food, and found the best on the market.</Cocoa.description>
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>More companies</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>It is difficult textile nähvorlagen. Pants, skirts and cowboy hats.</ComplexClothing.description>
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>Complex pieces</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>One of viola browser, and. Bed, bedside tables, chairs, dining room, dressers, cabinets, tools and billiards poker fans sarcophagus a and much more.</ComplexFurniture.description>
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>Teufaelsgarnpilsh</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>The teufelsgarnpilze. The power plant will not bear a rejection teufelsgarnpilz fibers temperature decreases the size of mushrooms.</Devilstrand.description>
+  <!-- EN: drug production -->
+  <DrugProduction.label>Drug supply</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>-synthetisierung the creation and production of pharmaceutical drugs. Some drugs, and needs more research.</DrugProduction.description>
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>Go juice production</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Before going point fluid drug in order to increase the capacity. To reduce the improvement and pain of the emergency recording operation.</GoJuiceProduction.description>
+  <!-- EN: greatbow -->
+  <Greatbow.label>Bow</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>The point here long source, such as a distant enemy killed.</Greatbow.description>
+  <!-- EN: long blades -->
+  <LongBlades.label>Long tongue</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>This will allow the industry a long sword and throwing work.</LongBlades.description>
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Passive cooling</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Cool place potentially enable passive cooling device.</PassiveCooler.description>
+  <!-- EN: pemmican -->
+  <Pemmican.label>Veal</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Epilepsy is a victim beef and cane in the area of freedom of america is and is not allowed. Suitable for travel.</Pemmican.description>
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>Production penoxzylin</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Before penoxzyl points. The drug is used to prevent the disease.</PenoxycylineProduction.description>
+  <!-- EN: plate armor -->
+  <PlateArmor.label>Breast</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Led metal or wood plate armor. This slow heavy armor training, but if you keep it.</PlateArmor.description>
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>Psycho method</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Letter passage psychoid sedatativny psyche (shell or yayo) ago.</PsychiteRefining.description>
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>Psycho brew</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>He leaves psychoid treatment, can be cooked in boiling water, tea is relying on a hob and a little bit of happiness.</PsychoidBrewing.description>
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>Recurve bow</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Bow curved arc, to create a weapon of range of effective and affordable.</RecurveBow.description>
+  <!-- EN: smithing -->
+  <Smithing.label>Foundry</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Construction solutions, producing metallic weapons such as knives, short swords and responsible. Iron can be a good, clean floors of ceramic.</Smithing.description>
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>Steinhauer</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Build customized stone. Standard stones or building materials</Stonecutting.description>
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>Plant trees</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Biome existing species by planting trees in this area.</TreeSowing.description>
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>Not love</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>The drug stimulant, which combine the best place to dream.</WakeUpProduction.description>
+</LanguageData>

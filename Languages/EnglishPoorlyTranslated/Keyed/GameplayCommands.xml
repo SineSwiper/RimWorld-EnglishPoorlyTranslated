@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Forbid -->
+  <CommandForbid>B</CommandForbid>
+  <CommandAllow>Permit</CommandAllow>
+  <CommandForbiddenDesc>And prevent, you can meet colonists. Click to enable.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Immigrants authority assigned to interact with it. Click.</CommandNotForbiddenDesc>
+  <!-- Power -->
+  <CommandTogglePowerLabel>Power lever</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Power.</CommandTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>Granted alternative energy</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Generally are constructed to enable and disable these things. Soon immigrant mix around.</CommandDesignateTogglePowerDesc>
+  <CommandTryReconnectLabel>Connect</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Equations compound to try to force a different radius. However effective this training network command will be very helpful.</CommandTryReconnectDesc>
+  <CommandGatherSpotToggleLabel>Seat</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>This business initiative moved out.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>From - people come around this object.</CommandGatherSpotToggleDescInactive>
+  <!-- Drafting -->
+  <CommandDraftLabel>Design</CommandDraftLabel>
+  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
+  <CommandToggleDraftDesc>The concept of the military.\n\nShow orders of the people and the war. To work, not to eat or another.</CommandToggleDraftDesc>
+  <IsIncapped>You can not walk {1_labelShort}.</IsIncapped>
+  <CommandFireAtWillLabel>Mark</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Switch control fire.\n\nWhen disabled, this shoot choose pale. Weapons is not seen affected melee.</CommandFireAtWillDesc>
+  <CommandClearPrioritizedWork>Clear priorities</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>The disposal of any work you have assigned priorities. Again, that their actions are their usual samonapravlennosty.</CommandClearPrioritizedWorkDesc>
+  <CommandCancelConstructionLabel>Withdraw</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Leave the building.</CommandCancelConstructionDesc>
+  <CommandGetOutOfBedLabel>Low bed</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>On the bed.</CommandGetOutOfBedDesc>
+  <CommandBedSetOwnerLabel>Owner collection</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>A separate set of bed can be solved.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Colonial</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Teaching tomb belonged to the village.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Day</BuildingAssign>
+  <BuildingReassign>Reallocation</BuildingReassign>
+  <BuildingUnassign>Has been canceled</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Close to</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Prisoners, even if the plot should be used at home.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>This may be just a bed spaces prisoners identified.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Work up</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Which bed for medical reasons.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Provides prisoner impact (against colonial and can not sleep in the same room).\n\nThese people are no longer the owner of the bed:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Prisoners mode (not sleep in the same room as prisoners and imperialism) will affect the entire room.\n\nThese people will lose ownership of their beds.</TurningOffPrisonerBedWarning>
+  <AreYouSure>If you really want to do this?</AreYouSure>
+  <CommandDetonateLabel>Blow</CommandDetonateLabel>
+  <CommandDetonateDesc>Start the countdown sound.</CommandDetonateDesc>
+  <CommandRenameZoneLabel>Name change</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Rename the area.</CommandRenameZoneDesc>
+  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Signal</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Hide / show this area.</CommandHideZoneDesc>
+  <CommandDeleteZoneLabel>Clear</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>You want to take the field.</CommandDeleteZoneDesc>
+  <CommandCopyZoneSettingsLabel>System designers</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Next, fill the center of the site to the clipboard.</CommandCopyZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Location settings</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>The settings in this area can be overwritten. kopyalayabilme your clipboard earlier.</CommandPasteZoneSettingsDesc>
+  <CommandAllowSow>Allow planting</CommandAllowSow>
+  <CommandAllowSowDesc>When closed, the colony will warm offering in this area. They will reap later.</CommandAllowSowDesc>
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Target application</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Lay an ambush for the purpose of a tower of a very long time.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Stop the attack force</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Assault gun fire, you need to stop.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Force will attack there.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Shell oil</CommandExtractShell>
+  <CommandExtractShellDesc>Current shell less than a variety of materials can be replaced.</CommandExtractShellDesc>
+  <MessageTargetBeyondMaximumRange>In addition, the maximum margin goal.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>According to at least away goals.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Warning: the "look" is just mortar fire will not.</MessageTurretWontFireBecauseHoldFire>
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Boats start</CommandShipLaunch>
+  <CommandShipLaunchDesc>The product is reduced to a list of the current configuration.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>The report is being launched</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>It follows that preparing a ship to take this opportunity to show pride in the report.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>The boat</CommandShipStartup>
+  <CommandShipStartupDesc>In the winter, he created his boat.</CommandShipStartupDesc>
+  <!-- Pod -->
+  <CommandPodEject>Slice sleepers, and arise</CommandPodEject>
+  <CommandPodEjectDesc>Cryptosleeper up and traction.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>A.</CommandPodEjectFailEmpty>
+  <!-- Door -->
+  <CommandToggleDoorForbid>Passage prohibited</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>When the forbidden door, immigrants and supported, and will not go through. The moon does not affect the animals still react in the way.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>They are open</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>If the assembly does not always close the door too much.</CommandToggleDoorHoldOpenDesc>
+  <!-- Temperature control -->
+  <CommandResetTemp>Wear</CommandResetTemp>
+  <CommandResetTempDesc>Recovered temperature of the room.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>The increase of the optimum temperature.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Targeting low temperatures.</CommandLowerTempDesc>
+  <!-- Install/reinstall -->
+  <CommandInstall>Setting</CommandInstall>
+  <CommandInstallDesc>The storage and transport traffic for two hours to complete. Activity last command in the installation.</CommandInstallDesc>
+  <CommandReinstall>Re ...</CommandReinstall>
+  <CommandReinstallDesc>The new product, and the other parts thrown out.</CommandReinstallDesc>
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Building, which makes it almost exactly agrees with the radius of light in the form of reserves.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Wheat stock</CommandMakeBeaconStockpileLabel>
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Find the light forms a wine area around the disease.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Free cultivation</CommandSunLampMakeGrowingZoneLabel>
+  <!-- Trap -->
+  <CommandAutoRearm>Automatic re-arm</CommandAutoRearm>
+  <CommandAutoRearmDesc>If this is a trap, it is automatically replaced by the flood.</CommandAutoRearmDesc>
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Animal liberation</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>In control animals on distant targets. Next to the bar, but they still exist and in control.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsFail_NoAnimals>Not animals.</CommandReleaseAnimalsFail_NoAnimals>
+  <!-- Squad attack -->
+  <CommandSquadAttack>Attack</CommandSquadAttack>
+  <CommandSquadAttackDesc>And he decided to attack the bees, said goals.</CommandSquadAttackDesc>
+  <!-- Melee attack -->
+  <CommandMeleeAttack>Melee</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Select committee attacks order name a goal and fist closed military.</CommandMeleeAttackDesc>
+  <!-- Hold fire -->
+  <CommandHoldFire>Fire reaction</CommandHoldFire>
+  <CommandHoldFireDesc>Most recently, after the attacks.</CommandHoldFireDesc>
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Choose a plant growth</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Hello, {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Decide what trees should be planted here.</CommandSelectPlantToGrowDesc>
+  <!-- Select mineral to scan for (long-range mineral scanner) -->
+  <CommandSelectMineralToScanFor>Reform</CommandSelectMineralToScanFor>
+  <!-- Build copy -->
+  <CommandBuildCopy>Build ~~ pos = trunc copies</CommandBuildCopy>
+  <CommandBuildCopyDesc>Backing the building.</CommandBuildCopyDesc>
+  <!-- Form caravan -->
+  <CommandFormCaravan>Caravanserai</CommandFormCaravan>
+  <CommandFormCaravanDesc>Colonies in the region, you can create a new group. Buy and lived with these animals, for all parties to now, leaving a seat and wait, come together.</CommandFormCaravanDesc>
+  <!-- Reform caravan -->
+  <CommandReformCaravan>Family of six</CommandReformCaravan>
+  <CommandReformCaravanDesc>Restoring settler groups. Settlers will leave their current desktop and wait for further orders.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>There are a few enemies in this area.</CommandReformCaravanFailHostilePawns>
+  <!-- Split caravan -->
+  <CommandSplitCaravan>Split</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Two cars. Caravans then combines one so close.</CommandSplitCaravanDesc>
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>Merger</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Connect the correct choice.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>You must comply with all buildings. Travelers need to be near each other.</CommandMergeCaravansFailCaravansNotSelected>
+  <!-- Settle -->
+  <CommandSettle>Stay</CommandSettle>
+  <CommandSettleDesc>This area was created. As pioneer in the area have access and can start building a new house.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Competition can only be a base.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>The maximum number of colonies when.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>There is no where to reclaim area.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>There are no enemies in this area.</CommandSettleFailEnemies>
+  <!-- Abandon home -->
+  <CommandAbandonHome>Permit</CommandAbandonHome>
+  <CommandAbandonHomeDesc>The area was deserted. Local access not come back here again. After leaving the house, the car has been moved to a new space will be able to book.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>All residents.</CommandAbandonHomeFailAllColonistsThere>
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Opt rescue trailer</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>The group will be thulaganyou ended.</CommandCancelFormingCaravanDesc>
+  <!-- Remove from caravan -->
+  <CommandRemoveFromCaravan>Trailer lift</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Caravan to remove the person or animal.</CommandRemoveFromCaravanDesc>
+  <!-- Add to caravan -->
+  <CommandAddToCaravan>Add caravan</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Caravan of a person or animal.</CommandAddToCaravanDesc>
+  <!-- Show map -->
+  <CommandShowMap>Driving</CommandShowMap>
+  <CommandShowMapDesc>To increase zoom.</CommandShowMapDesc>
+  <!-- Trade -->
+  <CommandTrade>Sell</CommandTrade>
+  <CommandTradeDesc>Replace the party.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Is able to take care of any negotiations.</CommandTradeFailNoNegotiator>
+  <!-- Offer gifts -->
+  <CommandOfferGifts>Custom gifts</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Group gift giving.</CommandOfferGiftsDesc>
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>To trade</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Completed applications and products to the prizes.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>A film must fill in this business {0}.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>To {1} {0}?</CommandFulfillTradeOfferConfirm>
+  <!-- Take off -->
+  <CommandTakeOff>Weird</CommandTakeOff>
+  <CommandTakeOffDesc>Get on the ship, the earth's after.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Are you sure you want to run the ship?\n\nIn this area all the stars. Anyone who stays.</CommandTakeOffConfirmation>
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>Target index</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>The target fuel level. The constituents will try to fill the fuel end this level.</CommandSetTargetFuelLevelDesc>
+  <!-- Cancel load -->
+  <CommandCancelLoad>Retrieve elimination</CommandCancelLoad>
+  <CommandCancelLoadDesc>Remove individuals or units to reveal all to see.</CommandCancelLoadDesc>
+  <!-- Launch group -->
+  <CommandLaunchGroup>Publishing group</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>First time's the transport capsule arrived for the inauguration. The next step is to select the destination. Pods land and fly together.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Some are connected to the charging car traps cargo port.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Some decline in fuel.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Some put it under a roof pod.</CommandLaunchGroupFailUnderRoof>
+  <!-- Load transporter -->
+  <CommandLoadTransporter>Load first group {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Carrier selected as the reference group (s). Loading window, so you can decide who and what you spend.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Related city shuttle transportation and water.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Fuel capsule pitcher.</CommandLoadTransporterFailNoFuel>
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>Select the previous group of home</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Select pulse feeling pre-launch group.</CommandSelectPreviousTransporterDesc>
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>Selecting launch groups</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Select the transport group and ford.</CommandSelectAllTransportersDesc>
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>Next select open</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Introduction of the group, select the transport pod.</CommandSelectNextTransporterDesc>
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>State open / closed</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>They shut him up, this opinion of the entrance can be opened. A work colonists came quickly.</CommandDesignateOpenCloseVentDesc>
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Take out</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>To delete the waypoint.</CommandRemoveWaypointDesc>
+  <!-- Pause caravan -->
+  <CommandPauseCaravan>Contain</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>Both started. This has the following advantages:\n\n- people can communicate in society\nFast food - karma {0}\n- see nine {1}</CommandToggleCaravanPauseDesc>
+  <!-- Show sellable items -->
+  <CommandShowSellableItems>Let what you buy</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Show all traders do not want to buy.</CommandShowSellableItemsDesc>
+  <!-- Attack settlement -->
+  <CommandAttackSettlement>Invasion</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Attacker world.</CommandAttackSettlementDesc>
+</LanguageData>

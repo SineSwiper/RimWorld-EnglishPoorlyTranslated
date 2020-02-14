@@ -1,0 +1,41 @@
+﻿//Example: "Der ..."
+
+Forest
+Forestry
+Cactus
+Wood
+Trees
+Weed
+Bush
+Stone
+Rock
+Cliff
+Stone
+Quarry
+Stone
+Mountain
+Mountain
+Hills
+Chute
+A wall
+To
+Slots
+Flow
+Leak
+Battle creek
+Current
+Food
+Feed
+Registered
+Entrance
+Beach
+Bay
+Fjord
+And
+See
+Sea
+Swimming pool
+Swamp
+Bog
+Swamp
+Unity

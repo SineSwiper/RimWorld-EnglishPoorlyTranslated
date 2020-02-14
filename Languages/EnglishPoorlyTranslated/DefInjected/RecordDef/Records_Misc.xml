@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animals slaughtered -->
+  <AnimalsSlaughtered.label>Dead animals</AnimalsSlaughtered.label>
+  <!-- EN: The number of animals I have slaughtered. -->
+  <AnimalsSlaughtered.description>The number of animals died.</AnimalsSlaughtered.description>
+  <!-- EN: animals tamed -->
+  <AnimalsTamed.label>Animal</AnimalsTamed.label>
+  <!-- EN: The number of animals I have tamed. -->
+  <AnimalsTamed.description>The number of trained animals.</AnimalsTamed.description>
+  <!-- EN: artifacts activated -->
+  <ArtifactsActivated.label>Activation of the ruins</ArtifactsActivated.label>
+  <!-- EN: The number of artifacts I have activated. -->
+  <ArtifactsActivated.description>Number sign that I have chosen.</ArtifactsActivated.description>
+  <!-- EN: bodies stripped -->
+  <BodiesStripped.label>Body off</BodiesStripped.label>
+  <!-- EN: The number of bodies I have stripped. -->
+  <BodiesStripped.description>Many companies me.</BodiesStripped.description>
+  <!-- EN: cells mined -->
+  <CellsMined.label>Mobile cancel</CellsMined.label>
+  <!-- EN: The number of cells I have mined out. -->
+  <CellsMined.description>The number of broken cells.</CellsMined.description>
+  <!-- EN: containers opened -->
+  <ContainersOpened.label>Open container</ContainersOpened.label>
+  <!-- EN: The number of containers I have opened. -->
+  <ContainersOpened.description>The number to open the bag.</ContainersOpened.description>
+  <!-- EN: corpses buried -->
+  <CorpsesBuried.label>Buried in the body</CorpsesBuried.label>
+  <!-- EN: The number of corpses I have buried. -->
+  <CorpsesBuried.description>The number of buried bodies.</CorpsesBuried.description>
+  <!-- EN: damage dealt -->
+  <DamageDealt.label>Risk</DamageDealt.label>
+  <!-- EN: The amount of damage I have dealt. -->
+  <DamageDealt.description>It's too bad I did.</DamageDealt.description>
+  <!-- EN: damage taken -->
+  <DamageTaken.label>Lost</DamageTaken.label>
+  <!-- EN: The amount of damage I have taken. -->
+  <DamageTaken.description>Loss of hunting.</DamageTaken.description>
+  <!-- EN: fires extinguished -->
+  <FiresExtinguished.label>Remove fire</FiresExtinguished.label>
+  <!-- EN: The number of fires I have extinguished. -->
+  <FiresExtinguished.description>The number of fire that I need to fight.</FiresExtinguished.description>
+  <!-- EN: headshots -->
+  <Headshots.label>Headshot</Headshots.label>
+  <!-- EN: The number of headshots I have made. -->
+  <Headshots.description>The number of shots to his head I started.</Headshots.description>
+  <!-- EN: kills -->
+  <Kills.label>Murder</Kills.label>
+  <!-- EN: The number of creatures I have killed. -->
+  <Kills.description>We can be the death of the animal.</Kills.description>
+  <!-- EN: kills (animals) -->
+  <KillsAnimals.label>Kill (animals)</KillsAnimals.label>
+  <!-- EN: The number of animals I have killed. -->
+  <KillsAnimals.description>Number of dead animals.</KillsAnimals.description>
+  <!-- EN: kills (humanlikes) -->
+  <KillsHumanlikes.label>Flow (human)</KillsHumanlikes.label>
+  <!-- EN: The number of humanlike characters I have killed. -->
+  <KillsHumanlikes.description>I like the characters are killed.</KillsHumanlikes.description>
+  <!-- EN: kills (mechanoids) -->
+  <KillsMechanoids.label>Kill (metshanoid)</KillsMechanoids.label>
+  <!-- EN: The number of mechanoids I have killed. -->
+  <KillsMechanoids.description>Some mechanoid i.</KillsMechanoids.description>
+  <!-- EN: meals cooked -->
+  <MealsCooked.label>Cook</MealsCooked.label>
+  <!-- EN: The number of meals I have cooked. -->
+  <MealsCooked.description>No, I have to cook.</MealsCooked.description>
+  <!-- EN: messes cleaned -->
+  <MessesCleaned.label>Clean</MessesCleaned.label>
+  <!-- EN: The number of messes I have cleaned up. -->
+  <MessesCleaned.description>I owe the game.</MessesCleaned.description>
+  <!-- EN: nutrition eaten -->
+  <NutritionEaten.label>Eat nutritious</NutritionEaten.label>
+  <!-- EN: The amount of nutrition I have eaten. -->
+  <NutritionEaten.description>Nutrients hold of me.</NutritionEaten.description>
+  <!-- EN: operations performed -->
+  <OperationsPerformed.label>Brought</OperationsPerformed.label>
+  <!-- EN: How many medical operations I have performed. -->
+  <OperationsPerformed.description>Some of what you have done.</OperationsPerformed.description>
+  <!-- EN: operations received -->
+  <OperationsReceived.label>Get jobs</OperationsReceived.label>
+  <!-- EN: How many times I have been medically operated on. -->
+  <OperationsReceived.description>I received a number of functions.</OperationsReceived.description>
+  <!-- EN: enemies downed -->
+  <PawnsDowned.label>Consciousness</PawnsDowned.label>
+  <!-- EN: The number of creatures I have downed. -->
+  <PawnsDowned.description>The number of incidents of my unconsciousness.</PawnsDowned.description>
+  <!-- EN: enemies downed (animals) -->
+  <PawnsDownedAnimals.label>Unconscious (animals)</PawnsDownedAnimals.label>
+  <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
+  <PawnsDownedAnimals.description>The number of animals brought to the war, I was a spouse, or ignorance.</PawnsDownedAnimals.description>
+  <!-- EN: enemies downed (humanlikes) -->
+  <PawnsDownedHumanlikes.label>Unknown (human)</PawnsDownedHumanlikes.label>
+  <!-- EN: The number of humanlike creatures I have downed. -->
+  <PawnsDownedHumanlikes.description>Our human-like characters consciousness.</PawnsDownedHumanlikes.description>
+  <!-- EN: enemies downed (mechanoids) -->
+  <PawnsDownedMechanoids.label>Consciousness (mechanoid)</PawnsDownedMechanoids.label>
+  <!-- EN: The number of mechanoids I have downed. -->
+  <PawnsDownedMechanoids.description>Some mechanoid I have been moved to the exit.</PawnsDownedMechanoids.description>
+  <!-- EN: people captured -->
+  <PeopleCaptured.label>People who had been detained</PeopleCaptured.label>
+  <!-- EN: The number of people I have captured. -->
+  <PeopleCaptured.description>It is my people, and a number of prisoners.</PeopleCaptured.description>
+  <!-- EN: plants harvested -->
+  <PlantsHarvested.label>Cultivation</PlantsHarvested.label>
+  <!-- EN: The number of plants I have harvested. -->
+  <PlantsHarvested.description>I have many crops have been harvested.</PlantsHarvested.description>
+  <!-- EN: plants sown -->
+  <PlantsSown.label>Planting seedlings</PlantsSown.label>
+  <!-- EN: The number of plants I have sown. -->
+  <PlantsSown.description>The number of plants I have planted it.</PlantsSown.description>
+  <!-- EN: prisoners chatted -->
+  <PrisonersChatted.label>The story of prisoner</PrisonersChatted.label>
+  <!-- EN: How many times I have chatted with prisoners. -->
+  <PrisonersChatted.description>I am in prison numbers.</PrisonersChatted.description>
+  <!-- EN: prisoners recruited -->
+  <PrisonersRecruited.label>There is a choice</PrisonersRecruited.label>
+  <!-- EN: The number of prisoners I have recruited. -->
+  <PrisonersRecruited.description>The prisoner I have a number of recruits.</PrisonersRecruited.description>
+  <!-- EN: research points researched -->
+  <ResearchPointsResearched.label>Study investigators presented</ResearchPointsResearched.label>
+  <!-- EN: The number of research points I have researched. -->
+  <ResearchPointsResearched.description>My research indicates that the number of research.</ResearchPointsResearched.description>
+  <!-- EN: shots fired -->
+  <ShotsFired.label>The firing squad</ShotsFired.label>
+  <!-- EN: The number of shots I have fired. -->
+  <ShotsFired.description>Some types.</ShotsFired.description>
+  <!-- EN: switches flicked -->
+  <SwitchesFlicked.label>Pop</SwitchesFlicked.label>
+  <!-- EN: The number of switches I have flicked. -->
+  <SwitchesFlicked.description>Forest volume changes.</SwitchesFlicked.description>
+  <!-- EN: things constructed -->
+  <ThingsConstructed.label>Materials</ThingsConstructed.label>
+  <!-- EN: The number of things I have constructed. -->
+  <ThingsConstructed.description>I've built a number of projects.</ThingsConstructed.description>
+  <!-- EN: things crafted -->
+  <ThingsCrafted.label>Ware</ThingsCrafted.label>
+  <!-- EN: The number of things I have crafted. -->
+  <ThingsCrafted.description>Cost me.</ThingsCrafted.description>
+  <!-- EN: things deconstructed -->
+  <ThingsDeconstructed.label>Material fell</ThingsDeconstructed.label>
+  <!-- EN: The number of things I have deconstructed. -->
+  <ThingsDeconstructed.description>I fell in number of items.</ThingsDeconstructed.description>
+  <!-- EN: things hauled -->
+  <ThingsHauled.label>Head transportation</ThingsHauled.label>
+  <!-- EN: The number of things I have hauled. -->
+  <ThingsHauled.description>I changed the content.</ThingsHauled.description>
+  <!-- EN: things installed -->
+  <ThingsInstalled.label>Recommended jobs</ThingsInstalled.label>
+  <!-- EN: The number of things I have installed. -->
+  <ThingsInstalled.description>I was also fixed.</ThingsInstalled.description>
+  <!-- EN: things repaired -->
+  <ThingsRepaired.label>Remanufactured components</ThingsRepaired.label>
+  <!-- EN: The number of things I have repaired. -->
+  <ThingsRepaired.description>A number of elements to be corrected.</ThingsRepaired.description>
+  <!-- EN: things uninstalled -->
+  <ThingsUninstalled.label>Items removed successfully</ThingsUninstalled.label>
+  <!-- EN: The number of things I have uninstalled. -->
+  <ThingsUninstalled.description>Things I installed the number.</ThingsUninstalled.description>
+  <!-- EN: times in mental state -->
+  <TimesInMentalState.label>Lack</TimesInMentalState.label>
+  <!-- EN: How many times I have suffered a mental break. -->
+  <TimesInMentalState.description>The number of nervous breakdown, was.</TimesInMentalState.description>
+  <!-- EN: times on fire -->
+  <TimesOnFire.label>Burnt</TimesOnFire.label>
+  <!-- EN: How many times I have been on fire. -->
+  <TimesOnFire.description>The number of times I was on fire.</TimesOnFire.description>
+  <!-- EN: tends given -->
+  <TimesTendedOther.label>This treatment</TimesTendedOther.label>
+  <!-- EN: How many times I have tended to others' medical conditions. -->
+  <TimesTendedOther.description>The number of injuries I treat other people.</TimesTendedOther.description>
+  <!-- EN: tends received -->
+  <TimesTendedTo.label>Patients</TimesTendedTo.label>
+  <!-- EN: How many times I have had my medical conditions tended. -->
+  <TimesTendedTo.description>The number of treatment I have received from my wounds.</TimesTendedTo.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: orbital trader arrival -->
+  <OrbitalTraderArrival.label>Distributor Track</OrbitalTraderArrival.label>
+  <!-- EN: enemy raid (special locations) -->
+  <RaidEnemyBeacon.label>Theft (special city)</RaidEnemyBeacon.label>
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>Fellow soldiers</RaidFriendly.label>
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>Supplementary (dish)</ShipChunkDrop.label>
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>Mystery guest</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>Mysterious stranger</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>Where there are problems, it [PAWN_kind].\n\n[PAWN_pronoun] measures in this area?</StrangerInBlackJoin.letterText>
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>Group</TraderCaravanArrival.label>
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>Traveling groups</TravelerGroup.label>
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>Bowl</VisitorGroup.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ambush.label>in ambush</Ambush.label>
+  <Ambush.letterText>{0} {2} {1} Attack!</Ambush.letterText>
+  <Ambush.letterLabel>feall-</Ambush.letterLabel>
+  <ManhunterAmbush.label>Hunters seeking security</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>People hunting {0} according {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Shooting (hunting)</ManhunterAmbush.letterLabel>
+  <CaravanMeeting.label>aviation Conference</CaravanMeeting.label>
+  <CaravanDemand.label>ambush robbery</CaravanDemand.label>
+  <CaravanDemand.letterText>Caravan struck by Oasys {0} passed {1}!</CaravanDemand.letterText>
+  <CaravanDemand.letterLabel>Count (theft)</CaravanDemand.letterLabel>
+</LanguageData>

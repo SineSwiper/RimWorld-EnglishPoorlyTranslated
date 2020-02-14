@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambush -->
+  <AmbushHidden.label>Ambush</AmbushHidden.label>
+  <!-- EN: An ambush. -->
+  <AmbushHidden.description></AmbushHidden.description>
+  <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
+  <AmbushHidden.descriptionDialogue>The enemy forces were preparing an ambush and attack anyone who approached</AmbushHidden.descriptionDialogue>
+</LanguageData>

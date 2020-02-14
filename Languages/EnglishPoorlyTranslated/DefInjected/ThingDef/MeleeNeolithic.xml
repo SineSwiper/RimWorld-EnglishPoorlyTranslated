@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: club -->
+  <MeleeWeapon_Club.label>Ul</MeleeWeapon_Club.label>
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <MeleeWeapon_Club.description>Earlier weapons men. Easy to reflect the party with the burden of the staff can not kill the enemy. Weapon, which was part of the old human biology. Because of scientists, we can move in the direction of the side of the wrist (not only with other mammals to and fro) came together for the most part, we thoroughly club swing can.</MeleeWeapon_Club.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>Metal</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>Head</MeleeWeapon_Club.tools.head.label>
+  <!-- EN: ikwa -->
+  <MeleeWeapon_Ikwa.label>For</MeleeWeapon_Ikwa.label>
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <MeleeWeapon_Ikwa.description>Some long knife attached to a small spear. Designed to be driven by a short press of a button.</MeleeWeapon_Ikwa.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>To maintain</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>Head</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>My weakness</MeleeWeapon_Ikwa.tools.edge.label>
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>Funds</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>Ancient tools of men. Knives are different ways, but the underlying principle remains the same: grab the sharp end of the secondary value.</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>Understanding</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>Iron</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>Summit</MeleeWeapon_Knife.tools.point.label>
+  <!-- EN: spear -->
+  <MeleeWeapon_Spear.label>Arrow</MeleeWeapon_Spear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
+  <MeleeWeapon_Spear.description>Break through to the top of the other side of the fence.</MeleeWeapon_Spear.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>Axis</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>Summit</MeleeWeapon_Spear.tools.point.label>
+</LanguageData>

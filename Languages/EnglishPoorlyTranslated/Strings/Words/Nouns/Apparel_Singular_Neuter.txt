@@ -1,0 +1,10 @@
+﻿//Example: "Das ..."
+
+Shirt
+Target
+Clothing
+Tuxedo shirt
+Nightgowns
+Overnight
+Dress
+Clothing

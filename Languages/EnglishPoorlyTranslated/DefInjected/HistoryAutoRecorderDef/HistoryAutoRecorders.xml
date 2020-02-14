@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recovery -->
+  <Adaptation.label>Erhohlung</Adaptation.label>
+  <!-- EN: Days -->
+  <Adaptation.graphLabelY>Day</Adaptation.graphLabelY>
+  <!-- EN: mood -->
+  <ColonistMood.label>Mood</ColonistMood.label>
+  <!-- EN: Percent -->
+  <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
+  <!-- EN: free colonists -->
+  <FreeColonists.label>Free hosting</FreeColonists.label>
+  <!-- EN: Colonists -->
+  <FreeColonists.graphLabelY>End</FreeColonists.graphLabelY>
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>Pop. Erhohlung</PopAdaptation.label>
+  <!-- EN: Days -->
+  <PopAdaptation.graphLabelY>Day</PopAdaptation.graphLabelY>
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>Pop. X10 program</PopIntent.label>
+  <!-- EN: Days -->
+  <PopIntent.graphLabelY>Today</PopIntent.graphLabelY>
+  <!-- EN: prisoners -->
+  <Prisoners.label>Intern</Prisoners.label>
+  <!-- EN: Prisoners -->
+  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>Good points / 10</ThreatPoints.label>
+  <!-- EN: Points -->
+  <ThreatPoints.graphLabelY>Keywords</ThreatPoints.graphLabelY>
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>Value (building)</Wealth_Buildings.label>
+  <!-- EN: Amount -->
+  <Wealth_Buildings.graphLabelY>Only</Wealth_Buildings.graphLabelY>
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>Price (data)</Wealth_Items.label>
+  <!-- EN: Amount -->
+  <Wealth_Items.graphLabelY>Size</Wealth_Items.graphLabelY>
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>Value (organ)</Wealth_Pawns.label>
+  <!-- EN: Amount -->
+  <Wealth_Pawns.graphLabelY>Total</Wealth_Pawns.graphLabelY>
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>Price (total)</Wealth_Total.label>
+  <!-- EN: Amount -->
+  <Wealth_Total.graphLabelY>A total of</Wealth_Total.graphLabelY>
+</LanguageData>

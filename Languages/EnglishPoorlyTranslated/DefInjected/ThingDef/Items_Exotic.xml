@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AI persona core -->
+  <AIPersonaCore.label>Ai students</AIPersonaCore.label>
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <AIPersonaCore.description>The central computer complex that includes advanced ia. This area is no longer active. Or more precisely, to a system with one designed to be great to work with.</AIPersonaCore.description>
+  <!-- EN: elephant tusk -->
+  <ElephantTusk.label>Elephant tusk</ElephantTusk.label>
+  <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
+  <ElephantTusk.description>Elephant tusk. And a very powerful and important. While some difficult as weapons in the body, it is still deadly.</ElephantTusk.description>
+  <!-- EN: point -->
+  <ElephantTusk.tools.point.label>Up</ElephantTusk.tools.point.label>
+  <!-- EN: base -->
+  <ElephantTusk.tools.base.label>Reasons</ElephantTusk.tools.base.label>
+  <!-- EN: healer mech serum -->
+  <MechSerumHealer.label>Nanites heal</MechSerumHealer.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
+  <MechSerumHealer.description>Nanites cure and financial software. Nanita focuses on the problem worse than men. The problem is not dealing at all. Can also be translated as the place a paper towel set, creating new groups and organs of the body is required.</MechSerumHealer.description>
+  <!-- EN: Use healer mech serum -->
+  <MechSerumHealer.comps.CompUsable.useLabel>Treatment nanita</MechSerumHealer.comps.CompUsable.useLabel>
+  <!-- EN: neurotrainer mech serum -->
+  <MechSerumNeurotrainer.label>Nanites neurotrainer</MechSerumNeurotrainer.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <MechSerumNeurotrainer.description>Nanites programmed a special ability to learn. The dose of the eye is checked. They were immediately after the user's heart, they replaced their skills and the development of the nervous tissue.</MechSerumNeurotrainer.description>
+  <!-- EN: Use neurotrainer mech serum to learn {0} -->
+  <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Learn to use nanitum {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
+  <!-- EN: resurrector mech serum -->
+  <MechSerumResurrector.label>Nanita reanimierer</MechSerumResurrector.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
+  <MechSerumResurrector.description>Nanita recently dead volume of the system. When injected into the body immediately after the death of damaged tissues to repair and strengthen the body. Unfortunately, after a cool brain damage, blindness and progressive, toxic psychosis. If nanites injected as soon as possible, the result is better. It keeps the body of a full recovery, even after a long time.</MechSerumResurrector.description>
+  <!-- EN: Use resurrector mech serum -->
+  <MechSerumResurrector.comps.CompUsable.useLabel>Nanites use reanimierer</MechSerumResurrector.comps.CompUsable.useLabel>
+  <!-- EN: techprof subpersona core -->
+  <TechprofSubpersonaCore.label>Of techprof</TechprofSubpersonaCore.label>
+  <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
+  <TechprofSubpersonaCore.description>Teaching a young child the vip cabin, which specializes in science. When I used to teach the ai technology under explored. Immediately and free. It can be used only once.</TechprofSubpersonaCore.description>
+  <!-- EN: Use techprof subpersona core -->
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>People use techprof</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <!-- EN: thrumbo horn -->
+  <ThrumboHorn.label>Trumbohorn</ThrumboHorn.label>
+  <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
+  <ThrumboHorn.description>Some developing thrumbos. A sharp, marble markets. The cup is in fact a deadly weapon mele.</ThrumboHorn.description>
+  <!-- EN: point -->
+  <ThrumboHorn.tools.point.label>Tendron</ThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <ThrumboHorn.tools.base.label>Foundation</ThrumboHorn.tools.base.label>
+</LanguageData>

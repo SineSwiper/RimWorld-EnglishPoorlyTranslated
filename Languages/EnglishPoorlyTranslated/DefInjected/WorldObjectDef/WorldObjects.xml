@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>Leave city</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>Occupied the village.</AbandonedSettlement.description>
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>Eric carle</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>Current practice attack on the caravan.</AttackedNonPlayerCaravan.description>
+  <!-- EN: caravan -->
+  <Caravan.label>Explore</Caravan.label>
+  <!-- EN: A group of traveling people. -->
+  <Caravan.description>A group of people traveling.</Caravan.description>
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>Their disposal</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>A damaged part of the alignment.</DestroyedSettlement.description>
+  <!-- EN: landed ship -->
+  <EscapeShip.label>Space rocket</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>Private spacecraft, space may be able to leave the planet.</EscapeShip.description>
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>Peace speech</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>Peace talks held in a neutral place.</PeaceTalks.description>
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>Rail</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>Temporary situation.</RoutePlannerWaypoint.description>
+  <!-- EN: settlement -->
+  <Settlement.label>Debt</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>Piece of the solution.</Settlement.description>
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>Police transport</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Sub-orbital transport grain.</TravelingTransportPods.description>
+</LanguageData>

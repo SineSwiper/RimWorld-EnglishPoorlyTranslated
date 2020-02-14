@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: attended party -->
+  <AttendedParty.label>party</AttendedParty.label>
+  <!-- EN:
+    <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party</li>
+    <li>tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party</li>
+    <li>image->[ATTENDER_nameFull] having a conversation with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend [circumstance_group]</li>
+    <li>circumstance_phrase->with a broad grin</li>
+    <li>circumstance_phrase->with a laugh</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] smile</li>
+    <li>circumstance_phrase->while laughing uproariously</li>
+    <li>circumstance_phrase->while [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the conversation.</li>
+    <li>desc_sentence->The area is decorated with [Color] and [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+  -->
+  <AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] parties in [ORGANIZER_nameDef]'s</li>
+    <li>tale_noun->[ATTENDER_nameDef] [ORGANIZER_nameDef] urged members</li>
+    <li>image->[ATTENDER_nameFull] in [ATTENDER_pronoun] [circumstance_group] [ORGANIZER_nameFull]</li>
+    <li>image->[ORGANIZER_nameFull] [ATTENDER_nameFull] [ATTENDER_pronoun] [circumstance_group] 1 of, and contribute to drinking water</li>
+    <li>image->[ATTENDER_pronoun] [circumstance_group] [ATTENDER_nameFull] lead discussions on financing [ORGANIZER_nameFull]</li>
+    <li>image->[ORGANIZER_nameFull] welcome [ORGANIZER_pronoun] [circumstance_group] [ATTENDER_nameFull]</li>
+    <li>image->[ORGANIZER_nameFull] [ORGANIZER_pronoun] [circumstance_group], such as [ATTENDER_nameFull]</li>
+    <li>circumstance_phrase->humor</li>
+    <li>circumstance_phrase->laugh</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] smile</li>
+    <li>circumstance_phrase->laugh</li>
+    <li>circumstance_phrase->[AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] is included in the communication.</li>
+    <li>desc_sentence->[Color] [Color] and decorated with colors.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] play next.</li>
+  </AttendedParty.rulePack.rulesStrings>
+  <!-- EN: built snowman -->
+  <BuiltSnowman.label>Snowman</BuiltSnowman.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] building a snowman</li>
+    <li>tale_noun->[PAWN_nameDef] playing in the snow</li>
+    <li>image->[PAWN_nameFull] forming a snowball [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling a giant ball of snow on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] arranging [Vegetable]s into a rough human face [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying down in the snow [circumstance_group]</li>
+    <li>circumstance_phrase->while enveloped in [Quantity_adjphrase] parkas</li>
+    <li>circumstance_phrase->while obscured in a light snowstorm</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a fort</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a snowman family</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A field of [Vegetable]s is barely visible through the snow.</li>
+    <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
+  -->
+  <BuiltSnowman.rulePack.rulesStrings>
+    <li>tale_noun->Snowman building [PAWN_nameDef]</li>
+    <li>tale_noun->[PAWN_nameDef] play in the snow</li>
+    <li>image->Snowman [PAWN_nameFull] new [circumstance_group] to show [PAWN_pronoun]</li>
+    <li>image->[PAWN_pronoun], [circumstance_group] [PAWN_nameFull] rolling a giant ball of snow on the ground</li>
+    <li>image->[PAWN_pronoun] [VegetablePlural] [PAWN_nameFull] formed a human face, [circumstance_group]</li>
+    <li>image->[PAWN_pronoun] is [PAWN_nameFull] put on ice, [circumstance_group]</li>
+    <li>circumstance_phrase->And the park is covered [Quantity_adjphrase] As [PAWN_pronoun]</li>
+    <li>circumstance_phrase->[PAWN_pronoun] engaged in spiritual light</li>
+    <li>circumstance_phrase->Snow castle built in the [PAWN_possessive] friends</li>
+    <li>circumstance_phrase->A snowman family of snow and friends [PAWN_possessive]</li>
+    <li>desc_sentence->[Color] aurora shine on the horizon.</li>
+    <li>desc_sentence->[Community] remote snowy.</li>
+    <li>desc_sentence->Snow field [VegetableSingular].</li>
+    <li>desc_sentence->A snow [TerrainFeature] be seen in the distance.</li>
+  </BuiltSnowman.rulePack.rulesStrings>
+  <!-- EN: buried corpse -->
+  <BuriedCorpse.label>Corpses buried</BuriedCorpse.label>
+  <!-- EN:
+    <li>tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest</li>
+    <li>image->[DIGGER_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] scribing text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] drawing art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] placing [CORPSE_nameFull]'s body within a grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <BuriedCorpse.rulePack.rulesStrings>
+    <li>tale_noun->He buried the body [DIGGER_nameDef] [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] body was buried [CORPSE_nameDef]</li>
+    <li>image->[DIGGER_pronoun] is a grave stone [DIGGER_nameFull] [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_pronoun] [DIGGER_nameFull] as heavy [CORPSE_nameFull] sits [circumstance_group]</li>
+    <li>image->[DIGGER_pronoun] stone tomb [circumstance_group] talk [DIGGER_nameFull] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_pronoun] [DIGGER_nameFull] like a heavy stone [CORPSE_nameFull] [circumstance_group] marketing</li>
+    <li>image->[DIGGER_nameFull] [DIGGER_pronoun] tomb-stone [CORPSE_nameFull] recording [circumstance_group]</li>
+    <li>image->[CORPSE_nameFull] body was buried as [DIGGER_pronoun] [DIGGER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->Bear's face [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->You lost Your Thoughts</li>
+    <li>circumstance_phrase->[DIGGER_pronoun] National [TerrainFeature] View</li>
+    <li>circumstance_phrase->A silent memorial story</li>
+    <li>desc_sentence->[Color] aurora shimmers on the horizon.</li>
+    <li>desc_sentence->[Community] under snow in the opposite direction.</li>
+    <li>desc_sentence->[CORPSE_nameDef] monitoring the situation and vision statements [AdjectiveFriendly]:</li>
+    <li>desc_sentence->[DIGGER_nameDef] [CORPSE_nameDef] spirit [AdjectiveFriendly] product to it.</li>
+    <li>desc_sentence->I saw a demonstration of [AdjectiveAngsty] [CORPSE_nameDef] a kind of ghostly.</li>
+    <li>desc_sentence->[DIGGER_nameDef] [AdjectiveAngsty] stand next to the ghost he sees [CORPSE_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] scenes.</li>
+  </BuriedCorpse.rulePack.rulesStrings>
+  <!-- EN: completed long construction project -->
+  <CompletedLongConstructionProject.label>Long construction project is completed</CompletedLongConstructionProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting together a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] appears to tower above [PAWN_nameDef].</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun->Construction work [PAWN_nameDef] '[OBJECT_label]'</li>
+    <li>image->Working as [PAWN_pronoun] '[OBJECT_label]' [PAWN_nameFull] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], [PAWN_pronoun] [circumstance_group] regulates how the project '[OBJECT_label]'</li>
+    <li>image->[PAWN_nameFull] as [PAWN_pronoun] [circumstance_group] wear surface structure '[OBJECT_label]'</li>
+    <li>image->The name of [PAWN_pronoun] as [circumstance_group] [PAWN_possessive] [PAWN_nameFull] '[OBJECT_label]'</li>
+    <li>circumstance_phrase->With bright eyes</li>
+    <li>circumstance_phrase->You [PAWN_pronoun] sweat on forehead use</li>
+    <li>circumstance_phrase->[PAWN_pronoun] filled mouth, however,</li>
+    <li>circumstance_phrase->but smiling</li>
+    <li>circumstance_phrase->When I was grieved</li>
+    <li>desc_sentence->It appears in a window on the construction of [PAWN_nameDef] '[OBJECT_label]'.</li>
+    <li>desc_sentence->Color [Color] unresolved easy project construction, '[OBJECT_label]'.</li>
+    <li>desc_sentence->'[OBJECT_label]' construction project.</li>
+    <li>desc_sentence->[PersonJobPlural] [Quantity_adjphrase] '[OBJECT_label]' an exciting program.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] stare in awe.</li>
+  </CompletedLongConstructionProject.rulePack.rulesStrings>
+  <!-- EN: completed long crafting project -->
+  <CompletedLongCraftingProject.label>working project completion time</CompletedLongCraftingProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[PAWN_nameDef] lifts the [OBJECT_label] seemingly without effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the device.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun->Projects services [PAWN_nameDef] '[OBJECT_label]' use break</li>
+    <li>image->According to the plan made [circumstance_group] [PAWN_pronoun] '[OBJECT_label]' [PAWN_nameFull]</li>
+    <li>image->Craft projects, such as surface polishing [PAWN_pronoun] '[OBJECT_label]' [PAWN_nameFull] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] more information '[OBJECT_label]' project</li>
+    <li>image->As a project of writing about [circumstance_group] '[OBJECT_label]' I [PAWN_nameFull] [PAWN_pronoun] [PAWN_possessive]</li>
+    <li>circumstance_phrase->With bright eyes</li>
+    <li>circumstance_phrase->When [PAWN_pronoun] wipe his forehead of sweat,</li>
+    <li>circumstance_phrase->[PAWN_pronoun] was covered with mud,</li>
+    <li>circumstance_phrase->the pride of pernicious</li>
+    <li>circumstance_phrase->Satisfied with the</li>
+    <li>desc_sentence->How '[OBJECT_label]' country [Color] easy lighted.</li>
+    <li>desc_sentence->The ship was built to better project '[OBJECT_label]'.</li>
+    <li>desc_sentence->[PAWN_nameDef] craft project '[OBJECT_label]' seemingly without effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] praised craft project.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] stare in awe.</li>
+  </CompletedLongCraftingProject.rulePack.rulesStrings>
+  <!-- EN: entered cryptosleep -->
+  <EnteredCryptosleep.label>crypts their sleep capsules</EnteredCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
+    <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] opening an empty cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sealing themselves inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking through the wall of a cryptosleep casket at a world they're about to leave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to themselves</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[PAWN_nameDef] radiates determination.</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <EnteredCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->Tap bed [PAWN_nameDef] capsule crypt</li>
+    <li>image->Some sleeping pills, such as encryption [circumstance_group] [PAWN_nameFull] [PAWN_pronoun]</li>
+    <li>image->If you open a secret room [PAWN_pronoun] [PAWN_nameFull] empty cereal bearing [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crypto [PAWN_pronoun] capsule [circumstance_group] course registration</li>
+    <li>image->World grain will sleep in secret by the window glass [PAWN_pronoun] seen as [PAWN_nameFull] never [circumstance_group] [PAWN_pronoun]</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] and</li>
+    <li>circumstance_phrase->and cultivation</li>
+    <li>circumstance_phrase->At [TerrainFeature] looking away from Chen's in [DIGGER_pronoun]</li>
+    <li>circumstance_phrase->the other speaks for itself</li>
+    <li>desc_sentence->Running [Quantity_adjphrase] [AnimalPlural] at the site.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] approaching the area.</li>
+    <li>desc_sentence->[PAWN_nameDef] exudes.</li>
+    <li>desc_sentence->[PAWN_nameDef] injured.</li>
+    <li>desc_sentence->[Color] aurora shines on the horizon.</li>
+    <li>desc_sentence->Crypto [Quantity_adjphrase] own sleeping capsules about the issue.</li>
+  </EnteredCryptosleep.rulePack.rulesStrings>
+  <!-- EN: gained master skill -->
+  <GainedMasterSkillWithoutPassion.label>You can contact</GainedMasterSkillWithoutPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training in [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->with a bored expression</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>tale_noun->Found '[SKILL_label]' scale graduation [PAWN_nameDef]</li>
+    <li>image->[PAWN_pronoun] as [circumstance_group] chen ability to e [PAWN_nameFull] '[SKILL_label]'</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] as the ability to read a book about '[SKILL_label]'</li>
+    <li>image->[circumstance_group] [PAWN_pronoun] '[SKILL_label]' [PAWN_nameFull]</li>
+    <li>image->Additions, [PAWN_nameFull] [PAWN_pronoun] [circumstance_group] and [PAWN_possessive]</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] entire project</li>
+    <li>circumstance_phrase->more</li>
+    <li>circumstance_phrase->it is true that from</li>
+    <li>circumstance_phrase->A [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->With talk boring</li>
+    <li>desc_sentence->[Quantity_adjphrase] scene is surrounded by a failed experiment.</li>
+    <li>desc_sentence->[Quantity_adjphrase] scene surrounded by books.</li>
+    <li>desc_sentence->[PAWN_possessive] shown in the study.</li>
+    <li>desc_sentence->[Quantity_adjphrase] similar [PersonJobPlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] watch in amazement.</li>
+    <li>desc_sentence->Rather than see the old master [Quantity_adjphrase] air.</li>
+  </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  <!-- EN: gained master skill with passion -->
+  <GainedMasterSkillWithPassion.label>More work on the creation of a level</GainedMasterSkillWithPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training for [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->with a joyous expression</li>
+    <li>circumstance_phrase->while [VerbFriendly]</li>
+    <li>circumstance_phrase->with an exuberant shout</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>desc_sentence->The subject is surrounded by the results of [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The subject is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>tale_noun->'[SKILL_label]' [PAWN_nameDef] rating</li>
+    <li>image->[PAWN_pronoun] [PAWN_nameFull] '[SKILL_label]' use [circumstance_group]</li>
+    <li>image->The ability to read the book [PAWN_nameFull] [PAWN_pronoun] [circumstance_group] '[SKILL_label]'</li>
+    <li>image->[PAWN_nameFull] oso learned '[SKILL_label]' like [circumstance_group] [PAWN_pronoun]</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] but they work feverishly [PAWN_possessive]</li>
+    <li>image->[PAWN_nameFull] as project [PAWN_pronoun] [circumstance_group]</li>
+    <li>circumstance_phrase->Talk with [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->greeting speech</li>
+    <li>circumstance_phrase->proud smile</li>
+    <li>circumstance_phrase->voice bay</li>
+    <li>circumstance_phrase->heat</li>
+    <li>circumstance_phrase->of course fail</li>
+    <li>desc_sentence->Theme including failures.</li>
+    <li>desc_sentence->The course is surrounded by books [Quantity_adjphrase_Dat]:</li>
+    <li>desc_sentence->In [PAWN_possessive] skills are reflected in his work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] surprised to see action.</li>
+    <li>desc_sentence->Watch activities offered [Quantity_adjphrase] [AnimalPlural].</li>
+    <li>desc_sentence->See action in the spirit of the old masters are [Quantity_adjphrase].</li>
+  </GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  <!-- EN: increased menagerie -->
+  <IncreasedMenagerie.label>Livestock expansion</IncreasedMenagerie.label>
+  <!-- EN:
+    <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>circumstance_phrase->with a [AnimalGroup] in the background</li>
+    <li>desc_sentence->[HUMAN_nameDef] is surrounded by uncountable [Animal]s.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is moving to join a [AnimalGroup] of its kin.</li>
+    <li>desc_sentence->The scene is packed with [Animal]s and [Animal]s.</li>
+    <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
+  -->
+  <IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun(p=3)->[HUMAN_nameDef] job growth in other animal [HUMAN_possessive] [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] accompanied [AnimalGroup]</li>
+    <li>tale_noun->They raised animals [HUMAN_nameDef] '[ANIMAL_nameDef]'</li>
+    <li>image->[HUMAN_pronoun] [HUMAN_nameFull] to animals as [circumstance_group] thomas '[ANIMAL_nameFull]'</li>
+    <li>image->[HUMAN_nameFull] as [HUMAN_pronoun] [circumstance_group] animal care is '[ANIMAL_nameFull]'</li>
+    <li>image->How [HUMAN_pronoun] [circumstance_group] [HUMAN_nameFull] adult animals are elusive '[ANIMAL_nameFull]'</li>
+    <li>image->[HUMAN_nameFull] [HUMAN_pronoun] soothe [circumstance_group] the animal '[ANIMAL_nameFull]'</li>
+    <li>circumstance_phrase->A lot of care and warning</li>
+    <li>circumstance_phrase->smile</li>
+    <li>circumstance_phrase->tired but happy</li>
+    <li>circumstance_phrase->[AnimalGroup] true</li>
+    <li>desc_sentence->[HUMAN_nameDef] surrounded by many [AnimalPlural].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] will continue to participate in the [AnimalGroup].</li>
+    <li>desc_sentence->[AnimalPlural] and [AnimalPlural] fully revealed.</li>
+    <li>desc_sentence->[AnimalPlural] amount waiting to be tamed [HUMAN_nameDef].</li>
+  </IncreasedMenagerie.rulePack.rulesStrings>
+  <!-- EN: meditated -->
+  <Meditated.label>to think</Meditated.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] meditating</li>
+    <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting quietly, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->with a tranquil smile</li>
+    <li>circumstance_phrase->with a [VerbFriendly] smile</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Meditated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] attention</li>
+    <li>image->[TreeType] [PAWN_pronoun] [PAWN_nameFull] to take [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] sitting quietly [circumstance_group]</li>
+    <li>image->[PAWN_pronoun] distance [PAWN_nameFull] as [circumstance_group]</li>
+    <li>image->But [PAWN_nameFull] or [PAWN_pronoun] of [PAWN_possessive] closed her eyes [circumstance_group]</li>
+    <li>circumstance_phrase->and radiates peace</li>
+    <li>circumstance_phrase->quiet and smile</li>
+    <li>circumstance_phrase->[VerbFriendly] and smile</li>
+    <li>circumstance_phrase->and gradually light</li>
+    <li>circumstance_phrase->They are surrounded by gold [Color]</li>
+    <li>desc_sentence->As would be ignored [Quantity_adjphrase] [PersonJobPlural] [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] [Quantity_adjphrase_Dat] [AnimalPluralDat] traffic.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] resting peacefully.</li>
+    <li>desc_sentence->Wipe the [Quantity_adjphrase] [EnemyPluralWithoutThe] established and now fear the adriatic.</li>
+  </Meditated.rulePack.rulesStrings>
+  <!-- EN: mined valuable -->
+  <MinedValuable.label>Extraction of precious things</MinedValuable.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a [Community] in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] get rich vein [MATERIAL_label]</li>
+    <li>image->How to change the quarries linguistics [PAWN_pronoun] [circumstance_group] [MATERIAL_label] [PAWN_nameFull]</li>
+    <li>image->If [PAWN_pronoun] [circumstance_group] [PAWN_nameFull] hand of one of the documents [MATERIAL_label]</li>
+    <li>image->Such as the remains of the wall [MATERIAL_label] [PAWN_pronoun] [circumstance_group] [PAWN_nameFull]</li>
+    <li>image->[MATERIAL_label] vein mining equipment, such as coordinates multimedia [PAWN_pronoun] [circumstance_group] [PAWN_nameFull]</li>
+    <li>image->[PAWN_nameFull] as [PAWN_pronoun] [circumstance_group], but eine[MATERIAL_label] venous studies</li>
+    <li>circumstance_phrase->sweat bath</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] talk</li>
+    <li>circumstance_phrase->argument [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->proud smile</li>
+    <li>circumstance_phrase->A speech content</li>
+    <li>desc_sentence->[Quantity_adjphrase] support [ally] [PAWN_objective].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] tour of the area.</li>
+    <li>desc_sentence->[Community] is seen in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] far now.</li>
+    <li>desc_sentence->[TerrainFeature] visible from a distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] sweating and dirty work.</li>
+  </MinedValuable.rulePack.rulesStrings>
+  <!-- EN: played game -->
+  <PlayedGame.label>Sports</PlayedGame.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] waiting in a chair, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting next to the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] winning at a [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] losing at a [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tense with energy</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->planning [PAWN_possessive] next action</li>
+    <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+    <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is visible.</li>
+    <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are playing as well.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+    <li>desc_sentence->[PAWN_nameDef] is glowing with a [Color] aura.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+    <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
+  -->
+  <PlayedGame.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] life '[OBJECT_label]' game</li>
+    <li>tale_noun->Game [PAWN_nameDef] '[OBJECT_label]'</li>
+    <li>tale_noun->[PAWN_nameDef] now '[OBJECT_label]' game</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] bench waiting</li>
+    <li>image->[circumstance_group] '[OBJECT_label]' be competitive [PAWN_nameFull] [PAWN_pronoun]</li>
+    <li>image->[PAWN_nameFull] sit the next game as [PAWN_pronoun] [circumstance_group] '[OBJECT_label]'</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] to repeat the partnership '[OBJECT_label]' [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] game losing '[OBJECT_label]' [PAWN_pronoun] [circumstance_group]</li>
+    <li>circumstance_phrase->and full of energy</li>
+    <li>circumstance_phrase->and body [PAWN_possessive]</li>
+    <li>circumstance_phrase->Curriculum and [PAWN_possessive]</li>
+    <li>circumstance_phrase->[PAWN_possessive] pirate hands [PAWN_pronoun]</li>
+    <li>circumstance_phrase->expressed [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->It seemed [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->be painful</li>
+    <li>desc_sentence->Aurora sparkling [Color] horizon.</li>
+    <li>desc_sentence->[Community] viewed from a distance.</li>
+    <li>desc_sentence->Remote [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] also will play.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] next game.</li>
+    <li>desc_sentence->[PAWN_nameDef] radiate the aura [Color].</li>
+    <li>desc_sentence->[PAWN_nameDef]'s exaggerated features.</li>
+    <li>desc_sentence->[PAWN_nameDef] culmination of the stage.</li>
+  </PlayedGame.rulePack.rulesStrings>
+  <!-- EN: prayed -->
+  <Prayed.label>prayer</Prayed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] praying</li>
+    <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] clasping [PAWN_possessive] hands and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking into the sky and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->whispering softly</li>
+    <li>circumstance_phrase->wearing a hopeful expression</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Prayed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] prayer</li>
+    <li>tale_noun->[PAWN_nameDef] let a higher power</li>
+    <li>image->[PAWN_pronoun] [PAWN_nameFull] [circumstance_group] seems far</li>
+    <li>image->[PAWN_pronoun] [PAWN_possessive] [PAWN_nameFull] to close his eyes [circumstance_group]</li>
+    <li>image->[PAWN_pronoun] [PAWN_possessive] used as a hedge [circumstance_group] [PAWN_nameFull]</li>
+    <li>image->[PAWN_pronoun] see above [circumstance_group] [PAWN_nameFull]</li>
+    <li>circumstance_phrase->And oozes calm</li>
+    <li>circumstance_phrase->whisper and tranquility</li>
+    <li>circumstance_phrase->and hopefully expression</li>
+    <li>circumstance_phrase->e flashes slowly</li>
+    <li>circumstance_phrase->And surrounded by aura [Color]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] [PAWN_objective] is ignored.</li>
+    <li>desc_sentence->[PAWN_pronoun] [Quantity_adjphrase_Dat] of [AnimalPluralDat].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rest in peace.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] party place solidifies.</li>
+  </Prayed.rulePack.rulesStrings>
+  <!-- EN: put into cryptosleep -->
+  <PutIntoCryptosleep.label>was symbolic dream</PutIntoCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep</li>
+    <li>image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] opening an empty cryptosleep casket while supporting [SLEEPER_nameDef] [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] sealing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] walking away as [SLEEPER_nameDef] looks through the wall of a cryptosleep casket [circumstance_group]</li>
+    <li>circumstance_phrase(p=3)->with a [AdjectiveAny] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->with visible tension between the two</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[CARRIER_nameDef] radiates determination.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] looks exhausted.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->Sleep encryption compensation [CARRIER_nameDef] [SLEEPER_nameDef]</li>
+    <li>image->A private sleeping capsule believe [circumstance_group] [CARRIER_pronoun] [SLEEPER_nameDef] [CARRIER_nameFull]</li>
+    <li>image->[SLEEPER_nameDef] [circumstance_group] [CARRIER_nameFull] crypt opens the capsule, such as sleeping [CARRIER_pronoun]</li>
+    <li>image->[circumstance_group] cryptographically sealed capsule beds [CARRIER_nameFull] [CARRIER_pronoun] [SLEEPER_nameDef]</li>
+    <li>image->By looking at the window glass capsule dream run [SLEEPER_nameDef] [circumstance_group] [CARRIER_nameFull] [CARRIER_pronoun]</li>
+    <li>circumstance_phrase(p=3)->And it is common [AdjectiveAny]</li>
+    <li>circumstance_phrase->And suggestions off</li>
+    <li>circumstance_phrase->And looking for a suitable [TerrainFeature]</li>
+    <li>circumstance_phrase->The visible tension between the two</li>
+    <li>desc_sentence->[AnimalPlural] close race [Quantity_adjphrase].</li>
+    <li>desc_sentence->Area near [Quantity_adjphrase] [EnemyPluralWithoutThe].</li>
+    <li>desc_sentence->Financial commitments [CARRIER_nameDef].</li>
+    <li>desc_sentence->[SLEEPER_nameDef] wounded course.</li>
+    <li>desc_sentence->Chance [SLEEPER_nameDef].</li>
+    <li>desc_sentence->Dana view full [Quantity_adjphrase] sleep with him.</li>
+  </PutIntoCryptosleep.rulePack.rulesStrings>
+  <!-- EN: stripped -->
+  <Stripped.label>iron</Stripped.label>
+  <!-- EN:
+    <li>tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] removing the clothes of [STRIPPED_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] holding an armful of [Apparel]s while standing next to [STRIPPED_nameFull], who is completely naked [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] waiting patiently as [STRIPPED_nameFull] removes [STRIPPED_possessive] clothes [circumstance_group]</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is fondling a shrub.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
+  -->
+  <Stripped.rulePack.rulesStrings>
+    <li>tale_noun->Wild [TAKER_nameDef] [STRIPPED_nameDef]</li>
+    <li>image->The [TAKER_pronoun] [STRIPPED_nameFull], open to the public and [TAKER_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_pronoun] [TAKER_nameFull] name clothing [circumstance_group] [STRIPPED_nameFull]</li>
+    <li>image->[TAKER_nameFull] shaking hands [ApparelPlural] [TAKER_pronoun] [circumstance_group] man standing [TAKER_pronoun] [STRIPPED_nameFull] / naked</li>
+    <li>image->[STRIPPED_nameFull] [circumstance_group] [STRIPPED_possessive] [TAKER_nameFull] [TAKER_pronoun] to wait long garments</li>
+    <li>circumstance_phrase->A special purpose</li>
+    <li>circumstance_phrase->Without a hint of shame</li>
+    <li>circumstance_phrase->and others are viewing</li>
+    <li>circumstance_phrase->in addition, because of</li>
+    <li>circumstance_phrase->Hunter confusion</li>
+    <li>desc_sentence->[STRIPPED_nameDef] light wave.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] unexplained covered with moisture.</li>
+    <li>desc_sentence->Respiratory [STRIPPED_nameDef] reasons not altogether clear.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] fondles bush.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] only expressed [AdjectiveAngsty].</li>
+  </Stripped.rulePack.rulesStrings>
+  <!-- EN: visited grave -->
+  <VisitedGrave.label>He visited monuments</VisitedGrave.label>
+  <!-- EN:
+    <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
+    <li>image->[VISITOR_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] reading the text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] looking at the art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[VISITOR_nameDef] to visit the tombstones [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] [CORPSE_nameDef] abstattete heavy stones</li>
+    <li>image->Grave stone by [CORPSE_nameFull] [circumstance_group] [VISITOR_nameFull] [VISITOR_pronoun]</li>
+    <li>image->[CORPSE_nameFull] [circumstance_group] sit near the monument as [VISITOR_pronoun] [VISITOR_nameFull]</li>
+    <li>image->Relying on the tomb stones [VISITOR_pronoun] [VISITOR_nameFull] [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[CORPSE_nameFull] [VISITOR_nameFull] stone on the grave as a brand [circumstance_group] [VISITOR_pronoun]</li>
+    <li>image->[VISITOR_nameFull] [VISITOR_pronoun] [circumstance_group] see artwork on tombstone [CORPSE_nameFull]</li>
+    <li>circumstance_phrase->Mr. [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->and busy</li>
+    <li>circumstance_phrase->When he looked away [VISITOR_pronoun] [TerrainFeature]</li>
+    <li>circumstance_phrase->Speak slowly and image</li>
+    <li>desc_sentence->[Color] aurora brndy in the bank.</li>
+    <li>desc_sentence->Snow clothes by [Community].</li>
+    <li>desc_sentence->The spectrum of expression [AdjectiveFriendly] [CORPSE_nameDef] watch the scene.</li>
+    <li>desc_sentence->Heavy [CORPSE_nameDef] stands at the expression [VISITOR_nameDef] [AdjectiveFriendly].</li>
+    <li>desc_sentence->Specter watch [CORPSE_nameDef] [AdjectiveAngsty] report.</li>
+    <li>desc_sentence->[AdjectiveAngsty] [CORPSE_nameDef] dream that explains [VISITOR_nameDef] out.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] people near the scene.</li>
+  </VisitedGrave.rulePack.rulesStrings>
+</LanguageData>

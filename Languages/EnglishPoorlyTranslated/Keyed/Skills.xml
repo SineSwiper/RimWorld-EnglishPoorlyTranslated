@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Level>Jirga khan</Level>
+  <ProgressToNextLevel>To make the next step</ProgressToNextLevel>
+  <Experience>Feel</Experience>
+  <Passion>Passy</Passion>
+  <PassionNone>There is no\n-learns {0}</PassionNone>
+  <PassionMinor>Interest\n-learns {0}</PassionMinor>
+  <PassionMajor>Fire\n-learns {0}</PassionMajor>
+  <LearnedMaxToday>Max ({0} / {1}, learn more {2})</LearnedMaxToday>
+  <EffectsAtLevel>Property {0}</EffectsAtLevel>
+  <SkillMax>MAX</SkillMax>
+  <Skill0>Hardly knows that</Skill0>
+  <Skill1>Start</Skill1>
+  <Skill2>First</Skill2>
+  <Skill3>Know</Skill3>
+  <Skill4>Knowledge of some of the</Skill4>
+  <Skill5>Receiving more</Skill5>
+  <Skill6>Hold</Skill6>
+  <Skill7>Academic weaknesses</Skill7>
+  <Skill8>Recruiters</Skill8>
+  <Skill9>Hard work</Skill9>
+  <Skill10>Qualified professionals</Skill10>
+  <Skill11>Very professional</Skill11>
+  <Skill12>Builder</Skill12>
+  <Skill13>Strong experts</Skill13>
+  <Skill14>Elder</Skill14>
+  <Skill15>Mains power</Skill15>
+  <Skill16>District teachers</Skill16>
+  <Skill17>King leads</Skill17>
+  <Skill18>Planet special master</Skill18>
+  <Skill19>Master chief earth</Skill19>
+  <Skill20>Great kings</Skill20>
+</LanguageData>

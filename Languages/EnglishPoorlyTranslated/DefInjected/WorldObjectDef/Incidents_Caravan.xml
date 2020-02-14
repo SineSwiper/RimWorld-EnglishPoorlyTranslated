@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Caravan.label>object</Caravan.label>
+  <Caravan.description>These are people who travel.</Caravan.description>
+  <Settlement.label>入植地</Settlement.label>
+  <Settlement.description>There is a group of the house.</Settlement.description>
+  <AbandonedSettlement.label>The settlement was abandoned</AbandonedSettlement.label>
+  <AbandonedSettlement.description>There is a place.</AbandonedSettlement.description>
+  <DestroyedSettlement.label>Damaged Home</DestroyedSettlement.label>
+  <DestroyedSettlement.description>Destroy communities.</DestroyedSettlement.description>
+  <EscapeShip.label>Foundation space</EscapeShip.label>
+  <EscapeShip.description>hand the area to be made about the closed country.</EscapeShip.description>
+  <AttackedNonPlayerCaravan.label>Fell wagons</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>Course of the war.</AttackedNonPlayerCaravan.description>
+  <TravelingTransportPods.label>Fruits transfer</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Father taking evidence.</TravelingTransportPods.description>
+  <RoutePlannerWaypoint.label>The last question</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>While this figure.</RoutePlannerWaypoint.description>
+  <PeaceTalks.label>peace talks</PeaceTalks.label>
+  <PeaceTalks.description>This is a place where peace talks.</PeaceTalks.description>
+  <Ambush.label>silver</Ambush.label>
+  <Ambush.description>The war goes on to invade.</Ambush.description>
+</LanguageData>

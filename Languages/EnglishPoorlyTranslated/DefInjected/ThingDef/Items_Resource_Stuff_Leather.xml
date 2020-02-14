@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>Bear</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>Power für bear house. Face in light of the situation more than the reward of good deeds summer.</Leather_Bear.description>
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>Vogel himself</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>Skin appearance, climate, and other birds. If no defense sources, the best protection against heat or cold.</Leather_Bird.description>
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>Blue coat</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>Muffalos soft wool. Easily recognizable by the ark-out color. It supports in the region to compensate for the cold.</Leather_Bluefur.description>
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>Camel leather</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>Dried, shaved skin of a camel fool. Providing balanced hot climates heat.</Leather_Camel.description>
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>Chinchilla hunt</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>Tanned skin is scraped off and dried in chinchilla. The most famous and well-known as an anti-fur can be required so.</Leather_Chinchilla.description>
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>Dogskin</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>With dry skin tanned and scratches. Traditional clothes and bags for the good stuff.</Leather_Dog.description>
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>Elefantenhaut</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>Parking, dry, elephant skin the size of a scrap. As well as resistance to static and schlchter:</Leather_Elephant.description>
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>Fox</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>Fox fur. It offers good protection against the cold and very luxurious. Brings a good price.</Leather_Fox.description>
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>skin weight</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>The skin is covered with long hair, large animals is difficult. The skin protects and insulates well.</Leather_Heavy.description>
+  <!-- EN: human leather -->
+  <Leather_Human.label>Human skin</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>Dry skin incision human skin. Many people find it dangerous. Some people will be interested. Although this is an interesting twist, it has a positive effect on the immune system is isolated.</Leather_Human.description>
+  <!-- EN: lightleather -->
+  <Leather_Light.label>light skin</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>Light, thin skin. It is possible for small animals. Unlike the fatty skin protection.</Leather_Light.description>
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>Lizard skin</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>Cold-blooded reptile skin tanned. Almost all of the lizard skin strong enough, but there is no difference.</Leather_Lizard.description>
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>Many für popoki</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>Walk large cat. This game is hard to break in a nice and cool.</Leather_Panthera.description>
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>This hidecraft</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>Law enforcement figs skin needs it. I kind of skin, spotty service and hidecrafter pristine skin are less resistant to false.</Leather_Patch.description>
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>Pigskin</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>And shadows beset dry shaving pigskin. Although the film is useful, it does not affect the common good and false security.</Leather_Pig.description>
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>the skin easily</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description> dry skin tanned and cracked. Traditional clothes and bags for the production of good material.</Leather_Plain.description>
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>Rhinoceros ruskin</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Tanned, dried and shaved skin of rhino. Combat situations, a little weather protection for the skin is very good.</Leather_Rhinoceros.description>
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>Trumbofaell</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>Soft leather and thrumbos. Comfortable, durable and unique. Strength and insulation used for quality products.</Leather_Thrumbo.description>
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>A wolf</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>Soften the wolf hair. It is difficult to break down and have a nice and warm.</Leather_Wolf.description>
+</LanguageData>

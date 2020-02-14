@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelAnimalInsanitySingle>Crazy {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Local {ANIMAL_label} mind. Attacking anyone they saw.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Fool {0}</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>A kind of phenomena wave swept across the landscape. This residential area on the right, but ...\n\nIt seems that these places are implementing {0} crazy.</AnimalInsanityMultiple>
+  <LetterLabelCropBlight>Fleas</LetterLabelCropBlight>
+  <LetterCropBlight>Immigrants noted that decimate the crop! It spread before lifting or blight plants must be burned.</LetterCropBlight>
+  <LetterLabelMiracleHeal>This is not surprising</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} feel miraculously saved!</MiracleHeal>
+  <!-- Enemy raids -->
+  <EnemyRaidLeaderPresent>One {LEADER_factionPawnsPlural} - {LEADER_labelShort} fractions manage.</EnemyRaidLeaderPresent>
+  <!-- Friendly raids -->
+  <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural} to - {LEADER_labelShort}, the head of the group.</FriendlyRaidLeaderPresent>
+  <LetterLabelRefugeePodCrash>Transport accident cover</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} {PAWN_nameDef} next stuck on the support of the mainland. Survived {PAWN_pronoun} effect, it will be very {PAWN_pronoun} injured.</RefugeePodCrash>
+  <RefugeePodCrash_Factionless>No group is not affiliated {PAWN_nameDef}. You can get {PAWN_objective} hope and liberation {PAWN_pronoun}, work or {PAWN_objective} purposes of slavery.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} against {PAWN_factionName}. You can get involved or slavery {PAWN_objective} purposes.</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef}'s {PAWN_factionName}. If you {PAWN_objective} safe, {PAWN_pronoun} is free. On the other hand, {PAWN_pronoun} returned home and spread the generosity of our party.\n\nYou also can select or slavery. however, for the purpose of particle {PAWN_possessive} anger can hold {PAWN_objective}.</RefugeePodCrash_NonHostile>
+  <LetterLabelCargoPodCrash>Manhandle</LetterLabelCargoPodCrash>
+  <CargoPodCrash>We found a group of television advertisements near locked.\n\nYou might find something useful in the ministry of defense.</CargoPodCrash>
+  <AnElectricalConduit>electrical interface</AnElectricalConduit>
+  <ShortCircuit>{0} error has caused the short circuit.</ShortCircuit>
+  <ShortCircuitStartedFire>{0} violation of fire caused by a short circuit.</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>All energy batteries were heard {0} related to the explosion of electricity reported.</ShortCircuitDischargedEnergy>
+  <ShortCircuitWasLarge>It created by the explosion the size of a large amount of energy.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>In fact, a strong explosion. Wow.</ShortCircuitWasHuge>
+  <TraderArrival>After trading close to the boat.\n\nThey referred {0}. They {1}.</TraderArrival>
+  <SingleTravelerPassing>{1} of {PAWN_title} eligible. {PAWN_pronoun} was appointed {PAWN_nameFull}.</SingleTravelerPassing>
+  <GroupTravelersPassing>{0} passengers board.</GroupTravelersPassing>
+  <LetterLabelSingleVisitorArrives>Hosting</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{1} {PAWN_titleIndef} visit the colony.\n\n{PAWN_pronoun} name {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>Some items seem {PAWN_pronoun} business.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} rebel leader.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Visitor</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>There colony.{1}{2} unit {0}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>This consul. here are a few.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>The head of the party was one of the parishioners - {1_labelShort}.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>{0} license.</VisitorsLeaving>
+  <LetterLabelManhunterPackArrived>Update hunting</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Pack-hunting {0} here. It will be in the area looking for food humanoid down.\n\nUntil they are, the door for them to attack the door for anyone to be displayed. In the trial, and you will pay. Also, do not take the gun is turned off, the switch to save the tower.\n\n{0} leave the area for a day or two. You can hide and wait for them or against them.</ManhunterPackArrived>
+  <!-- Crashed ship part-->
+  <MessageAnimalInsanityPulse>Old structures are separated is stored in the vicinity of the pulse mental, crazy creatures.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Driven mad thoughts {0} settlers ship crashed on a portion of the target heart rate.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Before waking hours {0}</AwokeDaysAgo>
+  <PsychicDroneLevel>The spiritual level of the drone: the {0}</PsychicDroneLevel>
+  <LetterLabelPsychicDroneLevelIncreased>Intensifies drone</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>The partial beam, emotional, more powerful reduction, the ship crashed. All the feelings of the local revival of michael, more despair and fear.</LetterPsychicDroneLevelIncreased>
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} {1} enemy agents were found.\n\nThey are now trying to escape.</LetterAgentRevealed>
+  <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>Determine the future of drones</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Not all pain {0} winces sex!\n\nEyes. Has shown a strong spirit of the whole area by the uav, frequency, seems to affect only {0} sex. For some time, a man's heart to lose his pot.\n\nMarne {1} level.</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicSoothe>Gentle spirit</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Algae with joy and peace {0} sex every settler smiles!\n\nIndexing stir some fun. It is clear that the gender impact on projects more often {0} medical aircraft in the region. A few days later, while in better spirits.</LetterIncidentPsychicSoothe>
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Singing!</LetterLabelBeaversArrived>
+  <BeaversArrived>Hungry, were just a team alphabeavers.\n\nTry to get rid of them did not believe in destroying the last remaining source of timber in the area.</BeaversArrived>
+  <!-- Refugee chased -->
+  <RefugeeChasedTitle>Deported to and {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial>We invite you to {PAWN_titleIndef} name {PAWN_nameDef}. {PAWN_pronoun} {2} {3} by the cast!\n\n{PAWN_pronoun} security and to pray together with the proposed settlement. {PAWN_pronoun} {4} {PAWN_pronoun} years, but never gathered much information.\n\nA word of caution - if you are like me, you do not {PAWN_possessive} {2} fight near the tail. The group consists of the following:\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Security</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Posts</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>Screaming respect {1_labelShort} speakers are healthy before sending off.</RefugeeChasedRejected>
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{1_kind}-training</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>Under {0}.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} was suppressed. Select {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>Washable {0}. The settlers decided to name it. {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>participate {0}</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>{0} group lost in the field, lost or forsaken.\n\nThey look to join a colony of normal human contact.</LetterFarmAnimalsWanderIn>
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>Thrumbos</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>I lost a little ground pork thrumbos.\n\nWhen faced with dangerous creatures, it is difficult to civilians. Some traders are willing to pay a lot of money to ensure that their skin and teeth.\n\nThrumbos leave the area for several days.</LetterThrumboPasses>
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>{0} of {1}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0} a common approach. They {1}.\n\nThey can walk around the colony a few days before departure. You can find them offensive - but that would upset your team!</LetterTraderCaravanArrival>
+  <!-- Ransom demand -->
+  <RansomDemandTitle>Each redemption {0}</RansomDemandTitle>
+  <RansomDemand>You wireless {1}. They compensate former colonies {PAWN_labelShort}.\n\nSunrise exchange {2} to release the money to {PAWN_objective}.</RansomDemand>
+  <RansomDemand_Accept>Taking</RansomDemand_Accept>
+  <RansomDemand_Reject>Rejected</RansomDemand_Reject>
+  <!-- Journey-related -->
+  <JourneyOffer>You have sent a message to new york from his last name charlean online friendly!\n\nIt was the starship store on the planet, and sent to world coordinates.\n\nThe spacecraft is now in deep sleep mode. You start when you come to explain how the intruders tried to steal some of the sequences in the background.\n\nYou can get a boat to land, they will take the charlton RimWorld.</JourneyOffer>
+  <EscapeShipFoundLabel>We found a ship</EscapeShipFoundLabel>
+  <EscapeShipFound>You come to a link sent charlton whitestone find the hidden star.\n\nThe reactor, the ship can not fly yet, there are still deep in sleep. This is the computer to respond slowly.\n\nWhitehead charlon warned that the start-up process takes about 15 days, and the right to identify from a distance. This type of air between the hope of attracting thieves fly mechanoids killers.\n\nYou can be sure the intensity you've ever seen. First, make sure your defense.</EscapeShipFound>
+  <EscapeShipLostLabel>Clear the queue</EscapeShipLostLabel>
+  <EscapeShipLost>Charlo in rome, the message is sent.\n\nLook, I lost control of the ship on the beach. To stop from falling into the wrong hands, he was forced to fire in self-destruct mechanism boat. Hole transport.\n\nYou must find another way around.</EscapeShipLost>
+  <!-- Caravan meeting -->
+  <CaravanMeetingTitle>The meeting was escorted off {0}</CaravanMeetingTitle>
+  <CaravanMeeting>{0} {1} met a caravan of peace. Other children includes:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting_Trade>Explanations</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Invasions</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Please</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>group members will not have the power</CaravanMeeting_TradeIncapable>
+  <!-- Caravan request -->
+  <LetterLabelCaravanRequest>And the children required</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>Bear {0} we requested a meeting designed shops nearby settlement. They want to buy:\n\n{1} (cost {2})\n\nInstead, they offer:\n\n{3} (value {4})\n\nThis application runs: {5}\n\nIf you want to share, please send a request to the content of the tsunami. Travel time is approximately {6}. You can view the map of the world {0} tips.</LetterCaravanRequest>
+  <CaravanRequestInfo>Claims: {0} ({3}): {1} ({4}) ({2} left)</CaravanRequestInfo>
+  <NormalQualityOrBetter>normal or good quality</NormalQualityOrBetter>
+  <NotTainted>clear</NotTainted>
+  <!-- Caravan demand -->
+  <CaravanDemandTitle>Require mobile and {0}</CaravanDemandTitle>
+  <CaravanDemand>Group {0} {2} {4} {1} attacked. To give you when they attack:\n\n{3}</CaravanDemand>
+  <CaravanDemand_Give>On</CaravanDemand_Give>
+  <CaravanDemand_Fight>Hatred and war</CaravanDemand_Fight>
+  <!-- Site no longer hostile -->
+  <LetterLabelSiteNoLongerHostile>Search now available</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>Guests no longer available</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>We hate to {0} {1} site is available.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>{0} because you are not the enemy, these sites are not available</LetterSiteNoLongerHostileMulti>
+</LanguageData>

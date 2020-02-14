@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkToBuild.label>construction man hours</WorkToBuild.label>
+  <WorkToBuild.description>Thereafter, the materials and tools available, the development, which requires a lot of time to create the organization.</WorkToBuild.description>
+  <DoorOpenSpeed.label>door opening and closing speed</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>The speed at the end of the starting gate.In the spring, all of you people use for activities.</DoorOpenSpeed.description>
+  <BedRestEffectiveness.label>sleep</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>This money will be available for an hour fell asleep transport.</BedRestEffectiveness.description>
+  <TrapMeleeDamage.label>The amount of net loss</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>If the amount on the damage clarity.A loss will be very irregular.</TrapMeleeDamage.description>
+  <TrapSpringChance.label>発動率</TrapSpringChance.label>
+  <TrapSpringChance.description>While it is noted that the birds have the opportunity to start a network.</TrapSpringChance.description>
+  <ResearchSpeedFactor.label>search speed press</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>This study speed.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Where she housework</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <MedicalTendQualityOffset.label>Treatment charge quality</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Knowing the quality of the product, to reduce this trend.</MedicalTendQualityOffset.description>
+  <ImmunityGainSpeedFactor.label>Finding the coefficient system</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>will be the first to use the fast victory.</ImmunityGainSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>Workbench distance modulus</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Spreading factor to be applied at the rate of employment.</WorkTableWorkSpeedFactor.description>
+  <WorkTableEfficiencyFactor.label>efficiency</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>A scaling factor is applied to the work efficiency.</WorkTableEfficiencyFactor.description>
+  <JoyGainFactor.label>Fun Factor</JoyGainFactor.label>
+  <JoyGainFactor.description>The impact of people's fun, but it can also be used to satisfy a desire for entertainment.</JoyGainFactor.description>
+  <SurgerySuccessChanceFactor.label>surgery</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>Surgical success rate of increase of the mind apart.Surgical success rate is also affected by other factors, medical power as a drug delivery</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Clean room</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+</LanguageData>

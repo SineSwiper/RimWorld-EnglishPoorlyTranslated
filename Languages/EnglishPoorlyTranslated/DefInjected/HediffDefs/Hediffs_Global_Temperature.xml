@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Heatstroke.label>heat stroke</Heatstroke.label>
+  <Heatstroke.stages.initial-0.label>only</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-1.label>At the beginning of the year</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.minor.label>light</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.serious.label>authorities</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.extreme.label>assassination</Heatstroke.stages.extreme.label>
+  <Hypothermia.label>thermia a hypo</Hypothermia.label>
+  <Hypothermia.stages.shivering-0.label>early</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-1.label>Early stage</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.minor.label>some</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.serious.label>serious</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.extreme.label>make</Hypothermia.stages.extreme.label>
+  <HypothermicSlowdown.label>Hypothermia slow operation</HypothermicSlowdown.label>
+  <HypothermicSlowdown.stages.minor-0.label>DOWN</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-1.label>Average</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.moderate.label>middle</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.serious.label>main course</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.extreme.label>additionally</HypothermicSlowdown.stages.extreme.label>
+</LanguageData>

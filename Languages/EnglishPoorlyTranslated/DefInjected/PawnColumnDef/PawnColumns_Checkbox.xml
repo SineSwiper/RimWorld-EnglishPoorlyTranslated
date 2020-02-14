@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>If the battle for champions results.</FollowDrafted.headerTip>
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>If this is the result of the master brush.</FollowFieldwork.headerTip>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <Hunt.headerTip>Predators prey for the animals.</Hunt.headerTip>
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>Bloodshed</Slaughter.headerTip>
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>Tames wild.</Tame.headerTip>
+</LanguageData>

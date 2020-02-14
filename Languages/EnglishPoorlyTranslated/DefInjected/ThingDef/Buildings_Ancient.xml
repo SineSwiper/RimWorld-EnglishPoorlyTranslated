@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>Old concrete barrier</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>According to the verkehrsregeln conscious businessman.</AncientConcreteBarrier.description>
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>Old lights the way</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>Lighting below expectations. No action.</AncientLamppost.description>
+</LanguageData>

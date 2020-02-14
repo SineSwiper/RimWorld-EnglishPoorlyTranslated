@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: elephant -->
+  <Elephant.label>Elephant</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>The largest land animal. The elephant can use its fangs until moving tool or as a deadly weapon to reduce resistance. The amount of tooth of an elephant can be obtained at the time of death.\n\nAs complex as human behavior with an intelligent animals elephants are used or complex tasks can be trained. They live a long time and has been for decades, is now back to this incident is known.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>Ivory</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>Lev foot</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>right foot</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>Head</Elephant.tools.head.label>
+  <!-- EN: megasloth -->
+  <Megasloth.label>Advance</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>Giant sloth, or with two vegetarians pavia pavia live to respond to the threat. So long as you do it before you can delete the american people, giant sloths use of cloning technology to life. His hair is a unique, aggressive, well mixed with oil. Therefore, it can be a very good winter coat. While harmless, that if he is not, if only to leave behind, but if the company claws and tear a gold bar intruders.</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>the right Claw</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>right claw</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>Head</Megasloth.tools.head.label>
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>Rhinoceros</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Although in reality, it is an herbivore, it can be relatively easy to change these large mammals. Despite angry, it is because a strong and sharp horns of a cruel enemy. Many people have more leg muscles throughout the body.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>Test</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>Competition</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>Head</Rhinoceros.tools.head.label>
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>Archeology</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Large creatures, graceful unknown origin. Thrumbo susceptible to nature, but very dangerous, because angry. Long coat is important, beautiful and oppose any form of damage to give excellent protection. Razor-sharp horn and I'm still more expensive markets.\n\nLegend has it that the old thrumbo-wise creature in the world - he loves, not just talk.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>Horn</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>left foot</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>right foot</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>Head</Thrumbo.tools.head.label>
+</LanguageData>

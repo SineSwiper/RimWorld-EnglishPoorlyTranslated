@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Added body parts -->
+  <PegLeg.label>Fake wood (sticks)</PegLeg.label>
+  <PegLeg.labelNoun>Kai (sugar cane)</PegLeg.labelNoun>
+  <WoodenFoot.label>wooden prosthesis (fingerprints)</WoodenFoot.label>
+  <WoodenFoot.labelNoun>prosthesis (search)</WoodenFoot.labelNoun>
+  <Denture.label>teeth</Denture.label>
+  <Denture.labelNoun>dentures</Denture.labelNoun>
+  <SimpleProstheticLeg.label>artificial leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>search sites feet</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticArm.label>artificial organs</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>artificial limbs</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <SimpleProstheticHeart.label>Artificial heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>artificial heart</SimpleProstheticHeart.labelNoun>
+  <CochlearImplant.label>artificial ear</CochlearImplant.label>
+  <CochlearImplant.labelNoun>artificial ear</CochlearImplant.labelNoun>
+  <BionicEye.label>Increase the visual sensor</BionicEye.label>
+  <BionicEye.labelNoun>Add visual sensor</BionicEye.labelNoun>
+  <BionicArm.label>Strengthening of the thigh</BionicArm.label>
+  <BionicArm.labelNoun>Upper extremity strength</BionicArm.labelNoun>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>Staff</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicLeg.label>Below are increased by</BionicLeg.label>
+  <BionicLeg.labelNoun>Strengthening the lower limbs</BionicLeg.labelNoun>
+  <BionicSpine.label>strengthening the spine</BionicSpine.label>
+  <BionicSpine.labelNoun>strengthening the spine</BionicSpine.labelNoun>
+  <BionicHeart.label>strong heart</BionicHeart.label>
+  <BionicHeart.labelNoun>strengthen heart</BionicHeart.labelNoun>
+  <BionicStomach.label>efforts to sell</BionicStomach.label>
+  <BionicStomach.labelNoun>strengthens the stomach</BionicStomach.labelNoun>
+  <BionicEar.label>consolidate ear</BionicEar.label>
+  <BionicEar.labelNoun>strengthening</BionicEar.labelNoun>
+  <PowerClaw.label>Talon car</PowerClaw.label>
+  <PowerClaw.labelNoun>Wing vehicle</PowerClaw.labelNoun>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>Claw</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <ArchotechEye.label>leading technology Arco</ArchotechEye.label>
+  <ArchotechEye.labelNoun>Arco Tech eyes</ArchotechEye.labelNoun>
+  <ArchotechArm.label>tech Arco</ArchotechArm.label>
+  <ArchotechArm.labelNoun>Technical quietly hand</ArchotechArm.labelNoun>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechLeg.label>Arco technological base</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>Spring Technology</ArchotechLeg.labelNoun>
+</LanguageData>

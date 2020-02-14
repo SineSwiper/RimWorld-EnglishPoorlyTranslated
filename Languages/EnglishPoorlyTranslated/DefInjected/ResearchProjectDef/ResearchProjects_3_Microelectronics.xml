@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: colored lights -->
+  <ColoredLights.label>Colored lights</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Light color development.</ColoredLights.description>
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Flat-screen tv</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>Point high-definition flat-screen tv. Now you can be a good holiday.</FlatscreenTelevision.description>
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>Heavy construction</HeavyTurrets.label>
+  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>Heavy automatic twrretok.</HeavyTurrets.description>
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Hospital bed</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>Create a special treatment that improves the results of bed in the hospital.</HospitalBed.description>
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>Mineral length scanner</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>Minerals, can be used by researchers to provide scanner, another part of the yard open to look for important minerals. The same thing can be. The need to develop high-tech components.</LongRangeMineralScanner.description>
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>Materials</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>Industrial physician herbal medicine away neutramin and fabric back.</MedicineProduction.description>
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>Microelectronics policy</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>Working with an advanced microelectronics. High-tech laboratory bench and made the free radio system.</MicroelectronicsBasics.description>
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>She</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>Slow dry, sandy, wet and windy.</MoisturePump.description>
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>Multi-barreled weapons</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>Mini gun construction.</MultibarrelWeapons.description>
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>Precision weapons</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>Precision sniper rifles, machine guns such storms acclaimed production.</PrecisionRifling.description>
+  <!-- EN: shield belt -->
+  <ShieldBelt.label>Energy shield</ShieldBelt.label>
+  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <ShieldBelt.description>Pulse cancellation technology, energy shield, it is possible to make the blocks into or from a remote station.</ShieldBelt.description>
+  <!-- EN: transport pod -->
+  <TransportPod.label>Transport capsules</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>Under coat to create an orbital cargo-made and allows goods to be transported a long distance. Attack, fast forward, you can use the gift and can be used to write and more.</TransportPod.description>
+</LanguageData>

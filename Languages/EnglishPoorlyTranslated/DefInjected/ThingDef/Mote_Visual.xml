@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mote -->
+  <Mote_AirPuff.label>Particle</Mote_AirPuff.label>
+  <!-- EN: Mote -->
+  <Mote_BlastDry.label>Speck</Mote_BlastDry.label>
+  <!-- EN: Mote -->
+  <Mote_BlastEMP.label>Pulp</Mote_BlastEMP.label>
+  <!-- EN: Mote -->
+  <Mote_BlastExtinguisher.label>The</Mote_BlastExtinguisher.label>
+  <!-- EN: Mote -->
+  <Mote_BlastFlame.label>Fashion</Mote_BlastFlame.label>
+  <!-- EN: Mote -->
+  <Mote_Bombardment.label>Speck</Mote_Bombardment.label>
+  <!-- EN: Mote -->
+  <Mote_CookBit.label>Short</Mote_CookBit.label>
+  <!-- EN: Mote -->
+  <Mote_DustPuff.label>Mote</Mote_DustPuff.label>
+  <!-- EN: Mote -->
+  <Mote_DustPuffThick.label>Fertilizer</Mote_DustPuffThick.label>
+  <!-- EN: Mote -->
+  <Mote_DustSlow.label>Dust</Mote_DustSlow.label>
+  <!-- EN: Mote -->
+  <Mote_ElectricalSpark.label>Pollen</Mote_ElectricalSpark.label>
+  <!-- EN: Mote -->
+  <Mote_ExplosionFlash.label>Chip dust</Mote_ExplosionFlash.label>
+  <!-- EN: Mote -->
+  <Mote_FireGlow.label>Mote</Mote_FireGlow.label>
+  <!-- EN: Mote -->
+  <Mote_FoodBitMeat.label>Speck</Mote_FoodBitMeat.label>
+  <!-- EN: Mote -->
+  <Mote_FoodBitVegetarian.label>Straw</Mote_FoodBitVegetarian.label>
+  <!-- EN: Mote -->
+  <Mote_GiantExplosion.label>Particle</Mote_GiantExplosion.label>
+  <!-- EN: Mote -->
+  <Mote_GiantExplosionInner.label>Mott</Mote_GiantExplosionInner.label>
+  <!-- EN: Mote -->
+  <Mote_HeatGlow.label>Particle</Mote_HeatGlow.label>
+  <!-- EN: Mote -->
+  <Mote_Leaf.label>Lawn</Mote_Leaf.label>
+  <!-- EN: Mote -->
+  <Mote_LightningGlow.label>Shame</Mote_LightningGlow.label>
+  <!-- EN: Mote -->
+  <Mote_MetaPuff.label>Out</Mote_MetaPuff.label>
+  <!-- EN: Mote -->
+  <Mote_MicroSparks.label>Pollen</Mote_MicroSparks.label>
+  <!-- EN: Mote -->
+  <Mote_MicroSparksFast.label>Place</Mote_MicroSparksFast.label>
+  <!-- EN: Mote -->
+  <Mote_PowerBeam.label>Mote</Mote_PowerBeam.label>
+  <!-- EN: Mote -->
+  <Mote_SandInEyes.label>Place</Mote_SandInEyes.label>
+  <!-- EN: Mote -->
+  <Mote_ShotFlash.label>Witness</Mote_ShotFlash.label>
+  <!-- EN: Mote -->
+  <Mote_ShotHit_Dirt.label>Stigma</Mote_ShotHit_Dirt.label>
+  <!-- EN: Mote -->
+  <Mote_ShotHit_Spark.label>Earth</Mote_ShotHit_Spark.label>
+  <!-- EN: Mote -->
+  <Mote_Smoke.label>Grandfather</Mote_Smoke.label>
+  <!-- EN: Mote -->
+  <Mote_SparkFlash.label>Grass</Mote_SparkFlash.label>
+  <!-- EN: Mote -->
+  <Mote_StoneBit.label>Straw</Mote_StoneBit.label>
+  <!-- EN: Mote -->
+  <Mote_TornadoDustPuff.label>Shilling</Mote_TornadoDustPuff.label>
+  <!-- EN: Mote -->
+  <Mote_VomitBit.label>Particle</Mote_VomitBit.label>
+  <!-- EN: Mote -->
+  <Mote_YellowSparkFlash.label>Mott</Mote_YellowSparkFlash.label>
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- WITab titles -->
+  <TabTerrain>Territory</TabTerrain>
+  <TabPlanet>In</TabPlanet>
+  <TabCaravanSocial>Company</TabCaravanSocial>
+  <TabCaravanHealth>Health</TabCaravanHealth>
+  <TabCaravanNeeds>Impulse</TabCaravanNeeds>
+  <TabCaravanGear>Motion</TabCaravanGear>
+  <TabCaravanItems>Items</TabCaravanItems>
+  <!-- Misc -->
+  <AbandonSliderText>Slip (time) {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>If you do not give {0}?\n\nIgnore what is lost, and will not pay.</ConfirmAbandonItemDialog>
+  <AbandonTip>Quit</AbandonTip>
+  <BanishTip>Disconnected</BanishTip>
+  <AbandonSpecificCountTip>The number of abandoned</AbandonSpecificCountTip>
+  <AbandonAllTip>(universal)</AbandonAllTip>
+  <AbandonItemTipExtraText>They can not be restored.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{1_labelShort} is likely to die.</BanishTipWillDie>
+  <!-- Caravan inspect -->
+  <CaravanColonists>Settlers</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Animals prisoners</CaravanPrisonersAndAnimals>
+  <CaravanItems>Article</CaravanItems>
+  <OpenSpecificTabButtonTip>For more information, open a new tab.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Prisoner</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>List</CaravanWeaponsAndApparel>
+  <NoneCapable>Nothing can</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>Do not remove the trailer</GainingJoyBecauseCaravanNotMoving>
+  <!-- Caravan gear -->
+  <DragToRearrange>Drag operation.</DragToRearrange>
+  <!-- Caravan items -->
+  <AssignDrugPolicies>Allocation of drug policy</AssignDrugPolicies>
+  <!-- Caravan health -->
+  <BeCarriedIfSickTip>Other members of the caravan of the person or animal that when it sickened.\n\nMembers gallery to accompany him to relax, even if you do not participate in the air and slow.</BeCarriedIfSickTip>
+  <!-- Planet -->
+  <PlanetSeed>Grain</PlanetSeed>
+  <PlanetCoverageShort>Cover</PlanetCoverageShort>
+</LanguageData>

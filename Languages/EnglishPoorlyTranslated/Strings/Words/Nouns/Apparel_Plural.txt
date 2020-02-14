@@ -1,0 +1,57 @@
+﻿//Example: " Die ..."
+
+Shirt
+Tuxedo shirt
+Tuxedo shirts
+Jacket
+Shirt
+Rain
+Ports
+Dress
+Suit
+Blanket
+Clothing
+Perks
+Jacket
+Dustcoats
+Dustseats
+Spacesuits
+Astronauts
+Industrial equipment
+Energy weapons
+Flight
+Bill
+Similarity
+Link
+Belt
+Necklace
+S
+Support
+Head-gear
+Hat
+Bowler
+High places
+Baseball caps
+Caps
+Made
+Knitted sweater
+Box
+Integration
+Swimming
+Shoe
+Shoe
+Shoes
+Swim
+Sandals
+Shoes
+Gloves
+Pajamas
+Nigtdraesses
+Stockings
+Sock
+T-shirt
+Sweater
+Mirrors
+Heat
+Set
+Clothes

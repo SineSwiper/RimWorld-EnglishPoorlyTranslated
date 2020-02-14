@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: monkey -->
+  <Monkey.label>A monkey</Monkey.label>
+  <!-- EN: left clavicle -->
+  <Monkey.corePart.parts.left_clavicle.customLabel>Left collarbone</Monkey.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <Monkey.corePart.parts.right_clavicle.customLabel>Good clavicle</Monkey.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <Monkey.corePart.parts.left_lung.customLabel>In the left lung</Monkey.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Monkey.corePart.parts.right_lung.customLabel>Right lung</Monkey.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Monkey.corePart.parts.left_kidney.customLabel>Left kidney</Monkey.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Monkey.corePart.parts.right_kidney.customLabel>Right kidney</Monkey.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mata</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Monkey.corePart.parts.left_shoulder.customLabel>Left shoulder</Monkey.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>Left hand</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>Compete</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>That</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>Left</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>His left little finger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>The left</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>Finger of the left middle</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>Left index finger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>Left thumb</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Monkey.corePart.parts.right_shoulder.customLabel>Right thigh</Monkey.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>Right side</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>Right shoulder</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Right</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>Right hand</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>Little finger on my right</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>On the right ring finger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>Right middle finger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>Right index finger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>Right thumb</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Monkey.corePart.parts.left_leg.customLabel>The left leg</Monkey.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>Left foot</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>New left</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>Lev ft</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>For yanej</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Ringzeh south</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>Left mittelzeh</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Left zeigezeh</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>Left thumb</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Monkey.corePart.parts.right_leg.customLabel>Good foot</Monkey.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>Right thigh</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>Right track</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>Right foot</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>This place is the best of the big toe</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Ringzeh</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>Right mitteljeh</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Right zeigezeh</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>Finger right</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Tetrapod</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>Left lung</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>The left</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>Kidney</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>She left eye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>Left front foot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>Front left, the first jaw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>On the other hand, because the left</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>For the remainder of the third phase</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>Previous lev fourth toe</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <!-- EN: front left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>Front left, five copies</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>In front of the right foot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>Since the first jaw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>Front right, second fork</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>Front right, in the third thumbnail</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: front right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>Just before the fourth claw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <!-- EN: front right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>Properly, the fifth preview</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>On left foot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>First jaw left rear side</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>The second jaw left behind</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>Else, the third finger</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>Behind the fourth (cutters)</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <!-- EN: rear left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>Left behind five recoveries</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>After</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>Right behind the first jaw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>Only after the second jaw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>Left, the nail was</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <!-- EN: rear right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>Traffic rules</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <!-- EN: rear right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>The rear right, in the fifth claw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHooves.label>Creatures with four legs</QuadrupedAnimalWithHooves.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>Pulmonary artery</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>Left kidney</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>Right kidney</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>His left eye</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>Front left leg</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Left front radiator</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>His right front leg</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Right front hoof</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>Finally, the left leg</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Left hind hoof</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>Right rear foot</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Lo right hand</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHorn.label>Four-legged animals with hooves and horns</QuadrupedAnimalWithHoovesAndHorn.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>The left lung</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>Left kidney</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>Mandate</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Left eye</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Eyelet</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>The hidarimaeashi</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Hoof</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>Right front</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>The right hoof</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>Left hind leg</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Behind nails</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>Ming left</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>The foundation behind right</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHump.label>Four legs and effects of animals on the hoof</QuadrupedAnimalWithHoovesAndHump.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>Left lung</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>Left kidney</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>Kidney health</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Away from me</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>Left front leg</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Sinnar.`` front legs seen</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>First the right foot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Just before the hull</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>In the left hind leg</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Remaining after pedicure</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>Right foot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Right rear outlet</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndTusks.label>Swine tasks and four-legged animals</QuadrupedAnimalWithHoovesAndTusks.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>Left lung</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>The left kidney</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>Right kidney</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Left eye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>Grow out</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>The right gear</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>Left leg</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Left before</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>The right front leg</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Right front hoof</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>Get back</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Left rear hoof</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>Behind the right leg</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Right rear trunk</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Feet, ivory and stem quadruped</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>Pulmonary artery</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>The left kidney</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>Right kidney</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Left eye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>On the left</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>Pin right</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>Front left foot</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Nail the front left</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>Directly in front of the leg</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Nail right</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>Even at the end of the left</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Rear left side of the ankle</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>Then, after the right</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Right leg</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPaws.label>Feet all four-legged animals</QuadrupedAnimalWithPaws.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>Right</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>Right lung</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>Left kidney</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>The right kidney</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Left eye</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Good eye</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>His left ear</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>Lev front foot</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>Silent</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>In front of the right foot</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>Right front legs</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>Left hind leg</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>Foot glass</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>At the end of the right leg</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>Right hind leg</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsAndTail.label>Four claws and tail</QuadrupedAnimalWithPawsAndTail.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>From left lung</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>The right lung</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>Left kidney</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>Right kidney</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Strabismus</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>Left foot forward</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>Left palm</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>Right front foot</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>Front right paw</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>Left rear leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>Palm hope</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>The back of the right leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>Right leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  <!-- EN: turtle-like -->
+  <TurtleLike.label>Tortoise</TurtleLike.label>
+  <!-- EN: left lung -->
+  <TurtleLike.corePart.parts.left_lung.customLabel>Left lung</TurtleLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <TurtleLike.corePart.parts.right_lung.customLabel>Right lung</TurtleLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <TurtleLike.corePart.parts.left_kidney.customLabel>Left kidney</TurtleLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <TurtleLike.corePart.parts.right_kidney.customLabel>Many even</TurtleLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>Left eye</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>Right</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>Left front foot</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>Front right leg</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>The left leg</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>The right leg is the last time</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>

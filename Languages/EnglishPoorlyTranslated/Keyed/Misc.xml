@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Autosaving>Automatic</Autosaving>
+  <GameStartDialog>Tuesday coffin cryptosleep your voice and the sound of tearing metal okay. You do not have to get off before the pods and operate the ship.\n\nAfter the passage of some time, RimWorld country is unknown.\n\nStarship falling fruit around, you can start making plans for life.</GameStartDialog>
+  <Colony>Trap</Colony>
+  <ChangeLanguageFromMainMenu>You can change the language of the menu screen.</ChangeLanguageFromMainMenu>
+  <AndLower>and</AndLower>
+  <DisabledLower>unsuitable</DisabledLower>
+  <VersionIndicator>{0}</VersionIndicator>
+  <DevelopmentBuildLower>development and construction</DevelopmentBuildLower>
+  <CompiledOn>With {0}</CompiledOn>
+  <LoggedIntoSteamAs>Cove {0} login</LoggedIntoSteamAs>
+  <!-- General-use words -->
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>freedom</chance>
+  <context>link</context>
+  <multiplier>booster</multiplier>
+  <damage>accident</damage>
+  <radius>foundation</radius>
+  <durationDays>time (days)</durationDays>
+  <intervalDays>paragraph (a)</intervalDays>
+  <repeat>many times</repeat>
+  <default>natural</default>
+  <distance>look</distance>
+  <YesUppercase>YES</YesUppercase>
+  <NoUppercase>NO</NoUppercase>
+  <kg>kg</kg>
+  <Day>Day</Day>
+  <day>day</day>
+  <Default>Standard</Default>
+  <Average>Media</Average>
+  <MoneyFormat>$ {0}</MoneyFormat>
+  <!-- Content generation-->
+  <MeatLabel>{0}</MeatLabel>
+  <MeatDesc>Butchers raw meat. As for food or raw food.</MeatDesc>
+  <MeatInsectDesc>Raw meat slaughter. If you need to cook, or you can eat or basil. Very unpleasant.</MeatInsectDesc>
+  <MeatHumanDesc>Raw meat is murder. Even with so many people think riding the raw passion of eating, that is.</MeatHumanDesc>
+  <CorpseLabel>the {0}</CorpseLabel>
+  <CorpseDesc>{0} body:</CorpseDesc>
+  <DeadLabel>{1_label} (die)</DeadLabel>
+  <RoughStoneTerrainLabel>difficult {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>{0} natural rough.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>rough solid {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Chopped natural {0} story.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>plane {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Natural {0} decorated floors.</SmoothStoneTerrainDesc>
+  <BlueprintLabelExtra>(plan)</BlueprintLabelExtra>
+  <FrameLabelExtra>(execution)</FrameLabelExtra>
+  <FactionUnaffiliated>Talk to</FactionUnaffiliated>
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <SomeonesRoom>{1} {PAWN_labelShort}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort} {2}</CouplesRoom>
+  <VariousLabel>(dif)</VariousLabel>
+  <!-- History events -->
+  <ColonistDied>Home</ColonistDied>
+  <!-- Rotation -->
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
+</LanguageData>

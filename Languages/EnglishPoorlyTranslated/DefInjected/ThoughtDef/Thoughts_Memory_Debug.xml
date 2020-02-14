@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: debug bad thought -->
+  <DebugBad.stages.debug_bad_thought.label>Debugging: misunderstanding</DebugBad.stages.debug_bad_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugBad.stages.debug_bad_thought.description>Testing the idea for errors</DebugBad.stages.debug_bad_thought.description>
+  <!-- EN: debug good thought -->
+  <DebugGood.stages.debug_good_thought.label>Tuning: a good idea</DebugGood.stages.debug_good_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugGood.stages.debug_good_thought.description>The idea to make sure that the repairs</DebugGood.stages.debug_good_thought.description>
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alpaca -->
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <Alpaca.labelPlural>Alpacas</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>Baby alpaca</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.1.label>Young alpaca</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.2.label>Lama named</Alpaca.lifeStages.2.label>
+  <!-- EN: chicken -->
+  <Chicken.label>Chicken</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>Poultry</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>Milk</Chicken.labelMale>
+  <Chicken.labelPlural>Chickens</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>Hanging</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>Mullet</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>Jung hahn</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.2.labelFemale>Chicken</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelMale>Tap</Chicken.lifeStages.2.labelMale>
+  <!-- EN: cow -->
+  <Cow.label>Diary</Cow.label>
+  <!-- EN: cow -->
+  <Cow.labelFemale>Kuh</Cow.labelFemale>
+  <!-- EN: bull -->
+  <Cow.labelMale>Taurus</Cow.labelMale>
+  <Cow.labelPlural>Cow</Cow.labelPlural>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>Quickly</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>The bull</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.label>cubs</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelFemale>cattle</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelMale>Bull</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.2.label>Meat</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelFemale>Kuh</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelMale>Bull</Cow.lifeStages.2.labelMale>
+  <!-- EN: pig -->
+  <Pig.label>Pig</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>Sau</Pig.labelFemale>
+  <Pig.labelPlural>Boar</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>Pig</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.1.label>young pig</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>Little pigs</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelMale>young pigs</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.2.label>Pork</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>Sau</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelMale>Pork</Pig.lifeStages.2.labelMale>
+</LanguageData>

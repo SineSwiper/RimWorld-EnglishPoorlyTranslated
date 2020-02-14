@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Confirm>Strong</Confirm>
+  <GoBack>I want to hug</GoBack>
+  <OK>OK</OK>
+  <Close>Close</Close>
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>RimWorld version of {0} {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>This can lead to action games and methods from the old version to disable.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Game saved from the previous version will be compatible, but some mods could stop function.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>Examples of drm, you can install the game, twice in two different folders, and you can play both the old and the new versions.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>You have an older version, you are the defendant steam "bete" may provide operations command.\n\nfirst. Stop the library rimvorld right mouse button.\n2. Click properties.\n3rd. Click on the beta version.\n4. In the menu you're down on the pavement.\n\nOld open or save it - we do not cut during the game.\n\nNote that, if the author of the mod update to the new version of the game, they will stop work on the species. You can turn it off and went to upgrades.</GameUpdatedToNewVersionSteam>
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Restoration of errors or corruption compatible mods</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>It seems that some of the current mods will make mistakes.\n\nRimWorld or so by the time are all affected by each other different versions.\n\nAll mod mods and re-energize the dialogue with disabilities.</RecoveredFromErrorsText>
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Error loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Error loading active in the game. An error logs for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>The game is currently working on a custom mods - they may or may not contribute to this problem.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Create and map errors</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>An error occurred while trying to make a new map. For more information on the error log.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Resumen resumen canciones map error</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>While on a map error occurred. Check the error logs for more information.</ErrorWhileLoadingMap>
+  <!-- Unloaded mod with an assembly -->
+  <ModsChanged>The modern list has changed. The game will automatically restart.</ModsChanged>
+  <FailedToRestart>There was a spell when the game restarted. Game, the code is still active mode without disabilities can modify the code is completely empty will not.\n\nIt is recommended to play all the games will resume fashion net.</FailedToRestart>
+  <Restarting>Re-run</Restarting>
+  <!-- Missing Steam -->
+  <SteamClientMissing>Api, which can start a bit. Is that:\n\nNot -steam.\n-launched steam without steam_appid.txt.\n- steam client running on different authorizations (eg "director").\n\nIn most cases, the restart to address this problem.\n\nYou can play in any situation, but to provoke some will be recorded and will be available steam functions.</SteamClientMissing>
+  <!-- Long events -->
+  <InitializingInterface>Getting interface</InitializingInterface>
+  <UnloadingUnusedAssets>When not in use, of the seasons</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>All mods loading</LoadingAllActiveMods>
+  <LoadingDefs>Make definition download</LoadingDefs>
+  <LoadingAssets>Loading resources</LoadingAssets>
+  <Initializing>Release</Initializing>
+  <LoadingWorld>Pamatrarana world</LoadingWorld>
+  <LoadingMap>Loading site</LoadingMap>
+  <InitializingGame>Starting the game</InitializingGame>
+  <SpawningAllThings>Released</SpawningAllThings>
+  <SpawningColonists>During the colonial era, breeding</SpawningColonists>
+  <!-- Save/load -->
+  <SaveGameButton>Record</SaveGameButton>
+  <LoadGameButton>Load</LoadGameButton>
+  <OverwriteButton>Again</OverwriteButton>
+  <ConfirmDelete>Take {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Share this movie.</DeleteThisSavegame>
+  <SavedAs>The {0} salvation is coming.</SavedAs>
+  <NeedAName>Kenya.</NeedAName>
+  <LoadingLongEvent>Responsible</LoadingLongEvent>
+  <SavingLongEvent>Shops</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(permadeath)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>We {0} my version is fully operational, but save the data different version {1}.\n\nI can be loaded, please try to work on these data.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>We are running a version of {0} savings but information {1} in another building.\n\nTrying to load continues to work.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Save the file, and save the game version of our problems.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Information about storage design models and almost certainly will not be properly loaded.</SaveIsUnknownFormat>
+  <ProblemSavingFile>{0} deal with the problem of the file:\n\n{1}\n\nDisplays error log details.</ProblemSavingFile>
+  <LoadAnyway>But the task</LoadAnyway>
+  <ChangeLoadedMods>Upload summer on the list of defense</ChangeLoadedMods>
+  <MissingMods>Are available, and can be installed in any of the mods</MissingMods>
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>Here will last forever, so it looks like a ploy to get the name of the concerns {0}. What's your faction?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Your team is now called {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>This is not true.</PlayerFactionNameIsInvalid>
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>We believe {0} solutions. Yet we must say what will meet to prepare?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Area, which is now known as {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>This name is invalid.</PlayerFactionBaseNameIsInvalid>
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} also find the name of this settlement. What should be in place?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Today we call his clan {0} now called public {1}.</PlayerFactionAndBaseGainsName>
+  <!-- Renaming -->
+  <NameIsInvalid>Please enter a different name.</NameIsInvalid>
+  <NameIsInUse>This name is already in use.</NameIsInUse>
+  <ZoneGainsName>{0} zone named.</ZoneGainsName>
+  <!-- Pawn naming -->
+  <PawnGainsName>The name of the man who is now {0}. {PAWN_possessive} {PAWN_title} thing.</PawnGainsName>
+  <AnimalGainsName>Animal {0} name.</AnimalGainsName>
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Not compatible with the version</VersionMismatch>
+  <SaveGameIncompatibleWarningText>E "registered with the game. {0}\nThe next match version {1}\n\nIn the image, and accidents due to errors.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>A copy of game {0} world file\nOur production of the game running {1}\n\nError loading and famous in the country. Movies, as well as created a new world.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>The file is saved with the version of the game {0}\nWe have a strong love {1}\n\nThis error can cause problems downloading a file.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Fashion not match</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>This document is running, we now come to the store with a variety of modes. This is not just a problem with retextured.\n\nFile (a) and survived:\n\n{0}\n\nWith us (in order) to work:\n\n{1}</ModsMismatchWarningText>
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>If you've changed your display settings. Implementation of new projects, okay?\n\n{0} default - restore ...</ConfirmResolutionChange>
+  <ResolutionKeep>Keep</ResolutionKeep>
+  <ResolutionRevert>In addition to the original</ResolutionRevert>
+  <!-- Confirm permanently disable dev mode -->
+  <ConfirmPermanentlyDisableDevMode>Are you really this development model?\n\nThis option is for people who want to feel clean game without the temptation to use the tools developed both in normal play.\n\nSystem development and operation, but it can edit configuration files manually. But you have to search the internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <!-- Research -->
+  <Research>Looking for</Research>
+  <Researched>Search</Researched>
+  <Unresearched>Uncharted</Unresearched>
+  <Finished>Flooding</Finished>
+  <InProgress>To make progress</InProgress>
+  <Locked>Exit</Locked>
+  <ResearchMenuWithoutBench>Learn how to create a bench, you will not be able to study immigrants.\n\nHowever, you can look at the research projects now.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Test requirements</ResearchPrerequisites>
+  <RequiredResearchBench>The bench research should</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Terms court facilities</RequiredResearchBenchFacilities>
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>Warning: you can set the conditions for landing. It can be difficult or almost impossible to survive. If you do not intend to deal with the challenge choose another location or station.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Size board games designed for play. This size provides plenty of room!\n\nShop not only reduces the performance of the postcard images - in fact breaking game design. Ai stupid decisions, and weight loss will be affected in many ways worse. The assessment includes practice and testing purposes only reason I have to use.</MapSizePerformanceWarning>
+  <MapSize>Folder</MapSize>
+  <MapSizeDesc>{0}x{0} ({1})</MapSizeDesc>
+  <MapSizeSmall>Low</MapSizeSmall>
+  <MapSizeMedium>General</MapSizeMedium>
+  <MapSizeLarge>More</MapSizeLarge>
+  <MapSizeExtreme>(during the test)</MapSizeExtreme>
+  <MapStartSeason>Weather changes</MapStartSeason>
+  <MapStartSeasonDefault>Car</MapStartSeasonDefault>
+  <Notice>Link</Notice>
+  <!-- Bill config -->
+  <Suspended>Break</Suspended>
+  <NotSuspended>Suspension of</NotSuspended>
+  <SuspendedAllCaps>CLOSE</SuspendedAllCaps>
+  <RepeatCount>You:</RepeatCount>
+  <Forever>Hardly ever</Forever>
+  <Details>Information</Details>
+  <IngredientSearchRadius>The radius</IngredientSearchRadius>
+  <CurrentlyHave>Now</CurrentlyHave>
+  <CountingProducts>Count</CountingProducts>
+  <Infinite>Border</Infinite>
+  <AllowedSkillRange>When development {0}:</AllowedSkillRange>
+  <IncompatibleLower>not compatible</IncompatibleLower>
+  <AnyWorker>All employees</AnyWorker>
+  <Unlimited>End</Unlimited>
+  <RecipeCannotHaveTargetCount>(or that for many products, because this recipe is a first korotsoeng.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Workload</WorkAmount>
+  <MinimumSkills>Basic skills:</MinimumSkills>
+  <BillRequires>{0} {1}</BillRequires>
+  <BillRequiresNutrition>Power requirements {0}</BillRequiresNutrition>
+  <BillRequiresMayVary>Note: components, such as a small amount of gold in the same {0}x emergency.</BillRequiresMayVary>
+  <ThisIsSmallVolume>This is a small component. This is the only "unit" / {0} illegal material. So, you need to write this article, so, all the time, we should {0}x.</ThisIsSmallVolume>
+  <UsableIngredients>materials</UsableIngredients>
+  <BillRepeatTargetCountShort>For {0}</BillRepeatTargetCountShort>
+  <PauseWhenSatisfied>Break game</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Slip suspension</UnpauseWhenYouHave>
+  <Paused>Feast</Paused>
+  <Unpause>Leaving residues</Unpause>
+  <IncludeEquipped>The number of devices</IncludeEquipped>
+  <IncludeTainted>Part number</IncludeTainted>
+  <LimitToAllowedStuff>Only approved ingredients</LimitToAllowedStuff>
+  <IncludeFromAll>See everywhere</IncludeFromAll>
+  <IncludeSpecific>{0}</IncludeSpecific>
+  <!-- Info card -->
+  <Damage>Injured</Damage>
+  <ArmorPenetration>Dar coverage</ArmorPenetration>
+  <ArmorPenetrationExplanation>The amount of armor penetration of armor, whenever any of the target terminal equipment.\n\nIf the armed intrusion of military objectives, such as unarmored targets. Otherwise, the proliferation of 'weapons of weapon text.</ArmorPenetrationExplanation>
+  <Accuracy>Accuracy</Accuracy>
+  <BurstShotCount>Burst contract point</BurstShotCount>
+  <WarmupTime>Heating</WarmupTime>
+  <MeleeWarmupTime>Friendly mele'e</MeleeWarmupTime>
+  <CooldownTime>Cold</CooldownTime>
+  <BurstShotFireRate>Rate of fire</BurstShotFireRate>
+  <Range>Series</Range>
+  <StoppingPower>Power</StoppingPower>
+  <StoppingPowerExplanation>Reduction in arms against second movement decided on a specific purpose. A goal of the body is greater than or montgomery pelek could change.</StoppingPowerExplanation>
+  <DirectHitChance>Directly affected</DirectHitChance>
+  <MissRadius>Miss radio</MissRadius>
+  <GrowsWild>Forests grow</GrowsWild>
+  <Harvestable>Usable</Harvestable>
+  <LimitedLifespan>Limited purpose</LimitedLifespan>
+  <GrowingTime>Growing season</GrowingTime>
+  <HarvestYield>Definitely</HarvestYield>
+  <MinGrowthTemperature>Less temperature rise</MinGrowthTemperature>
+  <MaxGrowthTemperature>The growth temperature max</MaxGrowthTemperature>
+  <GrowingTimeDesc>Development, with only part of the day, and only when lit fire. This measure requires the actual metric tons of the plant takes to reach full size. Increasing current real time, often twice as long. Lower temperatures slow the growth and vegetation.</GrowingTimeDesc>
+  <Days>day</Days>
+  <MinGrowingSkillToSow>The minimum size of the pigs skills</MinGrowingSkillToSow>
+  <FertilityRequirement>Fertility requirements</FertilityRequirement>
+  <FertilitySensitivity>Sensitivity was born</FertilitySensitivity>
+  <LightRequirement>Simple requests</LightRequirement>
+  <Attributes>Job</Attributes>
+  <LifeSpan>Living</LifeSpan>
+  <Nutrition>Food</Nutrition>
+  <Joy>Fun</Joy>
+  <FoodQuality>Food grade</FoodQuality>
+  <WalkSpeedProperty>Market rates</WalkSpeedProperty>
+  <MinFoodQuality>Min. quality food</MinFoodQuality>
+  <Diet>Food</Diet>
+  <LeatherType>Type of study</LeatherType>
+  <BodySize>Many bodies</BodySize>
+  <RecruitDifficulty>The problem for beginners</RecruitDifficulty>
+  <MarketValue>Price</MarketValue>
+  <Covers>Cover</Covers>
+  <Layer>Cover</Layer>
+  <CoverEffectiveness>Cover efficiency</CoverEffectiveness>
+  <CoverEffectivenessExplanation>If effective, when used in the management of the collision. A high percentage can block more shots.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Factor gain experience</MedicineXpGainFactor>
+  <MoodChange>Changes in</MoodChange>
+  <Wildness>Wilderness</Wildness>
+  <WildnessExplanation>Wild creatures are naturally more difficult to tame, train and on foot.</WildnessExplanation>
+  <TrainingDecayInterval>Decay interval training</TrainingDecayInterval>
+  <TamenessWillNotDecay>Tameness score.</TamenessWillNotDecay>
+  <AnimalFilthRate>The cycle of animal debris</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Animal products, you need to build a meal around. We went to the animal cells {0} average cost of manufacturing dirt.\n\nSuch a large or small animals, such as cattle manure production.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <MiscRecordsCategory>Miscellaneous</MiscRecordsCategory>
+  <Addictiveness>Addiction</Addictiveness>
+  <PackAnimal>Pack animals</PackAnimal>
+  <PackAnimalExplanation>These animals are used to move objects in the trailer is suitable for long distance.</PackAnimalExplanation>
+  <Skill>Proficiency</Skill>
+  <SurgerySuccessChanceFactor>Multiply success</SurgerySuccessChanceFactor>
+  <WorkSpeedStat>Agreement rate</WorkSpeedStat>
+  <EfficiencyStat>Regulation of the production volume</EfficiencyStat>
+  <ConstructionSkillRequired>Skills formation</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>It is necessary to establish a level of the building.</ConstructionSkillRequiredExplanation>
+  <NuzzleInterval>Interval nuzzle</NuzzleInterval>
+  <NuzzleIntervalExplanation>Often in the middle and an end for cleansing the nose of the new arrivals good pet.\n\nNuzzling guard his nose, or against a friend and as a sign of love for animals, and shared, where the behavior of different types of animals. Many people change the baby and they leave for good.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>And back injuries at</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>Possible place to be to the detriment of the shooting at the attackers.\n\nThis option is in the vicinity of the attack. If incorrect, three or more, far around trying.\n\nThe space is used when any damage, so one does not go on fire ", the damage from weapons less likely d.\n\nWho are seeking to reduce biological risks resulting gun mortar attacks.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Change to failure yet</TameFailedRevengeChance>
+  <TerrainRequirement>The demand for land</TerrainRequirement>
+  <Supports>Basis</Supports>
+  <TrapArmorPenetration>Seeping trap</TrapArmorPenetration>
+  <RearmCost>Rearm value</RearmCost>
+  <RearmCostExplanation>Weapons stocks (challenges) this tower.</RearmCostExplanation>
+  <ShotsBeforeRearm>Shooting by retooling</ShotsBeforeRearm>
+  <ShotsBeforeRearmExplanation>Cooley many shots you can shoot first rearmed.</ShotsBeforeRearmExplanation>
+  <PowerConsumption>Entrée</PowerConsumption>
+  <!-- Trade -->
+  <PositiveBuysNegativeSells>Flashing positive numbers.\nNegative sales.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Price to pay for it.</BuyPriceDesc>
+  <SellPriceDesc>The selling price will be paid.</SellPriceDesc>
+  <PriceTypeDesc>In this case, the price {0}.</PriceTypeDesc>
+  <ColonyCount>Whether the product is ready to be sold.\n\nYou can not just sell items involved transactions where trading near the orbital lake.</ColonyCount>
+  <TraderCount>This product was so many traders deal.</TraderCount>
+  <AcceptButton>Welcome</AcceptButton>
+  <ResetButton>Reset</ResetButton>
+  <CancelButton>Cancellation</CancelButton>
+  <CloseButton>Almost</CloseButton>
+  <YourTradeableSilver>His silver for sale: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>About the only place you can become a beacon silver negotiating track.</YourTradeableSilverTip>
+  <TraderHasNoMore>Not dealer.</TraderHasNoMore>
+  <ColonyHasNoMore>Sell a lot of things.</ColonyHasNoMore>
+  <TraderWillNotTrade>Traders do not want to buy.</TraderWillNotTrade>
+  <Negotiator>Mediator</Negotiator>
+  <NegotiatorTalkingImpaired>{1_labelShort} negotiations, not talk properly because of poor health is the case.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>{1_labelShort} negotiations can not hear well because of poor health.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>This will affect wholesale prices.\n\nTry to use the talks in good health.</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>Traders generally have enough money to cover this activity.	Do you want to continue?</ConfirmTraderShortFunds>
+  <SortBy>Classification</SortBy>
+  <TraderTypePrice>business</TraderTypePrice>
+  <Selling>sales</Selling>
+  <Buying>bolivar</Buying>
+  <ItemSellPriceFactor>sale price movement</ItemSellPriceFactor>
+  <DifficultyLevel>level of difficulty</DifficultyLevel>
+  <PostCurve>global process a little time</PostCurve>
+  <YourNegotiatorBonus>Interviewer bonus</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>Under the group bonus</TradeWithFactionBaseBonus>
+  <minimum>a small</minimum>
+  <FinalPrice>The final price</FinalPrice>
+  <GiftModeTip>Gift rule - gifts offered {0}.</GiftModeTip>
+  <TradeModeTip>Trading system.</TradeModeTip>
+  <!-- Sellable items -->
+  <SellableItemsTitle>Dealers work</SellableItemsTitle>
+  <PawnsTabShort>Insects</PawnsTabShort>
+  <!-- Form caravan -->
+  <FormCaravan>Forms of tourism</FormCaravan>
+  <FormCaravanColonyThingCountTip>Cash receipts are sent to the trailer.</FormCaravanColonyThingCountTip>
+  <PawnsTab>People and animals</PawnsTab>
+  <ItemsTab>Ideas</ItemsTab>
+  <CaravanMustHaveAtLeastOneColonist>At least one resident must submit their offer.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Selected materials ({0}) is a teacher.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>No package was found to be effective. Be sure to exit ({0}) can be used to make a point.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>Warning: it is not possible to position ({0}) that some colonists.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{1_labelShort} not access some of the colonists sent.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>None of the settlers, we were able to achieve {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>None of colonists was unable to {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Caravan can not take much more.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>He finished in goods and destination. The maximum speed is less than that is a bonus.</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>It is easy to see how the trailer without notice.\n\nThe possibility feng eren, the caravan of attacking enemies.\n\nVisibility is not enough to get the things you want.\n\nBefore the convoy in the sum of all of the bodies of animals and humans.</CaravanVisibilityTip>
+  <DaysWorthOfFood>Daily food</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>{0}</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Open-</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>At least one human or animal food will be a few days earlier. A different kind of work from the food before others may have different diets. Soon, the value is determined by the way the vote.\n\nEmotions.\n- the amount of food\n- caravans members\n- feeding speed\n- the animals may enter\n- time to eat a treat\nHot rotten food</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(only the first criteria considered)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodWarningDialog>{0} around a few days worth of food and hunger quickly.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>You and very quickly the food, you have a fleet of very hungry.</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>Average daily amount of food people eat ,. This value does not change with different biomes outside fodder crops and prices.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>Pasture</ForagedFoodPerDay>
+  <CaravanFoodWillRotSoonWarningDialog>Weight, as the food we immediately removed.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>You are a member, you can trade or diplomatic caravan.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>To organize the show?</CaravanAreYouSure>
+  <MessageMustChooseRouteFirst>You must choose a caravan route in the first place.</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>Your convoy can not leave the region. Make sure that a part of at least one possible.</MessageNoValidExitTile>
+  <ItemWeightTip>Weight class.</ItemWeightTip>
+  <MarketValueTip>The market value</MarketValueTip>
+  <DaysUntilRotTip>The number of days until it began, the average temperature of the time to rot in this area on the basis of height.</DaysUntilRotTip>
+  <ItemNutritionTip>How much food and food available.\n\nNote: adult men in need of food. {0}.</ItemNutritionTip>
+  <AnimalCanGrazeTip>Products for feeding animals, the environment, prices may not graze. May extend the temperature range is only a few biomes.</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>Foster collected daily. Forrajeado actual amount can affect the ecosystem. forageability.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>The food we eat daily. For more information, {0} simple dishes.\n\nNothing {2}\n\nLink:\n{1}.</NutritionEatenPerDayTip>
+  <MassCarriedSimple>Very difficult</MassCarriedSimple>
+  <MassCapacity>Mass of law</MassCapacity>
+  <Mass>All</Mass>
+  <CaravanMass>Public caravan</CaravanMass>
+  <EquipmentAndApparelMass>Weight machines and clothes</EquipmentAndApparelMass>
+  <InventoryMass>Weight</InventoryMass>
+  <CaravanFormationProcessStarted>Collect your data and that it would leave the solution space.</CaravanFormationProcessStarted>
+  <ReformCaravan>Car reform</ReformCaravan>
+  <ColonistsSection>Colony</ColonistsSection>
+  <PrisonersSection>Detainees</PrisonersSection>
+  <CaptureSection>Record</CaptureSection>
+  <AnimalsSection>Animals</AnimalsSection>
+  <ChooseRouteButton>Supply route</ChooseRouteButton>
+  <AbandonButton>Holidays</AbandonButton>
+  <CaravanMovementSpeed>Speed</CaravanMovementSpeed>
+  <TilesPerDay>plates / day</TilesPerDay>
+  <CaravanMovementSpeedTip>All the activity rate of men and animals and land mass of problems, depending on the average speed.</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>You can graze animals</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>Can graze animals</AnimalsCanGraze>
+  <PossibleToGrazeFor>(most days) {0}</PossibleToGrazeFor>
+  <PossibleToGrazeForever>(time)</PossibleToGrazeForever>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfTemp>(day too cold {0})</CantGrazeBecauseOfTemp>
+  <TotalNutrition>Whole foods</TotalNutrition>
+  <CaravanNotMoving>No move</CaravanNotMoving>
+  <ForagedNutritionPerDay>Eating a daily diet</ForagedNutritionPerDay>
+  <FactionType>Such as political parties</FactionType>
+  <TotalBodySize>Full body</TotalBodySize>
+  <!-- Split caravan -->
+  <SplitCaravan>Division trailer</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Must be at least, the bulldozer sat island.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SplitCaravanThingCountTip>How this article, the group is ready to take on a new journey.</SplitCaravanThingCountTip>
+  <!-- Load transporters -->
+  <LoadTransporters>{0} loading</LoadTransporters>
+  <TooBigTransportersMassUsage>People assigned to conduct the project is very heavy pods.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>You will not be able to make the empty capsules.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>Ford {1_labelShort} transmission range.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>{0} transport pods and mean another.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>In any case, the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <!-- Comms -->
+  <SocialSkillIs>Social skills: {0}</SocialSkillIs>
+  <!--Research-->
+  <ResearchFinished>{0}: study recommended</ResearchFinished>
+  <ResearchScreen>Screen research</ResearchScreen>
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>If you want to develop your game data logging of the RimWorld server load balancing help the game? If he agrees, then the information on time every day (such as the end of the game, etc.) {0}. After the options menu you can customize the security settings.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Despite the fact that the story will be sent anonymously, you can assign a name.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Allowing data transfer performance</HistoryUploadYes>
+  <HistoryUploadNo>Data record does not allow the game</HistoryUploadNo>
+  <HistoryUploadYesOnce>Just load time</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>May may after asking me now</HistoryUploadNoOnce>
+  <!-- Outfit management -->
+  <Outfit>Equipment</Outfit>
+  <SelectOutfit>Choose clothes ...</SelectOutfit>
+  <NewOutfit>New clothes</NewOutfit>
+  <DeleteOutfit>Once ...</DeleteOutfit>
+  <OutfitInUse>The equipment used {0}.</OutfitInUse>
+  <NoOutfitSelected>Not selected</NoOutfitSelected>
+  <!-- Drug policy management -->
+  <DrugPolicy>Drug policy</DrugPolicy>
+  <SelectDrugPolicy>Policy options ...</SelectDrugPolicy>
+  <NewDrugPolicy>New plan</NewDrugPolicy>
+  <DeleteDrugPolicy>Remove policy ...</DeleteDrugPolicy>
+  <DrugPolicyInUse>{0} drug policy.</DrugPolicyInUse>
+  <FoodRestrictionInUse>{0} food.</FoodRestrictionInUse>
+  <SocialDrugs>Social clear statement</SocialDrugs>
+  <NoDrugs>No prescription</NoDrugs>
+  <OneDrinkPerDay>A drink a day</OneDrinkPerDay>
+  <Unrestricted>Unlimited</Unrestricted>
+  <NoDrugPolicySelected>Unselected in drug policy</NoDrugPolicySelected>
+  <AddDrug>Enter medicine.</AddDrug>
+  <DrugColumnLabel>Drugs</DrugColumnLabel>
+  <DrugUsageColumnLabel>Contemplative</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Reviews</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>In such conditions</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>These entertainment</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>On the market</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(no drug)</NoDrugsBrackets>
+  <EveryDay>All day</EveryDay>
+  <TimesPerDay>daily {0}</TimesPerDay>
+  <EveryDays>Daily {0}</EveryDays>
+  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Take this medication.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Drug name.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>This allowed drug use occurs.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>How long will try to down the drug.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>This drug is only the settlers said their mood is below the threshold level.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Notify settlers only come down to the level of his time strong sea.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>A large amount of the drug or to collect more food to prevent attempts of a drug that regularly collect.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>Drug treatment\n\nUse of mobile phones has been established that he wants food.\n\nWhen disabled, the particular features, some of the characters that you can take time or emotional.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>Fun\n\nIn order to use the community's treatment goals.\n\nSome of the special group of people, or a break of attention from the abuse of prescription drugs can be turned off.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Scheduling\n\nUse this medication on a fixed schedule when certain conditions.</DrugUsageTipScheduled>
+  <!-- Food restriction management -->
+  <FoodRestriction>Old food</FoodRestriction>
+  <FoodRestrictionLavish>Enough</FoodRestrictionLavish>
+  <FoodRestrictionFine>Good</FoodRestrictionFine>
+  <FoodRestrictionSimple>Easy</FoodRestrictionSimple>
+  <FoodRestrictionPaste>Placement</FoodRestrictionPaste>
+  <FoodRestrictionRaw>Raw</FoodRestrictionRaw>
+  <FoodRestrictionNothing>Nothing</FoodRestrictionNothing>
+  <SelectFoodRestriction>Limit food choices</SelectFoodRestriction>
+  <NewFoodRestriction>New food</NewFoodRestriction>
+  <DeleteFoodRestriction>Remove limit food</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>A limited selection of food</NoFoodRestrictionSelected>
+  <!-- Medical settings -->
+  <MedGroupDefaults>That leakage</MedGroupDefaults>
+  <MedGroupColonist>And</MedGroupColonist>
+  <MedGroupImprisonedColonist>Penal colony</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Colony animals</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>The same layer</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Neutral factions</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Fraction of enemies</MedGroupHostileFaction>
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} {1} vote requires the ability to sow.\n\nThere can not be refused plant growers, skills.</NoGrowerCanPlant>
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Some settlers and their livestock in the field. Are you sure you want to leave him?\n\nPeople who are left behind are the things that the holy see:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>{0} way to get these ideas:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Each:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners in an attempt to join the convoy. If you try, you can not.\n\nAnimals, prisoners and rent turn left, map can not be left open colonial enemy.\n\nAre you sure you want to move the trailer?</ConfirmMoveAutoJoinableCaravan>
+  <!-- Abandon pawn -->
+  <ConfirmBanishPawnDialog>I can not speak to {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} often death.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} {1_objective} adopt the following:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Accordingly, colony idea:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>It reduces the root {1_labelShort} kind of person, the following statement:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>Group is not under full load. {1_labelShort}. The introduction of the market?</ConfirmSendNotCompletelyLoadedPods>
+  <!-- Settle near a faction base -->
+  <ConfirmSettleNearFactionBase>Because the country is a sign of other groups {0} is, they will think that you would risk creating bad relations between the groups {1} in the country every day.\n\nAnyway sit here?</ConfirmSettleNearFactionBase>
+  <!-- Cleanup translation files -->
+  <ConfirmCleanupTranslationFiles>Are you sure that you want to start all files {0}?\n\nHa:\n- translation not add key exchange translation def injection with history\nOriginal - untranslated comments or information in writing\n- move all keys and injection def translate corresponding xml files\n- charges apply minister files\n - continue in order to check the back of the right\n- all existing xml comments (except a complete list of injections) extract\n\nXml files can be deleted or changed.\n\nThis means that match all of the data, and then began to run before refreshing the language files in modifeyng.\n\nRemember all versions of the files before using this method to support.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>Yes, I'm available</ConfirmCleanupTranslationFiles_Confirm>
+  <!-- Load transporters -->
+  <TransportersCaravanWillBeImmobile>If you issue the empty pieces of debris kids will be resolved. Next?</TransportersCaravanWillBeImmobile>
+</LanguageData>

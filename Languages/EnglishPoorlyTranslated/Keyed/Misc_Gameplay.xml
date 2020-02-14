@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Various -->
+  <HitPointsBasic>power input</HitPointsBasic>
+  <WorkLeft>Left work</WorkLeft>
+  <Contents>Table of contents</Contents>
+  <ContainedResources>Limited resources</ContainedResources>
+  <ForPrisonerUse>The use of prisoners</ForPrisonerUse>
+  <InPrisonCell>To use the jail cell: prisoner</InPrisonCell>
+  <ForColonistUse>Use the colonies</ForColonistUse>
+  <MedicalBed>Treatment</MedicalBed>
+  <Owner>Owner</Owner>
+  <Owners>Owners</Owners>
+  <AssignedColonist>Temporary work</AssignedColonist>
+  <DiedOn>He died {0}</DiedOn>
+  <Nobody>Any</Nobody>
+  <Unowned>Oman</Unowned>
+  <DeadTime>{0} died</DeadTime>
+  <WalkSpeed>walking speed {0}</WalkSpeed>
+  <FertShort>erfurt. </FertShort>
+  <DyingLower>death</DyingLower>
+  <FilthOnFeet>The mud of the feet; </FilthOnFeet>
+  <NotEnoughStoredLower>there are not enough women</NotEnoughStoredLower>
+  <NothingLower>a</NothingLower>
+  <Adapted>Movie</Adapted>
+  <FreshMissingBodyPart>new</FreshMissingBodyPart>
+  <DevelopedImmunityLower>develop immunity</DevelopedImmunityLower>
+  <NeedsTendingNow>To buy</NeedsTendingNow>
+  <CanTendNow>You can now popular</CanTendNow>
+  <TreatmentExpiresIn>Go {0}</TreatmentExpiresIn>
+  <NextTendIn>You might want to {0}</NextTendIn>
+  <TendQuality>Treatment</TendQuality>
+  <MissingMedicalBillIngredient>the {0}</MissingMedicalBillIngredient>
+  <Immunity>Mr hussein</Immunity>
+  <Race>Contest</Race>
+  <Description>Inventory</Description>
+  <Equipment>Widget</Equipment>
+  <Apparel>Clothing</Apparel>
+  <Inventory>Stock</Inventory>
+  <ThingInfo>More</ThingInfo>
+  <DropThing>Shock</DropThing>
+  <Rename>Name</Rename>
+  <RenameAnimal>Changing the names of animals</RenameAnimal>
+  <RenameColonist>Change the name of the colonist</RenameColonist>
+  <UnknownLower>know</UnknownLower>
+  <On>On</On>
+  <Off>Off</Off>
+  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <JoyTolerances>In addition to the type of entertainment</JoyTolerances>
+  <MilkFullness>Paul fullness</MilkFullness>
+  <WoolGrowth>You brought up the wool</WoolGrowth>
+  <EggProgress>Development of eggs</EggProgress>
+  <Fertilized>Hatching</Fertilized>
+  <ProgressStoppedUntilFertilized>Progress stopped until fertilization</ProgressStoppedUntilFertilized>
+  <SkillTooLow>you need an equal {0} {2} {1}</SkillTooLow>
+  <Freezing>Frost</Freezing>
+  <Overheating>Too hot</Overheating>
+  <RuinedByTemperature>The loss and fever. </RuinedByTemperature>
+  <CorpsePercentMissing>Body integration</CorpsePercentMissing>
+  <HiveReproducesIn>This shows that</HiveReproducesIn>
+  <DormantHiveNotReproducing>Uni: do not copy. </DormantHiveNotReproducing>
+  <NextSpawnedItemIn>Next {0}</NextSpawnedItemIn>
+  <BrokenDown>Mlvkyt</BrokenDown>
+  <BondBrackets>(connect)</BondBrackets>
+  <Fuel>Fuel</Fuel>
+  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>The goal of current {0}</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Set a goal to drive {0}\n{1} tile gap</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>The use of fuels: {0}</ConfiguredTargetFuelLevel>
+  <Enemies>the enemies of</Enemies>
+  <TimePassed>x</TimePassed>
+  <CurrentRadius>radius</CurrentRadius>
+  <RadiusExpandsIn>radius open</RadiusExpandsIn>
+  <Permanent>fixed</Permanent>
+  <CaravanResting>Recreation</CaravanResting>
+  <UsingBedroll>by a bedding roll</UsingBedroll>
+  <UsingBedrolls>use bedrolls {0}</UsingBedrolls>
+  <CaravanEstimatedTimeToDestination>One day {0}: est time to reach the destination</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedDaysToDestination>Estimated time: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>In drawing too. </CaravanImmobilizedByMass>
+  <CaravanOutOfFood>Of foods. </CaravanOutOfFood>
+  <CaravanDaysOfFood>Time: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Manufacturing: {0} (root {1} day)</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>The legs: everyone drank. </AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Monday morning and thinking, stop. </AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>every animal</CaravanAnimal>
+  <CaravanAnimalsCount>livestock {0}</CaravanAnimalsCount>
+  <CaravanPrisoner>1</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} prison</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>{0} outlook</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>killed {0} download</CaravanPawnsDowned>
+  <CaravanTraveling>Travel. </CaravanTraveling>
+  <CaravanWaiting>Wait. </CaravanWaiting>
+  <BeingCarriedDueToIllness>He was sick</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>Use bedrolls foot</UsingBedrollsDueToIllness>
+  <CurrentTileMovementTime>These runtime</CurrentTileMovementTime>
+  <Visibility>More</Visibility>
+  <Temperature>Heat</Temperature>
+  <BadTemperature>poor heat dissipation</BadTemperature>
+  <IdealFermentingTemperature>The ideal fermentation temperature</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} real movement: {1}</DrugEffectMultiplier>
+  <CaravanVisiting>Visitors {0}. </CaravanVisiting>
+  <CaravanEntering>Draw {0}. </CaravanEntering>
+  <CaravanAttacking>{0} attack. </CaravanAttacking>
+  <CaravanOfferingGifts>Add a gift {0}. </CaravanOfferingGifts>
+  <WasWornByCorpse>Infection at the end of the body. </WasWornByCorpse>
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <DeterioratingUnroofed>under the roof</DeterioratingUnroofed>
+  <DeterioratingOutdoors>outdoor</DeterioratingOutdoors>
+  <DeterioratingBecauseOf>Increase</DeterioratingBecauseOf>
+  <Map>Map</Map>
+  <ForceExitAndRemoveMapCountdown>until it comes {0}</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>Personal imperyalism directly immigration reform {0} leave the area. </ForceExitAndRemoveMapCountdownTip>
+  <Room>Rooms</Room>
+  <BeautyHere>Beauty</BeautyHere>
+  <NoPower>Without electricity</NoPower>
+  <WorkSpeedPenalty>Works fine speed</WorkSpeedPenalty>
+  <DisabledCommand>UNABLE</DisabledCommand>
+  <ReadyForLaunch>Ready to run. </ReadyForLaunch>
+  <NotReadyForLaunch>Not ready to launch</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>there is an increase in the dock</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>any oil</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>read the complete</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>Diverse please</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>Not enough oil</TransportPodNotEnoughFuel>
+  <SettlementTrader>{0} in {1}</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>Room -lann has doubled the chances of success</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Disease multiplier rates</RoomInfectionChanceFactor>
+  <VentClosed>Near</VentClosed>
+  <WornBy>Getting {1_labelShort}</WornBy>
+  <EquippedBy>equipped {1_labelShort}</EquippedBy>
+  <QuestTargetDestroyInspectString>Wants to kill {0}.\nPrice: {1} ({2})</QuestTargetDestroyInspectString>
+  <WorldObjectTimeout>At left: {0}</WorldObjectTimeout>
+  <ItemStashContents>All: {0} ({1})</ItemStashContents>
+  <ClickToSortByThisColumn>Press the color of that paragraph. </ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Click the + shift: add priorities\nShift + right-cutting priorities</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click to activate\nShift + right</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + click is all ready for home\nPress shift + right-click the mouse right: unlimited for all</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>To view all, shift-click\nShift + right click: remove all</CheckboxShiftClickTip>
+  <KnownSiteThreat>Threats found: {0}</KnownSiteThreat>
+  <KnownSiteThreats>It is unknown threats: {0}</KnownSiteThreats>
+  <KnownSiteThreatsNone>Risks: indefinite</KnownSiteThreatsNone>
+  <SkillRequirements>Skills needed</SkillRequirements>
+  <Products>Product</Products>
+  <Relationship>{0} {1}</Relationship>
+  <Prisoner>Prison</Prisoner>
+  <Refugee>Changeable</Refugee>
+  <TileMovementDifficulty>Horizontal mobility</TileMovementDifficulty>
+  <Impassable>Closed</Impassable>
+  <CaravanMovementSpeedFull>Movement speed trailer</CaravanMovementSpeedFull>
+  <DownedLower>shot down</DownedLower>
+  <Carried>will come</Carried>
+  <AverageCaravanMemberMoveSpeed> the rate of removing them</AverageCaravanMemberMoveSpeed>
+  <MultiplierForCarriedMass>I have a lot of factors, from {0}</MultiplierForCarriedMass>
+  <FinalCaravanPawnsMovementSpeed>The members of the rate base</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>The next speed</FinalCaravanMovementSpeed>
+  <Winter>Country</Winter>
+  <MovementDifficultyOffsetInWinter>{0} winter</MovementDifficultyOffsetInWinter>
+  <RangeTo>to</RangeTo>
+  <NoDietCategoryLetter>There are no lectures</NoDietCategoryLetter>
+  <ExpiresIn>Maturity</ExpiresIn>
+  <CaravanLeaderCaravanName>six {1_labelShort}'s</CaravanLeaderCaravanName>
+  <Reason>Why</Reason>
+  <RelationsWith>Relationship {0}</RelationsWith>
+  <capturedBy>catch {0}</capturedBy>
+  <yourCaravan>caravan</yourCaravan>
+  <CreatureWildness>{0} split</CreatureWildness>
+  <CreatureTrainability>you will learn to {0}</CreatureTrainability>
+  <ProximitySingleGoodwillChange>{0} of {1}</ProximitySingleGoodwillChange>
+  <EnterCooldown>One day can not {0} enter. </EnterCooldown>
+  <Caravan>Trailer</Caravan>
+  <HiddenOrNoSitePartDescription>may be at risk</HiddenOrNoSitePartDescription>
+  <PreciousLumpLabel>blocks {0}</PreciousLumpLabel>
+  <NoActiveResearchProjectToFinish>an active research project</NoActiveResearchProjectToFinish>
+  <Turret>aircraft</Turret>
+  <Turrets>turret</Turrets>
+  <Mortar>cannon</Mortar>
+  <Mortars>mortar</Mortars>
+  <Enemy>enemy</Enemy>
+  <!-- Fermentation barrel -->
+  <ContainsWort>Some {0} / {1} wort. </ContainsWort>
+  <ContainsBeer>Orange contains marinated {0} / {1}. </ContainsBeer>
+  <Fermented>Sour</Fermented>
+  <FermentationProgress>Development: {0} ({1} left)</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Expected temperature. Speed date: {0}</FermentationBarrelOutOfIdealTemperature>
+  <!-- TextMotes -->
+  <Headshot>He took</Headshot>
+  <TextMote_TreatSuccess>The success of the treatment!\n{0}</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Treatment failure\n{0}</TextMote_TreatFailed>
+  <TextMote_HarvestFailed>Results\nfailure</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>Slide\nrestroom</TextMote_YieldWasted>
+  <TextMote_ProductWasted>Products\nwaste</TextMote_ProductWasted>
+  <TextMote_RecruitFail>Soldier crash!\n{0} time</TextMote_RecruitFail>
+  <TextMote_ResistanceReduced>Anti\n{1} {0}</TextMote_ResistanceReduced>
+  <TextMote_TameFail>Tame has\n{0}</TextMote_TameFail>
+  <TextMote_TameSuccess>Clear!\n{0} opportunities</TextMote_TameSuccess>
+  <TextMote_TrainFail>Preparation: {0}\n{1}</TextMote_TrainFail>
+  <TextMote_TrainSuccess>{0}: taught by\npossibility {1}</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Repairs\nunsuccessful</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>Engineer\nblasphemy</TextMote_ConstructionFail>
+  <TextMote_Dodge>Digress</TextMote_Dodge>
+  <TextMote_Tended>he spent {0}</TextMote_Tended>
+  <lowMood>little heart</lowMood>
+  <lowOpinion>poor eyesight</lowOpinion>
+  <!-- Areas -->
+  <Home>House</Home>
+  <BuildRoof>Store</BuildRoof>
+  <NoRoof>Roofs</NoRoof>
+  <SnowClear>Rain clear</SnowClear>
+  <AreaDefaultLabel>{0}</AreaDefaultLabel>
+  <NoAreaAllowed>Limited</NoAreaAllowed>
+  <NewArea>New city</NewArea>
+  <InvertArea>Return to order</InvertArea>
+  <!-- Control -->
+  <CannotOrderNonControlled>Failed to ask about a control. </CannotOrderNonControlled>
+  <IsIncapableOfViolence>{1_labelShort} violence. </IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>deadly violence</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{1_labelShort} not written. </IsNotDrafted>
+  <!-- Snow -->
+  <SnowNone>Snowless</SnowNone>
+  <SnowDusting>Dust article</SnowDusting>
+  <SnowThin>Snow (fine)</SnowThin>
+  <SnowMedium>Snow switch (medium)</SnowMedium>
+  <SnowThick>Snow (thickness)</SnowThick>
+  <!-- Turrets -->
+  <GunInstalled>Loaded</GunInstalled>
+  <MinimumRange>The minimum number of</MinimumRange>
+  <CanFireIn>Fire</CanFireIn>
+  <CannotFire>I miss</CannotFire>
+  <Roofed>wainscoted</Roofed>
+  <ShellLoaded>Shell assigned: {1_label}</ShellLoaded>
+  <ShellNotLoaded>Object does not</ShellNotLoaded>
+  <!-- Job reports -->
+  <ReportHaulingTo>{THING_label} {DESTINATION}. </ReportHaulingTo>
+  <ReportHauling>{1_label} tonnage. </ReportHauling>
+  <ReportHaulingUnknown>towing. </ReportHaulingUnknown>
+  <ReportSleeping>hypnotics. </ReportSleeping>
+  <ReportResting>time out. </ReportResting>
+  <WatchingSunrise>east. </WatchingSunrise>
+  <CloudWatching>cloudvatching: </CloudWatching>
+  <WatchingSunset>soreness. </WatchingSunset>
+  <Stargazing>astronomy. </Stargazing>
+  <WatchingEclipse>eclipse. </WatchingEclipse>
+  <WatchingAurora>aurora viewing. </WatchingAurora>
+  <UsingVerb>use {0} {1}. </UsingVerb>
+  <AreaLower>accept</AreaLower>
+  <ReportCowering>and panic. </ReportCowering>
+  <ReportStanding>vertically. </ReportStanding>
+  <ReportExtinguishingFire>turn off the lights. </ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>{TARGET_label} fire. </ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>bodies the mountains. </ReportDiggingUpCorpse>
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>He participated in the ceremony</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>After a party</LordReportAttendingParty>
+  <LordReportFormingCaravan>A convoy formation</LordReportFormingCaravan>
+  <!-- Shooting report -->
+  <WeaponMissRadius>Miss radio dangerous</WeaponMissRadius>
+  <ShootReportShooterAbility>Shooting</ShootReportShooterAbility>
+  <ShootReportWeapon>-airm</ShootReportWeapon>
+  <Darkness>Dark</Darkness>
+  <TargetProne>The goal is not to be reclined</TargetProne>
+  <TargetSize>The size of the target</TargetSize>
+  <Weather>Time</Weather>
+  <ShootingCover>Coverage</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{COVER_label} pain {1}</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>revetment</NoCoverLower>
+  <Execution>Kill</Execution>
+  <!-- Generated recipes -->
+  <RecipeMake>do {0}</RecipeMake>
+  <RecipeMakeJobString>Take {0}. </RecipeMakeJobString>
+  <RecipeAdminister>{0} manager</RecipeAdminister>
+  <RecipeAdministerJobString>{0}. </RecipeAdministerJobString>
+  <TeetotalerUnhappy>as te'eteataler</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>a person who did not like that</ProsthophobeUnhappy>
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>{0}: deleted</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>They begin to expire. {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Completely expired: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>Break extreme limits</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Around holiday</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Small arms</MentalBreakThresholdMinor>
+  <!-- Pawn info readout -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0} {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <Faction>Violation</Faction>
+  <Equipped>From</Equipped>
+  <EquippedNothing>a day</EquippedNothing>
+  <Dead>Dead</Dead>
+  <Unconscious>Awareness</Unconscious>
+  <PainShock>Shock</PainShock>
+  <PainShockShort>Pain and horror</PainShockShort>
+  <Incapacitated>Thrill</Incapacitated>
+  <InRestraints>Away (slowly)</InRestraints>
+  <Carrying>Capacity</Carrying>
+  <AffectedBy>Booking: </AffectedBy>
+  <Queued>Queuing</Queued>
+  <State>Government</State>
+  <StunLower>deaf</StunLower>
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Choose something grown the same square.\n\nShortcuts: {0}\n\nAnd anything you can do this by pressing the square. </SelectNextInSquareTip>
+  <DefInfoTip>More information about topics. </DefInfoTip>
+  <!-- Hostility response -->
+  <HostilityReponseTip>No change in addressing the approaching enemies, who are drafts ii. </HostilityReponseTip>
+  <HostilityResponseCurrentMode>In this system</HostilityResponseCurrentMode>
+  <!-- like 'Blood of John' -->
+  <OfLower>of</OfLower>
+  <!-- Power readout -->
+  <PowerNotConnected>This is connected with electricity. </PowerNotConnected>
+  <PowerConnectedRateStored>Grid extra / store. {0} w / wd {1}</PowerConnectedRateStored>
+  <PowerNeeded>Required for himself</PowerNeeded>
+  <PowerOutput>Output power</PowerOutput>
+  <PowerBatteryStored>Stock</PowerBatteryStored>
+  <PowerBatteryEfficiency>Opening</PowerBatteryEfficiency>
+  <SelfDischarging>Auto</SelfDischarging>
+  <!-- Temperature control -->
+  <TargetTemperature>Air meta</TargetTemperature>
+  <PowerConsumptionMode>The use of force incidents</PowerConsumptionMode>
+  <PowerConsumptionHigh>high</PowerConsumptionHigh>
+  <PowerConsumptionLow>low</PowerConsumptionLow>
+  <!-- Temperature readout -->
+  <Indoors>Hal</Indoors>
+  <IndoorsUnroofed>No cover</IndoorsUnroofed>
+  <Outdoors>External</Outdoors>
+  <!-- Rotting -->
+  <RotStateFresh>New</RotStateFresh>
+  <RotStateRotting>Corruption</RotStateRotting>
+  <RotStateDessicated>Dry</RotStateDessicated>
+  <CurrentlyFrozen>Frozen (i will not spoil)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Cold (ok {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Cooled ({0} tons)</NotRefrigerated>
+  <OverADecade>for over a decade</OverADecade>
+  <LessThanADay>less than one day</LessThanADay>
+  <!-- Shooting tooltip -->
+  <ShotBy>{1_labelShort} shot</ShotBy>
+  <CannotHit>No attack victim. </CannotHit>
+  <ManhunterPerHit>Or against manhunter</ManhunterPerHit>
+  <!-- Meal -->
+  <Ingredients>Component</Ingredients>
+  <!-- Plants -->
+  <PercentGrowth>adult {0}</PercentGrowth>
+  <GrowthRate>Call</GrowthRate>
+  <FullyGrownIn>Full-grown great {0}. </FullyGrownIn>
+  <PlantNeedsLightLevel>What light</PlantNeedsLightLevel>
+  <PlantResting>Break</PlantResting>
+  <OutOfIdealTemperatureRange>Not ideal temperature. Growth temperature multiplier {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Temperature may rain. Each development. </OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>You are now ready for harvest. </ReadyToHarvest>
+  <Mature>Growth. </Mature>
+  <OutdoorGrowingPeriod>Period of growth</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <GrowYearRound>Year</GrowYearRound>
+  <GrowSeasonHereNow>Here the spawning season. </GrowSeasonHereNow>
+  <CannotGrowBadSeasonTemperature>It can not (bad seasonal temperature) to grow. </CannotGrowBadSeasonTemperature>
+  <Blighted>Decimation</Blighted>
+  <DyingBecauseExposedToLight>Because it is clear, die</DyingBecauseExposedToLight>
+  <!-- Zones -->
+  <Zone>Location</Zone>
+  <GrowingZone>Increasing the area</GrowingZone>
+  <Stockpile>A place</Stockpile>
+  <DumpingStockpile>Condemned to accumulate</DumpingStockpile>
+  <Priority>The magnitude of</Priority>
+  <ClearAll>All clear</ClearAll>
+  <AllowAll>Goes</AllowAll>
+  <!-- ThingFilter -->
+  <HitPoints>{0} found</HitPoints>
+  <AnyQuality>any capacity</AnyQuality>
+  <OnlyQuality>{0}</OnlyQuality>
+  <!-- Mouseover indicator -->
+  <Undiscovered>Heard</Undiscovered>
+  <!-- Buttons -->
+  <ShowLearningHelperWhenEmptyToggleButton>Change the visibility of education when it is empty.\n\nLearning always better if you understand ctivate study. This switch is not implemented, then disappears when the phrase. </ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>Close the display area. </ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>Visual display of beauty.\n\nShow the world the beauty of the famous mouse character. </ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Swap statistics.\n\nSimply move the mouse room. </ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Move the colonial bar.\n\nImage position and the top of the screen displays all the settlers basis.\n\nYou can change the number of immigrants coming and right-clicking and the dragging them. </ShowColonistBarToggleButton>
+  <AutoHomeAreaToggleButton>Upgrades switch that automatically village around the new technology. </AutoHomeAreaToggleButton>
+  <AutoRebuildButton>Automatic change in the structure of the destroyed house. </AutoRebuildButton>
+  <CategorizedResourceReadoutToggleButton>¶ book group read. </CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Turning a good animal beast. </ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>Encourage key ugly. </ShowRoofOverlayToggleButton>
+  <LockNorthUpToggleButton>North pole any time, thus locking the camera post. </LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Orange day / night switch. </UsePlanetDayNightSystemToggleButton>
+  <ShowExpandingIconsToggleButton>Rather than extending the static image to display the image of a distant object. </ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>Visibility renaming landform. </ShowWorldFeaturesToggleButton>
+  <!-- Fire -->
+  <FireOn>fire {1_label}</FireOn>
+  <Burning>Smoking</Burning>
+  <FireSizeLower>the size of the fire {0}</FireSizeLower>
+  <!-- Game conditions -->
+  <GameConditionsTip>There are special circumstances affecting the area. </GameConditionsTip>
+  <TimeLeft>the rest of</TimeLeft>
+  <ImpactDate>impact on the</ImpactDate>
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>If they use the building. </NoStuffsToBuildWith>
+  <!-- Building placement restricters -->
+  <WillGetWorkSpeedPenalty>{0} punishment will be mitigated</WillGetWorkSpeedPenalty>
+  <MustPlaceUnroofed>It can be placed under a roof. </MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>The place where the fiber structure of the head. </MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>You need something to set aside hopper. </MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>There should be placed directly in the geysers steam. </MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>So cold condenser side is open. </MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Both sides must take place under the influence of time. </MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>Standing on the ground can not be on all fronts. </MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>Worse cannon ports generate added. </MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>This should be a drillable. </MustPlaceOnDrillable>
+  <CannotPlaceAdjacentTrap>This does not set a trap. </CannotPlaceAdjacentTrap>
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Lock</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Roofing</WindTurbine_WindPathIsBlockedByRoof>
+  <!-- Watermill generator -->
+  <Watermill_WaterUsedTwice>Wheels, to minimize disruption to traffic</Watermill_WaterUsedTwice>
+  <!-- Cryptosleep casket -->
+  <CasketContains>Including</CasketContains>
+  <CasketWarning>Warning!\n\nAlignment {PAWN_nameDef} its free! If you are in a suitcase left {PAWN_objective} steps, you may not be able to finish the game. Are you sure you want to continue? </CasketWarning>
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>You can not. </ShipReportCannotLaunch>
+  <ShipReportCanLaunch>They are ready for launch. </ShipReportCanLaunch>
+  <ShipReportMissingPart>Critical elements missing</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>need</ShipReportMissingPartRequires>
+  <ShipReportNoFullPods>All markets and crypteasle'ep</ShipReportNoFullPods>
+  <ShipReportHibernating>Component long winter slumber</ShipReportHibernating>
+  <ShipReportNotReady>There is always ready</ShipReportNotReady>
+  <HibernateWarning>Vhitestone charlon ready to start when the winter to save melena order.\n\nHe and takes about 15 days to process, warning that the energy signatures can be detected remotely remotely.\n\nSpace flight capacity energy signature of this type can be dangerous and fear abdul latif and robbers can move in killer attract mechanoids.\n\nYou are a strong attack. Make sure that you are ready, than to defend. </HibernateWarning>
+  <HibernateWarningStandalone>Reactor was prepared to seize power.\n\nThis process will take approximately 15 days, will be a remote energy signature. A bunch of space flight of this kind of energy signature and gangs and deadly attacks mechanoid shows how desperate the power to attract.\n\nYou can see the intensity of the attack. Make sure that the safety line. </HibernateWarningStandalone>
+  <HibernateWarningPacifist>Charlo back to the reactor sequence is ready to begin ready york. You are cautioned that this process will take approximately 15 days. </HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>Manufactured reactor running. This process will take approximately 15 days. </HibernateWarningStandalonePacifist>
+  <!-- Neurotrainer -->
+  <NeurotrainerUsed>In the last year {USER_labelShort} {2} neuro {3} {1} go. </NeurotrainerUsed>
+  <!-- Minification -->
+  <Installed>Install</Installed>
+  <NotInstalled>No registration</NotInstalled>
+  <!-- Art -->
+  <Title>Headline</Title>
+  <Untitled>Research</Untitled>
+  <!-- Unfinished thing -->
+  <UnfinishedItem>{0} ready</UnfinishedItem>
+  <UnfinishedItemWithStuff>{1} {0} finish</UnfinishedItemWithStuff>
+  <!-- Quality -->
+  <Quality>Quality</Quality>
+  <QualityDescription>Describes how to focus on product quality is very good. </QualityDescription>
+  <QualityIs>A quality {0}</QualityIs>
+  <!-- Mood descriptions -->
+  <Mood_MentalState>viewer</Mood_MentalState>
+  <Mood_AboutToBreak>pause</Mood_AboutToBreak>
+  <Mood_OnEdge>edge</Mood_OnEdge>
+  <Mood_Stressed>insisted</Mood_Stressed>
+  <Mood_Neutral>neither</Mood_Neutral>
+  <Mood_Content>among</Mood_Content>
+  <Mood_Happy>good luck</Mood_Happy>
+  <!-- Game over -->
+  <GameOverEveryoneDead>All dead or missing. This is the story.\n\nMaybe someone from the ruins here. </GameOverEveryoneDead>
+  <GameOverShipLaunched>Open boat! Settler fled;\n\n{0}\nColonizers left:\n\n{1}\nAttempts to target ships in the air now. Will try to exploit your planet in this area. Or it might be a long journey for the rest of the stars. In addition, waiting for someone to build a new glitterworld here you can hide under the asteroid ice for thousands of years.\n\nWhen you get up to. </GameOverShipLaunched>
+  <GameOverPlanetkillerImpact>Hit the ground close to a trillion hydrogen bombs in the gun planetkiller lightspeed power. As a water balloon with a cannon shot, the effects of the world and around the area of liquefied metal spray.\n\n{0} this small part of the asteroid belt. All melts planetquakes hellscape continuous radioactive high.\n\nYou have to live. </GameOverPlanetkillerImpact>
+  <GameOverArrivedAtJourneyDestination>When sending employees are welcomed with open arms when he is on board. At least they seem happy you can remove them.\n\nRan greek\n\n{0}\nThe settlers have been evacuated back:\n\n{1}\nAi now trying to control the aircraft to a safe place. Successfully planet may not be available in this system. Or it can be done for centuries long journey to another star. Indeed, here, you can tell the new glitterworld wait for a judge after a few years under the melting ice of the asteroid.\n\nIf you think you have been a little ipod crypteasle'ep moment to come.\n\nYou know, when I woke up. </GameOverArrivedAtJourneyDestination>
+  <GameOverKeepPlaying>Further improve</GameOverKeepPlaying>
+  <GameOverMainMenu>Main menu</GameOverMainMenu>
+  <!-- Generic lifespan -->
+  <LifespanExpiry>From </LifespanExpiry>
+  <!-- Facilities -->
+  <InactiveFacility>active</InactiveFacility>
+  <!-- Hediffs growth modes -->
+  <DiseaseGrowthModeChanged_Growing>King {PAWN_labelShort}'s {1}. </DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}'s {1} stable. </DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>Refers {PAWN_labelShort}'s {1} now. </DiseaseGrowthModeChanged_Remission>
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>Now they will be used. </MarriageSpotUsable>
+  <MarriageSpotNotUsable>Not allowed: {0}. </MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>closed</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>{1_labelShort} very dangerous</MarriageSpotDangerous>
+  <MarriageSpotForbidden>ban {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotReserved>they are reserved</MarriageSpotReserved>
+  <MarriageSpotUnreachable>available {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>separated</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>nervous temperature</NotEnjoyableOutsideTemperature>
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>Treated residues</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Rooms</ActivityIconSleeping>
+  <ActivityIconFleeing>Quickly</ActivityIconFleeing>
+  <ActivityIconAttacking>War</ActivityIconAttacking>
+  <ActivityIconIdle>Inactive</ActivityIconIdle>
+  <ActivityIconBurning>Arson</ActivityIconBurning>
+  <ActivityIconFormingCaravan>Back to the video example</ActivityIconFormingCaravan>
+  <!-- Maintainable -->
+  <DueForMaintenance>Due to maintenance work. </DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Crisis due to the lack of judgment. </DeterioratingDueToLackOfMaintenance>
+  <!-- Deep drill -->
+  <ProgressToNextLump>Another breakthrough in the apartment</ProgressToNextLump>
+  <ResourceBelow>The resources below</ResourceBelow>
+  <ProgressToNextPortion>Education for all</ProgressToNextPortion>
+  <DeepDrillNoResources>None of the sources below. </DeepDrillNoResources>
+  <DeepDrillExhausted>Property excavation depth has adopted a ban. {0} unforbid mining began. </DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>Less deep drilling resources. </DeepDrillExhaustedNoFallback>
+  <!-- Learning helper -->
+  <LearningHelper>School assistant</LearningHelper>
+  <MarkLearned>Capacity</MarkLearned>
+  <AlreadyLearned>Actor</AlreadyLearned>
+  <Filter>Filter</Filter>
+  <!-- Compass -->
+  <CompassTip>Shows answers. North pole wrap up for the camera. </CompassTip>
+  <!-- World route planner -->
+  <RoutePlannerButtonTip>These figures may plan to enter their travel and distance between waypoints planned. </RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>Add two or more points. </RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Please enter one or more waypoints. </RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>Bear's once {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Velocity group plans to use the location of the default mode. The speed may vary. </RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Once agreed, so {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>With the right mouse button: add / delete waypoints. </RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressEscapeToExit>The esc: exit design. </RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>Esc: talk is a set-back. </RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <EstimatedTimeToWaypoint>Yes. duration: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>Est. time travel (reference) {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>Anu. time travel: {0}</EstimatedTimeToTile>
+  <ForagedFoodAmount>Food, we</ForagedFoodAmount>
+  <!-- Outfits -->
+  <OutfitAnything>Love</OutfitAnything>
+  <OutfitWorker>Office clerk</OutfitWorker>
+  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitNudist>Nudist</OutfitNudist>
+  <!-- Hibernatable -->
+  <HibernatableHibernating>Dreaming</HibernatableHibernating>
+  <HibernatableStartingUp>Getting started</HibernatableStartingUp>
+  <!-- Transport pods -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: view current order ... </ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>View clunky ... </ClickToSeeAvailableOrders_Empty>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: boomalope -->
+  <Boomalope.label>Boomalop</Boomalope.label>
+  <Boomalope.labelPlural>Boomalopen</Boomalope.labelPlural>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>Boomalopekitz</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>Bo o louise pekitze</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.1.label>The younger Bo Malope</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.2.label>Boomalope</Boomalope.lifeStages.2.label>
+  <!-- EN: cobra -->
+  <Cobra.label>Cobra</Cobra.label>
+  <Cobra.labelPlural>Cobra</Cobra.labelPlural>
+  <Cobra.lifeStages.0.label>Baby dragon</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.1.label>Cobra new</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.2.label>Cobra</Cobra.lifeStages.2.label>
+  <!-- EN: monkey -->
+  <Monkey.label>Mono</Monkey.label>
+  <Monkey.labelPlural>Keko</Monkey.labelPlural>
+  <Monkey.lifeStages.0.label>Affenbaby</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.1.label>A young monkey</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.2.label>Monkey</Monkey.lifeStages.2.label>
+</LanguageData>

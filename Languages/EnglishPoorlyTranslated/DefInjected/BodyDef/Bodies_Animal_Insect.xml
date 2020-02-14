@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beetle-like -->
+  <BeetleLike.label>Thus, as a gangrene will</BeetleLike.label>
+  <!-- EN: left elytra -->
+  <BeetleLike.corePart.parts.left_elytra.customLabel>Leftist cover</BeetleLike.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLike.corePart.parts.right_elytra.customLabel>Roof wings</BeetleLike.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>I went out</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>His right eye</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>This competition</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>The antenna on the right</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>On the front foot</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>Regulatory foreleg</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>The center-left</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>High abortion</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>Left hind legs</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>Right leg back</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: beetle-like with claw -->
+  <BeetleLikeWithClaw.label>Beetle with claw-like</BeetleLikeWithClaw.label>
+  <!-- EN: left elytra -->
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>The skin on the left</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>The roof wright</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>Left eye</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>Right eye</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>Left antenna</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>The right antenna</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>Front left leg</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>Hip just before</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>Middle-footed</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>Middle right foot</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>Hidarigoashi</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>Right hind leg</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>

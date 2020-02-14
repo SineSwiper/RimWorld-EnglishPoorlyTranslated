@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--================= player pawn filters =================-->
+  <GameStartDialog.label>Games start Description</GameStartDialog.label>
+  <PawnFilter_Age.label>to allow for a few centuries</PawnFilter_Age.label>
+  <!--================== player pawn modifier ================-->
+  <OnPawnDeathExplode.label>The death of a man in a radiation Chitra</OnPawnDeathExplode.label>
+  <ForcedTrait.label>Power and man-made features</ForcedTrait.label>
+  <ForcedHediff.label>Power consumption in a healthy state</ForcedHediff.label>
+  <Naked.label>全裸</Naked.label>
+  <SetNeedLevel.label>Content behind a set of</SetNeedLevel.label>
+  <StartingResearch.label>began tracking</StartingResearch.label>
+  <GameCondition_Planetkiller.label>Peer earth reaching strategic weapons</GameCondition_Planetkiller.label>
+  <!--=================== rules changes =================-->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Do not Sow seeds</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>With a production plant, and seeds for planting in the ground.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <Rule_DisallowDesignator_Mine.label>It can not be mined</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.description>This may not be mining ore.</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Hunt.label>hunting</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.description>You can hunt animals.</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Tame.label>mitigation</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.description>Tame has not surrendered wildlife.</Rule_DisallowDesignator_Tame.description>
+  <StatFactor.label>A member of the multiplying ratio</StatFactor.label>
+  <!--===============================================-->
+  <!--==================== grouped ==================-->
+  <!--===============================================-->
+  <DisableIncident.label>Random off event</DisableIncident.label>
+  <CreateIncident.label>Emergency call</CreateIncident.label>
+  <Rule_DisallowBuilding.label>Which one can build</Rule_DisallowBuilding.label>
+  <PermanentGameCondition.label>A regular hunting</PermanentGameCondition.label>
+  <StartingAnimal.label>Animals start</StartingAnimal.label>
+  <StartingThing_Defined.label>Previous item</StartingThing_Defined.label>
+  <ScatterThingsNearPlayerStart.label>What a head of momentum</ScatterThingsNearPlayerStart.label>
+  <ScatterThingsAnywhere.label>What planted on the map</ScatterThingsAnywhere.label>
+</LanguageData>

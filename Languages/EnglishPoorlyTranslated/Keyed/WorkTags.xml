@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkTagNone>not</WorkTagNone>
+  <WorkTagIntellectual>thinker</WorkTagIntellectual>
+  <WorkTagManualDumb>dumb staff</WorkTagManualDumb>
+  <WorkTagManualSkilled>the enterprise technology</WorkTagManualSkilled>
+  <WorkTagViolent>more</WorkTagViolent>
+  <WorkTagCaring>focus</WorkTagCaring>
+  <WorkTagSocial>people</WorkTagSocial>
+  <WorkTagAnimals>beast</WorkTagAnimals>
+  <WorkTagArtistic>gallery</WorkTagArtistic>
+  <WorkTagCrafting>process</WorkTagCrafting>
+  <WorkTagCooking>cook</WorkTagCooking>
+  <WorkTagFirefighting>fire extinguishers</WorkTagFirefighting>
+  <WorkTagCleaning>clean</WorkTagCleaning>
+  <WorkTagHauling>clutch</WorkTagHauling>
+  <WorkTagPlantWork>construction work</WorkTagPlantWork>
+  <WorkTagMining>mountain</WorkTagMining>
+</LanguageData>

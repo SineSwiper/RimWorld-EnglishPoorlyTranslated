@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Manhunters.label>Video from hunting people</Manhunters.label>
+  <Manhunters.description>Will flock Caro</Manhunters.description>
+  <Manhunters.descriptionDialogue>Fishing around {1} head human herd {0}.</Manhunters.descriptionDialogue>
+  <Manhunters.arrivedLetter>The other animals in the hunt in the province.</Manhunters.arrivedLetter>
+  <Outpost.label>home</Outpost.label>
+  <Outpost.description>A small truck, a truck, and time for each other</Outpost.description>
+  <Outpost.descriptionDialogue>Checkpoint guarded by enemies of the people. is {0}.</Outpost.descriptionDialogue>
+  <Outpost.arrivedLetter>Defender enemy in the region.</Outpost.arrivedLetter>
+  <Outpost.approachOrderString>{0} attack</Outpost.approachOrderString>
+  <Outpost.approachingReportString>{0} attack</Outpost.approachingReportString>
+  <Turrets.label>tower</Turrets.label>
+  <Turrets.description>Tower Group</Turrets.description>
+  <Turrets.descriptionDialogue>Tower and {0}.</Turrets.descriptionDialogue>
+  <Turrets.arrivedLetter>Located in the turret.</Turrets.arrivedLetter>
+  <AmbushEdge.label>ambush</AmbushEdge.label>
+  <AmbushEdge.description>In ambush</AmbushEdge.description>
+  <AmbushEdge.descriptionDialogue>Waiting in ambush enemy troops, so near here.</AmbushEdge.descriptionDialogue>
+  <AmbushHidden.label> laying</AmbushHidden.label>
+  <AmbushHidden.description>ambush</AmbushHidden.description>
+  <AmbushHidden.descriptionDialogue>Waiting for access to ambush enemy troops here.</AmbushHidden.descriptionDialogue>
+  <SleepingMechanoids.label>Mekanoido hibernation</SleepingMechanoids.label>
+  <SleepingMechanoids.description>In some parts of context secret Mekanoido.</SleepingMechanoids.description>
+  <SleepingMechanoids.descriptionDialogue>The role of this body {0} Mekanoido active state.</SleepingMechanoids.descriptionDialogue>
+  <SleepingMechanoids.arrivedLetter>The rest is Mekanoido work in this field.\n\nIf you are in contact with them, it seems, must be careful not to become a slave</SleepingMechanoids.arrivedLetter>
+</LanguageData>

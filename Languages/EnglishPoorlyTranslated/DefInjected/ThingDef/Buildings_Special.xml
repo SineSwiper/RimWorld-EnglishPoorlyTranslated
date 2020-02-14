@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>Unlimited fuel reactors</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>Oil phase response atoms out complex series of chemical air.</InfiniteChemreactor.description>
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>Mental</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>In the surrounding area is the mental tool of antiquity. This approach improves the life of the mind. It works through walls.</PsychicEmanator.description>
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>Energy cells and metrische</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>No free fuel to produce energy forever. This technology is the ais archeatech understand most experts in the developing world from evil. No one knows exactly how it works, but most of the energy bubble is somehow changes.</VanometricPowerCell.description>
+</LanguageData>

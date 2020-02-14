@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>The best rooms (penance)</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>My bedroom is just what I want. Very simple and easy.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>A nightmare (ascetic)</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>I like my bedroom is exactly the same. I love him.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>Poor (ascetic)</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>I really wanted to go to my bedroom. I love that.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>Beautiful room (ascetic)</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>I do not want a beautiful room.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>Beautiful room (ascetic)</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Beautiful hotel.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>Comfortable bedrooms (ascetic)</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>I want a beautiful bedroom.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>Bed casting (ascetic)</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>I do not want to have a nice room.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>Beautiful room (dervish)</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>I do not want a beautiful room.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>Good bedrooms (ascetic)</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>I want a good room.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>Wonderful sleep (hermit)</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>I want two good bed.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>J õ umees wears long range guns</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Not like to do so discouraged! I close with the enemy and want to clean!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>Tight clothing</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Nudist i, but the clothes. He will not listen - and continues to be as restrictive and uncomfortable.</ClothedNudist.stages.constraining_clothes.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>No respectable sleep</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>I love you. I had a good night's sleep ever!</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>One bedroom</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>I do not greedy. My place was an accident! One bedroom is beautiful and I never will!</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>There is a very good sleep</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>I'm greedy. My room is not nearly good enough! I was really nice to me in the bedroom!</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>Thank room</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>I'm selfish. My room was not enough! I wanted a nice room!</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>Not respect bedroom</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>I do not envy. I have enough space! I want to sleep very nice room!</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>Target and happy</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>When I was naked and you love it! I welcome, is perfect, and one of the original!</HappyNude.stages.happily_nude.description>
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>Jealousy</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>There is room for a more wonderful!</Jealous.stages.jealous_of_s_bedroom.description>
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>Weak masoquista</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Ama ... He said this ... I'm familiar with it!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>Masochistic pain</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>Ughhh ... It's sad, but I want! Behold, I will!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>Mazohista severe pain</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>Oops ... I think I have something broken ... But a wonderful feeling!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>Masochistic overcome pain</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Aaaaaaaah ... I was in heaven?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>These days</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>I work during the day.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>Night bird</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>I'm not a good night.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  <!-- EN: transhumanist pleased -->
+  <ProsthophileHappy.stages.transhumanist_pleased.label>Superman: content</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: This artificial part is cool. I want more. -->
+  <ProsthophileHappy.stages.transhumanist_pleased.description>I love this part of the city authorities. I can find?</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <!-- EN: transhumanist quite pleased -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>Capacity transhumanist</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <!-- EN: Two artificial parts are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Two-time chkyvn better than one. I want one!</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <!-- EN: transhumanist delighted -->
+  <ProsthophileHappy.stages.transhumanist_delighted.label>Transumanist enthusiasm</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.transhumanist_delighted.description>The three built part, gave way. But I need the power of the engine!</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <!-- EN: transhumanist enchanted -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>Transhumanism: enchanted</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Four prostheses, and I was more than just one person. But there is still a place with flesh.</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <!-- EN: transhumanist overjoyed -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>Transhumanist, because</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Five members of the siege! Is that how progress will I be sad?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>The engine is stopped</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>I like it!</ProsthophileHappy.stages.machine_body_is_complete.description>
+  <!-- EN: transhumanist frustrated -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>Transhumanism disappointed</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Meat is very limited. I wish I had some parts of the body.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>Körperpurist info</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>I artificial body part. It's dirty!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>Korperpurist: angry</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>He had knowledge of two parts, broken only natural gifts of the body. When I think about it, it makes me sick.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>Rape korperpurist</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Three prosthetic rape me. I shudder when I think of these parts ... and chills!</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>Körperpurist: shock</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Four artificial blood ... It feels as though I'm not a robot! A frightening thought!</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>Körperpurist: nightmare</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Spare model ... I had to do? I think the only robot or a person who I am?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>This is what I hate!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>I just want the opposite!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>The arson fire rocket launchers</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I'm so happy. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>It's a fire, and the fire warning. So we are happy.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+</LanguageData>

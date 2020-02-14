@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Deer.label>シカ</Deer.label>
+  <Deer.labelPlural>シカ</Deer.labelPlural>
+  <Deer.labelMale>Osujika</Deer.labelMale>
+  <Deer.labelFemale>they Mesujik</Deer.labelFemale>
+  <Ibex.label>Ibex</Ibex.label>
+  <Ibex.labelPlural>IBEX</Ibex.labelPlural>
+  <Ibex.labelMale>Capricorn man</Ibex.labelMale>
+  <Ibex.labelFemale>male Capricorn</Ibex.labelFemale>
+  <Elk.label>deer</Elk.label>
+  <Elk.labelPlural>Moose</Elk.labelPlural>
+  <Elk.lifeStages.elk_calf.label>fawn</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.labelPlural>baby deer</Elk.lifeStages.elk_calf.labelPlural>
+  <Caribou.label>Caribou</Caribou.label>
+  <Caribou.labelPlural>Antalaha</Caribou.labelPlural>
+  <Caribou.lifeStages.caribou_calf.label>Caribou</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.labelPlural>Caribou children</Caribou.lifeStages.caribou_calf.labelPlural>
+  <WildBoar.label>the pig</WildBoar.label>
+  <Tortoise.label>カメ</Tortoise.label>
+</LanguageData>

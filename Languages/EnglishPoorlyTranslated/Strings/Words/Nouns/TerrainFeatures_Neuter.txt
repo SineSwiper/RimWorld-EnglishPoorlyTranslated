@@ -1,0 +1,30 @@
+﻿//Example: "Das ..."
+
+Pasture
+Livestock
+Region
+Mountainous
+Field
+Box
+Forest
+Case
+Thorn tree
+Thorn bushes
+Hill
+Simple
+Steilufer
+Steiluf
+Tal
+Shelter
+Reserve
+Auental
+Quental
+In its place
+Around holes
+Sea
+Increase
+Pool
+Bowl
+Hole
+Paper
+Teerloch

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ======================== Non-grouped ========================-->
+  <ScenPart_PlayerFaction>Your party will {0}.</ScenPart_PlayerFaction>
+  <ScenPart_StartWithPawns>Start with people you choose {1} {0}.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>selected</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>pets not allowed</RandomPet>
+  <ScenPart_StartingResearchFinished>Investigation, since the {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_ArriveInDropPods>I am from the club.</ScenPart_ArriveInDropPods>
+  <ScenPart_StatFactor>{1} state to an international audience "{0}".</ScenPart_StatFactor>
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>{0} {1} begin opportunity {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>see: {0}</ConfigurableSeverity>
+  <ScenPart_SetNeed>{4} {0} {1} {3} and the opportunity to create their {2}.</ScenPart_SetNeed>
+  <ConfigurableLevel>height: {0}</ConfigurableLevel>
+  <ScenPart_PawnsHaveTrait>{0} {1} we have the opportunity to start with a n :. {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>And flood explosive character of the death ({1} {0} rays).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsAreNaked>naked {0}.</ScenPart_PawnsAreNaked>
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>Your people will be aged at least {0}.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Most people will be a year older than {0}.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>You {1} {0} and adult years.</ScenPart_StartingPawnAgeRange>
+  <!-- ======================== Grouped ========================-->
+  <ScenPart_StartWith>Started</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Card distribution</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>The default state of the game (s)</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>Event (s) disabled</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Incident</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>You do not need</ScenPart_DisallowBuilding>
+</LanguageData>

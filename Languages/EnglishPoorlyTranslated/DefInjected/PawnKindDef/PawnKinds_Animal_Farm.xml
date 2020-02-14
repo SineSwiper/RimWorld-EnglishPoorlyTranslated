@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chicken.label>poultry</Chicken.label>
+  <Chicken.labelMale>the rooster</Chicken.labelMale>
+  <Chicken.labelFemale>they</Chicken.labelFemale>
+  <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
+  <Pig.label>ブタ</Pig.label>
+  <Pig.labelFemale>and grain</Pig.labelFemale>
+  <Pig.lifeStages.piglet.label>子ブタ</Pig.lifeStages.piglet.label>
+  <Cow.label>ウシ</Cow.label>
+  <Cow.labelMale>オウシ</Cow.labelMale>
+  <Cow.labelFemale>メウシ</Cow.labelFemale>
+  <Cow.lifeStages.calf.label>子ウシ</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.labelPlural>子ウシ</Cow.lifeStages.calf.labelPlural>
+  <Alpaca.label>alpaca</Alpaca.label>
+</LanguageData>

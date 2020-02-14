@@ -1,0 +1,18 @@
+﻿//Example: "Die ..."
+
+Conditions
+Levels
+County
+Position
+Wilderness
+Meadow
+Wilderness
+Desert
+Stone
+Rock
+Police
+Sticky
+Oasis
+Cave
+Lagoon
+Boxing

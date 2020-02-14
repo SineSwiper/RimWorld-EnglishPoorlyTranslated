@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: breakup -->
+  <Breakup.label>Division</Breakup.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+  -->
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] asked after a pause.</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [INITIATOR_nameDef] need to be explained in short distances.</li>
+    <li>r_logentry->That is not said [INITIATOR_nameDef] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->This can best be explained [INITIATOR_nameDef] [RECIPIENT_nameDef] see other people.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>Marriage proposal</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+  -->
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [INITIATOR_nameDef] vowed lifelong fidelity.</li>
+    <li>r_logentry->[INITIATOR_nameDef] knelt and said [RECIPIENT_nameDef] [INITIATOR_pronoun] wants to spend the rest of his life [INITIATOR_possessive]s [RECIPIENT_nameDef].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>Coquette</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to romance</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed], [wootactic].</li>
+    <li>wooed->[RECIPIENT_nameDef] portrayal of pornography</li>
+    <li>wooed->Trying to lure [RECIPIENT_nameDef]</li>
+    <li>wooed->We will try to win the favor of [RECIPIENT_nameDef]</li>
+    <li>wooed->[RECIPIENT_nameDef] Anand</li>
+    <li>wooed->I tried magic [RECIPIENT_nameDef]</li>
+    <li>wooed->The association [RECIPIENT_nameDef]</li>
+    <li>wooed->traps [RECIPIENT_nameDef]</li>
+    <li>wooed->[RECIPIENT_nameDef] court</li>
+    <li>wootactic->[INITIATOR_pronoun] tell the story of [TalkTopicAnyAcc]</li>
+    <li>wootactic->By [INITIATOR_pronoun] [TalkTopicAnyAcc] as</li>
+    <li>wootactic->Sports [INITIATOR_pronoun] [TalkTopicAnyAcc]</li>
+    <li>wootactic->Explain the results [INITIATOR_pronoun] [INITIATOR_possessive] '[TalkTopicHeavy]'</li>
+    <li>wootactic(p=0.5)->Compared [INITIATOR_pronoun] Chen's e [RECIPIENT_objective] [romantic_adj] [romantic_noun_Fem]</li>
+    <li>wootactic(p=0.5)->[INITIATOR_pronoun] [RECIPIENT_objective] and sword [romantic_adj] [romantic_noun_Mas_Neu]</li>
+    <li>wootactic(p=0.5)->Equate [romantic_adj] [romantic_noun_Fem] [INITIATOR_pronoun] [RECIPIENT_objective]</li>
+    <li>wootactic(p=0.5)->[RECIPIENT_objective] from [romantic_adj] [INITIATOR_pronoun] [romantic_noun_Mas_Neu]</li>
+    <li>wootactic(p=2)->[boasting]</li>
+    <li>wootactic(p=4)->[complimenting]</li>
+    <li>boasting->There [INITIATOR_possessive][PersonalCharacteristicDatPossessive] how [INITIATOR_pronoun]</li>
+    <li>boasting->[INITIATOR_pronoun] [INITIATOR_possessive] showed positive [PersonalCharacteristic]</li>
+    <li>boasting->Knowing [INITIATOR_pronoun] and [INITIATOR_possessive][PersonalCharacteristicDatPossessive]</li>
+    <li>boasting->What about [INITIATOR_possessive] [INITIATOR_pronoun] [PersonalCharacteristic]</li>
+    <li>boasting->[PersonalCharacteristic] is [INITIATOR_pronoun] [INITIATOR_possessive] [RECIPIENT_possessive]</li>
+    <li>complimenting(p=3)->[PersonalCharacteristic] [RECIPIENT_possessive] [INITIATOR_pronoun] the concept</li>
+    <li>complimenting->[RECIPIENT_possessive] [PersonalCharacteristic] download and [INITIATOR_pronoun]</li>
+    <li>complimenting->Recommended [RECIPIENT_possessive] [INITIATOR_pronoun] [PersonalCharacteristic]</li>
+    <li>complimenting->[INITIATOR_pronoun] positive comments [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>complimenting->They are well [RECIPIENT_possessive] [INITIATOR_pronoun] [PersonalCharacteristic]</li>
+    <li>complimenting->[INITIATOR_pronoun] [RECIPIENT_objective] joke fun [RECIPIENT_possessive][PersonalCharacteristicDatPossessive]</li>
+    <li>complimenting->[INITIATOR_pronoun] humorous means [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>complimenting->When I asked mischievous [INITIATOR_pronoun] [RECIPIENT_possessive][PersonalCharacteristicDatPossessive]</li>
+    <li>complimenting->Funny joke [PersonalCharacteristic] [RECIPIENT_possessive] [INITIATOR_pronoun]</li>
+    <li>romantic_adj->glory</li>
+    <li>romantic_adj->open</li>
+    <li>romantic_adj->glow</li>
+    <li>romantic_adj->delay</li>
+    <li>romantic_adj->gold</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->exciting</li>
+    <li>romantic_adj->entry</li>
+    <li>romantic_adj->more</li>
+    <li>romantic_adj->wow</li>
+    <li>romantic_adj->good</li>
+    <li>romantic_adj->great</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->perfect</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun_Fem->Flower</li>
+    <li>romantic_noun_Fem->A</li>
+    <li>romantic_noun_Fem->Dawn</li>
+    <li>romantic_noun_Fem->Breeding</li>
+    <li>romantic_noun_Fem->Oasis</li>
+    <li>romantic_noun_Fem->[TreeType]</li>
+    <li>romantic_noun_Mas_Neu->Spring</li>
+    <li>romantic_noun_Mas_Neu->Mikoriana</li>
+    <li>romantic_noun_Mas_Neu->Stars</li>
+    <li>romantic_noun_Mas_Neu->Luna</li>
+    <li>romantic_noun_Mas_Neu->Home</li>
+    <li>romantic_noun_Mas_Neu->Angel</li>
+    <li>romantic_noun->[TerrainFeature]</li>
+    <li>romantic_noun->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+</LanguageData>

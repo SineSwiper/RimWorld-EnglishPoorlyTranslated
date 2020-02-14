@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  <DaysLower>day</DaysLower>
+  <SecondsLower>second</SecondsLower>
+  <SeasonSpring>source</SeasonSpring>
+  <SeasonSummer>time</SeasonSummer>
+  <SeasonFall>fall</SeasonFall>
+  <SeasonWinter>plane</SeasonWinter>
+  <SeasonPermanentSummer>in addition to the 'summer</SeasonPermanentSummer>
+  <SeasonPermanentWinter>winter steady</SeasonPermanentWinter>
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumSeptober>Septob is</QuadrumSeptober>
+  <QuadrumDecembary>Dechembery</QuadrumDecembary>
+  <Born>Birth: {0}</Born>
+  <AgeChronological>Age community. {0} year, {1} quadrums, {2}</AgeChronological>
+  <AgeBiological>In-{0} {1} quadrums, {2}</AgeBiological>
+  <!-- Date periods -->
+  <Period1Year>1 year</Period1Year>
+  <PeriodYears>{0} year</PeriodYears>
+  <Period1Quadrum>1, and four</Period1Quadrum>
+  <PeriodQuadrums>quadrums {0}</PeriodQuadrums>
+  <Period1Day>1</Period1Day>
+  <PeriodDays>day {0}</PeriodDays>
+  <Period1Hour>now</Period1Hour>
+  <PeriodHours>hours {0}</PeriodHours>
+  <Period1Second>another</Period1Second>
+  <PeriodSeconds>seconds {0}</PeriodSeconds>
+  <!-- Misc -->
+  <Started>First</Started>
+  <Lasted>Bishop</Lasted>
+  <OccurredTimeAgo>this is the first time {0}</OccurredTimeAgo>
+</LanguageData>

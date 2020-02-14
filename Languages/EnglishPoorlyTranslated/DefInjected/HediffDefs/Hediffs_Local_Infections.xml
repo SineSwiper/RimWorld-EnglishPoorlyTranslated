@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GutWorms.label>worm</GutWorms.label>
+  <MuscleParasites.label>worm hole</MuscleParasites.label>
+  <FibrousMechanites.label>The fibers of the muscle to multiply disease</FibrousMechanites.label>
+  <FibrousMechanites.stages.mild_pain.label>The intensity of pain</FibrousMechanites.stages.mild_pain.label>
+  <FibrousMechanites.stages.intense_pain.label>calamity</FibrousMechanites.stages.intense_pain.label>
+  <SensoryMechanites.label>Sensory disorders mechanized</SensoryMechanites.label>
+  <SensoryMechanites.stages.mild_pain.label>grief</SensoryMechanites.stages.mild_pain.label>
+  <SensoryMechanites.stages.intense_pain.label>severe pain</SensoryMechanites.stages.intense_pain.label>
+  <WoundInfection.label>Scratch disease</WoundInfection.label>
+  <WoundInfection.labelNoun>wound infection</WoundInfection.labelNoun>
+  <WoundInfection.stages.minor.label>vinegar</WoundInfection.stages.minor.label>
+  <WoundInfection.stages.major.label>Moderation</WoundInfection.stages.major.label>
+  <WoundInfection.stages.extreme-0.label>The company</WoundInfection.stages.extreme-0.label>
+  <WoundInfection.stages.extreme-1.label>Hard</WoundInfection.stages.extreme-1.label>
+  <Flu.label>Flu</Flu.label>
+  <Flu.stages.minor.label>light</Flu.stages.minor.label>
+  <Flu.stages.major.label>public</Flu.stages.major.label>
+  <Flu.stages.extreme.label>it is difficult</Flu.stages.extreme.label>
+  <Plague.label>Black Death</Plague.label>
+  <Plague.stages.minor.label>Lys</Plague.stages.minor.label>
+  <Plague.stages.major.label>moderate</Plague.stages.major.label>
+  <Plague.stages.extreme-0.label>difficulties</Plague.stages.extreme-0.label>
+  <Plague.stages.extreme-1.label>serious</Plague.stages.extreme-1.label>
+  <Malaria.label>malaria</Malaria.label>
+  <Malaria.stages.minor.label>meek</Malaria.stages.minor.label>
+  <Malaria.stages.major.label>average</Malaria.stages.major.label>
+  <Malaria.stages.extreme.label>bright</Malaria.stages.extreme.label>
+  <SleepingSickness.label>when slumber</SleepingSickness.label>
+  <SleepingSickness.stages.minor-0.label>new</SleepingSickness.stages.minor-0.label>
+  <SleepingSickness.stages.minor-1.label>the light</SleepingSickness.stages.minor-1.label>
+  <SleepingSickness.stages.major.label>Moderate</SleepingSickness.stages.major.label>
+  <SleepingSickness.stages.extreme-0.label>rough</SleepingSickness.stages.extreme-0.label>
+  <SleepingSickness.stages.extreme-1.label>seriously</SleepingSickness.stages.extreme-1.label>
+</LanguageData>

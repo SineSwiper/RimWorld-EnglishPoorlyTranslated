@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Elephant.label>ゾウ</Elephant.label>
+  <Elephant.lifeStages.elephant_calf.label>子ゾウ</Elephant.lifeStages.elephant_calf.label>
+  <Megasloth.label>megasureasu</Megasloth.label>
+  <Thrumbo.label>Suranbo</Thrumbo.label>
+  <Thrumbo.lifeStages.thrumbo_calf.label>Suranbo</Thrumbo.lifeStages.thrumbo_calf.label>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>Suranbo</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+</LanguageData>

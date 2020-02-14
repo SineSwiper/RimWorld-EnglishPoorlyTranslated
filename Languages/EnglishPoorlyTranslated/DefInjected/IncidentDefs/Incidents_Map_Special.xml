@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--=============== ShipChunkDrop =============-->
+  <ShipChunkDrop.label>Space debris falls</ShipChunkDrop.label>
+  <!--=============== OrbitalVisitor =============-->
+  <OrbitalTraderArrival.label>Trader cycle trip</OrbitalTraderArrival.label>
+  <!--================= AllyArrival ================-->
+  <TraderCaravanArrival.label>The caravan traders Tour</TraderCaravanArrival.label>
+  <VisitorGroup.label>訪問者</VisitorGroup.label>
+  <TravelerGroup.label>旅行者</TravelerGroup.label>
+  <!--================= AllyAssistance ================-->
+  <RaidFriendly.label>援軍</RaidFriendly.label>
+  <!--================= Raid-beacon-attracted events ================-->
+  <RaidEnemyBeacon.label>Knock enemies (special)</RaidEnemyBeacon.label>
+  <!-- =========================== Good - special ============================-->
+  <StrangerInBlackJoin.label>Black suit man</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>Black men</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>.. has signed a strange problem [PAWN_kind].\n\n[PAWN_pronoun] or something else, will be able to state</StrangerInBlackJoin.letterText>
+</LanguageData>

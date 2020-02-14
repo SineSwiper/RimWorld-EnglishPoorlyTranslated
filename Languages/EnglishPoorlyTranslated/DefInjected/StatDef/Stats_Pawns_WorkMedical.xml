@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>Speed</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>He found it hard to take in one body.</MedicalOperationSpeed.description>
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>Surgery success</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>The main assumption of the existence of if you will work successfully. Inspired by the success was not in bed, in the interests of the food and the table, and work problems. But no, there is always the possibility is always open for more success be a short campaign.</MedicalSurgerySuccessChance.description>
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>Quality of care</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
+  <MedicalTendQuality.description>Baseline treatment of injuries and diseases. Now, quality based on factors such as the use of drugs, the environment, clean room, a little luck, and others.</MedicalTendQuality.description>
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>Chiropody</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Speed and curing disease.</MedicalTendSpeed.description>
+</LanguageData>

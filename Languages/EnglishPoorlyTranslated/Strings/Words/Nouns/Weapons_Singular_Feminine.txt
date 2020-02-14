@@ -1,0 +1,39 @@
+﻿//Example: "Die ..."
+
+Page
+Laboratory
+Razor
+Gush
+Sickle
+Spit
+Sickle
+Mens
+Spear
+Concealing
+Axt
+Eyebrow
+Whip
+Saws
+Recommendation
+Crossbow
+Archery
+Armed
+Airm
+Gun
+Shooting
+Ball
+Gun
+Paprika
+Howitzer
+Bullet
+Bomb
+Nuclear blast
+Bomb
+Mina
+Mine
+Grenade
+Pomegranate
+Cracker
+Rocket
+Grenade
+France grenade

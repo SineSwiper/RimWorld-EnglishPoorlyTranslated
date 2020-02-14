@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>Chemical damage</ChemicalDamageModerate.label>
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>Mortar</ChemicalDamageSevere.label>
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>Cirrhosis</Cirrhosis.label>
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>Runaway psychosis</ResurrectionPsychosis.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>early</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>the faster</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>average</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>forward</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>difficult</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>perfectly</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>of course</ResurrectionPsychosis.stages.catatonic.label>
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>Sawant trauma</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>Natural disasters</TraumaSavant.labelNoun>
+</LanguageData>

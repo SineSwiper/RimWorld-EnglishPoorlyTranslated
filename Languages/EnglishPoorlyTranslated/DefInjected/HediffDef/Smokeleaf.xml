@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: smokeleaf dependence -->
+  <SmokeleafAddiction.label>Leaf cigarette addiction</SmokeleafAddiction.label>
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>Remember</SmokeleafAddiction.stages.withdrawal.label>
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>Page high smoke</SmokeleafHigh.label>
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>Sounds smoke Sheet</SmokeleafHigh.labelNoun>
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>Leaf smoke resistant</SmokeleafTolerance.label>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small-0.label>low</SmokeleafTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small-1.label>under</SmokeleafTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>spymaster</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>he is amazing</SmokeleafTolerance.stages.massive.label>
+</LanguageData>

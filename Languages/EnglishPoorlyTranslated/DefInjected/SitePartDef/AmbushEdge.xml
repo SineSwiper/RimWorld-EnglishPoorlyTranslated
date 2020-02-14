@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambush -->
+  <AmbushEdge.label>Ambush</AmbushEdge.label>
+  <!-- EN: An ambush. -->
+  <AmbushEdge.description>Patrols.</AmbushEdge.description>
+  <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
+  <AmbushEdge.descriptionDialogue>Attacking enemy forces are prepared and every idea is coming</AmbushEdge.descriptionDialogue>
+</LanguageData>

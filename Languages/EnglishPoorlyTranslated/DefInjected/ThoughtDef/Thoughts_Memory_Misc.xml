@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>Eat without table</AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>I had to eat off the floor. To set the table?</AteWithoutTable.stages.ate_without_table.description>
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>Animal {0} away</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>My pet was deported!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Kill people</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>I killed someone. I like animals.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>Wash</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>It's a feel-good atmosphere.</Catharsis.stages.catharsis.description>
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>Colonial captivity</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>One of them was rejected. I think, but I think good.</ColonistBanished.stages.colonist_banished.description>
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>Remove colonies dying</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>So we have the opportunity to live away from the area.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>Is always the enemy leader {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Fail us, and me!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>Head enemy is defeated</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.description>I want to destroy us, and I'm lost!</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.description>
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>{0} can save</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>We need his advice that I lost. Can help!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>One death (blood lust)</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>I killed him. What a feeling!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>Buried in the sarcophagus</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>An ornate sarcophagus buried region. Within their souls rest in peace.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>We kill</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>We kill people. So if an animal.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>Colonial members removed</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>They took part in the guests. Frightening. They refuse any other option, except some people.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>Officials from</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>They only have a gas or a prisoner organs. Do not peril. They are divided into sections, and is not an option.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  <!-- EN: a prisoner was sold -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>Sold arrested</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Prisoners colon sale. Mental alarm.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>Gone are my members</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>They just take parts of my body. My destroy the engine to return to action!</MyOrganHarvested.stages.my_organ_harvested.description>
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>Hope on</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>I'm familiar with the situation, but it is still interested. I hope it works ...</NewColonyHope.stages.initial_hope.description>
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>First and hope</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>This is a difficult position, but I'm also glad we found new city here.</NewColonyOptimism.stages.initial_optimism.description>
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled.label>Mass</Nuzzled.stages.nuzzled.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled.description>Some types of meat and stroked me.</Nuzzled.stages.nuzzled.description>
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>Saw body</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>I see the body lay. This is embarrassing.</ObservedLayingCorpse.stages.observed_corpse.description>
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>The body appears to be damaged</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>I know the body lying on the floor and broke. He was an abomination. All meat inflating ...</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>Thrown in jail</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>We are prohibited for inmates who have little chance of survival.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>To save</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>I saved. In fact, I thought it was me, but I still saved. I respect.</Rescued.stages.rescued.description>
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>They save {0}</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>We saved some of my relatives. Finally, I was able to breathe easily.</RescuedRelative.stages.rescued.description>
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>Restless sleep</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>I can not sleep in peace, it was always about the people. Dashboard does not solve the problem.</SleepDisturbed.stages.disturbed_sleep.description>
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>Cold soy</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>I was cold to sleep. We do have a certain amount of heat.</SleptInCold.stages.slept_in_the_cold.description>
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>Is hot</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>Sleep I can not stand the heat. Can we get the air conditioning?</SleptInHeat.stages.slept_in_the_heat.description>
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>They slept on the floor</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>I had to sleep on the ground as pets.</SleptOnGround.stages.slept_on_ground.description>
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>Slumber</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>I without protection from the elements had to sleep outside.</SleptOutside.stages.slept_outside.description>
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>Weight</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>I was soaking wet.</SoakingWet.stages.soaking_wet.description>
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>Signed</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>Instead, the colony at the time, I love the game.</WasImprisoned.stages.was_imprisoned.description>
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>See both sides of his death</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>I see death pact. A moment that is life and life after death.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>Blood (passion), he saw someone dies</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Look, I killed a man. That was great!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>A dead family</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>I noticed that one family were killed. My flesh and blood ...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>He saw that those who are without, shape</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>I also saw the dead. The life and death and what is to come.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+</LanguageData>

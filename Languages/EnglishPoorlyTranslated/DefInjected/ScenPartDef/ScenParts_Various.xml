@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: create incident -->
+  <CreateIncident.label>Create event</CreateIncident.label>
+  <!-- EN: disable incident -->
+  <DisableIncident.label>Off event</DisableIncident.label>
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>Almost. Health</ForcedHediff.label>
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>Force close. Attributes</ForcedTrait.label>
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>Upcoming stars killer</GameCondition_Planetkiller.label>
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>Games discussion</GameStartDialog.label>
+  <!-- EN: naked -->
+  <Naked.label>No</Naked.label>
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>Characters explode after death</OnPawnDeathExplode.label>
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>Demographic approved</PawnFilter_Age.label>
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>Permanent status</PermanentGameCondition.label>
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>About building</Rule_DisallowBuilding.label>
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>Hunting</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Hunting is not allowed.</Rule_DisallowDesignator_Hunt.description>
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>Disable fall apart</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Disassembly is not possible.</Rule_DisallowDesignator_Mine.description>
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>Disabled manually</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>You can not tame animals</Rule_DisallowDesignator_Tame.description>
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Close planting</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Can grow in soil.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>Immediately</ScatterThingsAnywhere.label>
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>Close</ScatterThingsNearPlayerStart.label>
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>The need to adjust the level of</SetNeedLevel.label>
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>From the animal (s)</StartingAnimal.label>
+  <!-- EN: start with research -->
+  <StartingResearch.label>Amendment</StartingResearch.label>
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>And start</StartingThing_Defined.label>
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>Status multiplier</StatFactor.label>
+</LanguageData>

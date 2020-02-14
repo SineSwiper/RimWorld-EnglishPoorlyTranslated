@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Muffalo.label>Maffaro</Muffalo.label>
+  <Muffalo.lifeStages.muffalo_calf.label>Maffaro</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>Maffaus</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Gazelle.label>ガゼル</Gazelle.label>
+  <Iguana.label>Iguana</Iguana.label>
+  <Rhinoceros.label>サイ</Rhinoceros.label>
+  <Rhinoceros.labelPlural>サイ</Rhinoceros.labelPlural>
+  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.labelPlural>Camel</Dromedary.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.label>child camel</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>Baby dromedary</Dromedary.lifeStages.dromedary_calf.labelPlural>
+</LanguageData>

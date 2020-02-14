@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: collapse dodged -->
+  <CollapseDodged.label>Roof collapse</CollapseDodged.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] dodging a cave-in</li>
+    <li>tale_noun->[PAWN_nameDef] nearly crushed by falling objects</li>
+    <li>image->[PAWN_nameFull] leaping away from a collapse of debris [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] narrowly avoiding a cave-in [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] avoiding a falling ceiling [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] avoiding certain death by a falling rock [circumstance_group]</li>
+    <li>circumstance_phrase->that vanishes behind a curtain of debris and dust</li>
+    <li>circumstance_phrase->that pulverizes everything beneath it</li>
+    <li>circumstance_phrase->which impacts with incredible force</li>
+    <li>desc_sentence->[PAWN_pronoun] is sweating with exertion.</li>
+    <li>desc_sentence->[PAWN_pronoun] appears to be terrified.</li>
+    <li>desc_sentence->[PAWN_pronoun] is scratched and bleeding.</li>
+    <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
+  -->
+  <CollapseDodged.rulePack.rulesStrings>
+    <li>tale_noun->-[PAWN_nameDef] cave</li>
+    <li>tale_noun->[PAWN_nameDef] was crushed under the debris almost</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] falling debris killed [circumstance_group]</li>
+    <li>image->[circumstance_group] to escape hole almost like a [PAWN_pronoun] [PAWN_nameFull]</li>
+    <li>image->[PAWN_nameFull] roof down almost [PAWN_pronoun] [circumstance_group] unharmed</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] escaped duch rock falls [circumstance_group]</li>
+    <li>circumstance_phrase->And dust particles and looks behind the curtain</li>
+    <li>circumstance_phrase->all this will be an error, including</li>
+    <li>circumstance_phrase->This is done with incredible power</li>
+    <li>desc_sentence->Attempts [PAWN_pronoun] sweating.</li>
+    <li>desc_sentence->[PAWN_pronoun] was concerned.</li>
+    <li>desc_sentence->[PAWN_pronoun] scratching, bleeding.</li>
+    <li>desc_sentence->Lurched [PAWN_pronoun].</li>
+  </CollapseDodged.rulePack.rulesStrings>
+  <!-- EN: launched ship -->
+  <LaunchedShip.label>Satellite lonthja</LaunchedShip.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] escaping the planet</li>
+    <li>tale_noun->[PAWN_nameDef] taking off in a spaceship</li>
+    <li>image->[PAWN_nameFull] being launched towards the stars [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] racing towards the heavens [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] accelerating to escape velocity [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] piloting a rocket [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible force</li>
+    <li>circumstance_phrase->in a plume of dust and rocks</li>
+    <li>circumstance_phrase->with rockets firing dramatically</li>
+    <li>circumstance_phrase->in a precision takeoff</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks confident.</li>
+    <li>desc_sentence->[PAWN_pronoun] is sleeping, [PAWN_possessive] eyes closed peacefully.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be fully in control of the situation.</li>
+    <li>desc_sentence->There is a flame trail licking off the back of the ship.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the launch in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+  -->
+  <LaunchedShip.rulePack.rulesStrings>
+    <li>tale_noun->Planet escape [PAWN_nameDef]</li>
+    <li>tale_noun->[PAWN_nameDef] keep the spacecraft in flight</li>
+    <li>image->[PAWN_pronoun] [circumstance_group] [PAWN_nameFull] them to the stars</li>
+    <li>image->[circumstance_group] [PAWN_pronoun] went to heaven [PAWN_nameFull]</li>
+    <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] often control the speed of evacuation</li>
+    <li>image->Management [PAWN_nameFull] [PAWN_pronoun] [circumstance_group]</li>
+    <li>circumstance_phrase->[TerrainFeature] ago</li>
+    <li>circumstance_phrase->ncredible</li>
+    <li>circumstance_phrase->Clouds of dust and dirt</li>
+    <li>circumstance_phrase->firing weapons, including actions</li>
+    <li>circumstance_phrase->Flight rights</li>
+    <li>desc_sentence->[PAWN_pronoun] intensely focused on monitoring.</li>
+    <li>desc_sentence->[PAWN_pronoun] eyes looking confident.</li>
+    <li>desc_sentence->[PAWN_pronoun] sleeps four [PAWN_possessive] work.</li>
+    <li>desc_sentence->He smiled before [PAWN_pronoun] boundless enthusiasm.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems that the situation is completely under control.</li>
+    <li>desc_sentence->He saw the flames emerging from the rear of the building.</li>
+    <li>desc_sentence->A [Animal], looked up, the donkeys.</li>
+    <li>desc_sentence->The left [Animal] event.</li>
+    <li>desc_sentence(p=0.5)->[TerrainFeatureFem] seen in the background.</li>
+    <li>desc_sentence(p=0.5)->Visible in the background [TerrainFeatureMas].</li>
+    <li>desc_sentence(p=0.5)->[TerrainFeatureNeu].</li>
+    <li>desc_sentence->A quiet [PersonJob] see action from a distance.</li>
+  </LaunchedShip.rulePack.rulesStrings>
+  <!-- EN: social fight -->
+  <SocialFight.label>Struggle</SocialFight.label>
+  <!-- EN:
+    <li>tale_noun->[INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
+    <li>image->[INITIATOR_nameFull] insulting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] taunting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] threatening [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] intimidating [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] attacking [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] assaulting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] punching [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] kicking [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] cowering from [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>fight_name_present->assaulting</li>
+    <li>fight_name_present->attacking</li>
+    <li>fight_name_present->fighting</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] insults [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] taunts [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] threatens [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] intimidates [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] attacks [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] assaults [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] punches [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] kicks [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] cowers from [INITIATOR_objective]</li>
+    <li>desc_sentence->[target] appears without remorse.</li>
+    <li>desc_sentence->[target] is consumed with passionate rage.</li>
+    <li>desc_sentence->[target] has no emotion or expression.</li>
+    <li>desc_sentence->[target]'s body is covered in [Gore].</li>
+    <li>desc_sentence->[target] is screaming furiously.</li>
+    <li>desc_sentence->[target] is visibly wounded.</li>
+    <li>desc_sentence->[target]'s eyes are glowing [Color].</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  -->
+  <SocialFight.rulePack.rulesStrings>
+    <li>tale_noun->[INITIATOR_nameDef] [RESPONDER_nameDef] [fight_name_present]</li>
+    <li>image->[INITIATOR_nameFull] [INITIATOR_pronoun] [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[RESPONDER_nameFull] as [INITIATOR_pronoun] as [INITIATOR_nameFull] for [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull], and threatened [INITIATOR_pronoun] [RESPONDER_nameFull] as [circumstance_group]</li>
+    <li>image->[INITIATOR_pronoun] [RESPONDER_nameFull] [INITIATOR_nameFull] terrorists, [circumstance_group]</li>
+    <li>image->Against [circumstance_group] [INITIATOR_nameFull] [INITIATOR_pronoun] [RESPONDER_nameFull]</li>
+    <li>image->[INITIATOR_nameFull] like [INITIATOR_pronoun] [RESPONDER_nameFull] bank [circumstance_group]</li>
+    <li>image->[INITIATOR_pronoun] [RESPONDER_nameFull] set [INITIATOR_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] [INITIATOR_pronoun] [RESPONDER_nameFull] happens, [circumstance_group]</li>
+    <li>image->Wegduckt [INITIATOR_nameFull] [INITIATOR_pronoun] [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>fight_name_present->attack</li>
+    <li>fight_name_present->parking lot</li>
+    <li>fight_name_present->conservation</li>
+    <li>circumstance_phrase->There are offended and [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->Under pressure to bear [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->violated during [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->I fear [INITIATOR_pronoun] [RESPONDER_nameDef]</li>
+    <li>circumstance_phrase->It condemned at the time of [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->During attacks [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef] beat [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->First [RESPONDER_nameDef] [INITIATOR_pronoun]</li>
+    <li>circumstance_phrase->When [RESPONDER_nameDef] wegduckt</li>
+    <li>desc_sentence->[target] seems to have nothing to regret.</li>
+    <li>desc_sentence->[target] full emotional insanity.</li>
+    <li>desc_sentence->[target] feel or show facial expressions.</li>
+    <li>desc_sentence->[target]'s [Gore].</li>
+    <li>desc_sentence->[target] rage, screaming.</li>
+    <li>desc_sentence->[target] clearly hurt.</li>
+    <li>desc_sentence->[target]'s [Color] bright eyes.</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  </SocialFight.rulePack.rulesStrings>
+</LanguageData>

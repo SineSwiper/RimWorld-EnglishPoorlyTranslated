@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>Leukocytes</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>Overboard</BloodFiltration.labelMechanoids>
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>The blood</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>Power</BloodPumping.labelMechanoids>
+  <!-- EN: breathing -->
+  <Breathing.label>Breathe</Breathing.label>
+  <!-- EN: consciousness -->
+  <Consciousness.label>Cognition</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Data</Consciousness.labelMechanoids>
+  <!-- EN: eating -->
+  <Eating.label>Ate</Eating.label>
+  <!-- EN: hearing -->
+  <Hearing.label>Pay attention</Hearing.label>
+  <!-- EN: manipulation -->
+  <Manipulation.label>Of</Manipulation.label>
+  <!-- EN: metabolism -->
+  <Metabolism.label>Metabolism</Metabolism.label>
+  <!-- EN: moving -->
+  <Moving.label>Resection</Moving.label>
+  <!-- EN: sight -->
+  <Sight.label>Look</Sight.label>
+  <!-- EN: talking -->
+  <Talking.label>Say</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Number</Talking.labelMechanoids>
+</LanguageData>

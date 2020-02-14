@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ========================== Melee Weapons ============================== -->
+  <MeleeWeapon_Knife.label>knife</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>Man of old equipment, a knife, a gun is a tool used to. </MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.handle.label>a rope</MeleeWeapon_Knife.tools.handle.label>
+  <MeleeWeapon_Knife.tools.blade.label>harvest</MeleeWeapon_Knife.tools.blade.label>
+  <MeleeWeapon_Knife.tools.point.label>before</MeleeWeapon_Knife.tools.point.label>
+  <MeleeWeapon_Club.label>Club</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>Open the old man's arms. This was just a hedge branches combined strength of the enemy and his team. </MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.handle.label>Update</MeleeWeapon_Club.tools.handle.label>
+  <MeleeWeapon_Club.tools.head.label>head</MeleeWeapon_Club.tools.head.label>
+  <MeleeWeapon_Mace.label>baton</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.description>It has improved, so the application to create a more powerful clubs. </MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.tools.handle.label>contain</MeleeWeapon_Mace.tools.handle.label>
+  <MeleeWeapon_Mace.tools.head.label>head</MeleeWeapon_Mace.tools.head.label>
+  <MeleeWeapon_Gladius.label>Gradius</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.description>It is a short sword ancient design. Suitable to close a cross. Light and agile, because you can not win big and heavy weapons. </MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.tools.handle.label>handlebar</MeleeWeapon_Gladius.tools.handle.label>
+  <MeleeWeapon_Gladius.tools.point.label>return</MeleeWeapon_Gladius.tools.point.label>
+  <MeleeWeapon_Gladius.tools.edge.label>knife</MeleeWeapon_Gladius.tools.edge.label>
+  <MeleeWeapon_Ikwa.label>KUW</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.description>The key to helping the bottom edge of the blade will be a little faster to the body. </MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.handle.label>Order</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.head.label>Head</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.edge.label>Sheffield United</MeleeWeapon_Ikwa.tools.edge.label>
+  <MeleeWeapon_Spear.label>spear</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>To conclude, it is pointing to the top of the stick, what to wear, very important. </MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.shaft.label>United States</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.point.label>previous</MeleeWeapon_Spear.tools.point.label>
+  <MeleeWeapon_LongSword.label>long ~~ POS = TRUNC</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>Old Meiko, you will want your sword, or death, or a fork. </MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.tools.handle.label>team</MeleeWeapon_LongSword.tools.handle.label>
+  <MeleeWeapon_LongSword.tools.point.label>already</MeleeWeapon_LongSword.tools.point.label>
+  <MeleeWeapon_LongSword.tools.edge.label>lead</MeleeWeapon_LongSword.tools.edge.label>
+</LanguageData>

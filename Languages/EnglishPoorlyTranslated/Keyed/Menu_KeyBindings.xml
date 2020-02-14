@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SaveButton>Storage</SaveButton>
+  <ClearBinding>More</ClearBinding>
+  <ResetBinding>Factory settings</ResetBinding>
+  <BindingButtonToolTip>Left click to add the keys or options later by right-clicking</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Press any key or esc to stop ...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>The key point is replaced by: {0}</KeyBindingOverwritten>
+</LanguageData>

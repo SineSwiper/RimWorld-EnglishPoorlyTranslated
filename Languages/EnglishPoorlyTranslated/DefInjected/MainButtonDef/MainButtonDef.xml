@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Inspect.label>調べる</Inspect.label>
+  <Architect.label>architect</Architect.label>
+  <Architect.description>Farm explain where built with a rod, and the like.</Architect.description>
+  <Work.label>priority</Work.label>
+  <Work.description>What kind of work, and that, at least, to play in any order of priority.</Work.description>
+  <Restrict.label>制限</Restrict.label>
+  <Restrict.description>At some point, especially settlement activity, and the field is limited to specific measures.</Restrict.description>
+  <Assign.label>set dressing</Assign.label>
+  <Assign.description>What clothes should be in time or no movement, talking signs, such as what to do with the enemy.</Assign.description>
+  <Animals.label>家畜</Animals.label>
+  <Animals.description>Treatment of animals set.</Animals.description>
+  <Wildlife.label>The world of animals</Wildlife.label>
+  <Wildlife.description>The animals described in the list of things to hunt, that's what I want.</Wildlife.description>
+  <Research.label>研究</Research.label>
+  <Research.description>next project.</Research.description>
+  <World.label>World map</World.label>
+  <World.description>What should we look at the world map, and manage the journey.</World.description>
+  <History.label>歴史</History.label>
+  <History.description>only the history of colonization.</History.description>
+  <Factions.label>派閥</Factions.label>
+  <Factions.description>But others in this world, and the relationship between vision.</Factions.description>
+  <Menu.label>menu</Menu.label>
+  <Menu.description>Changing the selection, storage, shipment, at the end of the game</Menu.description>
+</LanguageData>

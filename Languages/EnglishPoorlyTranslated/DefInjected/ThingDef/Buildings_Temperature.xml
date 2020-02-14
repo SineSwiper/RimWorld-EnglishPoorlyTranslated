@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: campfire -->
+  <Campfire.label>Fire</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Prepare food and heat generation. He died a few days later. For example, hot springs, that body, that day is closed dutch. Wood can be improved.</Campfire.description>
+  <!-- EN: cooler -->
+  <Cooler.label>Anuar</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Coolant temperature, which should be incorporated into the wall. On the other hand, provides cool, but on the other hand, a lot of heat is generated. Use air conditioning to room temperature, or even in the refrigerator works.</Cooler.description>
+  <!-- EN: heater -->
+  <Heater.label>Heat</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>In order to transfer heat into electricity to power equipment. It was founded in order to maintain the temperature.</Heater.description>
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Passive cooling</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Cooling normal evaporation of water. This should always be given to new plants. It is not efficient enough to freeze food.</PassiveCooler.description>
+  <!-- EN: vent -->
+  <Vent.label>Ventilation</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>In order to create an opening between the two rooms, shafts of simple ventilation temperature to equilibrate.</Vent.description>
+</LanguageData>

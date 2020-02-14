@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.label>Target devices: orbital bombardment</OrbitalTargeterBombardment.label>
+  <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+  <OrbitalTargeterBombardment.description>Ancient bay destination device management bombs. This device has been marked target and then bomb the target area with the feeling of the impactor satellite network, send the coordinates. This device does not permit to allow users to access the system. However, after it is used, network access, and continuous connection to end.</OrbitalTargeterBombardment.description>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>Target device: orbital bombardment</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.label>Reason: combat turn rolls</OrbitalTargeterPowerBeam.label>
+  <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
+  <OrbitalTargeterPowerBeam.description>Network as part of the transfer of power satellites for the target machine. Of electrical energy into the energy that is designed to ensure that satellite beam. The program is a huge reduction in energy consumption of salt. If you have children, you have to absorb any enemy target. The next destination for the energy system in a safe and clean is always a target device or unit, announced the change thousand-degree temperatures, locations of hell.</OrbitalTargeterPowerBeam.description>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>Device: babe, air gun</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.label>Engine text: generator storm</TornadoGenerator.label>
+  <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
+  <TornadoGenerator.description>The aim of the tool of the old weather satellites monitoring the network settings. With this device, security devices is prohibited. this allows you to control the majority of air, which later gave birth to a hurricane elections. Red tornado recorded time, but reduce energy consumption, and as usual, such as unauthorized access and locking device.</TornadoGenerator.description>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.verbs.Verb_Spawn.label>Target device: tornado generator</TornadoGenerator.verbs.Verb_Spawn.label>
+</LanguageData>

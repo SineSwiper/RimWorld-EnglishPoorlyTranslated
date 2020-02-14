@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <JumpToLocation>Visit</JumpToLocation>
+  <PostponeLetter>Put off</PostponeLetter>
+  <RejectLetter>Rejection</RejectLetter>
+  <LetterLabelFirstSummerWarning>Slow</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>In the summer begin! In the winter weather.\n\nPlants can not grow their food cold in winter. Be sure to keep your food to survive. You can walk refigerator damage.\n\nTheft is when you go out shopping or some parkas or freeze.</FirstSummerWarning>
+  <LetterRelationsChange_Hostile>The relationship between {0} completely destroyed. So they are friendly to you.\n\nThey carry out attacks in the colonial period and caravans, and not for trade. If you want to improve the relationship, you can still transport pods them to gift or sell products.\n\nGood ({1}) added {2} fell. Get to the center {3} will also be good.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_NeutralFromHostile>Relations warmed {0}. Now it is not considered fairly and to prevent attacks.\n\nThe first is increased ({1}) {2}. If the value is less popular {3}, bounced back {0}. Goodwill {4} growth, they will fight for you to become a partner.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromAlly>Relationship of {0} has deteriorated. Currently they are considered neutral, not allies.\n\nHowever, they still interact peasefulli, they will send fighters to help you if you are under threat.\n\nThis is because ({1}) fell below the trend was {2}. If the priority is less than {3}, {0} is hostile. {4} goodwill further north, then they will become better partners.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_Ally>{0} very close relationship. Now he believes friend.\n\nAt any time to get to your allies to fight against their enemies, and they are under attack. And fair value, at any time and can help.\n\nHis good intentions ({1}) {2} just friends. If goodwill to {3}, the link to the neutral position.</LetterRelationsChange_Ally>
+  <goodwill>good</goodwill>
+  <Neutral>Neutral</Neutral>
+  <Death>Make</Death>
+  <ShortCircuitRain>{1_label} short circuit and fire began to rain.</ShortCircuitRain>
+  <LetterLabelAreaRevealed>Some areas</LetterLabelAreaRevealed>
+  <AreaRevealed>The new space is detected.</AreaRevealed>
+  <AreaRevealedWithMechanoids>The new location on arrival. What is, mechanoids regime.</AreaRevealedWithMechanoids>
+  <RoofCollapsed>It is too comfortable, because the collapse of the roof.</RoofCollapsed>
+  <TheseThingsCrushed>Crushed it, are the following:</TheseThingsCrushed>
+  <NothingCrushed>Nothing is broken.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Roof fall</LetterLabelRoofCollapsed>
+  <RecruitSuccess>bearing the {0} you have a successful record of job {1} ({2} the decision).</RecruitSuccess>
+  <RecruitFail>{0} failed {1} ({2} opportunity) to rent.</RecruitFail>
+  <RelatedPawnInvolvedInQuest>{RELATIVE_labelShort} {1} is {PAWN_nameDef}. When {PAWN_nameDef} die when suffer prolonged grief {RELATIVE_labelShort}. However, if you rescue operations {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
+  <BirthdayChronological>{0} birth date! I biological, {1} {3}.\n\nIn succession, the {1} it is not you who will {2} tea.\n\nPlease note that, because people do not age and birthday celebration cryptosleep separated from birth.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} get HIV from biological {1} years.\n\nUnfortunately {0_nameFull} disease occurs due to age as follows:\n{2}</BirthdayBiologicalAgeInjuries>
+  <LetterLabelNewDisease>Diseases</LetterLabelNewDisease>
+  <NewDisease>{PAWN} sick {1}.\n\nYou should be in bed and the doctor. Make sure you have {PAWN_definite} appropriate treatment, it is also possible to spend as much time in bed.</NewDisease>
+  <NewPartDisease>{PAWN} be {3} disease: Epidemiological {PAWN_possessive} {1}:\n\nAnd medical beds, of course, doctor, that is sure, sure. Make sure {PAWN_definite} receive appropriate treatment and spend too much time in bed as possible.</NewPartDisease>
+  <NewDiseaseAnimal>{PAWN_labelShort} progress, {1}</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>Sets hot {PAWN_labelShort}: {3} {PAWN_possessive} {1}</NewPartDiseaseAnimal>
+  <PawnWasFormerlyColonist>The contents {1_labelShort}.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} the time of the</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>{0} and will disappear after a few days in the camp. If you missed the opportunity, you may never hear {PRISONER_labelShort} again.</PrisonerRescueTimeout>
+  <LetterLabelAncientShrineWarning>Ancient threat</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>If {0} close to the wall of the old, must win {PAWN_objective} feeling. {PAWN_pronoun} ole'oia'i'o teacher but {PAWN_pronoun} keep in mind that the dust has brought many problems.</AncientShrineWarning>
+  <StruckMineable>We played {0}!</StruckMineable>
+  <LetterLabelAnimalManhunterRevenge>visit {0}</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>access {1_indefinite} injury!\n\nIt can be used by one person. It calms down when it comes to sleep.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>agriculture is {1_indefinite} failed attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Luc {1_kindBasePlural} angry!</AnimalManhunterOthers>
+  <LetterFriendlyTrapSprungLabel>Come clean {1_labelShort}</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{1_labelShort} started accidentally trap, the suspension will be destroyed.</LetterFriendlyTrapSprung>
+  <LetterHealthComplications>{PAWN_labelShort} has developed a medical condition:\n\n{1}\n\nThey start:\n\n{2}</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}, {1}</LetterHealthComplicationsLabel>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} development of health conditions: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterLeadersDeathLabel>death {1}: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{OLDLEADER_nameFull} {3} {1} die.\n\nNew {3} {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeaderChangedLabel>'o be saved after {1} new: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} not {1} {3}.\n\nNew {3} {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <FinalStraw>The last was the last straw: {0}</FinalStraw>
+  <MentalStateReason_Mood>For this reason, occur feel bad.</MentalStateReason_Mood>
+  <MentalStateReason_Trait>What happened to cause this: {0}.</MentalStateReason_Trait>
+  <MentalStateReason_Hediff>The reason: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_BondedHumanDeath>This success is due to the {0_definite} it.</MentalStateReason_BondedHumanDeath>
+  <LastFactionRelationsEvent>What happened last</LastFactionRelationsEvent>
+  <ReadMore>See more information</ReadMore>
+  <LastEventsInLife>Life last pu is the will {PAWN_definite}</LastEventsInLife>
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Contact</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>{0} links, or those who are in prison, {1}.\n\nEven if there is a connection, if the connection to each party attacked the claim that bad.\n\nThe figures are as follows:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>There are those who interact with {0} or prisoners in a friendly match next {1}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Group of people who have a relationship with you or {0} out:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Orbital relationships with prisoners who have a business or sell your {0}:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>Employees who are prisoners of relations you {0} or methods of payment:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Prisoners {0} or caravan sales in your relationships with people:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsGroupGeneric>Prisoner, or his relationship {0}:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsInMapWherePlayerLanded>There are people who are in a relationship. {0} or prison {0}.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsSettlement>Some prisoners or fled from {0} credit relationship:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>She is sitting all over the place to escape captivity {0};</LetterRelatedPawnsSite>
+  <RelationshipAppendedLetterSuffix>(reason)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} has nothing to do with the settlers. {PAWN_pronoun} {RELATIVE_labelShort} {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} they have a link to your prisoners. this {1} {PAWN_pronoun} {RELATIVE_labelShort}.</RelationshipAppendedLetterTextPrisoner>
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Transaction</LetterLabelAffair>
+  <LetterAffair>{PAWN1_labelShort}, {SPOUSE_labelShort} married, began a relationship with {PAWN2_labelShort}.</LetterAffair>
+  <LetterLabelNewLovers>Young lovers</LetterLabelNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} and {PAWN2_labelShort} want to sleep together. Considering the double.</LetterNewLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} {PAWN2_labelShort} connected.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Pause</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Family ends!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>This proposal was rejected</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>During the next few days quadrums or, in some cases, all invited to the wedding ceremony and the colonial powers. If you want to control the pair of the concert, remains.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} be unhappy.</LetterRejectedProposal>
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChange_Hostile>In its {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Ally>{0} coalition officials</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_NeutralFromHostile>The enemy now neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromAlly>Well, friends, neutral, {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelShortCircuit>Zzztt ...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Mental vacation</LetterLabelMentalBreakdown>
+  <!-- Bonded animals -->
+  <LetterLabelSuffixBondedAnimalDied>animals and</LetterLabelSuffixBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} {HUMAN_labelShort} was connected. It will affect {HUMAN_labelShort} mode.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDiedMulti>State affected by another.\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Outbreak</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Inmates staged an escape! Managed to break the lock the door and not in the way. They are weapons of war, want, or you can try to escape. The prisoners:\n\n{0}\n\nMany prisoners and healthy, they are more likely to try to make one.</LetterPrisonBreak>
+  <!-- Party -->
+  <LetterLabelNewParty>Page</LetterLabelNewParty>
+  <LetterNewParty>Celebrating {1_labelShort}! Sustainable energy and will to all leisure and social development of a positive adjustment.</LetterNewParty>
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} practice</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} {1} built addicts.\n\n{PAWN_pronoun} now be found {PAWN_possessive} card requires the need {1}. {PAWN_pronoun} automatically {PAWN_possessive} consume drugs to meet. If something can not be {1} {PAWN_pronoun}, you {PAWN_pronoun} welcome to the narrow space.</LetterNewlyAddicted>
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>movement {0}</LetterLabelDrugBinge>
+  <LetterDrugBinge>bing on the {2_label} {1}.</LetterDrugBinge>
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>Car destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>The members of {0}.</LetterAllCaravanColonistsDied>
+  <!-- Caravan entered map -->
+  <LetterLabelCaravanEnteredMap>The car came to {0_label}</LetterLabelCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} {1_definite} range.</LetterCaravanEnteredMap>
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>The attack began</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{1} {0} have come with the ability to initiate attacks.</LetterCaravanEnteredEnemyBase>
+  <!-- Transport pods landed in enemy base -->
+  <LetterLabelTransportPodsLandedInEnemyBase>Attack</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>{0} came with your shipping box.</LetterTransportPodsLandedInEnemyBase>
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>Database damaged</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>{0} enemy base destroyed.\n\n{1}, the display will change. Airports selection is for the world premiere and the ratio between the group a chance "reform" great for advertising.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>{0}-based, which means it is no longer part of it.</LetterFactionBaseDefeated_FactionDestroyed>
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Call complete</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy attack!\n\n{0} business relations with party {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Mining valuable minerals</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Do not open the main fault {0} {WORKER_labelShort} salt.\n\nUnfortunately, this will not be the last - someone if I do not, I will dig {1} day.\n\n{2}.</LetterFoundPreciousLump>
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>Candidates</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>You {0} way!</LetterAmbushInExistingMap>
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster>Peace is endangered</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Communication is a disaster. In front of representatives of the conversation broke into and vulgar accusations, let preliminary results from the past.\n\nCaptured after an attack on {1} {0} starting with this group!\n\nContact {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Peace talk does not</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Discussions are issued. Although some actors in nature, there is no progress on this issue and went bstantiv representatives should be understood as an expression of contempt.\n\nRelations chen's {0}: come to the rescue if the {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Peace talks came to know</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>The talks collapsed. Representatives of clear communication and respect, but not any real problem.\n\n{0} account.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Successful peace negotiations</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Free speech total success. Participants an understanding of the key issues for some.\n\nImprove relationships {0} {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Pobeda peace talks</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>We talked about a great victory! We need to really market representatives regarding the most difficult times together and you see it as a day to connect on a personal level.\n\n{0} and houia {1} relationship.\n\n{0} trailer gives your gift:\n\n{2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>It is a social experience {PAWN_labelShort} {1}.</PeaceTalksSocialXPGain>
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0} feeding culture.\n\n{0_pronoun} understand the animal wants to be free. This {0_pronoun} decided to leave time and 'animals alive.\n\nYou can overcome the initial stages, it can not be continued without a weapon in {0_objective} {0_objective}.</LetterRunWildMentalBreak>
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>each {0} nervous breakdown and catateanic country. {0_pronoun} to recover within a few days,</LetterCatatonicMentalBreak>
+  <LetterLabelAICoreOffer>Ai's original proposal</LetterLabelAICoreOffer>
+  <LetterAICoreOffer>{1} is {PAWN_definite} contact information field, such as artificial intelligence of the heart may need to build a boat. There are, we are the record is very rare, usually pleased to announce that under the owner is set nearby.\n\nIf you are interested in the console of your system.</LetterAICoreOffer>
+  <LetterCraftedLegendaryLabel>Work tsomo</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} that {CRAFTED_labelShort}.\n\nNews that significant results will be spread around the world.</LetterCraftedLegendaryMessage>
+  <!-- Pawns lost because map closed -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>This team lost</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>This team lost. Man and beast, to follow him</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Many left</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>The following animals left</LetterPawnsLostBecauseMapClosed_Home>
+  <!-- Hibernate complete -->
+  <LetterLabelHibernateComplete>-reattur</LetterLabelHibernateComplete>
+  <LetterHibernateComplete>Winter equipment charlon fully restored from the reactor. Reactor power is now ready for take-off.</LetterHibernateComplete>
+  <LetterHibernateCompleteStandalone>In order to complete the power of the reactor. Power is ready to take off.</LetterHibernateCompleteStandalone>
+  <!-- Visitors gave gift -->
+  <LetterLabelVisitorsGaveGift>Gift {0}</LetterLabelVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0} {PAWN_factionName} left gifts:\n\n{1}</LetterVisitorsGaveGift>
+  <!-- Faction base proximity -->
+  <LetterLabelFactionBaseProximity>And proximity to the fight</LetterLabelFactionBaseProximity>
+  <LetterFactionBaseProximity>The other teams have to feel that their territory.\n\nGather a group of the highest degree for the class please contact:</LetterFactionBaseProximity>
+  <!-- Caravans battlefield victory -->
+  <LetterLabelCaravansBattlefieldVictory>Won the battle caravan</LetterLabelCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Winning the weight war.\n\nYou can choose to fight a solution that includes new products "as the convoy" means that you can select.\n\nThere is no need to manually freight car repair tool collecting, which can make it immediately.\n\nUnder {0} automatically restored.</LetterCaravansBattlefieldVictory>
+  <!-- Rescue quest -->
+  <LetterLabelRescueQuestFinished>Join rescuee</LetterLabelRescueQuestFinished>
+  <LetterRescueQuestFinished>How to get rid of you and your group {PAWN_nameDef} {PAWN_pronoun}.\n\nYou can select and improve the environment, "caravan" caravan screen and select the option to have improved {PAWN_objective}.</LetterRescueQuestFinished>
+  <!-- Predator hunting colonist -->
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} shooting {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} {PREY_definite} hunting for food!</LetterPredatorHuntingColonist>
+  <!-- Disease -->
+  <LetterDisease_Blocked>{0} {1} of block: {2}.</LetterDisease_Blocked>
+  <LetterLabelTraitDisease>({0})</LetterLabelTraitDisease>
+  <LetterTraitDisease>{PAWN_label} {1} get sick.\n\nDoctors and target bed. Make sure the right treatment {PAWN_pronoun} who spend a lot of time in bed as much as possible.</LetterTraitDisease>
+</LanguageData>

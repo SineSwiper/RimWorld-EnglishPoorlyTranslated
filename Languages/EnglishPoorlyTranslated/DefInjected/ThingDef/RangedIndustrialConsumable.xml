@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: doomsday rocket -->
+  <Bullet_DoomsdayRocket.label>Rocket topics</Bullet_DoomsdayRocket.label>
+  <!-- EN: rocket -->
+  <Bullet_Rocket.label>Rocket</Bullet_Rocket.label>
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.label>Spear</Gun_DoomsdayRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_DoomsdayRocket.description>Throw a rocket launcher, a large explosive projectile fires. A majority of the poor quality of the opposition. Open fire.\n\nIs unique ease and suffering rampant caused by the disaster, said to be a little crazy weapons.</Gun_DoomsdayRocket.description>
+  <!-- EN: barrel -->
+  <Gun_DoomsdayRocket.tools.barrel.label>Nationality</Gun_DoomsdayRocket.tools.barrel.label>
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>Conclusion parody sea</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.label>Triple-missile launcher</Gun_TripleRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_TripleRocket.description>A series of rocket launcher rockets caliber triple shoot party. Good strong opponents against smaller groups.\n\nShame, man, and because of the danger, because that is a little crazy to use their weapons.</Gun_TripleRocket.description>
+  <!-- EN: barrel -->
+  <Gun_TripleRocket.tools.barrel.label>Reader</Gun_TripleRocket.tools.barrel.label>
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>Three-missile launchers</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+</LanguageData>

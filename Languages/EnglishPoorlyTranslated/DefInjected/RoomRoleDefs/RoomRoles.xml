@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <None.label>undecided</None.label>
+  <Room.label>Depth</Room.label>
+  <Bedroom.label>Bedroom</Bedroom.label>
+  <PrisonCell.label>packet</PrisonCell.label>
+  <DiningRoom.label>dining room</DiningRoom.label>
+  <RecRoom.label>hall</RecRoom.label>
+  <Hospital.label>medical office</Hospital.label>
+  <Laboratory.label>laboratory</Laboratory.label>
+  <Workshop.label>Engine room</Workshop.label>
+  <Barracks.label>in room</Barracks.label>
+  <PrisonBarracks.label>Multi-tenant herd</PrisonBarracks.label>
+  <Kitchen.label>restaurant</Kitchen.label>
+  <Tomb.label>discreet</Tomb.label>
+  <Barn.label>score</Barn.label>
+</LanguageData>

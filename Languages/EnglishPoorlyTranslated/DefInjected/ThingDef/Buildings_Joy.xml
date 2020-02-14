@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: billiards table -->
+  <BilliardsTable.label>Billiards</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>Play different types of pool table with a soft surface. Loko conscious hand-eye (pana) was</BilliardsTable.description>
+  <!-- EN: chess table -->
+  <ChessTable.label>Chess, table</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
+  <ChessTable.description>The ancient game of kings. It's fun for a few hours. Even if you just play. Information form.</ChessTable.description>
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Tv (flat screen)</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>View an image clear and bright colors, high-tech home. The film will be everywhere these data standards and satellites.</FlatscreenTelevision.description>
+  <!-- EN: game-of-Ur board -->
+  <GameOfUrBoard.label>The council chest</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Back to 2500 bc and earlier. the game will be exciting, but frustrating royal game of ur board. Mind alone or in pairs, and can also play smoke.</GameOfUrBoard.description>
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>Rock ring</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Game played with stones and small earrings, very simple. Players roll and people tend to remain fixed distance. Relaxes and is good quality hand-eye (issa).</HoopstoneRing.description>
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>Malan</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>And the horse-dancing with the trees and the ancient game. Players can try to throw a shoe or from a distance, some of the neck. It's relaxing, but the hand-eye coordination (photo) will be better.</HorseshoesPin.description>
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>A large-screen flat tv</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>Most high-tech tv. Giant, ultra-clear pictures almost jump into the screen. Delicious. Satellite signal reception section of old and ubiquitous data.</MegascreenTelevision.description>
+  <!-- EN: poker table -->
+  <PokerTable.label>Poker table</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
+  <PokerTable.description>A specially designed table gambling cards, such as. Gambling. A far is to create a strategic skills and how.</PokerTable.description>
+  <!-- EN: telescope -->
+  <Telescope.label>Telescope</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>Amateur telescope astronomy experts. For certain types of hobby. It may only be used outside the home.</Telescope.description>
+  <!-- EN: tube television -->
+  <TubeTelevision.label>(tube tv)</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Crt, representing different sound film. Corner of the house, it is always interesting than it was at the beginning, at least, is the old oil.</TubeTelevision.description>
+</LanguageData>

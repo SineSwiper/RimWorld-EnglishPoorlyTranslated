@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>Civil union samson</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>We have a great team.\n\nThese people live for decades and even centuries and techniques they have lost here. Now usually work with simple tools and mechanical structures. They are used to protect the upper hand.\n\nSurvival, trust and interest in the cultural aspects of the business.\n\nThis group paid close attention to the characteristics of civilization.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>Chairman of the board</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>Abroad</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>Outlander</OutlanderCivil.pawnsPlural>
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>Samsons perch union</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>A large community of survivors.\n\nIn the decades and centuries to technology live and when people disappeared. Now the job, most of the mechanical parts. Protection using compost from firing weapons development.\n\nExistence, reliable and practical interest in other parts of the transaction.\n\nThis group is more likely to be foreign.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>President of the assembly of the republic of uzbekistan</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>Goth</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>Foreign</OutlanderRough.pawnsPlural>
+  <!-- EN: pirate band -->
+  <Pirate.label>With tenbande</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Pirates attacked group are independently chosen and war value.\n\nSomething to build a pirate you are the only buildings, they are very rare. But property seized and attacked other groups derive their territory.\n\nThese technologies rely mainly on their prey, they help others. Much of gunpowder weapons. if they were lucky enough to have energy weapons are. Some pirates mele weapons.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>Mr</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>Duplication</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>Mzembela</Pirate.pawnsPlural>
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>Friendly</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>These people have lived here for a long, long time. The user may have crashed name years ago, many thousands of their ancestors. Perhaps they do, but it has survived the crisis and boost the success of the technology. Or something, agricultural and virgin nomads living in love and war.\n\nSome people are more aggressive than others. Many of them are free trade and association even a stranger. For cooperation or written to be very difficult, because the difference between culture and language of their parents.\n\nDespite the weakness of technology, potential partners, and even the most dangerous, because your opponent has their own experience with the old weapons, and their desire to live very high.\n\nThis group as a gentle way of life that will wanimmer. Their foreign trade and alliances are very transparent.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>Main</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>Partisan</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>The tribes</TribeCivil.pawnsPlural>
+  <!-- EN: savage tribe -->
+  <TribeRough.label>Born barbarian</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>These people have lived here for a long time. Perhaps their ancestors thousands of years ago when I fell. Perhaps, they have not only survived the disaster, remove the high-tech boom. These residents, nomads who happened to live in agricultural and use traditional tools and weapons.\n\nSome of the local people will be stronger than others. A lot of people want you to be a strange business, and they are open to an alliance. Security around the house because of cooperation between mother and child to a different language barrier will be very high.\n\nDespite the weakness of the technical expertise of its old weapons, their number and their great desire to live, because the enemy is very dangerous, even this may be one of the local partners.\n\nThis is particularly the tribe worships war and military dominance, it can be difficult to gain the support.</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>Real</TribeRough.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>Races</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>Quarter</TribeRough.pawnsPlural>
+</LanguageData>

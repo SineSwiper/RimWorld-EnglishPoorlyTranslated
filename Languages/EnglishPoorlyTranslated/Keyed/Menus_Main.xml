@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Main menu -->
+  <Tutorial>Book</Tutorial>
+  <NewColony>New colony</NewColony>
+  <BackToGame>Return games</BackToGame>
+  <ReviewScenario>September review</ReviewScenario>
+  <Save>Makauli'i</Save>
+  <LoadGame>Loading game</LoadGame>
+  <Options>It</Options>
+  <Mods>Different</Mods>
+  <SaveTranslationReport>Save the transferred report</SaveTranslationReport>
+  <GeneratingTranslationReport>Translation report</GeneratingTranslationReport>
+  <CleanupTranslationFiles>Voice places the interpreter</CleanupTranslationFiles>
+  <CleaningTranslationFiles>Clean translation files</CleaningTranslationFiles>
+  <Credits>Credit</Credits>
+  <QuitToMainMenu>The main menu</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Save and exit menu</SaveAndQuitToMainMenu>
+  <QuitToOS>O os</QuitToOS>
+  <SaveAndQuitToOS>Save and close the pos</SaveAndQuitToOS>
+  <FictionPrimer>Suitable primary</FictionPrimer>
+  <LudeonBlog>Deon blog</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>The official vetch</OfficialWiki>
+  <TynansTwitter>Tynan twitter</TynansTwitter>
+  <TynansDesignBook>Tynan design book</TynansDesignBook>
+  <HelpTranslate>Free help RimWorld</HelpTranslate>
+  <BuySoundtrack>Sound shopping</BuySoundtrack>
+  <CreateWorld>Composition of the world</CreateWorld>
+  <!-- Main menu translations info window -->
+  <TranslationThanks>All RimWorld fans. This fan-made meaning, created for a good volunteer:\n\n{0}</TranslationThanks>
+  <TranslationHowToContribute>You can also provide support. Click below to find out more (open a web browser).</TranslationHowToContribute>
+  <LearnMore>For more information</LearnMore>
+  <!-- Main menu dev build -->
+  <DevBuildWarning>Note: this is an unstable development. In this way, research and development plan.\n\nSome things will be based in order. To change the balance between the restrictions laid down in the balance sheet to understand better the game design classic method. We use this information to determine the whereabouts of the final balance.\n\nAlso errors, including the goal of breaking. Storage compatibility, may be missing.\n\nThank you for all the wrong test! You should check out, they do not want it, then you can play the latest stable version.</DevBuildWarning>
+  <!-- Create/review world -->
+  <ReviewWorld>Review of the world</ReviewWorld>
+  <WorldGenerate>Against</WorldGenerate>
+  <WorldSaveAndFinish>Save and exit</WorldSaveAndFinish>
+  <Reset>Reset</Reset>
+  <PlanetCoverage>Thin cover</PlanetCoverage>
+  <PlanetRainfall>All the snow</PlanetRainfall>
+  <PlanetTemperature>As a rule, in the summer time</PlanetTemperature>
+  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Illegal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Exceeds</PlanetRainfall_High>
+  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Common</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Secondary</PlanetTemperature_High>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Random green</RandomizeSeed>
+  <PlanetCoverageTip>The diameter of the planet is always the same, but because this is more than a game, we do not develop all the people, because it takes a very long time. The percentage of the face you want to be generous.</PlanetCoverageTip>
+  <WorldFactionsTab>Group</WorldFactionsTab>
+  <!-- Select world -->
+  <SelectWorld>Choose your world</SelectWorld>
+  <WorldChooseButton>Choose</WorldChooseButton>
+  <NoWorldsFilesFound>No files all over the world. Created the world's first.</NoWorldsFilesFound>
+  <!-- Version info -->
+  <BuildNowAvailable>Version {0} chance. Ludeon.co for more information.</BuildNowAvailable>
+  <BuildUpToDate>This latest version.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Error retrieving version information: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Version information loading ...</LoadingVersionInfo>
+  <!-- World generator -->
+  <GenerateWorld>Make the world</GenerateWorld>
+  <!-- Mods config -->
+  <OpenSteamWorkshop>Sauna workshop open</OpenSteamWorkshop>
+  <GetModsFromForum>Take forum mods</GetModsFromForum>
+  <OpenModsDataFolder>Open the library retextured</OpenModsDataFolder>
+  <ShowModsDataLocation>Mods show information about the place</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>Are you sure you want to delete the way of the future? It will not work unless you have time to replace all the basic functions.\n\nDo not forget the other mods may be postponed in the heart of the modern use of the cancellation specified.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to remove any {0} professor?</ConfirmDeleteMod>
+  <Unsubscribe>Holiday</Unsubscribe>
+  <ConfirmUnsubscribe>If you want to discard. {0}?</ConfirmUnsubscribe>
+  <Author>Writer</Author>
+  <WorkshopPage>Page seminar</WorkshopPage>
+  <UploadToSteamWorkshop>Workshop carrier</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Updates to the steam workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Was went uploaded.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>The seminar was successfully sent.\n\nReason? {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>{0} loaded correctly.</WorkshopUploadSucceeded>
+  <Downloading>Loading</Downloading>
+  <Source>More</Source>
+  <ModTargetVersion>From version (s): {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>This is not the ministry of defense and the problem RimWorld, and it can work.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion_Newer>This mode is intended for later version RimWorld and work.</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>The help of the form of the data needs to be answered in writing, through the mode of about.xml. Therefore, &lt;supportedversions> &lt;li> {0} &lt;/ li> &lt;/ supportedversions> - &lt;a target version> it expired. Inspection report for more information.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>You can order reviewed</DragToReorder>
+  <!-- Select scenario -->
+  <ChooseScenario>Select photo</ChooseScenario>
+  <ScenariosCustom>Custom</ScenariosCustom>
+  <ScenariosSteamWorkshop>Meeting water vapor</ScenariosSteamWorkshop>
+  <ScenarioEditor>Secretary of state</ScenarioEditor>
+  <Delete>Shoot</Delete>
+  <!-- Scenario editor -->
+  <Seed>monday</Seed>
+  <Load>Goods</Load>
+  <EditMode>edited? mode</EditMode>
+  <Summary>Overview</Summary>
+  <AddPart>Add items</AddPart>
+  <TextFieldsMustBeFilled>All fields must be filled there.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>If you are sure that you want to upload steam workshop?\n\nIf the service must agree to the terms of the steam workshop. Find everything here:\n\ndictionariglobal teep: // steamchommunitikco / sredfailes / vorkshopleglgrement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>You must be content simply to present themselves created.\n\nYou can create your own content?</ConfirmContentAuthor>
+  <Incompatible>Compatible</Incompatible>
+  <TooMany>Many (most {0})</TooMany>
+  <CanBeUpdatedOnWorkshop>E 'can update the conference, as the author.</CanBeUpdatedOnWorkshop>
+  <!-- Select storyteller -->
+  <ChooseAIStoryteller>Select ai is just</ChooseAIStoryteller>
+  <HowStorytellersWork>Ai attacks by pirates, speaking resources, or reduction in the attack. Your choice will affect your colony's history. These settings can be changed at any time.</HowStorytellersWork>
+  <MustChooseDifficulty>Select your options.</MustChooseDifficulty>
+  <Difficulty>Difficult</Difficulty>
+  <CommitmentMode>To rule</CommitmentMode>
+  <ReloadAnytimeMode>Update any mode</ReloadAnytimeMode>
+  <MustChoosePermadeath>Or any obligation to re-election mode.</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>You can download and save the game at any time.\n\nThis is where playstile your own, you can break the games they want to learn the game or, if you have the responsibility of implementing the regime uses the best choice.</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>You just save your game can get.\n\nFor RimWorld is a story generator, despite the loss of all but one person is not the end of the game - this is part of history. The game is designed to bring back after the injury.\n\nIn this drama, sad, happy, this is what happens not. It is designed to be played RimWorld.\n\nAnd no cause of death pochira strong - he was not allowed to reload when luke skywalker and killing her family.</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>Narration and can be changed at any time.</CanChangeStorytellerSettingsDuringPlay>
+  <UnlockExtremeDifficulty>Brutal regime</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Serious sample that is to be returned to the level of severe special game mode for each call.\n\nMerciless state locked automatically when certain milestones. However, you can now you have to release the lock.\n\nThis option, if you want a better chance of death or second highest difficulty, even though playing the game and every effort was designed.</ConfirmUnlockExtremeDifficulty>
+  <!-- Site select -->
+  <SelectStartingSite>Page selection</SelectStartingSite>
+  <SelectRandomSite>Select a random location</SelectRandomSite>
+  <SelectSite>Choose location</SelectSite>
+  <MustSelectStartingSite>Select place.</MustSelectStartingSite>
+  <CannotLandBiome>Land can not be in this environment: {0}</CannotLandBiome>
+  <BiomeNotImplemented>It does not apply biome</BiomeNotImplemented>
+  <CannotLandImpassableMountains>He can not stand to walk long distances in the mountains.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>We already have this basic {0}.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>It is on the ground there,</YourBaseAlreadyThere>
+  <TileOccupied>Settled this plate.</TileOccupied>
+  <FactionBaseAdjacent>Institutions can not be in proximity to one another near.</FactionBaseAdjacent>
+  <Biome>Biomes</Biome>
+  <Terrain>Homestead</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
+  <Elevation>Country</Elevation>
+  <Fertility>Breeding</Fertility>
+  <AvgTemp>Temperatures average</AvgTemp>
+  <Rainfall>Casino</Rainfall>
+  <SpecialFeatures>Activities</SpecialFeatures>
+  <HasCoast0>north shore</HasCoast0>
+  <HasCoast1>east coast</HasCoast1>
+  <HasCoast2>south coast</HasCoast2>
+  <HasCoast3>west</HasCoast3>
+  <HasCaves>cave</HasCaves>
+  <FactionBase>Butt section</FactionBase>
+  <StoneTypesHere>Stone</StoneTypesHere>
+  <TimeZone>Time</TimeZone>
+  <MovementDifficulty>Rugged mobile</MovementDifficulty>
+  <AnimalsCanGrazeNow>Cattle now graze</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>The average frequency</AverageDiseaseFrequency>
+  <PerYear>year</PerYear>
+  <Forageability>Forage</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>People prefer to do business with the following:\n\n{0}\n\nThis game can be more than temporary. Are you sure you really want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- Character chooser -->
+  <CreateCharacters>Creative traits</CreateCharacters>
+  <FirstNameDesc>The first name attribute.\n\nThis menu only appears on course.</FirstNameDesc>
+  <ShortIdentifierDesc>Even a small id.\n\nThis is not always. Title and last name can not be different.</ShortIdentifierDesc>
+  <LastNameDesc>Last character.\n\nThis will display a specific menu.</LastNameDesc>
+  <Randomize>Irregular</Randomize>
+  <AgeIndicator>{0} age</AgeIndicator>
+  <Backstory>Old</Backstory>
+  <IncapableOf>Address</IncapableOf>
+  <Traits>Garlic</Traits>
+  <PermanentMoodEffect>Mental effect of permanent</PermanentMoodEffect>
+  <Skills>See</Skills>
+  <NoneLower>nothing</NoneLower>
+  <Adulthood>Adults</Adulthood>
+  <Childhood>Youth</Childhood>
+  <Current>Run</Current>
+  <Male>man</Male>
+  <Female>women</Female>
+  <MaleAnimal>tank</MaleAnimal>
+  <FemaleAnimal>woman</FemaleAnimal>
+  <Pain>Rally</Pain>
+  <Health>Health</Health>
+  <Relations>Contact</Relations>
+  <TeamSkills>The ability of your computer</TeamSkills>
+  <StartingPawnsSelected>Specified</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Left</StartingPawnsLeftBehind>
+  <!-- Misc -->
+  <Start>Commencement</Start>
+  <Advanced>Brand</Advanced>
+  <Next>Next</Next>
+  <Back>Cover</Back>
+  <Gameplay>Sports</Gameplay>
+  <ConfirmQuit>Really exit? Spiritual progress is not saved will be lost.</ConfirmQuit>
+  <EveryoneNeedsValidName>Each person must have a valid name.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>None of the chosen people can do these jobs</RequiredWorkTypeDisabledForEveryone>
+  <Quit>Holiday</Quit>
+  <Ignore>Virtual</Ignore>
+  <!-- Progress bar -->
+  <GeneratingWorld>The origin of the world</GeneratingWorld>
+  <GeneratingPlanet>The planet generation</GeneratingPlanet>
+  <GeneratingMap>On the map</GeneratingMap>
+  <GeneratingMapForNewEncounter>Create new map meeting</GeneratingMapForNewEncounter>
+</LanguageData>

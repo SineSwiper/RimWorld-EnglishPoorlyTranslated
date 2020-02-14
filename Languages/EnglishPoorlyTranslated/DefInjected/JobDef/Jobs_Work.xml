@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>TARGET close.</Arrest.reportString>
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>the buildings were built.</BuildRoof.reportString>
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>And target shooting.</Capture.reportString>
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>target contribute.</CarryDownedPawnToExit.reportString>
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>contributions crypto target capsule.</CarryToCryptosleepCasket.reportString>
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>Results now.</Clean.reportString>
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>Targer far.</CutPlant.reportString>
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>Destination far.</CutPlantDesignated.reportString>
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>Destroy the target.</Deconstruct.reportString>
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>This gives TargetB goals.</DeliverFood.reportString>
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>targeta to do the job:</DoBill.reportString>
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>Xinhua Targeta.</EscortPrisonerToBed.reportString>
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>Nourished by targeting target.</FeedPatient.reportString>
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>target building.</FinishFrame.reportString>
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>Replace damaged section targeta.</FixBrokenDownBuilding.reportString>
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>Targeta.</Harvest.reportString>
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>targeta yield.</HarvestDesignated.reportString>
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>Target Support.</HaulToCell.reportString>
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>Targa contributions.</HaulToContainer.reportString>
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>after targeta.</Hunt.reportString>
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>Target kidnapping.</Kidnap.reportString>
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>Milk target.</Milk.reportString>
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>Reduces target.</Mine.reportString>
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>dig targeta.</OperateDeepDrill.reportString>
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>The targeta scan.</OperateScanner.reportString>
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>Card ago.</PlaceNoCostFrame.reportString>
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>Targeta trying to recruit.</PrisonerAttemptRecruit.reportString>
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>target completely.</PrisonerExecution.reportString>
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>The aim would be released.</ReleasePrisoner.reportString>
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>Located on the lower floor.</RemoveFloor.reportString>
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>coverage will be deleted.</RemoveRoof.reportString>
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>The aim is to improve.</Repair.reportString>
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>targer savings.</Rescue.reportString>
+  <!-- EN: researching. -->
+  <Research.reportString>investigation.</Research.reportString>
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>Target scissors.</Shear.reportString>
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>Target massacres.</Slaughter.reportString>
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>A small surface Alisa.</SmoothFloor.reportString>
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>Wall smooth.</SmoothWall.reportString>
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>The inflation target.</Sow.reportString>
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>Targeta theft.</Steal.reportString>
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>Target into bed.</TakeToBedToOperate.reportString>
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>And prisoners Ahiahi bed.</TakeWoundedPrisonerToBed.reportString>
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>That's the goal.</Tame.reportString>
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>target.</TendPatient.reportString>
+  <!-- EN: training TargetA. -->
+  <Train.reportString>is trained to targets.</Train.reportString>
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>Task together.</Uninstall.reportString>
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>Using the radio all projects.</UseCommsConsole.reportString>
+</LanguageData>

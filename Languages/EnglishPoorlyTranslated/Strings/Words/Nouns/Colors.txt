@@ -1,0 +1,18 @@
+﻿
+
+//Simple colors only, no mauve and puce
+
+
+
+
+
+red
+blue
+green
+siegel
+purple
+black
+white
+gray
+grey
+orange

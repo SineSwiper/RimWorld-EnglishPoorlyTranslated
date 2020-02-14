@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal bed -->
+  <AnimalBed.label>Mats (live)</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>In the soft body in bed asleep. Variety of animals.</AnimalBed.description>
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>Sleep box (animal)</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Animal asleep in a small box can be. Chickens, cats and small dogs, small animals.</AnimalSleepingBox.description>
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>Hope (animal)</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Take a seat at the bottom, they have to sleep with animals.</AnimalSleepingSpot.description>
+  <!-- EN: armchair -->
+  <Armchair.label>Seat</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Big, soft and comfortable seat. A good way to relax. Perhaps charts and other workstations are used everywhere.</Armchair.description>
+  <!-- EN: bed -->
+  <Bed.label>Reading</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Comfortable mattress over the paper. Place to relax.</Bed.description>
+  <!-- EN: bedroll -->
+  <Bedroll.label>Sleep</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Single bed where you can sleep on the floor. This is usually a fabric or leather and the interior often, even once. Sleeping bag is lightweight and can be removed from the transport. But he was not real comfortable bed. You can use the bag sarthavahakasanghannal sleep.</Bedroll.description>
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>Big sleep</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Simple size bed, a queen, where you can sleep. It is usually made of cloth or leather, and often their own inner lining. Sleeping bag is lightweight and can be folded car. But this is a real bed as is. Visitors are welcome, sleeping bags can be used for recovery of the tin.</BedrollDouble.description>
+  <!-- EN: dining chair -->
+  <DiningChair.label>President</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Easy and comfortable seating. They are useful to the bank, and that it is not everywhere, throughout the.</DiningChair.description>
+  <!-- EN: double bed -->
+  <DoubleBed.label>Double bed</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>A simple bed, a room for two.</DoubleBed.description>
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>A good place to sleep</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Down there, two people sleep. I do not do.</DoubleSleepingSpot.description>
+  <!-- EN: dresser -->
+  <Dresser.label>Dresser</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>A recent centuries. The bed very good about. Contributions more closely to affect sleep.</Dresser.description>
+  <!-- EN: end table -->
+  <EndTable.label>Stands</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Bed and a small table. Why a bed expensive recently. Placed on the bed. No additional effect of setting the table for each bed.</EndTable.description>
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Sickbed</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>The bed is designed for a specific hospital. To adjust the built-in tools and patient. How to improve the effectiveness of medical procedures a normal country.</HospitalBed.description>
+  <!-- EN: plant pot -->
+  <PlantPot.label>Flower</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Flowers can be planted to improve mood.</PlantPot.description>
+  <!-- EN: royal bed -->
+  <RoyalBed.label>King bed</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Is set in a beautiful, gold is essential for success. Comfortable around other works of great art. With enough room for two.</RoyalBed.description>
+  <!-- EN: shelf -->
+  <Shelf.label>To become shoal</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description>To install the device does not rot out.</Shelf.description>
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>Berth</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>There is upstairs, people lie. Nicotine.</SleepingSpot.description>
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>Light standard</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Lamp, which illuminates the top. Full of light and people need to go to work.</StandingLamp.description>
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>Floor lamp (blue)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>Floor lamps and light blue. People need light maximum speed and work.</StandingLamp_Blue.description>
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>Standard lamp (green)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>Lamp that illuminates the 'layer, green. People who want the light to go high speed, and the supervisor.</StandingLamp_Green.description>
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>Lamp (red)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description> it is a red floor lamp in the irradiated volume. People go to high-speed and light.</StandingLamp_Red.description>
+  <!-- EN: stool -->
+  <Stool.label>Chair</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>You can not sit in a simple interface. Easy, but others do not. Workstations and other tables are being used.</Stool.description>
+  <!-- EN: sun lamp -->
+  <SunLamp.label>Synth. Sun</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>The plant comes in the lighting industry to grow, that surfaces might be. Requires a lot of energy. Automatic night.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>The plants closed during dearmancy</SunLamp.comps.CompSchedule.offMessage>
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>Table (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>If any people on the table, food is a vacuum.</Table1x2c.description>
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>Table (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>People can o, tables and chairs to be found in food and drink.</Table2x2c.description>
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>Table (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>If a seat is available, people should eat and drink on the table.</Table2x4c.description>
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>Regulation (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>There are people who eat food places in the table.</Table3x3c.description>
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>Ng</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>The lamp burned above the trees. People need to be loud and clear. Is it possible to automatically fuel (wood) will be filled. Small amount of heat.</TorchLamp.description>
+</LanguageData>

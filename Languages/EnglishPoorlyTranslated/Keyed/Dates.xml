@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClockTime>Time</ClockTime>
+  <ClockDate>Date</ClockDate>
+  <ClockYear>Year</ClockYear>
+  <DateReadoutTip>His latest: after {0}\nNow, quadrum {4}\nRegional chapter {2}\n\nQuadrums year 4 {3} divided into days. Quadrums same everywhere and in different places.\n\nEach level quadrum series:\n{5}</DateReadoutTip>
+  <FullDate>{0} {1}, {2}</FullDate>
+  <DateReadout>{0} {1} {2}</DateReadout>
+  <SeasonFullDate>{0} {1}</SeasonFullDate>
+  <WholeYear>Year round</WholeYear>
+</LanguageData>

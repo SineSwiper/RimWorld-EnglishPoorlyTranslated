@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: elephant -->
+  <Elephant.label>Elephant</Elephant.label>
+  <Elephant.labelPlural>Elephants</Elephant.labelPlural>
+  <!-- EN: elephant calf -->
+  <Elephant.lifeStages.elephant_calf.label>Baby elephant</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.1.label>Young Chang</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.2.label>Elephant</Elephant.lifeStages.2.label>
+  <!-- EN: megasloth -->
+  <Megasloth.label>Giant sloth</Megasloth.label>
+  <Megasloth.labelPlural>Giant sloths</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>Baby giant sloth</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.1.label>Lazy young giant</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.2.label>Now drowsiness</Megasloth.lifeStages.2.label>
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>Unicorn</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>Rhino</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>Baby rhino</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelPlural>Rhino calf</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.1.label>young Rhino</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.2.label>Rhino</Rhinoceros.lifeStages.2.label>
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>Thrumbea</Thrumbo.label>
+  <Thrumbo.labelPlural>Trumbos</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>Children thrumbo</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>Children thrumbo</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.1.label>youth Thrumbo</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>Alfathrumbo</Thrumbo.lifeStages.2.label>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Alcohol_Beer.xml -->
+  <Inebriated.stages.alcohol_warmth.label>Prepare drink</Inebriated.stages.alcohol_warmth.label>
+  <Inebriated.stages.alcohol_warmth.description>I think it's a good place to ka'opi after which mare'ana.feel better.</Inebriated.stages.alcohol_warmth.description>
+  <Inebriated.stages.quite_inebriated.label>I (wonderful) to Ruffino</Inebriated.stages.quite_inebriated.label>
+  <Inebriated.stages.quite_inebriated.description>If you turn your head! This is really interesting.</Inebriated.stages.quite_inebriated.description>
+  <Inebriated.stages.drunk.label>Beer (drunk)</Inebriated.stages.drunk.label>
+  <Inebriated.stages.drunk.description>It's dangerous, but I can not do anything! I have fun</Inebriated.stages.drunk.description>
+  <Inebriated.stages.hammered.label>I had been drinking alcohol (alcoholics)</Inebriated.stages.hammered.label>
+  <Inebriated.stages.hammered.description>Wait minute! How that happens</Inebriated.stages.hammered.description>
+  <Hungover.stages.hung_over_hidden.label>The hangover (hidden)</Hungover.stages.hung_over_hidden.label>
+  <Hungover.stages.mild_hangover.label>Surf (light)</Hungover.stages.mild_hangover.label>
+  <Hungover.stages.mild_hangover.description>Pain is nearing completion.</Hungover.stages.mild_hangover.description>
+  <Hungover.stages.serious_hangover.label>Waste (strong)</Hungover.stages.serious_hangover.label>
+  <Hungover.stages.serious_hangover.description>This is a headache for everyone.</Hungover.stages.serious_hangover.description>
+  <Hungover.stages.pounding_hangover.label>The Hangover (Traditional)</Hungover.stages.pounding_hangover.label>
+  <Hungover.stages.pounding_hangover.description>This is his head and lets swans.</Hungover.stages.pounding_hangover.description>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>Signs of alcohol</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Some feel the vibration.Kohli all.Or a drink.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  <!-- wakeup.xml -->
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>The removal will wake</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>You can not attention to the feeling that pay everything is clear.I'm too tired.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
+  <!-- Smokeleaf.xml -->
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>It has become more of a wreck</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>I and the people burned.</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>Removing the leaves of tobacco</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>If only serious.Neurology and misty air, the feeling in the stomach and pretty.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  <!-- Psychite_Flake.xml -->
+  <FlakeHigh.stages.high_on_flake.label>A high-flex</FlakeHigh.stages.high_on_flake.label>
+  <FlakeHigh.stages.high_on_flake.description>Iiyoo user email.</FlakeHigh.stages.high_on_flake.description>
+  <!-- Phycite_Pekoe.xml -->
+  <PsychiteTeaHigh.stages.psychite_tea.label>You drank a star</PsychiteTeaHigh.stages.psychite_tea.label>
+  <PsychiteTeaHigh.stages.psychite_tea.description>Emotional, is an example of a good cup of tea.as of now I am in good health</PsychiteTeaHigh.stages.psychite_tea.description>
+  <!-- Cocaine_Yayo.xml -->
+  <YayoHigh.stages.high_on_yayo.label>It has become very Ieiio</YayoHigh.stages.high_on_yayo.label>
+  <YayoHigh.stages.high_on_yayo.description>It was delicious!He Chimao!</YayoHigh.stages.high_on_yayo.description>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>The symptoms of Saikaito</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>What do you say? Board.All very lazy and tired.Especially itself.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  <!-- GoJuice.xml -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>A - the average water during the trip</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.description>Pretending to think, and acceptance of the organization.I immediately through the crisis.</GoJuiceHigh.stages.high_on_gojuice.description>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>Symptoms of water</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>It is confusing as all of you put together.branches of the heavy and tired body.It is hunger, pain throughout the body.Bonus: Why Focus eye does not fit well</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  <!--	Ambrosia.xml -->
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>The temperature of Anburojia</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>When I came out healthy Anburojia will feel relieved.</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>Back to the symptoms of Anburojia</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>All the way up to large group can also occur.As soon as I have millions of training, will complete the second part of the fruit.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+</LanguageData>

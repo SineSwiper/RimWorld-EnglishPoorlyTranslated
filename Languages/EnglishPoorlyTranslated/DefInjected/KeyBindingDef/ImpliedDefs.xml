@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Toggle Tiere tab -->
+  <MainTab_Animals.label>Open / close</MainTab_Animals.label>
+  <!-- EN: Toggle Architekt tab -->
+  <MainTab_Architect.label>Open / close architecture</MainTab_Architect.label>
+  <!-- EN: Toggle Zuweisung tab -->
+  <MainTab_Assign.label>Opening / closing distribution</MainTab_Assign.label>
+  <!-- EN: Toggle Geschichte tab -->
+  <MainTab_History.label>Open / close date</MainTab_History.label>
+  <!-- EN: Toggle Forschung tab -->
+  <MainTab_Research.label>/ r close open</MainTab_Research.label>
+  <!-- EN: Toggle Beschränkung tab -->
+  <MainTab_Restrict.label>Interior / exterior</MainTab_Restrict.label>
+  <!-- EN: Toggle Arbeit tab -->
+  <MainTab_Work.label>Open / close work</MainTab_Work.label>
+  <!-- EN: Toggle Welt tab -->
+  <MainTab_World.label>/ world expand</MainTab_World.label>
+</LanguageData>

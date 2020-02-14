@@ -1,0 +1,13 @@
+﻿poker
+chess
+card
+map
+backgammon
+edit
+directions
+die
+craps
+about keri
+roulette
+black jack
+bat

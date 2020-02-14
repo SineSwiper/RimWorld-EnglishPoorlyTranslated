@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: outpost -->
+  <Outpost.label>Beachhead</Outpost.label>
+  <!-- EN: A small, guarded outpost. -->
+  <Outpost.description>A small {0} members of the protection of the light, however.</Outpost.description>
+  <!-- EN: Attacking {0} -->
+  <Outpost.approachingReportString>{0} attack</Outpost.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <Outpost.approachOrderString>Crime {0}</Outpost.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <Outpost.arrivedLetter>To see this is an enemy of god.</Outpost.arrivedLetter>
+  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
+  <Outpost.descriptionDialogue>It is the enemy of metal, which is guarded by the enemy {0}</Outpost.descriptionDialogue>
+</LanguageData>

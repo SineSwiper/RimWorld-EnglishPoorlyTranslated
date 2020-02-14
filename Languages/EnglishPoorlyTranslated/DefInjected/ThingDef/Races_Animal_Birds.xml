@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cassowary -->
+  <Cassowary.label>Cassowary</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>There is a large, flightless bird with fluorescent. It sounds great, but the passage to get his way. Is damaged or if it must be wrong with tyerz hmern open face designs.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>Poultry</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>To steal</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>Bill</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>Head</Cassowary.tools.head.label>
+  <!-- EN: emu -->
+  <Emu.label>Emu</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Big, eyes lost button flightless birds. And evil to him in this world foolish indeed. As soon as he conceived him, and he wanted revenge.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>Theft</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>Missing</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>Head</Emu.tools.head.label>
+  <!-- EN: ostrich -->
+  <Ostrich.label>Ostrich</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>Old district is the largest flying almost extinct because of unwanted meat, feathers and skin. Not easy at all.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>Thief</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>Invoice</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>Head</Ostrich.tools.head.label>
+  <!-- EN: turkey -->
+  <Turkey.label>Turkey</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>A flight in a small, dark, bird, call familiar with them into smaller, their mating fee. Also in the woods until it is tamed, however.</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>· theft, theft</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>Bill</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>President</Turkey.tools.head.label>
+</LanguageData>

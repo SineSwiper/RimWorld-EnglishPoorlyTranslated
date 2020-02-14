@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alocasia -->
+  <Plant_Alocasia.label>Tip reef</Plant_Alocasia.label>
+  <!-- EN: A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests. -->
+  <Plant_Alocasia.description>Tropical plant. Broadleaf many of them will be a familiar pattern in the tropical forest.</Plant_Alocasia.description>
+  <!-- EN: clivia -->
+  <Plant_Clivia.label>Klivia</Plant_Clivia.label>
+  <!-- EN: An unusual plant with tall, pretty flowers. Some call it the 'bush lily'. -->
+  <Plant_Clivia.description>Big beautiful flower on a different plant. Some call facilitating bush.</Plant_Clivia.description>
+  <!-- EN: giant rafflesia -->
+  <Plant_Rafflesia.label>Giant king</Plant_Rafflesia.label>
+  <!-- EN: A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh. -->
+  <Plant_Rafflesia.description>Small flowers can be found in the deep warm tropical rain forests. One would think that big beautiful trees, but it is very bad, only bad meat spoilage.</Plant_Rafflesia.description>
+  <!-- EN: low shrubs -->
+  <Plant_ShrubLow.label>Low brush</Plant_ShrubLow.label>
+  <!-- EN: Various low broadleaf shrubs. These grow in clusters and slow down movement. -->
+  <Plant_ShrubLow.description>Plants below. And that's a tough pass.</Plant_ShrubLow.description>
+  <!-- EN: bamboo tree -->
+  <Plant_TreeBamboo.label>Bamboo</Plant_TreeBamboo.label>
+  <!-- EN: A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful. -->
+  <Plant_TreeBamboo.description>As a thick growth of trees garden plants grow faster. Bamboo is harvested as ironwork. The plant itself is not particularly good-looking.</Plant_TreeBamboo.description>
+  <!-- EN: cecropia tree -->
+  <Plant_TreeCecropia.label>Wood ants</Plant_TreeCecropia.label>
+  <!-- EN: One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood. -->
+  <Plant_TreeCecropia.description>One of the most widespread tropical tree. Ali is a tree grows faster, but less useful wood.</Plant_TreeCecropia.description>
+  <!-- EN: palm tree -->
+  <Plant_TreePalm.label>Digits</Plant_TreePalm.label>
+  <!-- EN: A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts. -->
+  <Plant_TreePalm.description>The plant is the most abundant material in addition to the page upper end knot. However, it is to be open to the damages can change as a cook.</Plant_TreePalm.description>
+  <!-- EN: teak tree -->
+  <Plant_TreeTeak.label>Identification</Plant_TreeTeak.label>
+  <!-- EN: An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times. -->
+  <Plant_TreeTeak.description>Especially in humid weather ,. this strong growth. The keel of the ship because of forest and water, and reliable.</Plant_TreeTeak.description>
+</LanguageData>

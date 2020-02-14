@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: boomalope -->
+  <Boomalope.label>Boomalope</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>Chemicals and chemical imbalances in the back of the bladder boomalop full production. Even though weak and soft when you look at their size and other animals have learned to walk with him to make the big bang, when he died. You can get it in milk, but milk, but the oil did not.</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>Head</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>It does not exclude that there is a spout</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>nail correct</Boomalope.tools.right_hoof.label>
+  <!-- EN: cobra -->
+  <Cobra.label>Asp</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>A victim of the snake. Cobras when more aggressive and give you a deadly poison in its sting their victims. At least.</Cobra.description>
+  <!-- EN: cobraflesh -->
+  <Cobra.race.meatLabel>Only meat</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>Tooth</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>Head</Cobra.tools.head.label>
+  <!-- EN: monkey -->
+  <Monkey.label>Ape</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>The monkey is small and can be used with the tail to swing from branch to branch. In the other version. Wisely selfish monkeys, however, they receive relatively complex task.</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>Left punch</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>a man of the right hand</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>Head</Monkey.tools.head.label>
+</LanguageData>

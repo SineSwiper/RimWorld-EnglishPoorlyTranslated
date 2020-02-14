@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesignatorCancel>Release</DesignatorCancel>
+  <DesignatorCancelDesc>Eliminate the designated housing, mining, transport, culture, and all the other brands.</DesignatorCancelDesc>
+  <DesignatorCutPlants>Cutters</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Marx factory cut and run. The plant will be completely removed and no food or resources for agriculture.</DesignatorCutPlantsDesc>
+  <DesignatorDeconstruct>Deconstruction</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>This is repeated, regained back some of the resources.</DesignatorDeconstructDesc>
+  <DesignatorUninstall>Wipe</DesignatorUninstall>
+  <DesignatorUninstallDesc>Remove, sold or transferred, or to install it elsewhere.</DesignatorUninstallDesc>
+  <DesignatorHarvest>The harvest</DesignatorHarvest>
+  <DesignatorHarvestDesc>Plants speed can be killed for food or other items.</DesignatorHarvestDesc>
+  <DesignatorHarvestWood>Chopping wood</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Marx trees felled for firewood.</DesignatorHarvestWoodDesc>
+  <DesignatorHaulThings>Removed content</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Developer dumping and other areas come to be. There are some things they need, like food or their bodies always haulable.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>However, demand items (rock fragments) are not haulable.</MustHaulHaulables>
+  <DesignatorHunt>Victim</DesignatorHunt>
+  <DesignatorHuntDesc>All hunters hunted animals.</DesignatorHuntDesc>
+  <DesignatorMine>My</DesignatorMine>
+  <DesignatorMineDesc>Select a location to download the data.</DesignatorMineDesc>
+  <DesignatorSmoothSurface>Smooth</DesignatorSmoothSurface>
+  <DesignatorSmoothSurfaceDesc>Appointed ships stone walls and rough terrain.</DesignatorSmoothSurfaceDesc>
+  <DesignatorPlan>Plan</DesignatorPlan>
+  <DesignatorPlanDesc>Instead of planning. Help plan for the future, do not do anything, but the expansion.</DesignatorPlanDesc>
+  <DesignatorPlanRemove>Remove programs</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Harassment.</DesignatorPlanRemoveDesc>
+  <DesignatorForbid>Insurance</DesignatorForbid>
+  <DesignatorForbidDesc>Items listed as prohibited. What can colonists in what is kapa'ia.</DesignatorForbidDesc>
+  <DesignatorUnforbid>Permit</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Selected information is prohibited. Can be associated with what is called the colony.</DesignatorUnforbidDesc>
+  <DesignatorAreaHomeExpand>House, open</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Colonial house clean floors and a fire extinguisher in the house area.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Clean house</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Home area. Clean, repair or put out a fire, but the colonists.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaBuildRoofExpand>Roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Attack on the roofs to build in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaNoRoofExpand>The use of roof surface</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Colonized the roof removed (with the exception of permanent no mountains, no return to be removed).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpand>Ignoring the roof</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>The roof abandoned lands.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaSnowClearExpand>Open field friday</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Any attempt to escape the snow, the area of the colony.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Snow clearance cleaning</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Removing cleared snow. Windows will no longer try to take a position without ice.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorExpandAreaAllowed>Extended support center</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Increase the production area.\n\nApproved appointed place, you can connect settlers. Advent accept the project if you look outside the community for granted.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Where</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>It seems clear the ground and allows the cell.\n\nYou can use it in the designated area is assigned to the colony. If you qualify to make the region the colonists to accept the job.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>The practice in the areas of ...</ManageAreas>
+  <DesignatorGrowingZoneDesc>There are many kinds of plants will grow in their lives are trying to make a circle.</DesignatorGrowingZoneDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>In order to build a warehouse with a record settlement of resources.\nThis device can also increase the current share.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>High colony, which was established together very single elimination.\nThis tool can also be extended to all existing reserves.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneDelete>Reduction zones</DesignatorZoneDelete>
+  <DesignatorZoneDeleteSingular>Zone collapse</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteDesc>Move location shops or size.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneExpand>Expanded</DesignatorZoneExpand>
+  <DesignatorClaim>Office</DesignatorClaim>
+  <DesignatorClaimDesc>The new building for the neutral colony, including the rest of an ancient invasion of abandoned base. Structure repaired, will be held in front of a stranger said.</DesignatorClaimDesc>
+  <DesignatorRemoveFloor>Remove the floor</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Take down and cleaning the water.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveBridge>Negative</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>Know under the bridge.</DesignatorRemoveBridgeDesc>
+  <DesignatorStrip>Gauze</DesignatorStrip>
+  <DesignatorStripDesc>Strip killed and clothes.</DesignatorStripDesc>
+  <DesignatorOpen>Open</DesignatorOpen>
+  <DesignatorOpenDesc>Open-top containers.</DesignatorOpenDesc>
+  <DesignatorSlaughter>Killing</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Animal blood.</DesignatorSlaughterDesc>
+  <DesignatorTame>The tame</DesignatorTame>
+  <DesignatorTameDesc>As well as the animal is available.</DesignatorTameDesc>
+  <!-- Failure messages -->
+  <UnchosenStuff>Material unchosen</UnchosenStuff>
+  <TooCloseToMapEdge>Very close to the top of the card.</TooCloseToMapEdge>
+  <OutOfBounds>From borders.</OutOfBounds>
+  <CannotPlaceInUndiscovered>You can put the wine.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Contact {1_labelShort} blocked sites.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Part of the communication range.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interface {1_labelShort} place is closed.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} {1} block communication space.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>This is the land held {0}.</TerrainIsAlready>
+  <SurfaceBeingSmoothed>This region is in the conversion stage.</SurfaceBeingSmoothed>
+  <IdenticalThingExists>Now here it is.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Action plan, it's here.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>This is a relief to be able to support this.</TerrainCannotSupport>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} can help the needs of the region: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <SpaceAlreadyOccupied>Space is already included.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>The space was destroyed.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Focus around the earth.</TerrainMustBeRemovable>
+  <MustBeOnMovingWater>Should be more turbines than the movement of the water.</MustBeOnMovingWater>
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>Or expand {0}\nMake a new {1}</ExpandOrCreateZone>
+  <CreateNewZone>{0} new ideas</CreateNewZone>
+  <!-- Desc helpers -->
+  <TransmitsPower>Neeletsanoa power</TransmitsPower>
+  <ConstructionNeeded>This should build</ConstructionNeeded>
+  <NoColonistWithConstructionSkillTip>None of {0} have this capability.</NoColonistWithConstructionSkillTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>It is not all of the pieces in canada {0} {1} the second time.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>New community</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Cologne led to new occupants.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>Colonist</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>Neocolonialism</PlayerColony.pawnsPlural>
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>New species</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>A little fatigue.</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>Tribesman</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>Tribes</PlayerTribe.pawnsPlural>
+</LanguageData>

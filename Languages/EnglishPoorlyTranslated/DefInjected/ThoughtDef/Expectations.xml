@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sky-high expectations -->
+  <LowExpectations.stages.skyhigh_expectations.label>Very high expectations</LowExpectations.stages.skyhigh_expectations.label>
+  <!-- EN: This place is really rich. I should be made very comfortable here. -->
+  <LowExpectations.stages.skyhigh_expectations.description>This area is very rich. Enough to live comfortably.</LowExpectations.stages.skyhigh_expectations.description>
+  <!-- EN: high expectations -->
+  <LowExpectations.stages.high_expectations.label>High expectations</LowExpectations.stages.high_expectations.label>
+  <!-- EN: This place is almost rich. There's no reason I shouldn't have the things I want. -->
+  <LowExpectations.stages.high_expectations.description>This place is quite rich. I do not understand what you want, there is no reason.</LowExpectations.stages.high_expectations.description>
+  <!-- EN: moderate expectations -->
+  <LowExpectations.stages.moderate_expectations.label>In any expectations</LowExpectations.stages.moderate_expectations.label>
+  <!-- EN: This place isn't quite rich. I can't expect to be totally pampered. -->
+  <LowExpectations.stages.moderate_expectations.description>That is not exactly abundant. I just can not close.</LowExpectations.stages.moderate_expectations.description>
+  <!-- EN: low expectations -->
+  <LowExpectations.stages.low_expectations.label>Expect less</LowExpectations.stages.low_expectations.label>
+  <!-- EN: This place doesn't have the wealth for many luxuries. I can't expect great comforts. -->
+  <LowExpectations.stages.low_expectations.description>This place is rich enough for luxury goods. I have no hope of real influence can be seen.</LowExpectations.stages.low_expectations.description>
+  <!-- EN: very low expectations -->
+  <LowExpectations.stages.very_low_expectations.label>Glimmer of hope</LowExpectations.stages.very_low_expectations.label>
+  <!-- EN: This place is poverty-stricken. I need to keep myself strong to survive. -->
+  <LowExpectations.stages.very_low_expectations.description>As for the poor. Here, I must be strong and not be expected to escape and relax.</LowExpectations.stages.very_low_expectations.description>
+  <!-- EN: extremely low expectations -->
+  <LowExpectations.stages.extremely_low_expectations.label>Hope</LowExpectations.stages.extremely_low_expectations.label>
+  <!-- EN: There's nothing here to make me comfortable. I'd better steel myself to survive. -->
+  <LowExpectations.stages.extremely_low_expectations.description>There is no one thing that gave me comfort. Are better prepared to survive here.</LowExpectations.stages.extremely_low_expectations.description>
+</LanguageData>

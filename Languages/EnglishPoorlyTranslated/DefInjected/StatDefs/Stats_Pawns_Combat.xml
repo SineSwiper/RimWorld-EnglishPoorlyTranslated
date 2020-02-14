@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeDPS.label>DPS (hand to hand)</MeleeDPS.label>
+  <MeleeDPS.description>Since battle from the side, it is worth an average of the amount of damage per second.You can not make people believe that the speed and size of equipment.</MeleeDPS.description>
+  <MeleeArmorPenetration.label>Karnataka value (the number of shares in the hands of death)</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.description>The average term value creeping weapons of war.This may be worth now equipped weapon.</MeleeArmorPenetration.description>
+  <MeleeHitChance.label>Accuracy (Fight)</MeleeHitChance.label>
+  <MeleeHitChance.description>If low price of Baquba.Reached this objective is inevitable.</MeleeHitChance.description>
+  <MeleeDodgeChance.label>Internal transport ()</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>There is a possibility of avoiding enemy attacks from Melea.It is impossible to avoid a long shot.</MeleeDodgeChance.description>
+  <ShootingAccuracyPawn.label>Precision (shooting)</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.description>To shoot from the professionals, everyone.Exactly also affect other factors.Each shot a description of the man shot in the targets agreed to un- over:</ShootingAccuracyPawn.description>
+  <AimingDelayFactor.label>The target time</AimingDelayFactor.label>
+  <AimingDelayFactor.description>It takes time to train, select the target.</AimingDelayFactor.description>
+</LanguageData>

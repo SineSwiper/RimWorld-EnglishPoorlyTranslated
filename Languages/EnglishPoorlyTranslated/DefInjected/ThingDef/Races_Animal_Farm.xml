@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alpaca -->
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
+  <Alpaca.description>Medium-sized and close relatives of ungulates. Alpaca wool is usually grown in very soft. Alpacas are often used for cargo container in the mountains of south america.</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>remain separate</Alpaca.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>In the upper right corner</Alpaca.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>Head</Alpaca.tools.head.label>
+  <!-- EN: chicken -->
+  <Chicken.label>Hen</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>More traditional is the hospitality experience. But the chicken and the egg. It grows quickly and often lays an egg.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>Theft</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>Bill</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>Head</Chicken.tools.head.label>
+  <!-- EN: cow -->
+  <Cow.label>D</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>Many domesticated ungulates in full awareness that over the centuries a lot of milk, meat and leather. They are quieter to not run them any harm. So in the wild can not be addicted to their lives, most of them from rural life.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>Beef</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>Head</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>left separate</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>hoof</Cow.tools.right_hoof.label>
+  <!-- EN: pig -->
+  <Pig.label>Rubber</Pig.label>
+  <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
+  <Pig.description>The penalty is one of the first animals were killed. This is, primarily, due to the fact that the more meat and skin, may pole, is omnivorous. Though selfish pigs, they can learn to get the surgery.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>Pork</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>Head</Pig.tools.head.label>
+</LanguageData>

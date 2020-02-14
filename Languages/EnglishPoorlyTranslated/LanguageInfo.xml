@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>English (translation of poor)</friendlyNameNative>
+  <friendlyNameEnglish>English (poor translation)</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Google Translate</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Writer</roleKey>
+      <creditee>SineSwiper</creditee>
+    </li>
+  </credits>
+</LanguageInfo>

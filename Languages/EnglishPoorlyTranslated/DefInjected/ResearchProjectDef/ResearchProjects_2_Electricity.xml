@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>Air cooling</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Hot weather, the aircraft is destroyed or in refrigerator designed to build a house.</AirConditioning.description>
+  <!-- EN: autodoor -->
+  <Autodoors.label>Automatic door</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>It has opened doors that open automatically when someone comes, to ensure a swift adoption.</Autodoors.description>
+  <!-- EN: battery -->
+  <Batteries.label>Battery</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>The body in order to conserve battery power.</Batteries.description>
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>(biofuels) refinery</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Construction of refineries for processing liluwelo such as wood, food, and fuel nine inch.</BiofuelRefining.description>
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>Blowback</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Fully automatic weapons and machine guns such is the simple, semi-automatic.</BlowbackOperation.description>
+  <!-- EN: electricity -->
+  <Electricity.label>E-mail</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Hundreds of e-work in different areas.</Electricity.description>
+  <!-- EN: firefoam -->
+  <Firefoam.label>Foam fire</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Create foam, spray foam delay the flames with a fire prevention tool.</Firefoam.description>
+  <!-- EN: flak armor -->
+  <FlakArmor.label>Protective armor</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Clothes iron armor to withstand bullets and explosions. Clothes are heavy, slow customer.</FlakArmor.description>
+  <!-- EN: gas operation -->
+  <GasOperation.label>Breath</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Along with a powerful tool for the production of fully automatic or a context and with guns, rifles, light machine guns.</GasOperation.description>
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>Energy geothermal energy</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>You can find hot springs, hydroelectric, geothermal creates steam to generate electricity.</GeothermalPower.description>
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>Factory</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Such rifles, shotguns, sniper rifles, projectile launchers and fire control simple products such as side arms confiscated.</Gunsmithing.description>
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>Towers</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Write a simple, automated turrets.</GunTurrets.description>
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>Hydroponics</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Hydroponic plants, regardless of the progress in the development of the tank and the floor space.</Hydroponics.description>
+  <!-- EN: IEDs -->
+  <IEDs.label>Mad trap</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Many missiles and non-conventional explosive devices, the construction can not be equipped.</IEDs.description>
+  <!-- EN: machining -->
+  <Machining.label>Mechanics</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Technical bench weapons and other equipment to be dismantled or mechanoids died.</Machining.description>
+  <!-- EN: mortars -->
+  <Mortars.label>Ground</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Structural lumber wili'ai even fire a bullet shields time for a long time within the walls ,.</Mortars.description>
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>Nutritious</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Place dispenser may release nutrients and raw meat to eat meat, that none of this should work.</NutrientPaste.description>
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>The survival rate</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Full-time, will be poor. Ideal for travel.</PackagedSurvivalMeal.description>
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>Artificial limbs</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>It is easy to recover by replacing a portion of the arms and legs. Upgrade can be a doctor.</Prosthetics.description>
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>Dress belt</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Auto-hide cover band in the region from the wall of smoke after the shot.</SmokepopBelt.description>
+  <!-- EN: solar panel -->
+  <SolarPanels.label>Solar panels</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Solar electricity-free cellular changes to the sun.</SolarPanels.description>
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>White goods</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Maintain the sterile field to the sterile room, where they perform efficiently medical treatment and research.</SterileMaterials.description>
+  <!-- EN: tube television -->
+  <TubeTelevision.label>Tdp tv-</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Tube tv last place. There is nothing like a good movie to relax them.</TubeTelevision.description>
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Water generator</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Provide a continuous source of energy for the development of hydropower on the river generators.</WatermillGenerator.description>
+</LanguageData>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: botched my surgery -->
+  <BotchedMySurgery.stages.botched_my_surgery.label>Operating let loose words</BotchedMySurgery.stages.botched_my_surgery.label>
+  <!-- EN: broke up with me -->
+  <BrokeUpWithMe.stages.broke_up_with_me.label>What wonders me</BrokeUpWithMe.stages.broke_up_with_me.label>
+  <!-- EN: broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>{0} left me</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <!-- EN: I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>He fell like a bag of garbage.</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  <!-- EN: cheated on me -->
+  <CheatedOnMe.stages.cheated_on_me.label>Not to cheat</CheatedOnMe.stages.cheated_on_me.label>
+  <!-- EN: cheated on by {0} -->
+  <CheatedOnMeMood.stages.cheated_on_by.label>{0} me</CheatedOnMeMood.stages.cheated_on_by.label>
+  <!-- EN: How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.cheated_on_by.description>How someone can cheat on me!</CheatedOnMeMood.stages.cheated_on_by.description>
+  <!-- EN: chitchat -->
+  <Chitchat.stages.chitchat.label>Chat</Chitchat.stages.chitchat.label>
+  <!-- EN: crashed together -->
+  <CrashedTogether.stages.crashed_together.label>Loss</CrashedTogether.stages.crashed_together.label>
+  <!-- EN: deep talk -->
+  <DeepTalk.stages.deep_talk.label>In-depth interviews</DeepTalk.stages.deep_talk.label>
+  <!-- EN: divorced me -->
+  <DivorcedMe.stages.divorced_me.label>This is different, i</DivorcedMe.stages.divorced_me.label>
+  <!-- EN: divorced by {0} -->
+  <DivorcedMeMood.stages.divorced_by.label>{0} broke up with me</DivorcedMeMood.stages.divorced_by.label>
+  <!-- EN: We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.divorced_by.description>We made a promise! Not many.</DivorcedMeMood.stages.divorced_by.description>
+  <!-- EN: failed to romance me -->
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>I have a fraud waiver</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  <!-- EN: had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>Contract {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <!-- EN: Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>Someone you do not like me trying not to go.</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  <!-- EN: forced me to take drugs -->
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>Took drugs</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  <!-- EN: forced to take drugs -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>Drugs</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>I was moved by all kinds of drugs and unhappy. But I was forced to do so! I would cry.</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  <!-- EN: forced me to take luciferium -->
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>They took luziferium</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  <!-- EN: forced to take luciferium -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>Luziferium need to have</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>I am certain that the body in the form of change has not changed persuaded to voluntarily leave my body. But I do! I call.</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  <!-- EN: got some lovin’ -->
+  <GotSomeLovin.stages.got_some_lovin.label>Sex</GotSomeLovin.stages.got_some_lovin.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.got_some_lovin.description>Nothing like a little sex decorate!</GotSomeLovin.stages.got_some_lovin.description>
+  <!-- EN: angering fight -->
+  <HadAngeringFight.stages.angering_fight.label>Hot citing poor facilities</HadAngeringFight.stages.angering_fight.label>
+  <!-- EN: cathartic fight -->
+  <HadCatharticFight.stages.cathartic_fight.label>The viewing noise</HadCatharticFight.stages.cathartic_fight.label>
+  <!-- EN: harmed me -->
+  <HarmedMe.stages.harmed_me.label>I was injured</HarmedMe.stages.harmed_me.label>
+  <!-- EN: honeymoon phase -->
+  <HoneymoonPhase.stages.honeymoon_phase.label>Honeymoon</HoneymoonPhase.stages.honeymoon_phase.label>
+  <HoneymoonPhase.stages.honeymoon_phase.description>It is a good start in our lives.</HoneymoonPhase.stages.honeymoon_phase.description>
+  <!-- EN: insulted -->
+  <Insulted.stages.insulted.label>Angry</Insulted.stages.insulted.label>
+  <!-- EN: insulted -->
+  <InsultedMood.stages.insulted.label>Upset</InsultedMood.stages.insulted.label>
+  <!-- EN: I've been directly insulted! What an awful person! -->
+  <InsultedMood.stages.insulted.description>I'm angry right! What a horrible man!</InsultedMood.stages.insulted.description>
+  <!-- EN: I rejected their proposal -->
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>Association rejected</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <!-- EN: killed my bonded animal -->
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>I killed my lover</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  <!-- EN: killed my brother -->
+  <KilledMyBrother.stages.killed_my_brother.label>If you killed my brother</KilledMyBrother.stages.killed_my_brother.label>
+  <!-- EN: killed my daughter -->
+  <KilledMyDaughter.stages.killed_my_daughter.label>My daughter will be killed</KilledMyDaughter.stages.killed_my_daughter.label>
+  <!-- EN: killed my father -->
+  <KilledMyFather.stages.killed_my_father.label>My father died</KilledMyFather.stages.killed_my_father.label>
+  <!-- EN: killed my fiance -->
+  <KilledMyFiance.stages.killed_my_fiance.label>I want to be dead</KilledMyFiance.stages.killed_my_fiance.label>
+  <!-- EN: killed my friend -->
+  <KilledMyFriend.stages.killed_my_friend.label>I killed my friend</KilledMyFriend.stages.killed_my_friend.label>
+  <!-- EN: killed my kin -->
+  <KilledMyKin.stages.killed_my_kin.label>My relative went dead</KilledMyKin.stages.killed_my_kin.label>
+  <!-- EN: killed my lover -->
+  <KilledMyLover.stages.killed_my_lover.label>Lover killed</KilledMyLover.stages.killed_my_lover.label>
+  <!-- EN: killed my mother -->
+  <KilledMyMother.stages.killed_my_mother.label>They killed my mother</KilledMyMother.stages.killed_my_mother.label>
+  <!-- EN: killed my rival -->
+  <KilledMyRival.stages.killed_my_rival.label>Are my friends</KilledMyRival.stages.killed_my_rival.label>
+  <!-- EN: killed my sister -->
+  <KilledMySister.stages.killed_my_sister.label>My sister was killed</KilledMySister.stages.killed_my_sister.label>
+  <!-- EN: killed my son -->
+  <KilledMySon.stages.killed_my_son.label>My son was killed in</KilledMySon.stages.killed_my_son.label>
+  <!-- EN: killed my spouse -->
+  <KilledMySpouse.stages.killed_my_spouse.label>So went the death of my husband</KilledMySpouse.stages.killed_my_spouse.label>
+  <!-- EN: kind words -->
+  <KindWords.stages.kind_words.label>Kind words</KindWords.stages.kind_words.label>
+  <!-- EN: kind words -->
+  <KindWordsMood.stages.kind_words.label>Good word</KindWordsMood.stages.kind_words.label>
+  <!-- EN: I've been bestowed with kind words! What a nice person! -->
+  <KindWordsMood.stages.kind_words.description>I showered friendly! What a good man!</KindWordsMood.stages.kind_words.description>
+  <!-- EN: rapport built -->
+  <RapportBuilt.stages.rapport_built.label>Relation</RapportBuilt.stages.rapport_built.label>
+  <RapportBuilt.stages.rapport_built.description>I told the head of the colony. Sound like a good place ...</RapportBuilt.stages.rapport_built.description>
+  <!-- EN: rebuffed me -->
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>I do not believe</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  <!-- EN: rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>Was {0}</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>Tried very romantic, but still get the cold shoulder. Location is not good.</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  <!-- EN: recruited me -->
+  <RecruitedMe.stages.recruited_me.label>I drew a baby born</RecruitedMe.stages.recruited_me.label>
+  <!-- EN: rejected my proposal -->
+  <RejectedMyProposal.stages.rejected_my_proposal.label>My request</RejectedMyProposal.stages.rejected_my_proposal.label>
+  <!-- EN: my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>{0} rejected his proposal of marriage</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <!-- EN: I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>I think that we have something special that is immortality ... But I have to remove them.</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  <!-- EN: rescued me -->
+  <RescuedMe.stages.rescued_me.label>I saved</RescuedMe.stages.rescued_me.label>
+  <!-- EN: slighted -->
+  <Slighted.stages.slighted.label>To ridicule</Slighted.stages.slighted.label>
+  <!-- EN: bonded animal sold -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>Pet love {0} sale</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
+  <!-- EN: My special bonded animal was sold to a trader! -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>The retailer is selling my girlfriend!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  <!-- EN: sold my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>My favorite pets for sale</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
+  <!-- EN: loved one sold -->
+  <SoldMyLovedOne.stages.loved_one_sold.label>Love sold {0}</SoldMyLovedOne.stages.loved_one_sold.label>
+  <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
+  <SoldMyLovedOne.stages.loved_one_sold.description>I love you, and sold in stores. As anderson and clark!</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>My loved one has been sold</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+</LanguageData>

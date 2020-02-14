@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Torso.label>We buy</Torso.label>
+  <Shoulder.label>shoulders</Shoulder.label>
+  <Arm.label>arm</Arm.label>
+  <Hand.label>hand</Hand.label>
+  <Finger.label>finger</Finger.label>
+  <Waist.label>hip</Waist.label>
+  <Toe.label>toe</Toe.label>
+  <!-- Bones -->
+  <Clavicle.label>collarbone</Clavicle.label>
+  <Sternum.label>The sternum</Sternum.label>
+  <Humerus.label>shoulder</Humerus.label>
+  <Radius.label>radius</Radius.label>
+  <Pelvis.label>hips</Pelvis.label>
+  <Femur.label>femur</Femur.label>
+  <Tibia.label>The left tibia</Tibia.label>
+</LanguageData>

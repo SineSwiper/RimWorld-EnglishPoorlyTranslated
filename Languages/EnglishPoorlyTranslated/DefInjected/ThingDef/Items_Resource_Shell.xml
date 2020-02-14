@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>Antimatter weapons</Bullet_Shell_AntigrainWarhead.label>
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>The hemp</Bullet_Shell_EMP.label>
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>Foam grenades</Bullet_Shell_Firefoam.label>
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>He bombing</Bullet_Shell_HighExplosive.label>
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>Canada burner</Bullet_Shell_Incendiary.label>
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>Agent charged</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>Normally, low heads ultratech glittering used aircraft engines and world war ii. Powered by a massive blast particles. Loops can be fired from a cannon. Explosion damages.</Shell_AntigrainWarhead.description>
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>Explosion of the eea</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>A shell entire production of batteries, antennas, electronic and electrical pulses. Electronic devices mechanoids em windows of the temporary resignation. A shop can be replaced, mortar or harpoons. Explodes when a.</Shell_EMP.description>
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>Granada foam rubber</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>Fill shell in the form of slow fire. Tank fired or you can create a trap. Loss wall.</Shell_Firefoam.description>
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>The ball</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>Granada blaring. It can be done or burnt lime trap. The explosion damaged.</Shell_HighExplosive.description>
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>Napalm bomb</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>Shell testing of fire and filled with a small explosive charge. Alternatively, you can enter mortar fire traps. Explosion which they are damaged.</Shell_Incendiary.description>
+</LanguageData>

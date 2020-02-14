@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WanderConfused.label>Walking around confused</WanderConfused.label>
+  <WanderConfused.beginLetterLabel>chaos</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetter>{0} walk around confused. </WanderConfused.beginLetter>
+  <WanderConfused.recoveryMessage>{0} restore sanity</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>Mental confusion</WanderConfused.baseInspectLine>
+  <PanicFlee.label>I ran away</PanicFlee.label>
+  <PanicFlee.beginLetterLabel>escape</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetter>{0} fled in fear. </PanicFlee.beginLetter>
+  <PanicFlee.recoveryMessage>Memory {0}. </PanicFlee.recoveryMessage>
+  <PanicFlee.baseInspectLine>Remember, panic Country</PanicFlee.baseInspectLine>
+  <Manhunter.label>Cutthrot</Manhunter.label>
+  <Manhunter.beginLetter>{0} hit killer!. </Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>{0} blood hungry killed in the past. </Manhunter.recoveryMessage>
+  <Manhunter.baseInspectLine>killer attitude</Manhunter.baseInspectLine>
+  <SocialFighting.label>brown</SocialFighting.label>
+  <SocialFighting.recoveryMessage>{1} {0} and fought. </SocialFighting.recoveryMessage>
+  <SocialFighting.baseInspectLine>Dealing with the psychological state</SocialFighting.baseInspectLine>
+</LanguageData>

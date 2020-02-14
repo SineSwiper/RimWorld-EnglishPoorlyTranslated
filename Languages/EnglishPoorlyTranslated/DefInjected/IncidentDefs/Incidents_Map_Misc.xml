@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ResourcePodCrash.label>Traffic may fall</ResourcePodCrash.label>
+  <PsychicSoothe.label>Saikosudo</PsychicSoothe.label>
+  <SelfTame.label>The new animal</SelfTame.label>
+  <AmbrosiaSprout.label>development Anburojia</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>The camera, which is swarming NB</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>If you wait until the tree near a bar Anburojia miracle !. Growth appears, you will be able to reap the benefits of a good home satisfy addiction.</AmbrosiaSprout.letterText>
+  <FarmAnimalsWanderIn.label>new animals</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>new nuts</WandererJoin.label>
+  <WandererJoin.letterLabel>new arrivals</WandererJoin.letterLabel>
+  <WandererJoin.letterText>When traveling {PAWN_nameDef} {PAWN_kind} name of the city joined {PAWN_pronoun} {PAWN_title}.\n\n{PAWN_pronoun} for help because they do not have to be removed from one {PAWN_objective} .{PAWN_nameDef} exile, slavery, you can still get rid of very easily. however, other settlers, I think I chaos.</WandererJoin.letterText>
+  <RefugeePodCrash.label>Ford fall</RefugeePodCrash.label>
+  <!-- =========================== Neutral ============================-->
+  <RefugeeChased.label>亡命者</RefugeeChased.label>
+  <ThrumboPasses.label>The crew Suranbo</ThrumboPasses.label>
+  <RansomDemand.label>Change is necessary</RansomDemand.label>
+  <RansomDemand.letterLabel>surf App</RansomDemand.letterLabel>
+  <MeteoriteImpact.label>Meteorite crashes</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>In addition to a large meteorite struck the area. We put a lot {0}.</MeteoriteImpact.letterText>
+  <HerdMigration.label>relations movement</HerdMigration.label>
+  <HerdMigration.letterLabel>{0} development</HerdMigration.letterLabel>
+  <HerdMigration.letterText>{0} group try to Torisugiyo this area.\n\nSince you can not drive, they can not be resurrected.</HerdMigration.letterText>
+  <WildManWandersIn.label>study barbarian</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>Local error</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>The nature of the residents in the area where .{0} climb.\n\nYou can win {PAWN_objective}.</WildManWandersIn.letterText>
+  <!--========================== Bad ===============================-->
+  <PsychicDrone.label>psycho drone</PsychicDrone.label>
+  <ToxicFallout.label>死の灰</ToxicFallout.label>
+  <ToxicFallout.letterLabel>死の灰</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>It was a little further, creating a stable slowly poisonous substance will cover the entire world.\n\nAll animals without a roof area is dust environmental impact on the smooth emission\n\nNo incident until a few days or a few months.</ToxicFallout.letterText>
+  <VolcanicWinter.label>Winter Fire</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>in the winter</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>great distance 1000000 cubic km of volcanic ash that exploded be released into the atmosphere.\n\nBlock the sun and volcanic ash in the air. The temperature will decrease plant growth and where less than less sunlight will deteriorate, it may take weeks or months for the missing.</VolcanicWinter.letterText>
+  <HeatWave.label>熱波</HeatWave.label>
+  <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
+  <HeatWave.letterText>Legal heat wave begins.\n\nIf you have a heat stroke, heat can kill easily. Or cold, deep in the mountains, the cold strangulation.</HeatWave.letterText>
+  <ColdSnap.label>寒波</ColdSnap.label>
+  <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
+  <ColdSnap.letterText>brutal cold weather will begin.\n\nA cold wave inducing hypothermia, it can kill easily. Saved, because if one heating panel, which confirmed that previous drawings, harvest crops withered.</ColdSnap.letterText>
+  <Flashstorm.label>storm partisan</Flashstorm.label>
+  <Flashstorm.letterLabel>Aggressive Storm</Flashstorm.letterLabel>
+  <Flashstorm.letterText>Heavy thunderstorms are standing upright. The reason for the big fires.</Flashstorm.letterText>
+  <ShortCircuit.label>Power Line Card</ShortCircuit.label>
+  <CropBlight.label>The plague or crop</CropBlight.label>
+  <Alphabeavers.label>Alpha Beaver</Alphabeavers.label>
+</LanguageData>

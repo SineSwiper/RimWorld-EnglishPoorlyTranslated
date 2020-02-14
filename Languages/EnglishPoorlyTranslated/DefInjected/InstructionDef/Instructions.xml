@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CreateWorldParams.text>Rimvearld (found at the end of the earth)!\n\nIn this study, I will tell you how to make a match.\n\nThe first step is to create a global game.\n\nIn this world you can create.\n\nOf course, that "natural" click - default setting for this world is a good man.</CreateWorldParams.text>
+  <ChooseLandingSite.text>Screen, select the original point.\n\nThe group has a lot of life, but now let's start from the simple sword.\n\nSimilarly, one seriously, after "then click" Choose the type of forest land.\n\nThe "hole", you can see that the media has chosen cases.</ChooseLandingSite.text>
+  <ChooseLandingSite.rejectInputMessage>Well, fair and open woods.</ChooseLandingSite.rejectInputMessage>
+  <ReorderCharacters.text>Selected letters coming!\n\nClick to turn the selected character. They began to drag the display area to select the best that it has a role.</ReorderCharacters.text>
+  <ReorderCharacters.rejectInputMessage>First, choose a character.</ReorderCharacters.rejectInputMessage>
+  <RandomizeCharacter.text>As part of this, but you can germinate!\n\nPlease try to create a key.</RandomizeCharacter.text>
+  <RandomizeCharacter.rejectInputMessage>The role of the first randomized trial.</RandomizeCharacter.rejectInputMessage>
+  <AcceptStartingPawns.text> Amazing!\n\nPress random love. However, do not try to find the perfect one, you'll need to make the story more interesting harmful character.\n\nYou can now upgrade to the possibility of clicking on the name.\n\nWhen you have finished, click on the "Start".</AcceptStartingPawns.text>
+  <MapCameraDolly.text>You are here on earth!\n\nLet's move the camera around.\n\n{chief: mapdolly_up} - {chief: mapdolly_left} - {chief: mapdolly_down} - {chief: mapdolly_right} or button and drag the mouse while holding spending three.\n\nLet's do it!</MapCameraDolly.text>
+  <MapCameraZoom.text>Incredibly!\n\nOr the mouse wheel, {main}: MapZoom_In: The main MapZoom_Out} {key, zoom, you can zoom.\n\nThese intentant-!</MapCameraZoom.text>
+  <Pause.text>During playback, but you can stay for a while.\n\nYou do not have to worry about that. This is, or at any time after the waiting period, you can do it gradually.\n\nTranslated: the percentage report occasional hot ggle} or {in the lower right corner of the icon</Pause.text>
+  <TimeControls.text>You can speed up the development time.\n\n{important: timespeed_normal} {important: timespeed_fast} {important: timespeed_superfast} or necessary, and try out the icons on the bottom right.</TimeControls.text>
+  <MakeStockpile.text>FEU!\n\nWell, you live in, as it may be seen as a place to store, create a storage area.\n\n1. In the lower left side of the "structure" and press it.\nClick on the "regional" category 2 ..\n3. Select "reserve zone" tool.\nYou can click and drag the map 4 square box.</MakeStockpile.text>
+  <MakeStockpile.rejectInputMessage>Let's create a more Reserve indicated.</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.onMapInstruction>Let's say they are doing all these branches List\nDrag (diagonal)</MakeStockpile.onMapInstruction>
+  <EndStockpileDesignating.text>Out of the right thing.</EndStockpileDesignating.text>
+  <UnforbidStartingResources.text>And you are a well established property, should be concerned that unit trust.\n\n1. Select originally.\n2. Command "click on" forbidden.\n\n(Note: If you double-click on the device, you can select the screen at the same time on the same project)</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>Out in the future.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.onMapInstruction>This is done to allow a</UnforbidStartingResources.onMapInstruction>
+  <BuildRoomWalls.text>Surprisingly, should one of the following.\n\nClick "Builder 1 ..\nMenu in the "architecture" Click 2 ..\n3. Click the "wall".\n4. The material is to select the "crime.".\n5. rectangle appears on the map, you can create on each side of the wall and pool.</BuildRoomWalls.text>
+  <BuildRoomWalls.rejectInputMessage>Some four boundaries, allegedly wall of the frame.</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.onMapInstruction>create wall</BuildRoomWalls.onMapInstruction>
+  <BuildRoomDoor.text>It is clear that this is one of the four walls of the room to the door, it's here.\n\n"Wall", "Door".</BuildRoomDoor.text>
+  <BuildRoomDoor.rejectInputMessage>A wooden door in the room to make the walls of one.</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.onMapInstruction>Law on wall</BuildRoomDoor.onMapInstruction>
+  <BuildBeds.text>your room! to use.\n\nWhere you sleep. At the time, the "dream" and the third room.\n\n"Bed," "furniture" category.</BuildBeds.text>
+  <BuildBeds.rejectInputMessage>Let the Committee of beds in the room.</BuildBeds.rejectInputMessage>
+  <BuildBeds.onMapInstruction>three-bed room</BuildBeds.onMapInstruction>
+  <BuildTorchLamp.text>In a dark room when the lights come settlers're, to be eccentric.\n\n"Headlamp in the room.</BuildTorchLamp.text>
+  <BuildTorchLamp.rejectInputMessage>Let us work as a flashlight in the room</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.onMapInstruction>bright room</BuildTorchLamp.onMapInstruction>
+  <BuildAnimalSleepingSpot.text>And with your pet, you can still help by "lying cow.".\n\nCommand 'bed' - not for some, the animal's name in place, then get enough sleep.</BuildAnimalSleepingSpot.text>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Bed, room to animals.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.onMapInstruction>Decoration flower beds animals\nroom</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildHorseshoesPin.text>Immigrants have fun, so from time to time, this will lead to Fusagikon.\n\nOutdoor area around the quoit PIN. set.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.rejectInputMessage>Placed around the room, quoits pin.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.onMapInstruction>Create a contact quoits\nin the room</BuildHorseshoesPin.onMapInstruction>
+  <MakeGrowingZone.text>the house was located!\n\ninstallation, you must provide the food "to the agricultural sector," the area where the display on the map.\n\nHere, Chinese farmers.</MakeGrowingZone.text>
+  <MakeGrowingZone.rejectInputMessage>It will be shown on Chilean agricultural public.</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.onMapInstruction>The green areas here\n(Drag diagonally)</MakeGrowingZone.onMapInstruction>
+  <SetToGrowRice.text>People will be determined by ignition "fruitful".\n\n1. right click on the output setting area.\n2. 'Zone System "Now click on the choice of products.\n3. Hotel "potato" change orders "of the United States.".</SetToGrowRice.text>
+  <SetToGrowRice.rejectInputMessage>Take rice development in the agricultural sector.</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.onMapInstruction>And the US branch of agriculture reap</SetToGrowRice.onMapInstruction>
+  <EquipWeapons.text>Is designed for you to stay with the weapon, which can be added at the beginning:\n\nClick to select immigrants 1 ..\n2. Click on the Arts will be me.\n3. Select the "weapons -onwem».\n\nThis work is carried out in each city.</EquipWeapons.text>
+  <EquipWeapons.rejectInputMessage>People with guns.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.onMapInstruction>and the</EquipWeapons.onMapInstruction>
+  <BuildFueledStove.text> Wow!\n\nNow let's ships, kitchen.\n\nOffice, "rain".</BuildFueledStove.text>
+  <BuildFueledStove.rejectInputMessage>Initially, the boiler room.</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.onMapInstruction>Create a stove in the room</BuildFueledStove.onMapInstruction>
+  <AddBillSimpleMeal.text>Migrants, we must show that can lead to a type of cuisine.\n\nTailor Cooking "the oven." You can mark registration practices.\n\n1. "waiting to see the fire.".\n2. Select the "stove" Click.\n3. Click the "processing".\n4. On the "new process" button.\n5. "simple meals".\n6 '+' With the push of a button, you can increase the number of 10.\n\nWhen the "furnace" if you think that the time to build a place for the continuation of time, so do not miss it lasted.\n\nOPTIONS farmers may prefer to click on the right to "fire".</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.rejectInputMessage>Setting the oven, we have to get a snack.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.onMapInstruction>choose</AddBillSimpleMeal.onMapInstruction>
+  <MineSteel.text>Even the residents have started to ration! We went to taste!\n\nThen let's dig minerals. Drive near the colony.\n\nThe "pit, drag to select a number.</MineSteel.text>
+  <MineSteel.rejectInputMessage>Mineral resources and the "I" with us directly.</MineSteel.rejectInputMessage>
+  <MineSteel.onMapInstruction>He said that everything\n掘削</MineSteel.onMapInstruction>
+  <ChopTrees.text>Let harvested wood. You are cutting trees.\n\nThe "tree" in the settlement and cut down 10 trees.\n\n(Note: If you choose to trees and behind the group)</ChopTrees.text>
+  <ChopTrees.rejectInputMessage>Only parts of the plant to draw, "Cut" can adjust.</ChopTrees.rejectInputMessage>
+  <OpenMainTabWork.text>You can control the location of each camp.\n\n"Progress" under the Go TV.</OpenMainTabWork.text>
+  <OpenMainTabWork.rejectInputMessage>Tab, "leading to" Open.</OpenMainTabWork.rejectInputMessage>
+  <ChangeWorkSettings.text>If you do not want to lose any control. (Left to right) is supported by the Settlers priority.\n\nReplace some of the settings\n\nNotice - .. migrants, smaller events, can work effectively and how to re-order and priority model, prioritization and re-use of the system, no matter how carefully, so that we can see the following key in the world to win !</ChangeWorkSettings.text>
+  <ChangeWorkSettings.rejectInputMessage>Please tab of the "priority" and change the settings to allow Generic</ChangeWorkSettings.rejectInputMessage>
+  <BuildSimpleResearchBench.text>Management, study of new technologies.\n\nCreating a "research center" tree in the room.</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.rejectInputMessage>Rooms opening up, "Research Center" Create.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.onMapInstruction>Create a simple "educational materials"\n室内に</BuildSimpleResearchBench.onMapInstruction>
+  <OpenMainTabResearch.text>Very good! In addition, try to choose a customized technology.\n\nOpen the tab "Research".</OpenMainTabResearch.text>
+  <OpenMainTabResearch.rejectInputMessage>Open the tab "Research"</OpenMainTabResearch.rejectInputMessage>
+  <SelectResearchProject.text>Now select the object you want to look at first.\n\nTrees were cut down forest to search for the computer to work, you may have to wait.\n\nIf you can not wait, "priority", and others, and buildings.</SelectResearchProject.text>
+  <SelectResearchProject.rejectInputMessage>Select a research project.</SelectResearchProject.rejectInputMessage>
+  <ExpandAreaHome.text>Then learn how to extend your time zone.\n\nThe settlers in the house immediately or wash the floor, but off and ignored outside of Clay and Fire.\n\nYou created the original location are automatically added. However, you can also extend your hand.\n\n"Colony", a new area on the map around this point.</ExpandAreaHome.text>
+  <ExpandAreaHome.rejectInputMessage>Also, the use of practice, please, spread a little of the colonial zone.</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaBuildRoof.text>If the tower.\n\nHe closed the space created (room) away.\n\nTool bag, "optioneel roof areas where it can make a face.".</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.rejectInputMessage>The system also served to expand the small roof.</ExpandAreaBuildRoof.rejectInputMessage>
+  <BuildSandbags.text>Excellent! They move on to base camp! Among them will attack the enemy colony. This is the time to start preparing.\n\nA "sandbags" just a pile of sandbags stored locally to choose from.</BuildSandbags.text>
+  <BuildSandbags.rejectInputMessage>Make sure that the 'missing'.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.onMapInstruction>You can sand.</BuildSandbags.onMapInstruction>
+  <FinishSandbags.text>Here we expect to build a production-oriented.\n\n"Use first" consent is planning to hold farmers.\n\nIn addition, the wait will be looking at the game's refresh rate, you can reduce the time.\n\nYou are all called groped while carrying out defense, we can write the program.</FinishSandbags.text>
+  <FinishSandbags.rejectInputMessage>Let's wait until the end of sandbags refugees.</FinishSandbags.rejectInputMessage>
+  <DownRaider.text>I sent raiders attack their colony.\n\n1, where the game with a single key click} {print suspended!\n2. Read the bottom right of the screen in red letters.\n3. Select the rest escaped, "draft" law.\nThis right-click-4. organization has made sandbags.\nLet stand for 5 ...\n\nSit up on the ground, you can enjoy the lid. Attach the end, waiting for the attackers came, he began automatically start the interview.</DownRaider.text>
+  <DownRaider.rejectInputMessage>Protection during the war, you!</DownRaider.rejectInputMessage>
+  <DownRaider.onMapInstruction>Here, you will be sent to the colonists.\nPut the mercy seat behind the sandbags.</DownRaider.onMapInstruction>
+  <UndraftAll.text>"Conscription" was released in May! Each.\n\nIn this way, you can return to the first method.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Let's decision "should include the elimination of the strong.".</UndraftAll.rejectInputMessage>
+  <ChooseStoryteller.text>! This book is final!\n\nBut there is more to learn, and how to manage prisoners and fishing, and there are many trade, the wolf, the other. But mastering the basics.\n\nIn fact, the division is possible, it is a normal game time, prevented me from coming to you.\n\n1. Open the lower right of the tab "Menu"\nSelect "Options" 2 ..\n3. The "left" of the author.\n4. What steps drama and complexity.\n\nGood luck and have fun.</ChooseStoryteller.text>
+  <ChooseStoryteller.rejectInputMessage>The tutorial is lying to complete select from the options menu.</ChooseStoryteller.rejectInputMessage>
+</LanguageData>

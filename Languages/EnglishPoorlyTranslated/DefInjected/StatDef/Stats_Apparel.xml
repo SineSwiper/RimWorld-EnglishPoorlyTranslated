@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>Armored nest</ArmorRating_Blunt.label>
+  <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n	 -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Blunt.description>Loss blunt weapons, such as the punch and rockfalls.\n\nIt was attack protection capabilities. This injury, if any, there is a 50% chance to see all. Otherwise, it will become less and less is absorbed and a half. Violence has decreased as part of the military so much.</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>Armor - hot</ArmorRating_Heat.label>
+  <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n	  -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Heat.description>Armor thermal damage, such as fire.\n\nThese security concerns, including the possibility of attack. It refers to damage, 50% chance that it will not affect the whole. Otherwise, absorbed and reduced by half. Many of the attacks with weapons of war brought the price range.</ArmorRating_Heat.description>
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>Weapons - stitch</ArmorRating_Sharp.label>
+  <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is converted into blunt damage and reduced by half.\n	 -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Sharp.description>Ballistic weapons, dar injury stab wounds, cells, including animal terror against explosions.\n\nThis is the opportunity to attack the defense. Damage that is workable possibility of 50%. Otherwise, partly to collect comparable loss intermediates. Contact us down the screen in several sections.</ArmorRating_Sharp.description>
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>Shield power up</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>The maximum power of the belt screen. Loss for high power.</EnergyShieldEnergyMax.description>
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Reproduction rate shield</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>After signs of recovery energy, because it is not destroyed.</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0} / s</EnergyShieldRechargeRate.formatString>
+  <!-- EN: equip delay -->
+  <EquipDelay.label>Delaying device</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>Time to face, or fall.</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>in {0}</EquipDelay.formatString>
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>Insulation - cold</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>Better support for low thermal comfort. If hot water is high.</Insulation_Cold.description>
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>- thermal protection</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>Favorable temperatures for maximum comfort at a better life. Higher living at high temperatures.</Insulation_Heat.description>
+  <!-- EN: Smokepop belt radius -->
+  <SmokepopBeltRadius.label>Radius belt is a smokescreen</SmokepopBeltRadius.label>
+  <!-- EN: The area obscured when a smokepop belt detonates. -->
+  <SmokepopBeltRadius.description>Earth hidden tape on the screen.</SmokepopBeltRadius.description>
+  <!-- EN: {0} c -->
+  <SmokepopBeltRadius.formatString>as {0}</SmokepopBeltRadius.formatString>
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>- the multiplier</StuffEffectMultiplierArmor.label>
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>Insulation - cold - multiplier means</StuffEffectMultiplierInsulation_Cold.label>
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>- - increase in isolation</StuffEffectMultiplierInsulation_Heat.label>
+</LanguageData>

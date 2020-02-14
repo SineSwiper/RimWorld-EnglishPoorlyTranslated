@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Basics.label>database</Basics.label>
+  <BasicsPawn.label>Summary</BasicsPawn.label>
+  <BasicsNonPawn.label>Basic Information</BasicsNonPawn.label>
+  <Apparel.label>Clothes</Apparel.label>
+  <Weapon.label>weapon</Weapon.label>
+  <Building.label>house</Building.label>
+  <EquippedStatOffsets.label>Feeding device (ON)</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Compared to price vehicles more</StuffStatFactors.label>
+  <StuffStatOffsets.label>(Protecting) the effect of feedstock</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Used as a raw material, increased speed while the device is</StuffOfEquipmentStatFactors.label>
+  <Surgery.label>surgery</Surgery.label>
+  <PawnCombat.label>war</PawnCombat.label>
+  <PawnSocial.label>community life</PawnSocial.label>
+  <PawnMisc.label>unless</PawnMisc.label>
+  <PawnWork.label>employee</PawnWork.label>
+</LanguageData>

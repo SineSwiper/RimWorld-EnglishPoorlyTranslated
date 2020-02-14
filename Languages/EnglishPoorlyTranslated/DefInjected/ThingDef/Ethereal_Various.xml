@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blight -->
+  <Blight.label>Bones ache</Blight.label>
+  <!-- EN: explosion -->
+  <Explosion.label>Explosion</Explosion.label>
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>Square timer</RectTrigger.label>
+  <RectTrigger.description>Angle setting.</RectTrigger.description>
+  <!-- EN: tornado -->
+  <Tornado.label>Quickly</Tornado.label>
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>humid farganka</TriggerUnfogged.label>
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>Tunnel</TunnelHiveSpawner.label>
+</LanguageData>

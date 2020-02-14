@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodLoss.label>~~ Agent blood loss = TRUNC Agent ~~ HEAD = comp</BloodLoss.label>
+  <BloodLoss.stages.minor-0.label>small amounts</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-1.label>Small</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.moderate.label>average</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.severe.label>lot of</BloodLoss.stages.severe.label>
+  <BloodLoss.stages.extreme.label>dose lethal</BloodLoss.stages.extreme.label>
+  <Anesthetic.label>prevention of</Anesthetic.label>
+  <CatatonicBreakdown.label>not strong tonic</CatatonicBreakdown.label>
+  <CatatonicBreakdown.labelNoun>Weak Feed</CatatonicBreakdown.labelNoun>
+  <PsychicShock.label>mental suffering</PsychicShock.label>
+  <PsychicShock.labelNoun>mental shock</PsychicShock.labelNoun>
+  <CryptosleepSickness.label>Snow on the sick bed</CryptosleepSickness.label>
+  <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+  <FoodPoisoning.stages.recovering.label>Safety</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.major.label>great</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.initial.label>The first signs</FoodPoisoning.stages.initial.label>
+  <ToxicBuildup.label>To get poison</ToxicBuildup.label>
+  <ToxicBuildup.stages.initial-0.label>without symptoms</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-1.label>first</ToxicBuildup.stages.initial-1.label>
+  <ToxicBuildup.stages.minor.label>Home</ToxicBuildup.stages.minor.label>
+  <ToxicBuildup.stages.moderate.label>in</ToxicBuildup.stages.moderate.label>
+  <ToxicBuildup.stages.serious.label>Weight</ToxicBuildup.stages.serious.label>
+  <ToxicBuildup.stages.extreme.label>despicable</ToxicBuildup.stages.extreme.label>
+  <Pregnant.label>pregnancy</Pregnant.label>
+  <Pregnant.labelNoun>pregnancy</Pregnant.labelNoun>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>Omedeta {0}! </Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} was the only basket</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <Pregnant.stages.earlystage.label>beginning</Pregnant.stages.earlystage.label>
+  <Pregnant.stages.middlestage.label>Transitional</Pregnant.stages.middlestage.label>
+  <Pregnant.stages.latestage.label>Last month there</Pregnant.stages.latestage.label>
+  <HeartAttack.label>Infarct</HeartAttack.label>
+  <HeartAttack.labelNoun>E-mail</HeartAttack.labelNoun>
+  <HeartAttack.stages.painful.label>Pain</HeartAttack.stages.painful.label>
+  <HeartAttack.stages.debilitating.label>weakness</HeartAttack.stages.debilitating.label>
+  <HeartAttack.stages.fatal.label>Deadly</HeartAttack.stages.fatal.label>
+  <DrugOverdose.label>drug overdose</DrugOverdose.label>
+  <DrugOverdose.labelNoun>the atmosphere too much</DrugOverdose.labelNoun>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} the overdose</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <DrugOverdose.stages.minor-0.label>(pe)</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-1.label>M</DrugOverdose.stages.minor-1.label>
+  <DrugOverdose.stages.major.label>difficult</DrugOverdose.stages.major.label>
+  <ResurrectionSickness.label>impact CPR</ResurrectionSickness.label>
+</LanguageData>

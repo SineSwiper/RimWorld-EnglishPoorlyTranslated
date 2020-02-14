@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>Colonies in space</ColonistMood.label>
+  <!-- EN: debug -->
+  <Debug.label>Visitation</Debug.label>
+  <!-- EN: population -->
+  <Population.label>And mountains</Population.label>
+  <!-- EN: wealth -->
+  <Wealth.label>Wealth</Wealth.label>
+</LanguageData>

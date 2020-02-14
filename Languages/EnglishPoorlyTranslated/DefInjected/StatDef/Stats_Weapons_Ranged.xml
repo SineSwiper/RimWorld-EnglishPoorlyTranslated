@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Precision (long)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>The accuracy of the guns at a distance of 40 or more cells. Hit probability and more.</AccuracyLong.description>
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>True (wednesday)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Precision-guided weapons, and 25 cells of distance. Perhaps with good by killing other conditions.</AccuracyMedium.description>
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Things (short)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>This weapon range and accuracy 12 cells. Pulse rate is related to other things become.</AccuracyShort.description>
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Accuracy (aml)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Accuracy beyond 3 cells such weapons. Shooting probably other factors.</AccuracyTouch.description>
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>Termination</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>How long is this weapon ready for the next shot.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0}</RangedWeapon_Cooldown.formatString>
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>The loss ratio</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Too bad wage, used for the purpose of weapons.</RangedWeapon_DamageMultiplier.description>
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿//Example: "Das Tragen von ..."
+
+Head
+Shirts
+Tuxedo shirt
+Dress shirt
+Jackets
+Robot
+Raincoats
+Raincoat
+Suit
+Clothes
+Evening dress
+1
+Quarter
+Parks
+Dust
+Fabric
+Suitable
+Space
+Energy weapons
+Military power
+Flight
+Flights
+Tour
+Tourism
+He sold
+Vote
+Stream
+Braces
+Gard
+Secure
+Bombín
+Derby
+Baseball
+Baseball caps
+Plaited
+Nitaviara
+Cylinder
+Box
+Chair
+Shoe
+Hoof it
+Walking
+Shoes
+Shoe
+Gloves
+Glove
+Nightwear
+Nighties
+Socks
+Brunette
+Sweater
+T-shirt
+Sunglasses
+Specs
+Clothes
+Cloth

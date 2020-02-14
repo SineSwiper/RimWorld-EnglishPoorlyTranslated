@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Audiovisuals -->
+  <Audiovisuals>Sound</Audiovisuals>
+  <GameVolume>Sheer persistence</GameVolume>
+  <MusicVolume>Music noise floor</MusicVolume>
+  <AmbientVolume>The size of the surrounding</AmbientVolume>
+  <Antialiasing>Preface</Antialiasing>
+  <!-- Gameplay -->
+  <EdgeScreenScroll>On the edge of the screen to move the mouse</EdgeScreenScroll>
+  <PauseOnLoad>Relax in the open</PauseOnLoad>
+  <PauseOnUrgentLetter>You can read the emergency stop</PauseOnUrgentLetter>
+  <CustomCursor>Usually labeler</CustomCursor>
+  <HatsShownOnlyOnMap>Map game map only shows</HatsShownOnlyOnMap>
+  <UIScale>Web scale</UIScale>
+  <KeyboardConfig>Music composition</KeyboardConfig>
+  <ChooseLanguage>Language selection</ChooseLanguage>
+  <ResetAdaptiveTutor>Exchange training assistant</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Manual was revised. And all this from the beginning, we will learn lessons.</AdaptiveTutorIsReset>
+  <RunInBackground>Bike after</RunInBackground>
+  <DevelopmentMode>Events? way</DevelopmentMode>
+  <ResetModsConfigOnCrash>Mods injured automatic configuration reset</ResetModsConfigOnCrash>
+  <LogVerbose>Registration</LogVerbose>
+  <OpenSaveGameDataFolder>Application data open help</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>Data page of savings income</ShowSaveGameDataLocation>
+  <NamesYouWantToSee>Choice characters created personalities. These characters would be more likely to occur from time to time during the game:</NamesYouWantToSee>
+  <AddName>Add</AddName>
+  <TypeFirstNickOrLastName>Enter the name, nickname, or a last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already a priority list.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Storytelling system</ChangeStoryteller>
+  <AutosaveInterval>Autosave november</AutosaveInterval>
+  <TemperatureMode>In the case of temperature</TemperatureMode>
+  <ShowRealtimeClock>Real-time clock</ShowRealtimeClock>
+  <MaxNumberOfPlayerSettlements>Maximum size of the colony {0}</MaxNumberOfPlayerSettlements>
+  <PlantWindSway>Wind equipment sector</PlantWindSway>
+  <EnableTestMapSizes>Map size to allow testing</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>Auto, permadeath more {0} day long.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>The settings</ModSettings>
+  <PermanentlyDisableDevMode>Cancel the government development</PermanentlyDisableDevMode>
+  <!-- Resolution -->
+  <Resolution>Zealously</Resolution>
+  <Fullscreen>Full screen</Fullscreen>
+  <!-- Mods -->
+  <SelectMod>Selection ...</SelectMod>
+  <NoConfigurableMods>The script does not work samples approval.</NoConfigurableMods>
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>Restore default settings</RestoreToDefaultSettings>
+  <ResetAndRestart>Options are reset. The game is now automatically restored.</ResetAndRestart>
+</LanguageData>

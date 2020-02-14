@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fabric -->
+  <Fabric.label>cloth</Fabric.label>
+  <!-- EN: leathery -->
+  <Leathery.label>leather</Leathery.label>
+  <!-- EN: metallic -->
+  <Metallic.label>bronze</Metallic.label>
+  <!-- EN: stony -->
+  <Stony.label>stone</Stony.label>
+  <!-- EN: woody -->
+  <Woody.label>wood</Woody.label>
+</LanguageData>
