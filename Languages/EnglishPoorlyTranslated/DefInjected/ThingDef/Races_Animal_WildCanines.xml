@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: arctic fox -->
-  <Fox_Arctic.label>Fox</Fox_Arctic.label>
   <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
   <Fox_Arctic.description>Little hunter, the icy wind. It's a bit like a mouse in deep snow sometimes as small animal protein.</Fox_Arctic.description>
   <!-- EN: left claw -->
@@ -10,8 +8,6 @@
   <Fox_Arctic.tools.right_claw.label>Right foot</Fox_Arctic.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Arctic.tools.head.label>Head</Fox_Arctic.tools.head.label>
-  <!-- EN: fennec fox -->
-  <Fox_Fennec.label>Desert fox</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
   <Fox_Fennec.description>Small fox in north africa, in the original part of the year. Hunting male beings and have large ears for cooling in hot weather.</Fox_Fennec.description>
   <!-- EN: foxmeat -->
@@ -22,8 +18,6 @@
   <Fox_Fennec.tools.right_claw.label>right</Fox_Fennec.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Fennec.tools.head.label>Head</Fox_Fennec.tools.head.label>
-  <!-- EN: red fox -->
-  <Fox_Red.label>Red fox</Fox_Red.label>
   <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
   <Fox_Red.description>Dakar average small fish, a little more meat. Because they were able to destroy all chicken farmers in the current, say the wolves.</Fox_Red.description>
   <!-- EN: left claw -->
@@ -32,8 +26,6 @@
   <Fox_Red.tools.right_claw.label>right paw</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Red.tools.head.label>Head</Fox_Red.tools.head.label>
-  <!-- EN: warg -->
-  <Warg.label>Wogeu</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
   <Warg.description>-muscled sound bites an animal with artificial nails, or the wolf. They only stocks to clark and bonds. Disruption of the desert, they are frequently attacked.\n\nTo create a dominant population of baby animals bred wargs military scientists have found. See ancient materials, the wrath of god. You can only eat meat or meat.</Warg.description>
   <!-- EN: left claw -->
@@ -44,8 +36,6 @@
   <Warg.tools.razorfangs.label>sharp teeth</Warg.tools.razorfangs.label>
   <!-- EN: head -->
   <Warg.tools.head.label>Head</Warg.tools.head.label>
-  <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>Monster polar</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
   <Wolf_Arctic.description>Polar-variant of the ancient world, the wolf. As a wolf pack animals have a complex social life, but also very clever.</Wolf_Arctic.description>
   <!-- EN: left claw -->
@@ -54,8 +44,6 @@
   <Wolf_Arctic.tools.right_claw.label>thumbs</Wolf_Arctic.tools.right_claw.label>
   <!-- EN: head -->
   <Wolf_Arctic.tools.head.label>On</Wolf_Arctic.tools.head.label>
-  <!-- EN: timber wolf -->
-  <Wolf_Timber.label>Timberwolf</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
   <Wolf_Timber.description>Hunter savage, the fear of many ancient cultures from time immemorial. As pack animals, dogs, foxes, and life is tough and very smart.</Wolf_Timber.description>
   <!-- EN: wolfmeat -->

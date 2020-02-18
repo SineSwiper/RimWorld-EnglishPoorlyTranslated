@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Joy.label>funny</Joy.label>
+  <!-- WakeUp.xml -->
+  <Chemical_WakeUp.label>Follow</Chemical_WakeUp.label>
+  <Chemical_WakeUp.description>To avoid cancellation of the pro-sleep, which is standard size.</Chemical_WakeUp.description>
+  <!-- Smokeleaf.xml -->
+  <Chemical_Smokeleaf.label>Flue sheet</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>Leaf symptoms of cigarette smoke, why not stop for alcohol, need solid medication.</Chemical_Smokeleaf.description>
+  <!-- Psychite_Yayo.xml -->
+  <Chemical_Psychite.label>flag</Chemical_Psychite.label>
+  <Chemical_Psychite.description>Always trying to smoke according to psychiatrists for the needs of treat symptoms.</Chemical_Psychite.description>
+</LanguageData>

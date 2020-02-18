@@ -6,7 +6,7 @@
   <LowerPriority>under de adline</LowerPriority>
   <RelevantSkills>Associated Skills: {0}\n{1} with ordinary skill / {2}</RelevantSkills>
   <ClickToJumpTo>Click on the go.</ClickToJumpTo>
-  <CannotDoThisWork>{} 1_labelShort can not do this kind of work.</CannotDoThisWork>
+  <CannotDoThisWork>{1_labelShort} can not do this kind of work.</CannotDoThisWork>
   <NoneBrackets>(or)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>Colon, you can work for this guy for his health.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>IN</EmergencyWorkMarker>
@@ -59,7 +59,7 @@
   <!-- History tab - Messages -->
   <ShowLetters>A letter</ShowLetters>
   <ShowMessages>Monitor comments</ShowMessages>
-  <PinArchivableTip>Share or condition.\n\nUnpinned old notes automatically holoi'ia the table after coming to the end of the, 0} messages.</PinArchivableTip>
+  <PinArchivableTip>Share or condition.\n\nUnpinned old notes automatically deleted the table after coming to the end of the, {0} messages.</PinArchivableTip>
   <NoMessages>message</NoMessages>
   <!-- History tab - Statistics -->
   <Playtime>Game time</Playtime>

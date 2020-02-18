@@ -23,7 +23,7 @@
   <!-- EN: bedroll -->
   <Bedroll.label>Sleep</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>Single bed where you can sleep on the floor. This is usually a fabric or leather and the interior often, even once. Sleeping bag is lightweight and can be removed from the transport. But he was not real comfortable bed. You can use the bag sarthavahakasanghannal sleep.</Bedroll.description>
+  <Bedroll.description>Single bed where you can sleep on the floor. This is usually a fabric or leather and the interior often, even once. Sleeping bag is lightweight and can be removed from the transport. But he was not real comfortable bed. Karwan can use to sleep better shoes.</Bedroll.description>
   <!-- EN: double bedroll -->
   <BedrollDouble.label>Big sleep</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
@@ -48,10 +48,6 @@
   <EndTable.label>Stands</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>Bed and a small table. Why a bed expensive recently. Placed on the bed. No additional effect of setting the table for each bed.</EndTable.description>
-  <!-- EN: hospital bed -->
-  <HospitalBed.label>Sickbed</HospitalBed.label>
-  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>The bed is designed for a specific hospital. To adjust the built-in tools and patient. How to improve the effectiveness of medical procedures a normal country.</HospitalBed.description>
   <!-- EN: plant pot -->
   <PlantPot.label>Flower</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
@@ -83,7 +79,7 @@
   <!-- EN: standing lamp (red) -->
   <StandingLamp_Red.label>Lamp (red)</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description> it is a red floor lamp in the irradiated volume. People go to high-speed and light.</StandingLamp_Red.description>
+  <StandingLamp_Red.description>It is a red floor lamp in the irradiated volume. People go to high-speed and light.</StandingLamp_Red.description>
   <!-- EN: stool -->
   <Stool.label>Chair</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->

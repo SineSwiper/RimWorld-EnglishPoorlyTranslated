@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>Hand artshotetsh</ArchotechArm.label>
+  <ArchotechArm.label>view box</ArchotechArm.label>
   <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechArm.description>An archotech advanced artificial arm. Weigh in the branch, and it is a grain of rice, write a sonnet quite so strong that right. It looks and feels like a natural hand and stronger than plasteel. It also comes at the time of the injury and the amendment itself. Each inner researchers remains a mystery.</ArchotechArm.description>
+  <ArchotechArm.description>Wristwatch. Sunyt grain cngbhnhua wrote powerful enough to smash the thick tree trunk with his right hand. It has the shape and feel of natural flesh, but can withstand plastocell damage. Even if it is damaged, repair it for a long time. Secret mission locals.</ArchotechArm.description>
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>Archotech around</ArchotechEye.label>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
   <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
-  <ArchotechEye.description>Archotech obtained advanced artificial eye. It covers all types of electromagnetic radiation, such as. Radio waves, infrared light, natural light, x-ray and gamma radiation. You're on stage will be enough to read 20-meter resolution. A flash and a little different wavelengths al, which can be sent to support the assessment of visual information. As in normal human eye takes it, they can change the color for you. Scientists are still a mystery to work on internal and humans.</ArchotechEye.description>
+  <ArchotechEye.description>Archotech makes the artificial eye. This is a radio infrastructure, including x-ray and gamma rays for all types of electromagnetic radiation, will be accepted. Rev. accurate enough to read the text of twenty meters. It will have a different height, and will help to focus the radiation information see ai. It looks like a lyasarha the environment, you can change the format you want. Categories in the secrets of the human mind.</ArchotechEye.description>
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>Archotech legs</ArchotechLeg.label>
+  <ArchotechLeg.label>archotech foot</ArchotechLeg.label>
   <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechLeg.description>Prepare development archotech artificial leg. It looks and feels like a natural leg, but a few feet of the car customers know better, and is more difficult to plasteel. If the damage is repaired automatically. All researchers work secret.</ArchotechLeg.description>
+  <ArchotechLeg.description>The artificial advantage is made by a lathe. He has a kind of natural meat, but the legs are a good car and the consumer to move quickly with some plastic permanent damage. A short time later, however, after they were damaged, storage. Inside the kitchen there is a secret hidden from people's minds.</ArchotechLeg.description>
   <!-- EN: bionic arm -->
-  <BionicArm.label>bionic hand</BionicArm.label>
+  <BionicArm.label>a control arm</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>Prosthetic hands first. Mini servos do quiet but intense yesterday when connected to pheriferale biogel provides full control. Dust healing system damage repair suffered niyalthe in the crystal. Better biological control in all directions.</BionicArm.description>
+  <BionicArm.description>A modern artificial arm. The suppressed mini servo provides high immunity and the biogel nerve ligand provides excellent control. The network allows for regenerative healing benefits. In general is a good way to walk.</BionicArm.description>
   <!-- EN: bionic ear -->
-  <BionicEar.label>Bionic ear</BionicEar.label>
+  <BionicEar.label>bionic ear</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>Advanced artificial ear. Infrared and ultrasonic byogel interface distance in conjunction with the lower skin sensory nerves for transferring kelly directing broadband detector. You can hear before you see a cat. Loud noises that can not, and people can be very interesting topic of conversation in the room will filter out. It surpasses all aspects of biological ears.</BionicEar.description>
+  <BionicEar.description>Advanced artificial ears. Group can not accept and listen directly through the cover to silent laminar frequency ultrasonic sound sound frequencies are susceptible to developing a wide range of skin. With this you can listen before you see the cat. Sounds can raise, and you can be in and around an interesting discussion of the filter. He has heard more than he really is.</BionicEar.description>
   <!-- EN: bionic eye -->
-  <BionicEye.label>Bionic Eye</BionicEye.label>
+  <BionicEye.label>bionic eye</BionicEye.label>
   <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>Advanced artificial eyes. Chat nervous biogel, and the production of high-wideband sensors, and has all of the affected eye. The system is available to him to restore the damaged crystal grid healing substance.</BionicEye.description>
+  <BionicEye.description>Advanced artificial eye. With biogelska inside cover of the dense inner part of the process sensor and multiple sensor, rather than the natural eye. Create a new program to increase the network to get any back injury.</BionicEye.description>
   <!-- EN: bionic heart -->
-  <BionicHeart.label>Electronic heart</BionicHeart.label>
+  <BionicHeart.label>cinema satisfied</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>Advanced built. Muscle fiber syntetische fast flow of high-pressure pumps and affordable prices. More liluwelo the core of the way.</BionicHeart.description>
+  <BionicHeart.description>Dilek privacy. Synthetigeach muscle fibers of the heartbeat achieve a reasonable pump and a high degree of rapid weight distribution. Almost all the way, better than the natural heart.</BionicHeart.description>
   <!-- EN: bionic leg -->
-  <BionicLeg.label>science</BionicLeg.label>
+  <BionicLeg.label>foot</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>Leg up. It is built to take the dust of crystalline structure to repair the overall control of the system and connect the mini silent servant bio-gel nerve treatment is good in all respects biological foot.</BionicLeg.description>
+  <BionicLeg.description>The new artificial leg. The relationship in neural biogels, cumin servos and eye treatment to improve the system better biological steps in almost every way.</BionicLeg.description>
   <!-- EN: bionic spine -->
-  <BionicSpine.label>Bionic backbone</BionicSpine.label>
+  <BionicSpine.label>june spine</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>Enables artificial spine. Byogel bunch plasteel mobile base, which is surrounded by crystal powder medicine. It is compatible with the wiring of telecommunications biology.</BionicSpine.description>
+  <BionicSpine.description>Advanced artificial spine. Plato imitate a part of the main reasons for the treatment of the eye to create a procedure, plasysyru nervous bayyujl. Adjust the performance of biological columns.</BionicSpine.description>
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>Bionic Pet</BionicStomach.label>
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>An efficient built in. Almost all food and energy will be equipped with various sensors and process chemical manufacturers. In addition, the crystal damage caused by dust and strong acids. Each method is a high organic stomach.</BionicStomach.description>
+  <BionicStomach.description>Good artificial stomach. The heat transfer system, and needs an sintezatorhoi already in force, unless he has the power to digest the food 's good health. Regenerative as a harmful pollutant system, it is regulated by kidney failure. Better than almost organic crops.</BionicStomach.description>
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>Cochlear implants</CochlearImplant.label>
+  <CochlearImplant.label>cochlear implants</CochlearImplant.label>
   <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
-  <CochlearImplant.description>Spoon members receive as many as are artificial, with the power that is converted, there is sound, and delivered them to the line hohrnerv agreed with him. It is not close to natural taub. better.</CochlearImplant.description>
+  <CochlearImplant.description>Directly into the sound of electrical signals and transmittance biting nerve that the implantachadh cochlear hearing. It's not as good as organic mines, but snow is better.</CochlearImplant.description>
   <!-- EN: heart -->
-  <Heart.label>Heart</Heart.label>
+  <Heart.label>heart</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>Biological heart. I check the blood bank.</Heart.description>
+  <Heart.description>Human father. Coat with blood in different parts of the body.</Heart.description>
   <!-- EN: kidney -->
-  <Kidney.label>Kidney</Kidney.label>
+  <Kidney.label>kidney</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>Live kidney. It, filtering, and clean the blood until the slag is.</Kidney.description>
+  <Kidney.description>Board members. Remove waste from the blood spots.</Kidney.description>
   <!-- EN: liver -->
-  <Liver.label>Liver</Liver.label>
+  <Liver.label>liver</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>Liver blood. He played an important role in the body's metabolism.</Liver.description>
+  <Liver.description>Human liver. Plays an important role in metabolism.</Liver.description>
   <!-- EN: lung -->
-  <Lung.label>Pneumonia</Lung.label>
+  <Lung.label>pulmonary</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>Lung biology. Two central organs of the human respiratory system and lungs.</Lung.description>
+  <Lung.description>And a lung man. These two things are the essence of human breathing.</Lung.description>
   <!-- EN: power claw -->
-  <PowerClaw.label>How does it takes</PowerClaw.label>
+  <PowerClaw.label>hydraulic crane</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
-  <PowerClaw.description>Battle of the books optimized claws. It may be a war grave and an explosion of raw egg cortex is an attractive small server. The leaves are collected, but check into almost real contribution to daily life.</PowerClaw.description>
+  <PowerClaw.description>Fight new guide includes three blades for situations where a blood clot. War is cruel and powerful love broken egg maynsruus biological arms. The blade can be removed while massaging the face until effective use of electrical work for non-combat work.</PowerClaw.description>
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>Prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>unjustified part</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>Simple but almonds. It is closer to the sensor fault, but often confused allow normal movement. But the actual hands as well.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>Simply. Although related to the properties in a location to offer a very flexible joint to allow moving conditions. However, less than clean feet.</SimpleProstheticArm.description>
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>Artificial heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>heart</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>Artificial heart. Electricity pump blood through the body. Rrapputaw customers stop quickly but it is better than the other.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>Heart of hearts. This electric motor is that the flow of blood through the body. Users often report fatigue, but it's better than nothing.</SimpleProstheticHeart.description>
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>Prosthetic legs</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>artificial limb</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>A flexible prosthetic leg. Although he did not find the neural connection to nearly normal movement allows the formation of the complex. But is it really as good legs.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>Shaped legs. The neutral interface and the complex distribution of internal joint is probably natural way to go despite missing imitation. Although it too was less than a quarter of the original.</SimpleProstheticLeg.description>
 </LanguageData>

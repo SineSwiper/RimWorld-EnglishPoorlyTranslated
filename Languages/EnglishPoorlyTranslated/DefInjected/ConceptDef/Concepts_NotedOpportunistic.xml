@@ -3,7 +3,7 @@
   <!-- EN: Animals don't attack doors -->
   <AnimalsDontAttackDoors.label>Animals are attacking the door</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>The animals often turn to the gate tower or menschenjagende without work.\n\nWhen the going gets rough, or run away or hidden in your room you can not wall. They are waiting for you, however, please take note.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>The animals often turn to the gate tower or curry without work.\n\nWhen the going gets rough, or run away or hidden in your room you can not wall. They are waiting for you, however, please take note.</AnimalsDontAttackDoors.helpText>
   <!-- EN: Bills tab -->
   <BillsTab.label>Tab works</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->

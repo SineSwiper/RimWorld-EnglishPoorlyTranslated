@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--> SpeedOffset <-->
-  <SpeedOffset.degreeDatas.slowpoke.label>鈍足</SpeedOffset.degreeDatas.slowpoke.label>
-  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] if there were no matter where, you, there, I have always been a focus of the group.</SpeedOffset.degreeDatas.slowpoke.description>
-  <SpeedOffset.degreeDatas.fast_walker.label>no way</SpeedOffset.degreeDatas.fast_walker.label>
-  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] favorite place for open shame. [PAWN_pronoun] back faster than most people.</SpeedOffset.degreeDatas.fast_walker.description>
-  <SpeedOffset.degreeDatas.jogger.label>小走り</SpeedOffset.degreeDatas.jogger.label>
-  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] not always able to cope with stress and activity is the feelings of others.</SpeedOffset.degreeDatas.jogger.description>
+  <SpeedOffset.degreeDatas.slowpoke.label>a father</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] where he was, who was always in place because of the waiting group.</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.fast_walker.label>journey of</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.description>You go where you want, [PAWN_nameDef] is. [PAWN_pronoun] most people are on.</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.jogger.label>Trott</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] tackles always a sense of stress that does not need to follow others.</SpeedOffset.degreeDatas.jogger.description>
   <!--> DrugDesire <-->
-  <DrugDesire.degreeDatas.chemical_fascination.label>drag addict</DrugDesire.degreeDatas.chemical_fascination.label>
-  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef], pharmaceutical [PAWN_pronoun] as has been overshadowed, they consume very satisfied there are no other drugs, which were often lost. fun [PAWN_pronoun] authorized to use the pulling shiranpuri.</DrugDesire.degreeDatas.chemical_fascination.description>
-  <DrugDesire.degreeDatas.chemical_interest.label>drag addicts</DrugDesire.degreeDatas.chemical_interest.label>
-  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef], drugs are not the most expensive resort .[PAWN_pronoun] seems to have been lost and many more, often enough for use with other medicines. [PAWN_pronoun] shiranpur fun money will be able to pull.</DrugDesire.degreeDatas.chemical_interest.description>
-  <DrugDesire.degreeDatas.teetotaler.label>hate milk</DrugDesire.degreeDatas.teetotaler.label>
-  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] evil hatred for the pleasure of easy access to alcohol and drug avoidance.</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.chemical_fascination.label>Depending Drug</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] are very pleased with pleasure can satisfy [PAWN_pronoun] drugs and generally pleased with the adoption of other drugs. it will also be suspended taking the drug, and still is.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_interest.label>come addiction</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.description>To attract [PAWN_nameDef] more enjoyable. [PAWN_pronoun], their vacations, they often harainchan, not to abuse the medication, they are helping others. [PAWN_pronoun] shiranpuri wants to ban dragged entertainment.</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.teetotaler.label>hatred draw</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] strongly hates the vivid idea of taking drugs and drugs and alcohol.</DrugDesire.degreeDatas.teetotaler.description>
   <!--> NaturalMood <-->
-  <NaturalMood.degreeDatas.sanguine.label>Akkerakan</NaturalMood.degreeDatas.sanguine.label>
-  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef], which [PAWN_possessive] work, it paid no more attention, be returned to a happy birthday.</NaturalMood.degreeDatas.sanguine.description>
-  <NaturalMood.degreeDatas.optimist.label>optimistic</NaturalMood.degreeDatas.optimist.label>
-  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef], difficult birth, life is optimistic feeling sad .[PAWN_possessive].</NaturalMood.degreeDatas.optimist.description>
-  <NaturalMood.degreeDatas.pessimist.label>pessimist</NaturalMood.degreeDatas.pessimist.label>
-  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] life often look bad to worse.</NaturalMood.degreeDatas.pessimist.description>
-  <NaturalMood.degreeDatas.depressive.label>depression</NaturalMood.degreeDatas.depressive.label>
-  <NaturalMood.degreeDatas.depressive.description>Unfortunately, despite the constant noise [PAWN_nameDef] .[PAWN_pronoun] felt good all the way, you do not need to worry.</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.sanguine.label>amazement</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] happy birthday to someone who rarely comes to mind in the [PAWN_possessive] case.</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.optimist.label>who hope</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] born optimist lives. this movement can squeeze a rocky [PAWN_possessive] mood.</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.pessimist.label>Pessimistic</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] tend to see the lives of the poor and sick.</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.depressive.label>smiley</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] continued until the dissent. [PAWN_pronoun], even when things go well, you have to go a long way in preparing good thoughts.</NaturalMood.degreeDatas.depressive.description>
   <!--> Nerves <-->
-  <Nerves.degreeDatas.ironwilled.label>trust</Nerves.degreeDatas.ironwilled.label>
-  <Nerves.degreeDatas.ironwilled.description>Total [PAWN_nameDef] a shield made of metal. well, the other parent [PAWN_pronoun] something even yaritoge.</Nerves.degreeDatas.ironwilled.description>
-  <Nerves.degreeDatas.steadfast.label>faith</Nerves.degreeDatas.steadfast.label>
-  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef], both a strong mind in which the environment is being stressed in many of them.</Nerves.degreeDatas.steadfast.description>
-  <Nerves.degreeDatas.nervous.label>flannel</Nerves.degreeDatas.nervous.label>
-  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] have a tendency opposite to the applied rate and pressure.</Nerves.degreeDatas.nervous.description>
-  <Nerves.degreeDatas.volatile.label>mental instability</Nerves.degreeDatas.volatile.label>
-  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] spirit is always simple [PAWN_pronoun] soft, first I want life if there is a serious fault.</Nerves.degreeDatas.volatile.description>
+  <Nerves.degreeDatas.ironwilled.label>iron</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef] said the will of the iron. [PAWN_pronoun] exceeded what the previous Yaritoge even if you do not know.</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.steadfast.label>Men of faith</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef], most of the people who were near liver stress, but also the environment in miles of strong brains.</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.nervous.label>series</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] tends to rest under pressure.</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.volatile.label>Mental instability</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.description>While in the spirit of [PAWN_nameDef], [PAWN_pronoun] often breaks down easily the most painful when we break the wind first.</Nerves.degreeDatas.volatile.description>
   <!--> Neurotic <-->
-  <Neurotic.degreeDatas.neurotic.label>神経質</Neurotic.degreeDatas.neurotic.label>
-  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] case is ready for. other people are just too many problems to nerves [PAWN_pronoun] [PAWN_possessive] [PAWN_possessive] gives the best of things.</Neurotic.degreeDatas.neurotic.description>
-  <Neurotic.degreeDatas.very_neurotic.label>is neuroza</Neurotic.degreeDatas.very_neurotic.label>
-  <Neurotic.degreeDatas.very_neurotic.description>That is something [PAWN_nameDef] yaritoge, use, and care must be taken. works [PAWN_pronoun], but it is easy to extract a more difficult situation than the other concern [PAWN_possessive].</Neurotic.degreeDatas.very_neurotic.description>
+  <Neurotic.degreeDatas.neurotic.label>confusion</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.description>Prepare [PAWN_nameDef] news about [PAWN_pronoun] [PAWN_possessive] things from others to bring great [PAWN_possessive].</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.label>nervous bread</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] is another must yaritoge for you, take care of the locals. [PAWN_pronoun] is about the right things, but there is a problem especially with some of the [PAWN_possessive] point, a good place to go out easily.</Neurotic.degreeDatas.very_neurotic.description>
   <!--> Industriousness <-->
-  <Industriousness.degreeDatas.industrious.label>crafts</Industriousness.degreeDatas.industrious.label>
-  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] good work and continue to focus on the workplace. and more than the average person can finish early.</Industriousness.degreeDatas.industrious.description>
-  <Industriousness.degreeDatas.hard_worker.label>勤労者</Industriousness.degreeDatas.hard_worker.label>
-  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] born hard. you can work harder than the average person.</Industriousness.degreeDatas.hard_worker.description>
-  <Industriousness.degreeDatas.lazy.label>lazy habits</Industriousness.degreeDatas.lazy.label>
-  <Industriousness.degreeDatas.lazy.description>Some stations [PAWN_nameDef].</Industriousness.degreeDatas.lazy.description>
-  <Industriousness.degreeDatas.slothful.label>怠け者</Industriousness.degreeDatas.slothful.label>
-  <Industriousness.degreeDatas.slothful.description>It seems that doodling [PAWN_nameDef]. I hate it, but slowly. [PAWN_possessive] witness rarely see a working model focused.</Industriousness.degreeDatas.slothful.description>
+  <Industriousness.degreeDatas.industrious.label>fashion</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] continued focus on the quality of work at the workplace. And more than the average, you can do it before the work is completed.</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.hard_worker.label>staff</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] was born a great worker. You more quickly than others can work.</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.lazy.label>Lazy</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.description>Many little [PAWN_nameDef].</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.slothful.label>Lethargy</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] will have toy designs. What you hate. [PAWN_possessive] in progress, may not be policy in the room.</Industriousness.degreeDatas.slothful.description>
   <!--> PsychicSensitivity <-->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>Spirit of hypersensitivity</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>Followers of mind part of me phenomena, such as a very sensitive heart tuning fork [PAWN_nameDef] .[PAWN_pronoun]:</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>Sensitive revealed</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>Very sensitive [PAWN_nameDef] mind the psychic event.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
-  <PsychicSensitivity.degreeDatas.psychically_dull.label>Géigestand lost sick</PsychicSensitivity.degreeDatas.psychically_dull.label>
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] spiritual sensitivity really remember him. psychological soothsayers [PAWN_pronoun].</PsychicSensitivity.degreeDatas.psychically_dull.description>
-  <PsychicSensitivity.degreeDatas.psychically_deaf.label>nonresponse mind</PsychicSensitivity.degreeDatas.psychically_deaf.label>
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef] spirit found in a population and different frequencies. mental phenomena affect [PAWN_pronoun].</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>hyperacusis</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef] ideas like fork alcohol convention convention. [PAWN_pronoun] spectacular spectacular.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>know the mind</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>The [PAWN_nameDef]s event of spirit.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>Mental sensitivity</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>Spiritual sensitivity [PAWN_nameDef] decent monitor. [PAWN_pronoun] related to mental phenomenon.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>a carefree attitude</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>And others react to different frequencies [PAWN_nameDef] probably conscience. [PAWN_pronoun] no effect on physiological events.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   <!--> Trriger-Happy <-->
-  <ShootingAccuracy.degreeDatas.careful_shooter.label>WARNING archer</ShootingAccuracy.degreeDatas.careful_shooter.label>
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>Time .[PAWN_pronoun] [PAWN_nameDef] set the target with a gun shooting frequency is set to less than the other, it is more accurate.</ShootingAccuracy.degreeDatas.careful_shooter.description>
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>happy flower</ShootingAccuracy.degreeDatas.triggerhappy.label>
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>Bang! Bang! [PAWN_nameDef] clear .[PAWN_pronoun] firing frequency than others, however, high, the sugar goal.</ShootingAccuracy.degreeDatas.triggerhappy.description>
-  <Beauty.degreeDatas.beautiful.label>美しい</Beauty.degreeDatas.beautiful.label>
-  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] friendly face can glue the line of sight, very good. people will have the opportunity to open his mouth [PAWN_pronoun] [PAWN_pronoun].</Beauty.degreeDatas.beautiful.description>
-  <Beauty.degreeDatas.pretty.label>可愛い</Beauty.degreeDatas.pretty.label>
-  <Beauty.degreeDatas.pretty.description>People face a great love [PAWN_nameDef].</Beauty.degreeDatas.pretty.description>
-  <Beauty.degreeDatas.ugly.label>醜い</Beauty.degreeDatas.ugly.label>
-  <Beauty.degreeDatas.ugly.description>This allows [PAWN_nameDef] nasty attitude of some discomfort to others.</Beauty.degreeDatas.ugly.description>
-  <Beauty.degreeDatas.staggeringly_ugly.label>Misshapen or consideration</Beauty.degreeDatas.staggeringly_ugly.label>
-  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] ugly amazing. [PAWN_possessive] faced with the appearance of children who join between them are not able abnormal, packaged in a bottle of preservative in the fetus, and photos of these works of contemporary art points. it comes to be seen as a deliberate. [PAWN_pronoun].</Beauty.degreeDatas.staggeringly_ugly.description>
-  <Immunity.degreeDatas.superimmune.label>Super impunity</Immunity.degreeDatas.superimmune.label>
-  <Immunity.degreeDatas.superimmune.description>Born [PAWN_nameDef], a strong desire not .[PAWN_pronoun] faster than ordinary people, and a person can survive even in patients.</Immunity.degreeDatas.superimmune.description>
-  <Immunity.degreeDatas.sickly.label>Impermeable</Immunity.degreeDatas.sickly.label>
-  <Immunity.degreeDatas.sickly.description>[PAWN_pronoun] luck because the disease often repeated vaccination [PAWN_nameDef] the disease, taking into colony.</Immunity.degreeDatas.sickly.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>Archer is interested</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] more guns in the goal setting. the other two times less than the rate of expulsion [PAWN_pronoun]qq. be more accurate.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>happy sweet</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Become famous! Become famous! [PAWN_nameDef] did want to pull the trigger. [PAWN_pronoun] Inner Sheep Aristaeus, with a high frequency, but is kinder than other populations.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <Beauty.degreeDatas.beautiful.label>beautiful</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] - it is surprisingly easy to skin and the field of view, the most beautiful. [PAWN_pronoun] appeals to people even before [PAWN_pronoun] opens its mouth.</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.pretty.label>Mild</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.description>Such a beautiful face [PAWN_nameDef].</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.ugly.label>terribly upset</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] is poor. It causes a certain disadvantage for some people in terms of people.</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.label>Severe</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] firmly conservative, a bag full of incredibly ugly children's faces, and the flawless [PAWN_possessive] works of contemporary art. During the discussion, the other organization should make a lot of effort to fill the [PAWN_pronoun]ik.</Beauty.degreeDatas.staggeringly_ugly.description>
+  <Immunity.degreeDatas.superimmune.label>At immunity</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] and a healthy immune system. [PAWN_pronoun] rapidly around the world will be able to receive the vaccine and other diseases can be prevented.</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.sickly.label>Immune deficiency</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.description>The immune system is terrible acuity [PAWN_nameDef] [PAWN_pronoun] easily than normal, sick, and no one in the colony is infected, you will need to repeat the death.</Immunity.degreeDatas.sickly.description>
 </LanguageData>

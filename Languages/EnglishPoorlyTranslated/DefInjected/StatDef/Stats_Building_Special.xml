@@ -4,8 +4,6 @@
   <BedRestEffectiveness.label>Ausruheffizienz</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
   <BedRestEffectiveness.description>How effective the bed.</BedRestEffectiveness.description>
-  <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>Door open list</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>How soon open the door. For those who want to avoid using the slower door.</DoorOpenSpeed.description>
   <!-- EN: immunity gain speed factor -->
@@ -20,8 +18,6 @@
   <MedicalTendQualityOffset.label>Quality of care</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
   <MedicalTendQualityOffset.description>These offset the cost, the quality of care.</MedicalTendQualityOffset.description>
-  <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>Search speed</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
   <ResearchSpeedFactor.description>Control speed is increased by this amount.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->

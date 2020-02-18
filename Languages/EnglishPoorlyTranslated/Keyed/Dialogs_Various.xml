@@ -2,8 +2,8 @@
 <LanguageData>
   <Confirm>Strong</Confirm>
   <GoBack>I want to hug</GoBack>
-  <OK>OK</OK>
-  <Close>Close</Close>
+  <OK>GOOD</OK>
+  <Close>Near</Close>
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld version of {0} {1}.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionSavesIncompatible>This can lead to action games and methods from the old version to disable.</GameUpdatedToNewVersionSavesIncompatible>

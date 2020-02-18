@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Transport -->
+  <Trainable_Haul.headerTip>Transportation</Trainable_Haul.headerTip>
+  <!-- EN: Gehorsam -->
+  <Trainable_Obedience.headerTip>Obedience</Trainable_Obedience.headerTip>
+  <!-- EN: Leine lösen -->
+  <Trainable_Release.headerTip>Loosen the belt</Trainable_Release.headerTip>
+  <!-- EN: Rettung -->
+  <Trainable_Rescue.headerTip>The rescue</Trainable_Rescue.headerTip>
+</LanguageData>

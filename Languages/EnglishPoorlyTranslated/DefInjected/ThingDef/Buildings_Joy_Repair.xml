@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Television (flat screen)</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>And clear picture frame and a strong and high technology. Receive signals from data satellites and data modules.</FlatscreenTelevision.description>
+  <!-- EN: telescope -->
+  <Telescope.label>Remote</Telescope.label>
+  <!-- EN: tube television -->
+  <TubeTelevision.label>Tv (video)</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>The sound of crt screen has a wide range of sound films. Even the holy holiday, old transmitter often send some interesting, at least early.</TubeTelevision.description>
+</LanguageData>

@@ -1,58 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Root.label>table of contents</Root.label>
-  <Foods.label>food</Foods.label>
-  <FoodMeals.label>finished</FoodMeals.label>
-  <FoodRaw.label>raw food diet</FoodRaw.label>
-  <MeatRaw.label>raw meat</MeatRaw.label>
-  <PlantFoodRaw.label>green vegetables</PlantFoodRaw.label>
-  <AnimalProductRaw.label>he says, a raw egg</AnimalProductRaw.label>
-  <EggsUnfertilized.label>Eggs (sterile)</EggsUnfertilized.label>
-  <EggsFertilized.label>Eggs (fertilized ova)</EggsFertilized.label>
-  <!-- Manufactured -->
-  <Manufactured.label>used goods</Manufactured.label>
-  <Textiles.label>clothing</Textiles.label>
-  <Leathers.label>skin</Leathers.label>
-  <Medicine.label>Medical</Medicine.label>
-  <Drugs.label>tractor</Drugs.label>
-  <MortarShells.label>mortar rounds</MortarShells.label>
-  <!-- Raw resources -->
-  <ResourcesRaw.label>raw materials</ResourcesRaw.label>
-  <PlantMatter.label>plant Materials</PlantMatter.label>
-  <StoneBlocks.label>stone</StoneBlocks.label>
-  <!--==================== Non-resource readout categories =====================-->
-
-    <!-- Items -->
-  <Items.label>goods</Items.label>
-  <Unfinished.label>Work in Progress</Unfinished.label>
-  <Artifacts.label>violation</Artifacts.label>
-  <BodyParts.label>prostheses</BodyParts.label>
-  <BodyPartsNatural.label>body</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>synthetic</BodyPartsArtificial.label>
-  <!-- Weapons -->
-  <Weapons.label>killing</Weapons.label>
-  <WeaponsMelee.label>Hand in hand combat weapon</WeaponsMelee.label>
-  <WeaponsRanged.label>weapons</WeaponsRanged.label>
-  <Grenades.label>weapon</Grenades.label>
-  <!-- Apparel -->
-  <Apparel.label>sheet</Apparel.label>
-  <Headgear.label>headdress</Headgear.label>
-  <Buildings.label>construction</Buildings.label>
-  <BuildingsArt.label>Conversation</BuildingsArt.label>
-  <BuildingsProduction.label>goods</BuildingsProduction.label>
-  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
-  <BuildingsPower.label>power</BuildingsPower.label>
-  <BuildingsSecurity.label>defense</BuildingsSecurity.label>
-  <BuildingsMisc.label>Otherwise</BuildingsMisc.label>
-  <BuildingsJoy.label>Fun</BuildingsJoy.label>
-  <BuildingsTemperature.label>Temperature ~~ POS = TRUNC</BuildingsTemperature.label>
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
-  <Chunks.label>because</Chunks.label>
-  <StoneChunks.label>stone</StoneChunks.label>
-  <!-- 死骸 -->
-  <Corpses.label>and body</Corpses.label>
-  <CorpsesHumanlike.label>human bodies</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>dead</CorpsesAnimal.label>
-  <CorpsesInsect.label>Dead insects</CorpsesInsect.label>
-  <CorpsesMechanoid.label>waste machine</CorpsesMechanoid.label>
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>Products of animal origin</AnimalProductRaw.label>
+  <!-- EN: artifacts -->
+  <Artifacts.label>Artifacts</Artifacts.label>
+  <!-- EN: body parts -->
+  <BodyParts.label>Body parts</BodyParts.label>
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>Artificial</BodyPartsArtificial.label>
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>Of course</BodyPartsNatural.label>
+  <!-- EN: buildings -->
+  <Buildings.label>Buildings</Buildings.label>
+  <!-- EN: art -->
+  <BuildingsArt.label>Art</BuildingsArt.label>
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>Furniture</BuildingsFurniture.label>
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>Exemption</BuildingsJoy.label>
+  <!-- EN: misc -->
+  <BuildingsMisc.label>Other</BuildingsMisc.label>
+  <!-- EN: power -->
+  <BuildingsPower.label>Current</BuildingsPower.label>
+  <!-- EN: production -->
+  <BuildingsProduction.label>Production</BuildingsProduction.label>
+  <!-- EN: security -->
+  <BuildingsSecurity.label>Security</BuildingsSecurity.label>
+  <!-- EN: special -->
+  <BuildingsSpecial.label>Special</BuildingsSpecial.label>
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>Heat</BuildingsTemperature.label>
+  <!-- EN: chunks -->
+  <Chunks.label>Part</Chunks.label>
+  <!-- EN: corpses -->
+  <Corpses.label>Body</Corpses.label>
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>Dead animals</CorpsesAnimal.label>
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>Human body</CorpsesHumanlike.label>
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>Insect dead</CorpsesInsect.label>
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>Officer mechanea'id</CorpsesMechanoid.label>
+  <!-- EN: drugs -->
+  <Drugs.label>Drugs</Drugs.label>
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>Eggs (respectively)</EggsFertilized.label>
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>Eggs (unbefr)</EggsUnfertilized.label>
+  <!-- EN: meals -->
+  <FoodMeals.label>Food</FoodMeals.label>
+  <!-- EN: raw food -->
+  <FoodRaw.label>Raw food</FoodRaw.label>
+  <!-- EN: foods -->
+  <Foods.label>The food</Foods.label>
+  <!-- EN: grenades -->
+  <Grenades.label>Bombings</Grenades.label>
+  <!-- EN: headgear -->
+  <Headgear.label>Head-gear</Headgear.label>
+  <!-- EN: items -->
+  <Items.label>Arts</Items.label>
+  <!-- EN: leathers -->
+  <Leathers.label>Shoe</Leathers.label>
+  <!-- EN: manufactured -->
+  <Manufactured.label>Ready</Manufactured.label>
+  <!-- EN: meat -->
+  <MeatRaw.label>Meat</MeatRaw.label>
+  <!-- EN: mortar shells -->
+  <MortarShells.label>Gw grenade</MortarShells.label>
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>Vegetarian</PlantFoodRaw.label>
+  <!-- EN: plant matter -->
+  <PlantMatter.label>Measures race</PlantMatter.label>
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>Raw materials</ResourcesRaw.label>
+  <!-- EN: root -->
+  <Root.label>Foundation</Root.label>
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>Species</StoneBlocks.label>
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>Rock</StoneChunks.label>
+  <!-- EN: textiles -->
+  <Textiles.label>The work of the home</Textiles.label>
+  <!-- EN: unfinished -->
+  <Unfinished.label>Unfinished</Unfinished.label>
+  <!-- EN: weapons -->
+  <Weapons.label>Fifth</Weapons.label>
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>Military</WeaponsMelee.label>
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>Weapons and long-range</WeaponsRanged.label>
 </LanguageData>

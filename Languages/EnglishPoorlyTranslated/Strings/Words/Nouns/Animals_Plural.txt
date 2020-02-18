@@ -4,7 +4,6 @@ Bison
 Nufarfalos
 Mouse growth
 Mice boom
-Megaskarabä
 Megaskarabaen
 Cobras
 Cobra
@@ -320,7 +319,6 @@ Stingray
 Courts
 Waste
 Beetle storage
-Störche
 Storch
 Swan
 Geese

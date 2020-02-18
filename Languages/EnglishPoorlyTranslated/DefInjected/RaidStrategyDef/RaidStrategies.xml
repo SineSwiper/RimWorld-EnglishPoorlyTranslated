@@ -1,25 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- ImmediateAttack -->
-  <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.arrivalTextEnemy>Even now, they win.\n\nArticle - ended their smart tactics.\nTry to be considered for the network blocks.</ImmediateAttack.arrivalTextEnemy>
-  <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
-  <ImmediateAttack.arrivalTextFriendly>Current support.</ImmediateAttack.arrivalTextFriendly>
-  <ImmediateAttackSmart.letterLabelEnemy>襲撃</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.arrivalTextEnemy>They immediately impact!\n\nPlease note! We planted how tricky.</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
-  <ImmediateAttackSmart.arrivalTextFriendly>They wanted to give you immediate assistance.</ImmediateAttackSmart.arrivalTextFriendly>
-  <!-- StageThenAttack -->
-  <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.arrivalTextEnemy>They are ready in time, and then come to attack.\n\nOr prepare themselves to defend, throw Pre attacks prevented.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
-  <StageThenAttack.arrivalTextFriendly>This will help you when they are ready.</StageThenAttack.arrivalTextFriendly>
-  <!--ImmediateAttackSappers -->
-  <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
-  <ImmediateAttackSappers.arrivalTextEnemy>Tunnel Hollow tried to break through their defense.</ImmediateAttackSappers.arrivalTextEnemy>
-  <!--Siege -->
-  <Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
-  <Siege.arrivalTextEnemy>Try this place is by far the siege Uttederu bored. To laughter.</Siege.arrivalTextEnemy>
-  <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
-  <Siege.arrivalTextFriendly>This policy will help the park.</Siege.arrivalTextFriendly>
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>He was immediately attacked.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>Then they ran to help.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>Attack</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>Assistant</ImmediateAttack.letterLabelFriendly>
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>In defense like they want to dig up water tunnel.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>Attack</ImmediateAttackSappers.letterLabelEnemy>
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>They attacked.\n\nBut be careful: you can see in some parts. They avoid the blast and that the number of traps.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>The immediate rescue quickly.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Attack</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>United</ImmediateAttackSmart.letterLabelFriendly>
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>It seems that this colony to understand. Distance from the mortar used by the population explosion. He waited at the top for you, at least you will be able to attack them.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>It seems that they want to help siege equipment.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Ally</Siege.letterLabelFriendly>
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>Prepared before the attack.\n\nAttack prevention against the security or defense.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>You have to prepare a little before use.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>The raid-</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Allied</StageThenAttack.letterLabelFriendly>
 </LanguageData>

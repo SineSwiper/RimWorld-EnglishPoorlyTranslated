@@ -43,7 +43,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] advance and take [WeaponPlural] phone.</li>
     <li>desc_sentence->High-level [EnemySingular] [Weapon] june.</li>
     <li>desc_sentence->[Quantity_adjphrase] [EnemyPluralWithoutThe] [AdjectiveBadass] assaulting his eyes.</li>
-    <li>desc_sentence->I look [Quantity_adjphrase] [EnemyPluralWithoutThe] pövaikutuksen [AdjectiveAngsty].</li>
+    <li>desc_sentence->I look [Quantity_adjphrase] [EnemyPluralWithoutThe] effect [AdjectiveAngsty].</li>
     <li>desc_sentence->[AnimalPlural] with big eyes [Color] [Quantity_adjphrase].</li>
     <li>desc_sentence->[Quantity_adjphrase] is [Gore] [AnimalPlural] attack.</li>
     <li>desc_sentence->The floor is covered [Gore].</li>

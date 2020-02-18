@@ -5,15 +5,15 @@
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>Points</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>al archotechnologischer</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>with archotech hand</ArchotechArm.labelNoun>
   <!-- EN: archotech eye -->
   <ArchotechEye.label>I archeatech</ArchotechEye.label>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>and look at archeatechnealeagisches</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>eye archeology</ArchotechEye.labelNoun>
   <!-- EN: archotech leg -->
   <ArchotechLeg.label>Archotech to</ArchotechLeg.label>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>archotechnologisches am</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>ancient bridge</ArchotechLeg.labelNoun>
   <!-- EN: bionic arm -->
   <BionicArm.label>Bionic hand</BionicArm.label>
   <!-- EN: fist -->
@@ -77,7 +77,7 @@
   <!-- EN: a prosthetic leg -->
   <SimpleProstheticLeg.labelNoun>A prosthetic leg</SimpleProstheticLeg.labelNoun>
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>Ss healjphu</WoodenFoot.label>
+  <WoodenFoot.label>Feet and legs</WoodenFoot.label>
   <!-- EN: a wooden foot -->
   <WoodenFoot.labelNoun>wood</WoodenFoot.labelNoun>
 </LanguageData>

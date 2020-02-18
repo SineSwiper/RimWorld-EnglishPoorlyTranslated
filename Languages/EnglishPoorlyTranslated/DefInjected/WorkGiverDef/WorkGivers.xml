@@ -342,8 +342,6 @@
   <LoadTransporters.gerund>Loading</LoadTransporters.gerund>
   <!-- EN: load -->
   <LoadTransporters.verb>ready</LoadTransporters.verb>
-  <!-- EN: milk animals -->
-  <Milk.label>Milch animals</Milk.label>
   <!-- EN: milking -->
   <Milk.gerund>Milk</Milk.gerund>
   <!-- EN: milk -->
@@ -414,8 +412,6 @@
   <Repair.gerund>Standard</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>correction</Repair.verb>
-  <!-- EN: do research -->
-  <Research.label>to look ~~ v</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>Search for</Research.gerund>
   <!-- EN: research -->

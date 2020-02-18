@@ -1,0 +1,39 @@
+#!/usr/bin/perl -CA
+
+use utf8;
+use v5.14;
+use strict;
+use warnings;
+use open ':std', ':encoding(utf8)';
+use feature 'unicode_strings';
+
+use Getopt::Long;
+
+use lib './lib';
+use PoorlyTranslateUtils;
+
+$| = 1;
+
+my $lang_code = 'en';
+my $help      = 0;
+
+my $is_parsed = GetOptions(
+    "lang|l=s"  => \$lang_code,
+    "debug|d=i" => \$PoorlyTranslateUtils::DEBUG,
+    "help|h|?"  => \$help
+);
+if ($help || !$is_parsed || !@ARGV) {
+    say "Usage: $0 [OPTION]... [STRING] [STRING]...";
+    say "Poorly translate each STRING into English. Strings must be protected with quotes,";
+    say "if they contain spaces or other special characters.\n";
+
+    say "  -l, --lang=LANG    Starting language code of strings.";
+    say "  -d, --debug=INT    Debug level (default: 2).";
+    say "  -h, --help         This help screen.";
+    exit 1;
+}
+
+foreach (@ARGV) {
+    poorly_translate_text($lang_code, $_);
+    say '';
+}

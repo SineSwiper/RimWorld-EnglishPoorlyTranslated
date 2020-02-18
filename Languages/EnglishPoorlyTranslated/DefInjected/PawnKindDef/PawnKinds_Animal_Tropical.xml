@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cobra.label>コブラ</Cobra.label>
-  <Monkey.label>サル</Monkey.label>
-  <Boomalope.label>Bomaropu</Boomalope.label>
-  <Boomalope.lifeStages.boomalope_calf.label>Bomaropu</Boomalope.lifeStages.boomalope_calf.label>
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>child Bomarop</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Monkey.label>the monkey</Monkey.label>
 </LanguageData>

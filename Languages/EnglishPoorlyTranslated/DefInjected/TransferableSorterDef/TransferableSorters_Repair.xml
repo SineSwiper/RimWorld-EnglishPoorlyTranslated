@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: market value -->
+  <MarketValue.label>Fair</MarketValue.label>
+  <!-- EN: mass -->
+  <Mass.label>On a grand scale</Mass.label>
+  <!-- EN: none -->
+  <None.label>What</None.label>
+</LanguageData>

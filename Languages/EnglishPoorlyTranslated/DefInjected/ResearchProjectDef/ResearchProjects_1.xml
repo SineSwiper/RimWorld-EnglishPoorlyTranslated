@@ -3,7 +3,7 @@
   <!-- EN: beer brewing -->
   <Brewing.label>Eating</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>And fermentierungsfässer beer with hops and beer.</Brewing.description>
+  <Brewing.description>And empty fermentation beer with hops and beer.</Brewing.description>
   <!-- EN: carpet making -->
   <CarpetMaking.label>Making multicolored</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
@@ -15,19 +15,19 @@
   <!-- EN: complex clothing -->
   <ComplexClothing.label>More companies</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>It is difficult textile nähvorlagen. Pants, skirts and cowboy hats.</ComplexClothing.description>
+  <ComplexClothing.description>It is difficult textile sewing patterns. Pants, skirts and cowboy hats.</ComplexClothing.description>
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>Complex pieces</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
   <ComplexFurniture.description>One of viola browser, and. Bed, bedside tables, chairs, dining room, dressers, cabinets, tools and billiards poker fans sarcophagus a and much more.</ComplexFurniture.description>
   <!-- EN: devilstrand -->
-  <Devilstrand.label>Teufaelsgarnpilsh</Devilstrand.label>
+  <Devilstrand.label>Actinomycetes devil</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>The teufelsgarnpilze. The power plant will not bear a rejection teufelsgarnpilz fibers temperature decreases the size of mushrooms.</Devilstrand.description>
+  <Devilstrand.description>The satan is the subject of mushrooms. The power plant will not bear a rejection devil theme mushrooms fibers temperature decreases the size of mushrooms.</Devilstrand.description>
   <!-- EN: drug production -->
   <DrugProduction.label>Drug supply</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>-synthetisierung the creation and production of pharmaceutical drugs. Some drugs, and needs more research.</DrugProduction.description>
+  <DrugProduction.description>Be careful the creation and production of pharmaceutical drugs. Some drugs, and needs more research.</DrugProduction.description>
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>Go juice production</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->

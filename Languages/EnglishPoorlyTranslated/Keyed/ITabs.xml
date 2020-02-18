@@ -54,12 +54,11 @@
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>Anger</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Library: {1_labelshort</BoundWorkerIs>
+  <BoundWorkerIs>Library: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Herbs</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>There is no mutual option
-    here.</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>There is no mutual option here.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>uP</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -73,8 +72,7 @@
   <!-- EN: Paste -->
   <PasteBillTip>stock</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>This no longer
-    exists</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>This no longer exists</PasteBillTip_LimitReached>
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Opposition resistance</RecruitmentResistance>
@@ -89,7 +87,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Be prepared</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Culprit (ending in 90)</ConsideredGuilty>
+  <ConsideredGuilty>Culprit (ending in {0})</ConsideredGuilty>
   <!-- Medical - general -->
   <!-- EN: Move speed -->
   <MoveSpeed>Traveling speed</MoveSpeed>
@@ -128,7 +126,7 @@
   <!-- EN: Bleeding -->
   <BleedingRate>Bleeding</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>Dead dead 0</TimeToDeath>
+  <TimeToDeath>Dead dead {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>There is no immediate danger</WontBleedOutSoon>
   <!-- EN: Overview -->
@@ -136,8 +134,7 @@
   <!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>Actions ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>Change
-    (0)</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Change {0}</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Medical Exercises</MedicalOperations>
   <!-- EN: amputate -->
@@ -160,10 +157,8 @@
   <PreventsInfection>Prevent infection</PreventsInfection>
   <!-- EN: Self-tend -->
   <SelfTend>also gives</SelfTend>
-  <!-- EN: {0} with self-tend enabled will automatically tend to themselves
-    on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>When personal care is enabled, self-healing is automatic.
-    {1} But effectiveness is normal.</SelfTendTip>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>{0} movement will select the position of {1} by self-interest.</SelfTendTip>
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>or</None>
@@ -197,11 +192,9 @@
   <!-- EN: Trainability -->
   <Trainability>training</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>Reliability required:
-    {0_label}</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Reliability required: {0_label}</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{1_labelShort} is too small to
-    learn.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} is too small to learn.</CannotTrainTooSmall>
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Required: {0}</TrainingNeedsPrerequisite>
   <!-- Social tab -->
@@ -216,7 +209,7 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Leader</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>Review {1_labelShort</OpinionOf>
+  <OpinionOf>Review {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
   <SomeonesOpinionOfMe>The idea {1_labelShort} for me</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
@@ -252,31 +245,23 @@
   <FormingCaravanStatus_GatheringAnimals>Gather
     animals</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>Get the Animal
-    (s)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Get the Animal (s)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>Collect the
-    goods</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Collect the goods</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>Select item
-    (waiting)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Select item (waiting)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>Choose a
-    slave</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves>Choose a slave</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>Servants
-    (pending)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Servants (pending)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>Make people
-    suffer</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Make people suffer</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Collection discarded
-    (waiting)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Collection discarded (waiting)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>goodbye</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>Exit
-    (pending)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Exit (pending)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>Hold on</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
@@ -295,6 +280,5 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Deduct {{0}} x {0}</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>Are you sure you want to delete
-    {0}?</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Are you sure you want to delete {0}?</ConfirmRemoveItemDialog>
 </LanguageData>

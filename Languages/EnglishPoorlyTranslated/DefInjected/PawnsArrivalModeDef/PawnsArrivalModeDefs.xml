@@ -10,6 +10,6 @@
   <EdgeDropGroups.textFriendly>The tires shipped off on a number of pieces in the friendly {0} {1}.</EdgeDropGroups.textFriendly>
   <CenterDrop.textEnemy>Come {0} {1} Donpishari fell on his head!</CenterDrop.textEnemy>
   <CenterDrop.textFriendly>{0} friendly {1} come Donpishari refused to slide!</CenterDrop.textFriendly>
-  <RandomDrop.textEnemy>{0} {1} come to give one.Transport pod, quite separately from the land are scattered around!</RandomDrop.textEnemy>
-  <RandomDrop.textFriendly>{1} {0} in appropriate transport pods.The behavior of the trailer, all without landing scattered in this together!</RandomDrop.textFriendly>
+  <RandomDrop.textEnemy>{0} {1} come to give one. Transport pod, quite separately from the land are scattered around!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>{1} {0} in appropriate transport pods. The behavior of the trailer, all without landing scattered in this together!</RandomDrop.textFriendly>
 </LanguageData>

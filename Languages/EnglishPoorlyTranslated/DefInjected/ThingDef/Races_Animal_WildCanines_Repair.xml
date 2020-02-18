@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>Arctic fox</Fox_Arctic.label>
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>Fox of the desert</Fox_Fennec.label>
+  <!-- EN: red fox -->
+  <Fox_Red.label>Fox</Fox_Red.label>
+  <!-- EN: warg -->
+  <Warg.label>Uorg</Warg.label>
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>Green</Wolf_Arctic.label>
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>Tim buff</Wolf_Timber.label>
+</LanguageData>

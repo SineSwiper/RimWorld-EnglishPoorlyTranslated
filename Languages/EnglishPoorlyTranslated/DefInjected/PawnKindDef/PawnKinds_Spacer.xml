@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SpaceRefugee.label>流浪者</SpaceRefugee.label>
-  <AncientSoldier.label>Ancient Warrior</AncientSoldier.label>
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>Zu-war</AncientSoldier.label>
+  <AncientSoldier.labelPlural>Warrior father</AncientSoldier.labelPlural>
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>Refugee slots</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>And weak</SpaceRefugee.labelPlural>
 </LanguageData>

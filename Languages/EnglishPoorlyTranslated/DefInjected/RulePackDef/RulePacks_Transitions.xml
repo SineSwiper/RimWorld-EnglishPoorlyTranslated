@@ -14,17 +14,17 @@
     <li>died(subject_flesh==Mechanoid)->stopped functioning</li>
   -->
   <Transition_Died.rulePack.rulesStrings>
-    <li>die(p=2)->death</li>
+    <li>die(p=2)->dead</li>
     <li>die->die</li>
-    <li>die->death</li>
-    <li>A (! = subject_flesh metshanoid, p = 0.5) -> damage [SUBJECT_possessive]</li>
-    <li>and (subject_flesh Mechanoid == P = 0.5) -> close</li>
-    <li>(subject_flesh Mechanoid == p = 0.5) -> stopped</li>
-    <li>died(p=2)->death</li>
-    <li>died->He had a wound</li>
-    <li>Death (= subject_flesh Mechanoid m) -></li>
-    <li>died(subject_flesh==Mechanoid)->closed</li>
-    <li>died(subject_flesh==Mechanoid)->necessary</li>
+    <li>die->of death</li>
+    <li>die(subject_flesh!=Mechanoid,p=0.5)->He died due to damage [SUBJECT_possessive]</li>
+    <li>die(subject_flesh==Mechanoid,p=0.5)->murder</li>
+    <li>die(subject_flesh==Mechanoid,p=0.5)->stops working</li>
+    <li>died(p=2)->dead and</li>
+    <li>died->Killed by wounded</li>
+    <li>died(subject_flesh!=Mechanoid)->miscellaneous</li>
+    <li>died(subject_flesh==Mechanoid)->power switch</li>
+    <li>died(subject_flesh==Mechanoid)->ceased</li>
   </Transition_Died.rulePack.rulesStrings>
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
@@ -56,33 +56,33 @@
     <li>everywhere->far and wide</li>
   -->
   <Transition_DiedExplosive.rulePack.rulesStrings>
-    <li>die(p=3)->[flavor] bearings exploded</li>
+    <li>die(p=3)->fall [flavor]</li>
     <li>die(p=3)->explodieren[flavorsuffix]</li>
-    <li>die->[flavor] explosion</li>
+    <li>die->[flavor] fenedewochi</li>
     <li>die->explodieren[flavorsuffix]</li>
-    <li>die->[flavor] explosion</li>
+    <li>die->[flavor]</li>
     <li>die->zerbersten[flavorsuffix]</li>
-    <li>died(p=3)->[flavor]</li>
-    <li>died->explosion [flavor]</li>
-    <li>died->brook [flavor]</li>
-    <li>flavor(p=0.2)->[fireball] and chemicals</li>
-    <li>flavor->[Color] [fireball]</li>
-    <li>flavor->In [AdjectiveLarge] [fireball]</li>
+    <li>died(p=3)->[flavor] broken here</li>
+    <li>died->explosion on [flavor]</li>
+    <li>died->[flavor] explosion</li>
+    <li>flavor(p=0.2)->chemical [fireball]</li>
+    <li>flavor->[Color]en [fireball]</li>
+    <li>flavor->[fireball] [AdjectiveLarge]</li>
     <li>flavor(p=4)->[fireball]</li>
     <li>flavor(p=4)-></li>
-    <li>flavorsuffix->distributed [everywhere] [pieces]</li>
-    <li>flavorsuffix (= subject_flesh Mechanoid, p = 2!) -> and distributed [everywhere] [Gore]</li>
-    <li>flavorsuffix (subject_flesh = Mechanoid!) -> [Gore] just a small group</li>
-    <li>flavorsuffix->He left a small crater</li>
+    <li>flavorsuffix->and distribution [everywhere] [pieces]</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->and distribution [everywhere] [Gore]</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid)->Only a small part remains [Gore]</li>
+    <li>flavorsuffix->Small open left</li>
     <li>flavorsuffix(p=4)-></li>
-    <li>fireball(p=3)->Fireball</li>
-    <li>fireball->Fireball</li>
-    <li>fireball->Bolts</li>
-    <li>fireball->Firestorm</li>
-    <li>pieces->Cautious</li>
-    <li>pieces->Component</li>
-    <li>everywhere->all settlements</li>
-    <li>everywhere->and</li>
+    <li>fireball(p=3)->Torched</li>
+    <li>fireball->Fire</li>
+    <li>fireball->Lightning</li>
+    <li>fireball->Grom</li>
+    <li>pieces->Part</li>
+    <li>pieces->Accessories</li>
+    <li>everywhere->everywhere</li>
+    <li>everywhere->close far</li>
   </Transition_DiedExplosive.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
@@ -93,8 +93,8 @@
     <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
   <Transition_DiedInclude.rulePack.rulesStrings>
-    <li>r_logentry(p=1.5)->Let [SUBJECT_label] [die] [CULPRITHEDIFF_labelNoun].</li>
-    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] allow [SUBJECT_label] [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] do [SUBJECT_label] [die].</li>
+    <li>r_logentry(p=1.5)->Loading [CULPRITHEDIFF_labelNounPretty] [SUBJECT_label] [die].</li>
     <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
     <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
     <li>r_logentry->[SUBJECT_label] [died].</li>
@@ -132,35 +132,35 @@
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
   <Transition_Downed.rulePack.rulesStrings>
-    <li>r_logentry->Make [CULPRITHEDIFF_labelNoun] [SUBJECT_label] [collapsemeta].</li>
-    <li>r_logentry->I then [CULPRITHEDIFF_labelNounPretty] [SUBJECT_label] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] [SUBJECT_label] [collapsemeta] left.</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] [SUBJECT_label] [collapsemeta] left.</li>
     <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
     <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
     <li>r_logentry(p=0.1)->[SUBJECT_label] [collapsedmeta].</li>
-    <li>collapse->crash</li>
-    <li>collapse->list</li>
-    <li>collapse->unless</li>
-    <li>Collapse (subject_flesh = Mechanoid!) -> weakness</li>
-    <li>collapse(subject_flesh==Mechanoid)->Dealing with disasters</li>
-    <li>collapse(subject_flesh==Mechanoid)->She was stuck in a loop</li>
-    <li>collapse(subject_flesh==Mechanoid)->Errors memory dies</li>
-    <li>collapsed->challenge</li>
-    <li>collapsed->weak</li>
-    <li>collapsed->all</li>
-    <li>crushed ice (= subject_flesh Mechanoid) -> Toran</li>
-    <li>collapsed(subject_flesh==Mechanoid)->system damage pain</li>
-    <li>collapsed(subject_flesh==Mechanoid)->Stuck in loop reboot</li>
-    <li>collapsed(subject_flesh==Mechanoid)->Head error remember</li>
-    <li>helplessly->helpless</li>
-    <li>helpless (! subject_flesh = mechanoid) -> unconscious</li>
-    <li>Despair (subject_flesh = Mechanoid!) -> more</li>
-    <li>Inevitably (subject_flesh = Mechanoid) -> O</li>
-    <li>Helpless (subject_flesh = Mechanoid!) -> sick</li>
-    <li>helplessly(subject_flesh==Mechanoid)->countless</li>
+    <li>collapse->fall</li>
+    <li>collapse->read</li>
+    <li>collapse->the fall</li>
+    <li>collapse(subject_flesh!=Mechanoid)->lose consciousness</li>
+    <li>collapse(subject_flesh==Mechanoid)->System problems</li>
+    <li>collapse(subject_flesh==Mechanoid)->The songs on the circuit resume</li>
+    <li>collapse(subject_flesh==Mechanoid)->error</li>
+    <li>collapsed->breakdown hi</li>
+    <li>collapsed->crash</li>
+    <li>collapsed->fall</li>
+    <li>collapsed(subject_flesh!=Mechanoid)->dizzy</li>
+    <li>collapsed(subject_flesh==Mechanoid)->The system is outdated</li>
+    <li>collapsed(subject_flesh==Mechanoid)->Put in your resume loop</li>
+    <li>collapsed(subject_flesh==Mechanoid)->The success of a memory error</li>
+    <li>helplessly->useless</li>
+    <li>helplessly(subject_flesh!=Mechanoid)->leaves</li>
+    <li>helplessly(subject_flesh!=Mechanoid)->weary</li>
+    <li>helplessly(subject_flesh!=Mechanoid)->low</li>
+    <li>helplessly(subject_flesh!=Mechanoid)->helpless</li>
+    <li>helplessly(subject_flesh==Mechanoid)->marked by</li>
     <li>collapsemeta->[collapse]</li>
     <li>collapsemeta(p=0.5)->[helplessly] [collapse]</li>
-    <li>collapsedmeta->i [collapsed]</li>
-    <li>collapsedmeta(p=0.5)->[helplessly] is [collapsed]</li>
+    <li>collapsedmeta->he [collapsed]</li>
+    <li>collapsedmeta(p=0.5)->this is [helplessly] [collapsed]</li>
   </Transition_Downed.rulePack.rulesStrings>
   <!-- EN:
     <li>duetoa->due to</li>
@@ -168,8 +168,8 @@
     <li>duetoa(p=0.5)->thanks to</li>
   -->
   <Transition_Include.rulePack.rulesStrings>
-    <li>duetoa->because</li>
+    <li>duetoa->why</li>
     <li>duetoa(p=0.5)->because</li>
-    <li>duetoa(p=0.5)->for</li>
+    <li>duetoa(p=0.5)->reason</li>
   </Transition_Include.rulePack.rulesStrings>
 </LanguageData>

@@ -81,7 +81,7 @@
   <!-- EN: mortar -->
   <Turret_Mortar.label>Lime</Turret_Mortar.label>
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
-  <Turret_Mortar.description>Mortar, rocket and placed them in various shoot. Risks in damages, although it is not right within the opposition group the fire better, because the destruction verteidigingsstrukturen.</Turret_Mortar.description>
+  <Turret_Mortar.description>Mortar, rocket and placed them in various shoot. Risks in damages, although it is not right within the opposition group the fire better, because the destruction defense structures.</Turret_Mortar.description>
   <!-- EN: uranium slug turret -->
   <Turret_Sniper.label>Gun shot uranium</Turret_Sniper.label>
   <!-- EN: A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <DirtPath.label>(A diameter)</DirtPath.label>
-  <DirtRoad.label>bad roads (road)</DirtRoad.label>
-  <StoneRoad.label>(Cobbled)</StoneRoad.label>
-  <AncientAsphaltRoad.label>Asphalt (old)</AncientAsphaltRoad.label>
-  <AncientAsphaltHighway.label>How asphalt (old)</AncientAsphaltHighway.label>
-</LanguageData>

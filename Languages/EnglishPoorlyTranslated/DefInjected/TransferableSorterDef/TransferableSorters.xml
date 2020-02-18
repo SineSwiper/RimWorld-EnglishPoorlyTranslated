@@ -4,14 +4,8 @@
   <Category.label>Ngarn</Category.label>
   <!-- EN: hit points percentage -->
   <HitPointsPercentage.label>Hit point (percentage)</HitPointsPercentage.label>
-  <!-- EN: market value -->
-  <MarketValue.label>The student market</MarketValue.label>
-  <!-- EN: mass -->
-  <Mass.label>Groups</Mass.label>
   <!-- EN: name -->
   <Name.label>Name</Name.label>
-  <!-- EN: none -->
-  <None.label>Nothing</None.label>
   <!-- EN: quality -->
   <Quality.label>Quality</Quality.label>
 </LanguageData>

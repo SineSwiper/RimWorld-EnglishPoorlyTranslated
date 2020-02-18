@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cold snap -->
+  <ColdSnap.label>the winter</ColdSnap.label>
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>penalty wind</Flashstorm.label>
+  <!-- EN: heat wave -->
+  <HeatWave.label>heating</HeatWave.label>
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>upward</MeteoriteImpact.label>
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>No spiritual</PsychicDrone.label>
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>soothing psychological</PsychicSoothe.label>
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>gray poison</ToxicFallout.label>
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+</LanguageData>

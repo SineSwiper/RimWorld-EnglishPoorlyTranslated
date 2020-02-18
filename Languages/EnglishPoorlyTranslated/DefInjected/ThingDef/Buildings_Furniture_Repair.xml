@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Sick</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>A hospital bed is created. Stay tall and home. Improves treatment outcomes natural care beds.</HospitalBed.description>
+</LanguageData>

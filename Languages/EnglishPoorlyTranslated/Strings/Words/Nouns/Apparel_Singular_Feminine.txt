@@ -1,22 +1,22 @@
 ﻿//Example: "Die ..."
 
-Jacket
-Cape
+T-shirt
+Bolero
+Wear pm
 Evening dresses
-Evening clothes
-Armani energy
-Armor power
+Power armor
+Power
+Main
 Fly
-Flights
+Loop
 Tie
-Witnesses
-Cloth cap
+Baseball hat
 Baseball caps
-Shtrichkmütshe
-Strickmutze
+Strickmutje
+Knitted hat
 Shoes
-Sandals
-Wind
-Sock
-Symbolically
-Source
+Booty
+Socks
+Average
+Sunglasses
+Fountain

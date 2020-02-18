@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: megascarab -->
-  <Megascarab.label>Riesenskarabaus</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
-  <Megascarab.description>Genetically modified animals. Initially to work with insects fight. mechanoideninvasio an artificial ecosystem. Today, you can usually find fatal insektoidenkousins. However, its size, it is hard enough ekseaskeletean, dangerous. And he explained.</Megascarab.description>
+  <Megascarab.description>Basic basic genetic engineering. Mechanoid aggression designed to resist insecticides in artificial ecosystems created when the class, but half of the insecticides that pass visible. Size can be dangerous to attack the crust is strong. Eusocial species, may not alone.</Megascarab.description>
   <!-- EN: mandibles -->
   <Megascarab.tools.mandibles.label>Mandibles</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
   <Megascarab.tools.head.label>Head</Megascarab.tools.head.label>
-  <!-- EN: megaspider -->
-  <Megaspider.label>A giant spider</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
   <Megaspider.description>In some cases, blind spider is not real, but the transgenic blind insektoid big bear. To work hard and battle ready, it is difficult to kill with thick frame. At the same time, they put on a good fight with the shredder. But it is very slow to open.</Megaspider.description>
   <!-- EN: insect meat -->
@@ -18,8 +14,6 @@
   <Megaspider.tools.head_claw.label>Head through</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
   <Megaspider.tools.head.label>Head</Megaspider.tools.head.label>
-  <!-- EN: spelopede -->
-  <Spelopede.label>Cave beetle</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
   <Spelopede.description>Genetically modified sheep small and medium insektoid. It is one of the duties of a colony of normal family and is willing to fight for, and claws. It can be dangerous, but delayed opening.</Spelopede.description>
   <!-- EN: head claw -->

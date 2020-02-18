@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slave.label>奴隷</Slave.label>
-  <WildMan.label>野蛮人</WildMan.label>
-  <WildMan.labelPlural>residents of the island</WildMan.labelPlural>
-  <WildMan.labelFemale>Women in the wild</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>wild woman</WildMan.labelFemalePlural>
-  <StrangerInBlack.label>Suspicious man dressed in black</StrangerInBlack.label>
-  <StrangerInBlack.labelFemale>black man</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelMale>The People's Black Dress</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelPlural>The old man in a black dress</StrangerInBlack.labelPlural>
+  <!-- EN: slave -->
+  <Slave.label>Staff</Slave.label>
+  <Slave.labelPlural>Slave</Slave.labelPlural>
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>alien mystery</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>mysterious stranger</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>mysterious stranger</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>mysterious stranger</StrangerInBlack.labelPlural>
+  <!-- EN: wild man -->
+  <WildMan.label>Mann anger</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>Ruthless</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>Wild women</WildMan.labelFemalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>Wild man</WildMan.labelPlural>
 </LanguageData>

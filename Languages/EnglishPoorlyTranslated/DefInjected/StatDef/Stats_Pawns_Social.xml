@@ -9,7 +9,7 @@
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
   <SocialImpact.description>This social actions, which will be spread person to person next.</SocialImpact.description>
   <!-- EN: tame animal chance -->
-  <TameAnimalChance.label>Tiarshähmudagscnche</TameAnimalChance.label>
+  <TameAnimalChance.label>Keep the animals under control</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
   <TameAnimalChance.description>For normal and wants to be a cat room. New time then, like a wild animal can depend on. Failure can only lead to malicious animal attacks.</TameAnimalChance.description>
   <!-- EN: trade price improvement -->

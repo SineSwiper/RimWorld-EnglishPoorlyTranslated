@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>Builders need to plan things.</Construction.description>
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>The chef prepares the food and the slaughter of animals for meat.</Cooking.description>
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>The offalferwurker is less than a wizard. This process consists of one stone and scrap metal was abolished.</Crafting.description>
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>Minerals turakkunnu beat the stone.</Mining.description>
+  <!-- EN: Perform research work. -->
+  <Research.description>The research carried out by scientists.</Research.description>
+  <!-- EN: Research at -->
+  <Research.verb>reed</Research.verb>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
+  <Smithing.description>Making tools for real and equipment from something green.</Smithing.description>
+</LanguageData>

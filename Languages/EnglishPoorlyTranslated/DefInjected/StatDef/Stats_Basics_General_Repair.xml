@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beauty -->
+  <Beauty.label>Okay</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>How many people who feel this or who they are. Interesting people to fulfill their requirements.</Beauty.description>
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>Cleanliness</Cleanliness.label>
+  <!-- EN: comfort -->
+  <Comfort.label>Promotion</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>How do you sit comfortably or subject. Comfortable facilities to satisfy man's need for comfort.</Comfort.description>
+</LanguageData>

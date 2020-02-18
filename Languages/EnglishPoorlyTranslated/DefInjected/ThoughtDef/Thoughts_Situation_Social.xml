@@ -7,15 +7,15 @@
   <!-- EN: ate raw humanlike meat -->
   <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>Start eating human flesh</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-0.label>Angry körperpurist</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>Angry purist form</BodyPuristDisgust.stages.body_purist_disgust-0.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-1.label>Körperpurist corruption</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>Purist body corruption</BodyPuristDisgust.stages.body_purist_disgust-1.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-2.label>Körperpurist angry</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>Clean body angry</BodyPuristDisgust.stages.body_purist_disgust-2.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-3.label>Korperpurist discomfort</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>Purists body discomfort</BodyPuristDisgust.stages.body_purist_disgust-3.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-4.label>Körperpurist disgusted</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>Prevention disgusted</BodyPuristDisgust.stages.body_purist_disgust-4.label>
   <!-- EN: {0}'s master -->
   <BondedAnimalMaster.stages.s_master.label>Pet: {0}</BondedAnimalMaster.stages.s_master.label>
   <!-- EN: Being together with my bonded animal makes me feel better. -->

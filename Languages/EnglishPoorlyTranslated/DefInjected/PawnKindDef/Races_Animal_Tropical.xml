@@ -15,8 +15,6 @@
   <Cobra.lifeStages.0.label>Baby dragon</Cobra.lifeStages.0.label>
   <Cobra.lifeStages.1.label>Cobra new</Cobra.lifeStages.1.label>
   <Cobra.lifeStages.2.label>Cobra</Cobra.lifeStages.2.label>
-  <!-- EN: monkey -->
-  <Monkey.label>Mono</Monkey.label>
   <Monkey.labelPlural>Keko</Monkey.labelPlural>
   <Monkey.lifeStages.0.label>Affenbaby</Monkey.lifeStages.0.label>
   <Monkey.lifeStages.1.label>A young monkey</Monkey.lifeStages.1.label>

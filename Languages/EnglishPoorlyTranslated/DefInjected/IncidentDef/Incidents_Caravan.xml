@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ambush.label>To check</Ambush.label>
+  <Ambush.letterText>{0} interfering between {1} between {2}!</Ambush.letterText>
+  <Ambush.letterLabel>otrika</Ambush.letterLabel>
+  <ManhunterAmbush.label>looking for pumpkin</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>{0} killer is {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Lion (Hunting)</ManhunterAmbush.letterLabel>
+  <CaravanMeeting.label>Conference Co flight</CaravanMeeting.label>
+  <CaravanDemand.label>forced ambush</CaravanDemand.label>
+  <CaravanDemand.letterText>Cyclists {1} {0} Wait!</CaravanDemand.letterText>
+  <CaravanDemand.letterLabel>Embuscade (LOSS)</CaravanDemand.letterLabel>
+</LanguageData>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: dromedary -->
-  <Dromedary.label>Dromedary</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
-  <Dromedary.description>Well, that suits the conditions are dry savannas of large land mammals. Frühester heat milk against this very good, very fresh, and provides smooth wool and leather is the heat. It can be used as a beast of burden, but the remote control does not turn to jump.\n\nHumidity air we breathe its large terrace and recovery of the country, it could be days, weeks without water.</Dromedary.description>
+  <Dromedary.description>Well, that suits the conditions are dry savannas of large land mammals. Early ester heat milk against this very good, very fresh, and provides smooth wool and leather is the heat. It can be used as a beast of burden, but the remote control does not turn to jump.\n\nHumidity air we breathe its large terrace and recovery of the country, it could be days, weeks without water.</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>Various left</Dromedary.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Dromedary.tools.right_hoof.label>court</Dromedary.tools.right_hoof.label>
   <!-- EN: head -->
   <Dromedary.tools.head.label>Head</Dromedary.tools.head.label>
-  <!-- EN: gazelle -->
-  <Gazelle.label>Deer</Gazelle.label>
   <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
   <Gazelle.description>Its small size, which is known to be very large, very fast antelope ,.</Gazelle.description>
   <!-- EN: left hoof -->
@@ -20,8 +16,6 @@
   <Gazelle.tools.right_hoof.label>appropriate improvements</Gazelle.tools.right_hoof.label>
   <!-- EN: head -->
   <Gazelle.tools.head.label>Head</Gazelle.tools.head.label>
-  <!-- EN: iguana -->
-  <Iguana.label>Guana</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
   <Iguana.description>Large lizards usually feed on plants. His fingers over the skin, and the more threatening because they will be stuck, you can.\n\nHidden chameleon expressed "pride" them to keep their heads up and down. But they are not arrogant. it's just trying to find the thieves, they will not eat.</Iguana.description>
   <!-- EN: left claw -->
@@ -30,8 +24,6 @@
   <Iguana.tools.right_claw.label>right paw</Iguana.tools.right_claw.label>
   <!-- EN: head -->
   <Iguana.tools.head.label>Head</Iguana.tools.head.label>
-  <!-- EN: muffalo -->
-  <Muffalo.label>Muffalo</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
   <Muffalo.description>A large herbivorous mosquitoes from exposure to the cold and warm seasons, animal herds found agent. Muphphaleas floor's wrath, but the rest of taming muphphaleas of disaster, you can use the fair use.\n\nGreen for any other reason. We may be tested in the original gene, which should be canceled.</Muffalo.description>
   <!-- EN: head -->

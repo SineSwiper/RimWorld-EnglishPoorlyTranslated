@@ -64,8 +64,6 @@
     <li>desc_sentence->[ANIMAL_nameDef] proudly explained.</li>
     <li>desc_sentence->[ANIMAL_nameDef] good.</li>
   </BondedWithAnimal.rulePack.rulesStrings>
-  <!-- EN: breakup -->
-  <Breakup.label>Segmentation</Breakup.label>
   <!-- EN:
     <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
     <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>

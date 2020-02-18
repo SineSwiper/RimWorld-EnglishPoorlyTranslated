@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Orbital_BulkGoods.label>貿易商</Orbital_BulkGoods.label>
-  <Orbital_CombatSupplier.label>武器商</Orbital_CombatSupplier.label>
-  <Orbital_Exotic.label>a foreign trader</Orbital_Exotic.label>
-  <Orbital_PirateMerchant.label>闇商</Orbital_PirateMerchant.label>
+  <!-- EN: bulk goods trader -->
+  <Orbital_BulkGoods.label>All shares</Orbital_BulkGoods.label>
+  <!-- EN: combat supplier -->
+  <Orbital_CombatSupplier.label>Arms dealer</Orbital_CombatSupplier.label>
+  <!-- EN: exotic goods trader -->
+  <Orbital_Exotic.label>Exotic foods business</Orbital_Exotic.label>
+  <!-- EN: pirate merchant -->
+  <Orbital_PirateMerchant.label>Strong traders</Orbital_PirateMerchant.label>
 </LanguageData>

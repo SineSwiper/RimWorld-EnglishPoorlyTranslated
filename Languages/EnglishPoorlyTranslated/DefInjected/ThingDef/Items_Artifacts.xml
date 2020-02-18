@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: psychic animal pulser -->
-  <PsychicAnimalPulser.label>Tierstörwell to</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>Animal disturbance well to</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. -->
   <PsychicAnimalPulser.description>After the memorial psychology and broadband internet access. Cover the simple minds of animals in the field, the feeling of fear, so they are looking for a man who falls into a whim.</PsychicAnimalPulser.description>
   <!-- EN: Activate -->
@@ -21,7 +21,7 @@
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>Record</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>Psycho äerdzougedréiter broadband since. Each brings the mood to add intelligence software.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>Psycho earthworms broadband since. Each brings the mood to add intelligence software.</PsychicSoothePulser.description>
   <!-- EN: Activate -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>Implementation</PsychicSoothePulser.comps.CompUsable.useLabel>
 </LanguageData>

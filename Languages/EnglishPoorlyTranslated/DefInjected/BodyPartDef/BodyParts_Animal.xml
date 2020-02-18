@@ -44,8 +44,6 @@
   <RearClaw.label>Back tepper</RearClaw.label>
   <!-- EN: claw -->
   <RearClaw.labelShort>Claw</RearClaw.labelShort>
-  <!-- EN: shell -->
-  <Shell.label>Weapons</Shell.label>
   <!-- EN: body -->
   <SnakeBody.label>Dead body</SnakeBody.label>
   <!-- EN: head -->

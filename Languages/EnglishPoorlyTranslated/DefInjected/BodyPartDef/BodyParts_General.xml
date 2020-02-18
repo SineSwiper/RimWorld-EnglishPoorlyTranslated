@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: brain -->
-  <Brain.label>Brain</Brain.label>
+  <Brain.label>Some</Brain.label>
   <!-- EN: ear -->
-  <Ear.label>Ohr</Ear.label>
+  <Ear.label>Ear</Ear.label>
   <!-- EN: eye -->
-  <Eye.label>Outlook</Eye.label>
+  <Eye.label>Eye</Eye.label>
   <!-- EN: foot -->
-  <Foot.label>Fuß</Foot.label>
+  <Foot.label>Leg</Foot.label>
   <!-- EN: head -->
-  <Head.label>Shona</Head.label>
+  <Head.label>Head</Head.label>
   <!-- EN: jaw -->
   <Jaw.label>Pine</Jaw.label>
   <!-- EN: leg -->
-  <Leg.label>Coup</Leg.label>
+  <Leg.label>Leg</Leg.label>
   <!-- EN: neck -->
-  <Neck.label>Responsibility</Neck.label>
+  <Neck.label>The</Neck.label>
   <!-- EN: nose -->
   <Nose.label>Nose</Nose.label>
   <!-- EN: ribcage -->
-  <Ribcage.label>Breast</Ribcage.label>
+  <Ribcage.label>Heart</Ribcage.label>
   <!-- EN: skull -->
   <Skull.label>Skull</Skull.label>
   <!-- EN: spine -->
-  <Spine.label>Spine</Spine.label>
+  <Spine.label>Loins</Spine.label>
 </LanguageData>

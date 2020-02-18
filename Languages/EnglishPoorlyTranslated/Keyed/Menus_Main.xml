@@ -2,12 +2,12 @@
 <LanguageData>
   <!-- Main menu -->
   <Tutorial>Book</Tutorial>
-  <NewColony>New colony</NewColony>
+  <NewColony>A new colony</NewColony>
   <BackToGame>Return games</BackToGame>
   <ReviewScenario>September review</ReviewScenario>
-  <Save>Makauli'i</Save>
+  <Save>Storage</Save>
   <LoadGame>Loading game</LoadGame>
-  <Options>It</Options>
+  <Options>Selection</Options>
   <Mods>Different</Mods>
   <SaveTranslationReport>Save the transferred report</SaveTranslationReport>
   <GeneratingTranslationReport>Translation report</GeneratingTranslationReport>
@@ -16,7 +16,7 @@
   <Credits>Credit</Credits>
   <QuitToMainMenu>The main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and exit menu</SaveAndQuitToMainMenu>
-  <QuitToOS>O os</QuitToOS>
+  <QuitToOS>At the end of the os</QuitToOS>
   <SaveAndQuitToOS>Save and close the pos</SaveAndQuitToOS>
   <FictionPrimer>Suitable primary</FictionPrimer>
   <LudeonBlog>Deon blog</LudeonBlog>
@@ -98,7 +98,7 @@
   <Summary>Overview</Summary>
   <AddPart>Add items</AddPart>
   <TextFieldsMustBeFilled>All fields must be filled there.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>If you are sure that you want to upload steam workshop?\n\nIf the service must agree to the terms of the steam workshop. Find everything here:\n\ndictionariglobal teep: // steamchommunitikco / sredfailes / vorkshopleglgrement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>If you are sure that you want to upload steam workshop?\n\nIf the service must agree to the terms of the steam workshop. Find everything here:\n\ndictionariglobal teep: // steam train community / sredfailes / contracts law review</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>You must be content simply to present themselves created.\n\nYou can create your own content?</ConfirmContentAuthor>
   <Incompatible>Compatible</Incompatible>
   <TooMany>Many (most {0})</TooMany>

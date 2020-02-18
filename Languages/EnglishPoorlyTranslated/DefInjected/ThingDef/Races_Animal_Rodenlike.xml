@@ -1,66 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Squirrel.label>squirrel</Squirrel.label>
-  <Squirrel.description>People who are local to go take a look, even the rabbit is very durable. Aeschylus was using thick tail, the tail, which is also pure shadow. </Squirrel.description>
-  <Meat_Squirrel.label>squirrel meat</Meat_Squirrel.label>
-  <Meat_Squirrel.description>Meat, carved in the raw. This treatment also you can eat, cook the food given up. </Meat_Squirrel.description>
-  <Corpse_Squirrel.label>Dead Squirrel</Corpse_Squirrel.label>
-  <Corpse_Squirrel.description>left squirrel</Corpse_Squirrel.description>
-  <Squirrel.tools.left_claw.label>Hidaritsume</Squirrel.tools.left_claw.label>
-  <Squirrel.tools.right_claw.label>right foot</Squirrel.tools.right_claw.label>
+  <Squirrel.description>Where the people portrayed on the show, part of the strong earthquake. On a known day, a diamond, a tail, and a tail realize that rain is often used as an umbrella.</Squirrel.description>
+  <Squirrel.tools.left_claw.label>Hello life</Squirrel.tools.left_claw.label>
+  <Squirrel.tools.right_claw.label>Right nail</Squirrel.tools.right_claw.label>
   <Squirrel.tools.head.label>head</Squirrel.tools.head.label>
-  <Alphabeaver.label>alpha Beaver</Alphabeaver.label>
-  <Alphabeaver.description>Working tree, such as the animal's eyes, such a Beaver and genetics. As of malnutrition is stupid to eat the whole timber. If disturbed, it will most likely be attacked. </Alphabeaver.description>
-  <Meat_Alphabeaver.label>Alpha Beaver meat</Meat_Alphabeaver.label>
-  <Meat_Alphabeaver.description>carved meat raw materials. It is cruel, even if the meat is cooked, you can eat. </Meat_Alphabeaver.description>
-  <Corpse_Alphabeaver.label>Alpha beaver housing</Corpse_Alphabeaver.label>
-  <Corpse_Alphabeaver.description>Alfa beaver skin</Corpse_Alphabeaver.description>
-  <Alphabeaver.tools.left_claw.label>Idritsume ः</Alphabeaver.tools.left_claw.label>
+  <Alphabeaver.description>large animal like a clown for collecting trees with genetic manipulation. When they were malnourished, they made the whole tree go crazy. And problems, we can.</Alphabeaver.description>
+  <Alphabeaver.tools.left_claw.label>hidaritsume</Alphabeaver.tools.left_claw.label>
   <Alphabeaver.tools.right_claw.label>right paw</Alphabeaver.tools.right_claw.label>
-  <Alphabeaver.tools.head.label>on</Alphabeaver.tools.head.label>
-  <Capybara.label>Capybara</Capybara.label>
-  <Capybara.description>The largest rodent crafts, capybara very wet forest use. </Capybara.description>
-  <Meat_Capybara.label>meat</Meat_Capybara.label>
-  <Meat_Capybara.description>Raw meat is carved. cooked food, but the rest, and begin to me'oe. </Meat_Capybara.description>
-  <Corpse_Capybara.label>half Kapybara</Corpse_Capybara.label>
-  <Corpse_Capybara.description>Pig body</Corpse_Capybara.description>
-  <Capybara.tools.left_claw.label>Hidaritsume</Capybara.tools.left_claw.label>
-  <Capybara.tools.right_claw.label>Youzhao</Capybara.tools.right_claw.label>
-  <Capybara.tools.head.label>head</Capybara.tools.head.label>
-  <Chinchilla.label>My Neighbor Totoro</Chinchilla.label>
-  <Chinchilla.description>But small, Subash "Carp, mice and even the world, famous for its fur very soft. And commodities in a very valuable asset. </Chinchilla.description>
-  <Meat_Chinchilla.label>food chinchillas</Meat_Chinchilla.label>
-  <Meat_Chinchilla.description>Raw meat and game. He left raw, although the kitchen to cook, you can eat. </Meat_Chinchilla.description>
-  <Corpse_Chinchilla.label>chinchilla housing</Corpse_Chinchilla.label>
-  <Corpse_Chinchilla.description>chinchilla body</Corpse_Chinchilla.description>
-  <Chinchilla.tools.left_claw.label>Hi da ritsume</Chinchilla.tools.left_claw.label>
-  <Chinchilla.tools.right_claw.label>best nails</Chinchilla.tools.right_claw.label>
-  <Chinchilla.tools.head.label>head</Chinchilla.tools.head.label>
-  <Boomrat.label>Bhomuneshumi</Boomrat.label>
-  <Boomrat.description>Indeed, disarmament and genetic defense mechanism such as rodents, even such unusual animals intended movement, will be a powerful blast of wood. </Boomrat.description>
-  <Meat_Boomrat.label>meat Bomunezumi</Meat_Boomrat.label>
-  <Meat_Boomrat.description>Meat that is carved out of a virgin. However, you can eat, raw, cooked food left. </Meat_Boomrat.description>
-  <Corpse_Boomrat.label>Groups of Bomunezumi</Corpse_Boomrat.label>
-  <Corpse_Boomrat.description>Dead bodies Bomunezumi</Corpse_Boomrat.description>
+  <Alphabeaver.tools.head.label>head</Alphabeaver.tools.head.label>
+  <Capybara.description>Carabara, the largest in nature quadrant, very easily, according to the forest.</Capybara.description>
+  <Capybara.tools.left_claw.label>a Somali</Capybara.tools.left_claw.label>
+  <Capybara.tools.right_claw.label>alcohol</Capybara.tools.right_claw.label>
+  <Capybara.tools.head.label>second</Capybara.tools.head.label>
+  <Chinchilla.description>One of them is the small but famous for their unnealupalugagi on earth. On the raw material is essential.</Chinchilla.description>
+  <Chinchilla.tools.left_claw.label>daughter left</Chinchilla.tools.left_claw.label>
+  <Chinchilla.tools.right_claw.label>Left text symbols</Chinchilla.tools.right_claw.label>
+  <Chinchilla.tools.head.label>Mr. President</Chinchilla.tools.head.label>
+  <Boomrat.description>Abnormal genetic changes or rodents die before the syringe is aware of preventive mechanisms.</Boomrat.description>
   <Boomrat.tools.left_claw.label>Hidaritsume</Boomrat.tools.left_claw.label>
-  <Boomrat.tools.right_claw.label>right contract</Boomrat.tools.right_claw.label>
-  <Boomrat.tools.head.label>head</Boomrat.tools.head.label>
-  <Raccoon.label>raccoon</Raccoon.label>
-  <Raccoon.description>Small, powerful animals. A variety of buildings, rather than every bush forest forests. I want Bowl in the kitchen or wedding. all these things. </Raccoon.description>
-  <Meat_Raccoon.label>Raccoon meat</Meat_Raccoon.label>
-  <Meat_Raccoon.description>The meat is cut monthly payments. Raw food is prepared, despite eat ,. </Meat_Raccoon.description>
-  <Corpse_Raccoon.label>the bear channel</Corpse_Raccoon.label>
-  <Corpse_Raccoon.description>Rubio housings</Corpse_Raccoon.description>
-  <Raccoon.tools.left_claw.label>Hidaritsume</Raccoon.tools.left_claw.label>
-  <Raccoon.tools.right_claw.label>claw</Raccoon.tools.right_claw.label>
+  <Boomrat.tools.right_claw.label>right hand</Boomrat.tools.right_claw.label>
+  <Boomrat.tools.head.label>human being</Boomrat.tools.head.label>
+  <Raccoon.description>A small animal for a long time. Irrigate the plant habitat in the forest. Kitchen waste and flatten it, and everything explodes.</Raccoon.description>
+  <Raccoon.tools.left_claw.label>Seek lie abandoned</Raccoon.tools.left_claw.label>
+  <Raccoon.tools.right_claw.label>Actual clutches</Raccoon.tools.right_claw.label>
   <Raccoon.tools.head.label>head</Raccoon.tools.head.label>
-  <Rat.label>sticks</Rat.label>
-  <Rat.description>Kitchen polluting, it is known that the disease will spread hate mice, and quickly. Mice, if the place where you go, there is a place to continue this practice. In most cases, what you eat, where you live. </Rat.description>
-  <Meat_Rat.label>beef stew</Meat_Rat.label>
-  <Meat_Rat.description>Pure carved meat. This raw material is ready to eat. </Meat_Rat.description>
-  <Corpse_Rat.label>a rat die</Corpse_Rat.label>
-  <Corpse_Rat.description>Mouse body</Corpse_Rat.description>
-  <Rat.tools.left_claw.label>Hidaritsume</Rat.tools.left_claw.label>
-  <Rat.tools.right_claw.label>right paw</Rat.tools.right_claw.label>
+  <Rat.description>Large rodents did not know and did not want to contaminate the kitchen and infect the disease. Rats have a vision of the unknown everywhere. Most agents anywhere live.</Rat.description>
+  <Rat.tools.left_claw.label>The left hoof</Rat.tools.left_claw.label>
+  <Rat.tools.right_claw.label>said screws</Rat.tools.right_claw.label>
   <Rat.tools.head.label>head</Rat.tools.head.label>
 </LanguageData>

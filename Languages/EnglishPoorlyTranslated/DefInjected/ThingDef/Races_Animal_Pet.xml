@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: cat -->
-  <Cat.label>Cats</Cat.label>
   <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
   <Cat.description>One of the first animal was a cat - migration, a little parasites of mammals. Share and play a great dinner and after independence, the popular pet baby, smooth coat, all the popular chat buddy.</Cat.description>
   <!-- EN: left claw -->
@@ -10,8 +8,6 @@
   <Cat.tools.right_claw.label>right leg</Cat.tools.right_claw.label>
   <!-- EN: head -->
   <Cat.tools.head.label>Head</Cat.tools.head.label>
-  <!-- EN: husky -->
-  <Husky.label>Hoarse</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
   <Husky.description>Great, lively dog, although the terms' arctic coat dense warm him.</Husky.description>
   <!-- EN: left claw -->
@@ -20,8 +16,6 @@
   <Husky.tools.right_claw.label>right foot</Husky.tools.right_claw.label>
   <!-- EN: head -->
   <Husky.tools.head.label>Head</Husky.tools.head.label>
-  <!-- EN: labrador retriever -->
-  <LabradorRetriever.label>Labrador retriever</LabradorRetriever.label>
   <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
   <LabradorRetriever.description>Gm and medium-sized dog. Filmed first in hunting to feed the birds breed, labrador is a great watch, friends and family playmate.</LabradorRetriever.description>
   <!-- EN: left claw -->
@@ -30,8 +24,6 @@
   <LabradorRetriever.tools.right_claw.label>right glove</LabradorRetriever.tools.right_claw.label>
   <!-- EN: head -->
   <LabradorRetriever.tools.head.label>Head</LabradorRetriever.tools.head.label>
-  <!-- EN: yorkshire terrier -->
-  <YorkshireTerrier.label>Love ballads</YorkshireTerrier.label>
   <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it. -->
   <YorkshireTerrier.description>Small dogs. The first was born to hunt rats, before he came later, in the future, animal friends. Another man, but I think it is useless to push a sweet mood, when it can be taken to balance the need for food.</YorkshireTerrier.description>
   <!-- EN: left claw -->

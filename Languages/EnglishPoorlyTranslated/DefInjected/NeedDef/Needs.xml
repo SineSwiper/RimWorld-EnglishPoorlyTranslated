@@ -12,8 +12,6 @@
   <Food.label>Eat</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
   <Food.description>Return as nutritious food. If they go, the injury or death of the physical copper.</Food.description>
-  <!-- EN: recreation -->
-  <Joy.label>Recreation</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
   <Joy.description>Now the rest of the requirements, then set aside for work and play. Reduce successful creations such as boring, so I keep a variety of entertainment alternatives.</Joy.description>
   <!-- EN: mood -->

@@ -2,8 +2,6 @@
 <LanguageData>
   <!-- EN: arms -->
   <Arms.label>Limited to the</Arms.label>
-  <!-- EN: beak -->
-  <Beak.label>Bill</Beak.label>
   <!-- EN: eyes -->
   <Eyes.label>Look</Eyes.label>
   <!-- EN: feet -->
@@ -38,8 +36,6 @@
   <Hands.label>Hand</Hands.label>
   <!-- EN: head -->
   <HeadAttackTool.label>Head</HeadAttackTool.label>
-  <!-- EN: claw -->
-  <HeadClaw.label>Nails</HeadClaw.label>
   <!-- EN: horn -->
   <HornAttackTool.label>Horn</HornAttackTool.label>
   <!-- EN: left blade -->
@@ -54,8 +50,6 @@
   <Legs.label>Foot</Legs.label>
   <!-- EN: mouth -->
   <Mouth.label>Mouth</Mouth.label>
-  <!-- EN: neck -->
-  <Neck.label>Neck</Neck.label>
   <!-- EN: right blade -->
   <RightBlade.label>Your rights</RightBlade.label>
   <!-- EN: blade -->
@@ -68,14 +62,10 @@
   <Shoulders.label>Shoulder</Shoulders.label>
   <!-- EN: teeth -->
   <Teeth.label>Teeth</Teeth.label>
-  <!-- EN: torso -->
-  <Torso.label>Body surface</Torso.label>
   <!-- EN: beak -->
   <TurtleBeakAttackTool.label>Moth</TurtleBeakAttackTool.label>
   <!-- EN: tusks -->
   <TuskAttackTool.label>Canine</TuskAttackTool.label>
   <!-- EN: upper head -->
   <UpperHead.label>Ball head</UpperHead.label>
-  <!-- EN: waist -->
-  <Waist.label>Possession of</Waist.label>
 </LanguageData>

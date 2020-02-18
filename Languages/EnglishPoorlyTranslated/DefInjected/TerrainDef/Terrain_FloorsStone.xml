@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <FlagstoneSandstone.label>paving grout</FlagstoneSandstone.label>
-  <FlagstoneSandstone.description>Rough edges of the slate tiles.But that has changed, and it is not suitable for spring.but at night, and, for paving stones.</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>Rough edges of the slate tiles. But that has changed, and it is not suitable for spring. But at night, and, for paving stones.</FlagstoneSandstone.description>
   <FlagstoneGranite.label>granite pavers</FlagstoneGranite.label>
-  <FlagstoneGranite.description>Rough slate tiles on the ground.However, it is not suitable for pleasure roads and paths.If this does not decrease its sidewalks.</FlagstoneGranite.description>
+  <FlagstoneGranite.description>Rough slate tiles on the ground. However, it is not suitable for pleasure roads and paths. If this does not decrease its sidewalks.</FlagstoneGranite.description>
   <FlagstoneLimestone.label>feel powerless cement</FlagstoneLimestone.label>
-  <FlagstoneLimestone.description>Jagged edges of the slate tiles.But the best way because travel is not perfect.And not even make the rock removal xaareysa.</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>Jagged edges of the slate tiles. But the best way because travel is not perfect. And not even make the rock removal xaareysa.</FlagstoneLimestone.description>
   <FlagstoneSlate.label>The stone cobbles</FlagstoneSlate.label>
-  <FlagstoneSlate.description>This is a rough edge on the slate tiles.But it is nice and comfortable, and walking.What does not remain even if the degradation of the pavement.</FlagstoneSlate.description>
+  <FlagstoneSlate.description>This is a rough edge on the slate tiles. But it is nice and comfortable, and walking. What does not remain even if the degradation of the pavement.</FlagstoneSlate.description>
   <FlagstoneMarble.label>Repair Granite</FlagstoneMarble.label>
-  <FlagstoneMarble.description>Shale box rough edges.But the beauty and perfect for relaxation.Do not disassemble and stone.</FlagstoneMarble.description>
+  <FlagstoneMarble.description>Shale box rough edges. But the beauty and perfect for relaxation. Do not disassemble and stone.</FlagstoneMarble.description>
   <!-- ================= Tile ================= -->
   <TileSandstone.label>Sandstone</TileSandstone.label>
-  <TileSandstone.description>A mixed structure is kept to be a different brick.It looks good, but it takes time to create.</TileSandstone.description>
+  <TileSandstone.description>A mixed structure is kept to be a different brick. It looks good, but it takes time to create.</TileSandstone.description>
   <TileGranite.label>granite tiles</TileGranite.label>
-  <TileGranite.description>To reach the castle tile collection is divided in mind.Sehwag, but it takes time to put on.</TileGranite.description>
+  <TileGranite.description>To reach the castle tile collection is divided in mind. Sehwag, but it takes time to put on.</TileGranite.description>
   <TileLimestone.label>cement slabs</TileLimestone.label>
-  <TileLimestone.description>Made entitled castle carefully difference.Sounds good, but it takes time for bed.</TileLimestone.description>
+  <TileLimestone.description>Made entitled castle carefully difference. Sounds good, but it takes time for bed.</TileLimestone.description>
   <TileSlate.label>slate tile</TileSlate.label>
-  <TileSlate.description>The castle theme, tile, which have been carefully placed in isolation.Looks good, but it takes time to build.</TileSlate.description>
+  <TileSlate.description>The castle theme, tile, which have been carefully placed in isolation. Looks good, but it takes time to build.</TileSlate.description>
   <TileMarble.label>Marble Tiles</TileMarble.label>
-  <TileMarble.description>But the structure of the castle, which is analyzed and designed the Mosaic Law.Sehwag, but it is time to set.</TileMarble.description>
+  <TileMarble.description>But the structure of the castle, which is analyzed and designed the Mosaic Law. Sehwag, but it is time to set.</TileMarble.description>
 </LanguageData>

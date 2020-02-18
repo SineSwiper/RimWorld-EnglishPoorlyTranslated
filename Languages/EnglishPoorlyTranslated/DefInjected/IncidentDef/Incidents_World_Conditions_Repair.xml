@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: aurora -->
+  <Aurora.label>good morning</Aurora.label>
+  <!-- EN: eclipse -->
+  <Eclipse.label>the eclipse</Eclipse.label>
+  <!-- EN: solar flare -->
+  <SolarFlare.label>sunrise</SolarFlare.label>
+</LanguageData>

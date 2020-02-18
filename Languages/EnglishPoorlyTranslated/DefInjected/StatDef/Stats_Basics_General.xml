@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: beauty -->
-  <Beauty.label>Pleasant</Beauty.label>
-  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>How many of you like to have around or admire the hotel. Attractive, need beautiful people.</Beauty.description>
-  <!-- EN: cleanliness -->
-  <Cleanliness.label>Purity</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
   <Cleanliness.description>Way affect the value of their cleanness.</Cleanliness.description>
-  <!-- EN: comfort -->
-  <Comfort.label>Comfort</Comfort.label>
-  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>How appropriate property or rejected. The rest needs are a useful thing.</Comfort.description>
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>Break the fast</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
@@ -31,7 +21,7 @@
   <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>The value of the market. Current status affects all aspects of art and discuss the price.</MarketValue.description>
   <!-- EN: ${0} -->
-  <MarketValue.formatString>{0} €</MarketValue.formatString>
+  <MarketValue.formatString>${0}</MarketValue.formatString>
   <!-- EN: mass -->
   <Mass.label>Weight</Mass.label>
   <!-- EN: The physical mass of an object. -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: creek -->
+  <Creek.label>Greece</Creek.label>
+  <!-- EN: huge river -->
+  <HugeRiver.label>Giant river</HugeRiver.label>
+  <!-- EN: large river -->
+  <LargeRiver.label>River</LargeRiver.label>
+  <!-- EN: river -->
+  <River.label>Flow</River.label>
+</LanguageData>

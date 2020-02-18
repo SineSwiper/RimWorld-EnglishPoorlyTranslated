@@ -8,10 +8,6 @@
   <ChessTable.label>Chess, table</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
   <ChessTable.description>The ancient game of kings. It's fun for a few hours. Even if you just play. Information form.</ChessTable.description>
-  <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>Tv (flat screen)</FlatscreenTelevision.label>
-  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>View an image clear and bright colors, high-tech home. The film will be everywhere these data standards and satellites.</FlatscreenTelevision.description>
   <!-- EN: game-of-Ur board -->
   <GameOfUrBoard.label>The council chest</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
@@ -32,12 +28,6 @@
   <PokerTable.label>Poker table</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
   <PokerTable.description>A specially designed table gambling cards, such as. Gambling. A far is to create a strategic skills and how.</PokerTable.description>
-  <!-- EN: telescope -->
-  <Telescope.label>Telescope</Telescope.label>
   <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
   <Telescope.description>Amateur telescope astronomy experts. For certain types of hobby. It may only be used outside the home.</Telescope.description>
-  <!-- EN: tube television -->
-  <TubeTelevision.label>(tube tv)</TubeTelevision.label>
-  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>Crt, representing different sound film. Corner of the house, it is always interesting than it was at the beginning, at least, is the old oil.</TubeTelevision.description>
 </LanguageData>

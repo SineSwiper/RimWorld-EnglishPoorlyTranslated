@@ -4,10 +4,6 @@
   <Animals.label>Animals</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
   <Animals.description>The colony at the local animal treatment decisions.</Animals.description>
-  <!-- EN: architect -->
-  <Architect.label>Architect</Architect.label>
-  <!-- EN: Designate where to build, farm, store items, and so on. -->
-  <Architect.description>This is to save you, explaining that settlers built the plant. Ad should.</Architect.description>
   <!-- EN: assign -->
   <Assign.label>Part</Assign.label>
   <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->

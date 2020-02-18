@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MapDolly_Up.label>this</MapDolly_Up.label>
+  <MapDolly_Down.label>under the camera</MapDolly_Down.label>
+  <MapDolly_Left.label>residues camera</MapDolly_Left.label>
+  <MapDolly_Right.label>Right camera</MapDolly_Right.label>
+  <MapZoom_In.label>suurettes</MapZoom_In.label>
+  <MapZoom_Out.label>the groom's voices</MapZoom_Out.label>
+  <!-- Map play -->
+<!--	<ArchitectMode.label>アーキテクトメニューを表示</ArchitectMode.label> -->
+  <Accept.label>authorization</Accept.label>
+  <Cancel.label>stop</Cancel.label>
+  <TakeScreenshot.label>Take a screenshot</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>Replacing screen</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>Select one next cell</SelectNextInCell.label>
+  <TogglePause.label>french pause / playback biography</TogglePause.label>
+  <TimeSpeed_Normal.label>Game Speed: Classic</TimeSpeed_Normal.label>
+  <TimeSpeed_Fast.label>Game speed: X2</TimeSpeed_Fast.label>
+  <TimeSpeed_Superfast.label>Sport: X3</TimeSpeed_Superfast.label>
+  <TimeSpeed_Ultrafast.label>The speed of the game. (Ulu) X4</TimeSpeed_Ultrafast.label>
+  <PreviousColonist.label>Choose the past</PreviousColonist.label>
+  <NextColonist.label>Pick up another Resolver</NextColonist.label>
+  <ToggleRoomStatsDisplay.label>Depth of changing status display</ToggleRoomStatsDisplay.label>
+  <ToggleBeautyDisplay.label>Beauty glasses change</ToggleBeautyDisplay.label>
+  <!-- Misc (re-used) -->
+  <Misc1.label>other 1</Misc1.label>
+  <Misc2.label>other 2</Misc2.label>
+  <Misc3.label>some three</Misc3.label>
+  <Misc4.label>4 more</Misc4.label>
+  <Misc5.label>Another 5</Misc5.label>
+  <Misc6.label>other 6</Misc6.label>
+  <Misc7.label>7 others</Misc7.label>
+  <Misc8.label>or 0.8</Misc8.label>
+  <Misc9.label>other 9</Misc9.label>
+  <Misc10.label>other 10</Misc10.label>
+  <Misc11.label>11 content</Misc11.label>
+  <Misc12.label>many 12</Misc12.label>
+  <!-- Selection special -->
+  <Command_TogglePower.label>switch</Command_TogglePower.label>
+  <Command_ItemForbid.label>dongle</Command_ItemForbid.label>
+  <Command_ColonistDraft.label>Conscricion</Command_ColonistDraft.label>
+  <!-- Architect: Common -->
+  <Designator_Cancel.label>They go</Designator_Cancel.label>
+  <Designator_Deconstruct.label>Genocide</Designator_Deconstruct.label>
+  <Designator_RotateLeft.label>Rotates counterclockwise</Designator_RotateLeft.label>
+  <Designator_RotateRight.label>Turn around</Designator_RotateRight.label>
+  <!-- Modifiers -->
+  <ModifierIncrement_10x.label>X10 times</ModifierIncrement_10x.label>
+  <ModifierIncrement_100x.label>X100</ModifierIncrement_100x.label>
+  <QueueOrder.label>command team</QueueOrder.label>
+  <Dev_TickOnce.label>expresses one</Dev_TickOnce.label>
+  <Dev_ToggleGodMode.label>Previous development of fertilizer</Dev_ToggleGodMode.label>
+  <Dev_ToggleDebugLog.label>Change the debug log</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugActionsMenu.label>Xana activates in Settings in the Settings menu</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugLogMenu.label>Open the log debug list</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugInspector.label>Make a study visit</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugSettingsMenu.label>To change the bug menu menu</Dev_ToggleDebugSettingsMenu.label>
+</LanguageData>

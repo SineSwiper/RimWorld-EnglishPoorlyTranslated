@@ -12,10 +12,6 @@
   <Heater.label>Heat</Heater.label>
   <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
   <Heater.description>In order to transfer heat into electricity to power equipment. It was founded in order to maintain the temperature.</Heater.description>
-  <!-- EN: passive cooler -->
-  <PassiveCooler.label>Passive cooling</PassiveCooler.label>
-  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
-  <PassiveCooler.description>Cooling normal evaporation of water. This should always be given to new plants. It is not efficient enough to freeze food.</PassiveCooler.description>
   <!-- EN: vent -->
   <Vent.label>Ventilation</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->

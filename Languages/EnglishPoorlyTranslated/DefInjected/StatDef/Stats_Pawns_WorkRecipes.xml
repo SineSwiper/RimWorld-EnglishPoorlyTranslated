@@ -25,15 +25,13 @@
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
   <DrugCookingSpeed.description>How strong and the tea leaves? beer and beer production as non prepare himself.</DrugCookingSpeed.description>
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>Drogensinthetisiergeschvindigkeit</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>The rapid growth in medicine</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
   <DrugSynthesisSpeed.description>Compound individual can be synthesized by chemical agents, as fast.</DrugSynthesisSpeed.description>
-  <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>Food poisoning hazard</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
   <FoodPoisonChance.description>How many accidentally poisoned his food. Dissolved formed of any meat.</FoodPoisonChance.description>
   <!-- EN: sculpting speed -->
-  <SculptingSpeed.label>Bildhaugestshvindigkeit</SculptingSpeed.label>
+  <SculptingSpeed.label>Sculpture fast</SculptingSpeed.label>
   <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
   <SculptingSpeed.description>If a person is how quickly the statue.\n\nThis value affects the level of the job, but not the quality. Those can trust.</SculptingSpeed.description>
   <!-- EN: smelting speed -->

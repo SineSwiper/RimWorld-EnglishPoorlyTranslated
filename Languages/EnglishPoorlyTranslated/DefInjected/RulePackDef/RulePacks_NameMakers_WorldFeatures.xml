@@ -8,278 +8,278 @@
     <li>metaprefix(p=10)-></li>
     <li>metaprefix->[Direction]</li>
     <li>metaprefix->· [basic_adjective]</li>
-    <li>basic_adjective->Great</li>
-    <li>basic_adjective->more</li>
-    <li>basic_adjective->less</li>
-    <li>basic_adjective->earth</li>
+    <li>basic_adjective->large</li>
+    <li>basic_adjective->capital</li>
+    <li>basic_adjective->young</li>
+    <li>basic_adjective->year</li>
     <li>basic_adjective->new</li>
-    <li>basic_adjective->old</li>
+    <li>basic_adjective->Birth</li>
     <li>narrative_name(p=12)->[WordTribal]</li>
     <li>narrative_name(p=12)->[PlaceOutlander]</li>
-    <li>narrative_name->[NaturalObject] the [Color]</li>
+    <li>narrative_name->[NaturalObject] do [Color]</li>
     <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
     <li>narrative_name->[Animal]</li>
     <li>narrative_name->[Color]</li>
-    <li>narrative_name->[Animal] of [Color]</li>
+    <li>narrative_name->[Animal] or [Color]</li>
     <li>narrative_name->[AdjectiveNatural][Animal]</li>
     <li>narrative_name->[Animal][BodyPart]</li>
     <li>narrative_name->[Color] [Animal]</li>
     <li>narrative_name->[AdjectiveNatural] [Animal]</li>
     <li>narrative_name->[Animal] [BodyPart]</li>
-    <li>storyname(p=50)->Guest [subject] [story_result] [maybe_basic_adjective]</li>
-    <li>storyname(p=2)->[subject] to [BodyPart]</li>
-    <li>storyname->[Gore] is [subject]</li>
+    <li>storyname(p=50)->[subject] [maybe_basic_adjective] [story_result]</li>
+    <li>storyname(p=2)->[subject] [BodyPart]</li>
+    <li>storyname->[Gore] one [subject]</li>
     <li>maybe_basic_adjective-></li>
     <li>maybe_basic_adjective(p=0.1)->[basic_adjective]</li>
     <li>subject(p=5)->[NamePerson]</li>
     <li>subject->[Animal]</li>
     <li>subject->[WordTribal]</li>
     <li>subject->[PlaceOutlander]</li>
-    <li>story_result->folly</li>
-    <li>story_result->Weiss</li>
-    <li>story_result->folly</li>
-    <li>story_result->follower</li>
-    <li>story_result->Fouruto</li>
-    <li>story_result->When you miss</li>
+    <li>story_result->certainly</li>
+    <li>story_result->West</li>
+    <li>story_result->he drives</li>
+    <li>story_result->false</li>
+    <li>story_result->fouruto</li>
+    <li>story_result->One step right</li>
     <li>story_result->Derujon</li>
-    <li>story_result->happiness</li>
-    <li>story_result->great fun</li>
-    <li>story_result->idea</li>
-    <li>story_result->the proud</li>
-    <li>story_result->nose</li>
-    <li>story_result->mocking</li>
-    <li>story_result->generosity</li>
-    <li>story_result->the owner</li>
-    <li>story_result->first prize</li>
-    <li>story_result->Fun</li>
-    <li>story_result->Konseito</li>
-    <li>story_result->proud</li>
-    <li>story_result->stand</li>
-    <li>story_result->loss</li>
-    <li>story_result->debut</li>
-    <li>story_result->To reduce the</li>
-    <li>story_result->destructive</li>
-    <li>story_result->Wired</li>
-    <li>story_result->ruins</li>
-    <li>story_result->royneishon</li>
-    <li>story_result->unhold</li>
-    <li>story_result->less than</li>
-    <li>story_result->At last</li>
-    <li>story_result->Goodbye</li>
-    <li>story_result->finished</li>
-    <li>story_result->end</li>
-    <li>story_result->no</li>
-    <li>story_result->loose</li>
-    <li>story_result->fraud</li>
+    <li>story_result->Joey</li>
+    <li>story_result->have fun</li>
+    <li>story_result->miracle</li>
+    <li>story_result->pride</li>
+    <li>story_result->Precious stones</li>
+    <li>story_result->which rules</li>
+    <li>story_result->favor</li>
+    <li>story_result->Mr</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->copy</li>
+    <li>story_result->husband</li>
+    <li>story_result->Arogansu</li>
+    <li>story_result->Arise</li>
+    <li>story_result->Loss</li>
+    <li>story_result->the first time</li>
+    <li>story_result->collapse</li>
+    <li>story_result->destroy</li>
+    <li>story_result->terrorism</li>
+    <li>story_result->Crunch</li>
+    <li>story_result->Ruinishon</li>
+    <li>story_result->Turn on</li>
+    <li>story_result->fall</li>
+    <li>story_result->final</li>
+    <li>story_result->pension</li>
+    <li>story_result->accomplishment</li>
+    <li>story_result->Finally</li>
+    <li>story_result->do not attract</li>
+    <li>story_result->to lose</li>
+    <li>story_result->Confusion</li>
     <li>story_result->Fasedo</li>
-    <li>story_result->Furaudo</li>
+    <li>story_result->Furudo</li>
   </WorldFeatureNamerCommon.rulePack.rulesStrings>
   <!-- NamerMountainRange -->
   <NamerMountainRange.rulePack.rulesStrings>
     <li>standardname(p=0.2)->Mount [narrative_name]</li>
-    <li>terrain_word(p=5)->Mountain</li>
-    <li>terrain_word(p=2)->mountain range</li>
-    <li>terrain_word->burden</li>
-    <li>terrain_word->Reef</li>
-    <li>terrain_word->girl</li>
+    <li>terrain_word(p=5)->mountains</li>
+    <li>terrain_word(p=2)->ridge</li>
+    <li>terrain_word->mountain</li>
+    <li>terrain_word->the mountain</li>
+    <li>terrain_word->Ling</li>
   </NamerMountainRange.rulePack.rulesStrings>
   <!-- NamerArchipelago -->
   <NamerArchipelago.rulePack.rulesStrings>
     <li>standardname(p=0.2)->Kojima [narrative_name]</li>
-    <li>terrain_word(p=4)->island</li>
-    <li>terrain_word(p=3)->Islet</li>
-    <li>terrain_word(p=3)->island</li>
-    <li>terrain_word->The values of our</li>
+    <li>terrain_word(p=4)->days</li>
+    <li>terrain_word(p=3)->Kojima</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
     <li>terrain_word->island</li>
-    <li>terrain_word->lae</li>
+    <li>terrain_word->choral</li>
     <li>terrain_word->Kojima</li>
-    <li>terrain_word->test</li>
-    <li>terrain_word->naksvs</li>
+    <li>terrain_word->mural</li>
+    <li>terrain_word->the islands</li>
   </NamerArchipelago.rulePack.rulesStrings>
   <!-- NamerIsland -->
   <NamerIsland.rulePack.rulesStrings>
-    <li>mainname(p=0.2)->it [narrative_name]</li>
+    <li>mainname(p=0.2)->Kojima [narrative_name]</li>
     <li>terrain_word(p=4)->island</li>
-    <li>terrain_word(p=2)->holm</li>
-    <li>terrain_word->island</li>
-    <li>terrain_word->Reef</li>
-    <li>terrain_word->rock</li>
-    <li>terrain_word->islet</li>
-    <li>terrain_word->The</li>
+    <li>terrain_word(p=2)->[Shutaroh</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->Rock</li>
+    <li>terrain_word->Reference</li>
+    <li>terrain_word->Island</li>
+    <li>terrain_word->Injuries</li>
   </NamerIsland.rulePack.rulesStrings>
   <!-- NamerPeninsula -->
   <NamerPeninsula.rulePack.rulesStrings>
-    <li>standardname(p=0.2)->Peninsula [narrative_name]</li>
+    <li>standardname(p=0.2)->The [narrative_name] peninsula</li>
     <li>standardname(p=0.2)->Cape [narrative_name]</li>
-    <li>terrain_word(p=5)->Arabs</li>
-    <li>terrain_word(p=2)->preameanteary</li>
-    <li>terrain_word->man</li>
-    <li>terrain_word->Shoal</li>
-    <li>terrain_word->cape</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->Cape</li>
+    <li>terrain_word->Yes</li>
+    <li>terrain_word->Beach chair</li>
+    <li>terrain_word->there you are</li>
   </NamerPeninsula.rulePack.rulesStrings>
   <!-- NamerBay -->
   <NamerBay.rulePack.rulesStrings>
-    <li>standardname(p=0.2)->[narrative_name] Bay</li>
-    <li>terrain_word(p=6)->own</li>
-    <li>terrain_word->beaches</li>
-    <li>terrain_word->corner</li>
-    <li>terrain_word->bases</li>
-    <li>terrain_word->Water Supply</li>
+    <li>standardname(p=0.2)->Bay [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->place</li>
+    <li>terrain_word->Only</li>
+    <li>terrain_word->The bedrooms</li>
+    <li>terrain_word->Water supply</li>
   </NamerBay.rulePack.rulesStrings>
   <!-- NamerLake -->
   <NamerLake.rulePack.rulesStrings>
-    <li>standardname->Lake [narrative_name]</li>
-    <li>terrain_word(p=6)->lake</li>
-    <li>terrain_word->sea</li>
-    <li>terrain_word->lake</li>
-    <li>terrain_word->dip</li>
-    <li>terrain_word->tank</li>
-    <li>terrain_word(p=0.3)->memory</li>
-    <li>terrain_word(p=0.3)->lagoon</li>
-    <li>terrain_word(p=0.3)->price</li>
+    <li>standardname->[narrative_name]</li>
+    <li>terrain_word(p=6)->agencies</li>
+    <li>terrain_word->Hand</li>
+    <li>terrain_word->making</li>
+    <li>terrain_word->The pool</li>
+    <li>terrain_word->water tank</li>
+    <li>terrain_word(p=0.3)->Marshy</li>
+    <li>terrain_word(p=0.3)->Drainage</li>
+    <li>terrain_word(p=0.3)->Lake</li>
   </NamerLake.rulePack.rulesStrings>
   <!-- NamerSea -->
   <NamerSea.rulePack.rulesStrings>
-    <li>standardname(p=0.1)->lake [narrative_name]</li>
-    <li>terrain_word(p=6)->sea</li>
-    <li>terrain_word->TAIYO</li>
-    <li>terrain_word->Lake</li>
+    <li>standardname(p=0.1)->Lake [narrative_name]</li>
+    <li>terrain_word(p=6)->View</li>
+    <li>terrain_word->ocean</li>
+    <li>terrain_word->the needle</li>
   </NamerSea.rulePack.rulesStrings>
   <!-- NamerOcean -->
   <NamerOcean.rulePack.rulesStrings>
     <li>standardname(p=0.4)->[ocean_adjective][narrative_name]</li>
-    <li>ocean_adjective->Blue</li>
+    <li>ocean_adjective->Bulb</li>
     <li>ocean_adjective->white</li>
-    <li>ocean_adjective->Gray</li>
-    <li>ocean_adjective->clear</li>
-    <li>ocean_adjective->windy</li>
-    <li>ocean_adjective->Sutomyi</li>
+    <li>ocean_adjective->The rice</li>
+    <li>ocean_adjective->clean</li>
+    <li>ocean_adjective->the wind</li>
+    <li>ocean_adjective->Sutomi</li>
     <li>ocean_adjective->Calum</li>
-    <li>ocean_adjective->broad cloth</li>
+    <li>ocean_adjective->in diameter</li>
     <li>ocean_adjective->endless</li>
-    <li>ocean_adjective->Flat</li>
-    <li>ocean_adjective->Hoi</li>
-    <li>ocean_adjective->Ueibi</li>
-    <li>ocean_adjective->thin</li>
-    <li>terrain_word(p=6)->Mr Hiroshi</li>
-    <li>terrain_word(p=3)->Sea</li>
+    <li>ocean_adjective->salt</li>
+    <li>ocean_adjective->However</li>
+    <li>ocean_adjective->Wow</li>
+    <li>ocean_adjective->Smooth</li>
+    <li>terrain_word(p=6)->Hiroshi</li>
+    <li>terrain_word(p=3)->The sea</li>
     <li>terrain_word->Hiroshi</li>
   </NamerOcean.rulePack.rulesStrings>
   <!-- NamerDesert -->
   <NamerDesert.rulePack.rulesStrings>
     <li>standardname(p=0.4)->[desert_adjective][narrative_name]</li>
-    <li>desert_adjective->house</li>
-    <li>desert_adjective->come on</li>
-    <li>desert_adjective->endless</li>
-    <li>desert_adjective->sadist</li>
-    <li>desert_adjective->nest</li>
+    <li>desert_adjective->apartment</li>
+    <li>desert_adjective->White</li>
+    <li>desert_adjective->lots of</li>
+    <li>desert_adjective->hardness</li>
+    <li>desert_adjective->perch</li>
     <li>desert_adjective->dry</li>
-    <li>desert_adjective->more</li>
-    <li>desert_adjective->Heat attack</li>
-    <li>desert_adjective->sunny</li>
-    <li>desert_adjective->dajurin'gu</li>
-    <li>desert_adjective->sexy</li>
-    <li>desert_adjective->Suveti</li>
-    <li>desert_adjective->Warning</li>
-    <li>desert_adjective->rokkey</li>
-    <li>terrain_word(p=6)->wilderness</li>
-    <li>terrain_word->plateau</li>
-    <li>terrain_word->ground</li>
-    <li>terrain_word->creek</li>
-    <li>terrain_word->Noji</li>
-    <li>terrain_word->steppe</li>
-    <li>terrain_word->the</li>
+    <li>desert_adjective->long</li>
+    <li>desert_adjective->Kahuna is</li>
+    <li>desert_adjective->Sunny</li>
+    <li>desert_adjective->Dazuring</li>
+    <li>desert_adjective->hot</li>
+    <li>desert_adjective->Backlit</li>
+    <li>desert_adjective->Sandy</li>
+    <li>desert_adjective->rocky</li>
+    <li>terrain_word(p=6)->in the desert</li>
+    <li>terrain_word->Plateau</li>
+    <li>terrain_word->surface plane</li>
+    <li>terrain_word->swimming pool</li>
+    <li>terrain_word->DC</li>
+    <li>terrain_word->destruction</li>
+    <li>terrain_word->yatshi</li>
   </NamerDesert.rulePack.rulesStrings>
   <!-- NamerSwamp -->
   <NamerSwamp.rulePack.rulesStrings>
-    <li>standardname(p=0.1)->[narrative_name]</li>
+    <li>standardname(p=0.1)->As [narrative_name]</li>
     <li>standardname(p=0.3)->[swamp_adjective][narrative_name]</li>
-    <li>swamp_adjective->Wet</li>
-    <li>swamp_adjective->Sutimi</li>
-    <li>swamp_adjective->gourmand</li>
-    <li>swamp_adjective->Charlottenburg</li>
-    <li>swamp_adjective->weaving</li>
-    <li>swamp_adjective->In life</li>
-    <li>swamp_adjective->Joint</li>
-    <li>swamp_adjective->Hold</li>
-    <li>swamp_adjective->thistle</li>
+    <li>swamp_adjective->cold</li>
+    <li>swamp_adjective->steam</li>
+    <li>swamp_adjective->Throttle</li>
+    <li>swamp_adjective->Charlotte</li>
+    <li>swamp_adjective->chiselling</li>
+    <li>swamp_adjective->More</li>
+    <li>swamp_adjective->It's over</li>
+    <li>swamp_adjective->Viny</li>
+    <li>swamp_adjective->Word</li>
     <li>terrain_word(p=6)->swamp</li>
-    <li>terrain_word->pool</li>
-    <li>terrain_word->bean</li>
-    <li>terrain_word->Water mucous</li>
-    <li>terrain_word->Peatlnds</li>
-    <li>terrain_word->Lake</li>
-    <li>terrain_word->swamp</li>
+    <li>terrain_word->Basin</li>
+    <li>terrain_word->ocean</li>
+    <li>terrain_word->Swamp</li>
+    <li>terrain_word->Country grazing</li>
+    <li>terrain_word->wet</li>
+    <li>terrain_word->Aunt</li>
   </NamerSwamp.rulePack.rulesStrings>
   <!-- NamerTropicalRainforest -->
   <NamerTropicalRainforest.rulePack.rulesStrings>
     <li>standardname(p=0.3)->[rainforest_adjective][narrative_name]</li>
     <li>rainforest_adjective->wet</li>
-    <li>rainforest_adjective->I Sutie</li>
-    <li>rainforest_adjective->crush</li>
-    <li>rainforest_adjective->eye</li>
-    <li>rainforest_adjective->fine</li>
-    <li>rainforest_adjective->rabbiainutile</li>
-    <li>rainforest_adjective->fork</li>
-    <li>terrain_word(p=6)->jungle</li>
-    <li>terrain_word(p=3)->In the forest</li>
-    <li>terrain_word->forest</li>
+    <li>rainforest_adjective->steam</li>
+    <li>rainforest_adjective->This is crazy</li>
+    <li>rainforest_adjective->light</li>
+    <li>rainforest_adjective->hard to understand</li>
+    <li>rainforest_adjective->viny</li>
+    <li>rainforest_adjective->Fork</li>
+    <li>terrain_word(p=6)->woods</li>
+    <li>terrain_word(p=3)->forest</li>
+    <li>terrain_word->beautiful</li>
     <li>terrain_word->Guroubu</li>
-    <li>terrain_word->forest</li>
-    <li>terrain_word->The ancient forest</li>
+    <li>terrain_word->forests</li>
+    <li>terrain_word->former forest</li>
   </NamerTropicalRainforest.rulePack.rulesStrings>
   <!-- NamerForest -->
   <NamerForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->The Jubilee</li>
-    <li>terrain_word->Guroubu</li>
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word->trimming</li>
     <li>terrain_word->Woodlands</li>
-    <li>terrain_word->weed</li>
+    <li>terrain_word->forest</li>
   </NamerForest.rulePack.rulesStrings>
   <!-- NamerBorealForest -->
   <NamerBorealForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->forest</li>
-    <li>terrain_word(p=3)->Taiga</li>
+    <li>terrain_word(p=6)->Wild</li>
+    <li>terrain_word(p=3)->Marsh pine forests</li>
+    <li>terrain_word->weed</li>
+    <li>terrain_word->similarly</li>
+    <li>terrain_word->wood</li>
     <li>terrain_word->forestry</li>
-    <li>terrain_word->unusual forest</li>
-    <li>terrain_word->pedestal</li>
-    <li>terrain_word->forest</li>
-    <li>terrain_word->thicket</li>
+    <li>terrain_word->In Bush</li>
   </NamerBorealForest.rulePack.rulesStrings>
   <!-- NamerAridShrubland -->
   <NamerAridShrubland.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->Berry bushes</li>
-    <li>terrain_word(p=4)->schrublnds</li>
-    <li>terrain_word(p=2)->Plateau</li>
-    <li>terrain_word(p=2)->bush</li>
-    <li>terrain_word->the desert</li>
-    <li>terrain_word->scrub</li>
-    <li>terrain_word->forestry</li>
-    <li>terrain_word->the farm</li>
+    <li>terrain_word(p=4)->Forest every bush</li>
+    <li>terrain_word(p=4)->Bush</li>
+    <li>terrain_word(p=2)->cliff</li>
+    <li>terrain_word(p=2)->Bush</li>
+    <li>terrain_word->flying</li>
+    <li>terrain_word->Disease</li>
+    <li>terrain_word->shrubs</li>
+    <li>terrain_word->bars</li>
   </NamerAridShrubland.rulePack.rulesStrings>
   <!-- NamerIceSheet -->
   <NamerIceSheet.rulePack.rulesStrings>
-    <li>terrain_word->ice cover</li>
-    <li>terrain_word->simple</li>
-    <li>terrain_word(p=0.5)->support</li>
+    <li>terrain_word->ice layer</li>
+    <li>terrain_word->smooth</li>
+    <li>terrain_word(p=0.5)->Open the door for us</li>
     <li>terrain_word(p=0.3)->court</li>
-    <li>terrain_word(p=0.3)->time</li>
-    <li>terrain_word(p=0.3)->airport</li>
-    <li>terrain_word(p=0.3)->reduction</li>
-    <li>terrain_word(p=0.3)->communal</li>
+    <li>terrain_word(p=0.3)->close</li>
+    <li>terrain_word(p=0.3)->area</li>
+    <li>terrain_word(p=0.3)->stretching</li>
+    <li>terrain_word(p=0.3)->territory</li>
   </NamerIceSheet.rulePack.rulesStrings>
   <!-- NamerTundra -->
   <NamerTundra.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->Mountains</li>
-    <li>terrain_word(p=4)->desert</li>
-    <li>terrain_word(p=2)->tiger</li>
-    <li>terrain_word->Without trees</li>
-    <li>terrain_word->"There are no trees</li>
-    <li>terrain_word->Schrublnds</li>
-    <li>terrain_word->Zen Monastery</li>
-    <li>terrain_word->thicket</li>
-    <li>terrain_word->lacework</li>
-    <li>terrain_word->smooth</li>
-    <li>terrain_word->great plains</li>
-    <li>terrain_word->Apartment</li>
+    <li>terrain_word(p=4)->tray</li>
+    <li>terrain_word(p=4)->desertification</li>
+    <li>terrain_word(p=2)->tag</li>
+    <li>terrain_word->Lote</li>
+    <li>terrain_word->A little bushes</li>
+    <li>terrain_word->Shrub</li>
+    <li>terrain_word->forest</li>
+    <li>terrain_word->thick bush</li>
+    <li>terrain_word->dilapidated house</li>
+    <li>terrain_word->Hirono</li>
+    <li>terrain_word->prairie</li>
+    <li>terrain_word->bed</li>
   </NamerTundra.rulePack.rulesStrings>
 </LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Water generators</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>Made by a hydrkkrik force. Tubes should be placed in the water. When the wires are placed too close to each other, they can reduce their performance and cause disturbances.</WatermillGenerator.description>
+</LanguageData>

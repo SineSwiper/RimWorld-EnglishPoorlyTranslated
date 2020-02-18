@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced -->
+  <Advanced.label>Good</Advanced.label>
+  <!-- EN: intermediate -->
+  <Intermediate.label>Way</Intermediate.label>
+  <!-- EN: simple -->
+  <Simple.label>On the right</Simple.label>
+</LanguageData>

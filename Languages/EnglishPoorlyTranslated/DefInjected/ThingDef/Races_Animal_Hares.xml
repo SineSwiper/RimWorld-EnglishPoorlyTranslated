@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: hare -->
-  <Hare.label>Rabbit</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>The small herbivores easily an accident.</Hare.description>
   <!-- EN: head -->
   <Hare.tools.head.label>Head</Hare.tools.head.label>
-  <!-- EN: snowhare -->
-  <Snowhare.label>Support schn</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
   <Snowhare.description>Healthy animals survive the winter of his homeland and digging through snow in search of food.</Snowhare.description>
   <!-- EN: head -->

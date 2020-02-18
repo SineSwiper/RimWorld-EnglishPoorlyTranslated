@@ -13,13 +13,13 @@
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
   <ChargedShot.description>Damage to the electric drill gun and more. Note: this is a high-tech components.</ChargedShot.description>
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>Taetsitshireletso sleep cartridge</Cryptosleep.label>
+  <Cryptosleep.label>Information security sleep cartridge</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
   <Cryptosleep.description>The adapter cap sleep free tour. The colonists will be put in an artificial coma.</Cryptosleep.description>
   <!-- EN: deep drilling -->
   <DeepDrilling.label>Sting</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>Raw materials will be improved by making the depth of tiefenbohrtürme ground. Raw materials that need to get a perfect scanner.</DeepDrilling.description>
+  <DeepDrilling.description>Raw materials will be improved by making the depth of fine world ground. Raw materials that need to get a perfect scanner.</DeepDrilling.description>
   <!-- EN: fabrication -->
   <Fabrication.label>In the form</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->

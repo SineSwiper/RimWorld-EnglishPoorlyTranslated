@@ -1,14 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Grenadier_Destructive.label>Journeyman (embryos)</Grenadier_Destructive.label>
-  <Grenadier_EMP.label>Cooley (Earthquake Grenadier)</Grenadier_EMP.label>
-  <Mercenary_Gunner.label>Leasing (gunmen)</Mercenary_Gunner.label>
-  <Mercenary_Sniper.label>Agir (sniper)</Mercenary_Sniper.label>
-  <Mercenary_Slasher.label>Add Engine (Special Forces)</Mercenary_Slasher.label>
-  <Mercenary_Heavy.label>Mercenary (heavy weapons)</Mercenary_Heavy.label>
-  <Mercenary_Heavy.labelPlural>Mercenaries (heavy weapons)</Mercenary_Heavy.labelPlural>
-  <PirateBoss.label>カシラ</PirateBoss.label>
-  <PirateBoss.labelPlural>the agent</PirateBoss.labelPlural>
-  <Mercenary_Elite.label>Merca (Elite)</Mercenary_Elite.label>
-  <Mercenary_Elite.labelPlural>Killer (elite)</Mercenary_Elite.labelPlural>
+  <!-- EN: grenadier -->
+  <Grenadier_Destructive.label>Thrower</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>Grenadiers</Grenadier_Destructive.labelPlural>
+  <!-- EN: EMP grenadier -->
+  <Grenadier_EMP.label>It grenadier</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>Emp army</Grenadier_EMP.labelPlural>
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite.label>Elite hired</Mercenary_Elite.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite.labelPlural>To pay down</Mercenary_Elite.labelPlural>
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner.label>Mercenary shooter</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>Snipers killer</Mercenary_Gunner.labelPlural>
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy.label>Mercenary</Mercenary_Heavy.label>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy.labelPlural>Quality rent</Mercenary_Heavy.labelPlural>
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher.label>Hired goon</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>Slasher rent</Mercenary_Slasher.labelPlural>
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper.label>Professional sniper</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>Mercenaries sniper</Mercenary_Sniper.labelPlural>
+  <!-- EN: boss -->
+  <PirateBoss.label>Administrator</PirateBoss.label>
+  <!-- EN: bosses -->
+  <PirateBoss.labelPlural>Bosse</PirateBoss.labelPlural>
 </LanguageData>

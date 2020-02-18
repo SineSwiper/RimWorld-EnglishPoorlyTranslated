@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: caribou -->
+  <Caribou.label>The deer</Caribou.label>
+  <!-- EN: deer -->
+  <Deer.label>Deer groin</Deer.label>
+  <!-- EN: elk -->
+  <Elk.label>Sheep</Elk.label>
+  <!-- EN: ibex -->
+  <Ibex.label>Capricorn</Ibex.label>
+  <!-- EN: tortoise -->
+  <Tortoise.label>Turtle</Tortoise.label>
+  <!-- EN: wild boar -->
+  <WildBoar.label>Pig</WildBoar.label>
+</LanguageData>

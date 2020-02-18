@@ -5,7 +5,6 @@ Muffalo
 Rat fever
 Mice grow rapidly
 Megaskarabaus
-Megaskarabäus
 Cobra snake
 New leaves, coconut
 Sheep
@@ -208,7 +207,6 @@ Think
 Mol
 Oil
 Mongoose
-Mongoose |
 Mouse
 Rat
 Insect

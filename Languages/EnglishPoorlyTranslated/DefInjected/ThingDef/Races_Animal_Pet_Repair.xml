@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cat -->
+  <Cat.label>Cat</Cat.label>
+  <!-- EN: husky -->
+  <Husky.label>Hoarse</Husky.label>
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>Labrador retriever</LabradorRetriever.label>
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>Yorkshire terrier</YorkshireTerrier.label>
+</LanguageData>

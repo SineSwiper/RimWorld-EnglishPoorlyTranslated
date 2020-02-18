@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beak -->
+  <Beak.label>most</Beak.label>
+  <!-- EN: claw -->
+  <HeadClaw.label>clip</HeadClaw.label>
+  <!-- EN: neck -->
+  <Neck.label>a</Neck.label>
+  <!-- EN: torso -->
+  <Torso.label>torso</Torso.label>
+  <!-- EN: waist -->
+  <Waist.label>in the middle</Waist.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bite -->
+  <Bite.label>layers</Bite.label>
+  <!-- EN: burn -->
+  <Burn.label>light</Burn.label>
+  <!-- EN: crush -->
+  <Crush.label>there was a problem</Crush.label>
+  <!-- EN: cut -->
+  <Cut.label>court</Cut.label>
+  <!-- EN: frostbite -->
+  <Frostbite.label>deposit</Frostbite.label>
+  <!-- EN: misc -->
+  <Misc.label>more</Misc.label>
+  <!-- EN: scratch -->
+  <Scratch.label>head</Scratch.label>
+  <!-- EN: stab -->
+  <Stab.label>crushed</Stab.label>
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>cut</SurgicalCut.label>
+</LanguageData>

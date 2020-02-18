@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: centipede -->
-  <Mech_Centipede.label>Tractor</Mech_Centipede.label>
   <Mech_Centipede.labelPlural>Way</Mech_Centipede.labelPlural>
-  <!-- EN: lancer -->
-  <Mech_Lancer.label>Bainazara</Mech_Lancer.label>
   <Mech_Lancer.labelPlural>Lanzo</Mech_Lancer.labelPlural>
-  <!-- EN: scyther -->
-  <Mech_Scyther.label>Sickle</Mech_Scyther.label>
   <Mech_Scyther.labelPlural>Reaper</Mech_Scyther.labelPlural>
 </LanguageData>

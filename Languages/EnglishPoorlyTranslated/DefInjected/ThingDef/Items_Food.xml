@@ -24,8 +24,4 @@
   <MealSurvivalPack.label>Emergency food</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
   <MealSurvivalPack.description>Creating dinner compressed value. The viability of this food emergency. The victims, do not ruin the atmosphere. Food would go great.</MealSurvivalPack.description>
-  <!-- EN: pemmican -->
-  <Pemmican.label>Pemmican</Pemmican.label>
-  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>Milling dehydrated meat and oil components are mixtures of plant nutrients and longevity. There is nothing like the taste, but not obtrusive. It is, of course, without a long refrigeration. As food for the journey is very convenient.</Pemmican.description>
 </LanguageData>

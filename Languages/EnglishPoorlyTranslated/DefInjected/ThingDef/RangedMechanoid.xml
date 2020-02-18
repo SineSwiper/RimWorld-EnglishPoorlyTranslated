@@ -7,7 +7,7 @@
   <!-- EN: heavy charge blaster -->
   <Gun_ChargeBlasterHeavy.label>Heavy blaster</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. -->
-  <Gun_ChargeBlasterHeavy.description>Verschießt heavy blaster that scores echo pulse charging pad. That could put a sign in the whole region.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>Shoot off heavy blaster that scores echo pulse charging pad. That could put a sign in the whole region.</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
   <Gun_ChargeBlasterHeavy.tools.barrel.label>Working</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->
@@ -15,7 +15,7 @@
   <!-- EN: inferno cannon -->
   <Gun_InfernoCannon.label>Many stations</Gun_InfernoCannon.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannon.description>A small fire artillery shells. Verschießt caliber weapons.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.description>A small fire artillery shells. Use up caliber weapons.</Gun_InfernoCannon.description>
   <!-- EN: barrel -->
   <Gun_InfernoCannon.tools.barrel.label>Run</Gun_InfernoCannon.tools.barrel.label>
   <!-- EN: inferno cannon -->

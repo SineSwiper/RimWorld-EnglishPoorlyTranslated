@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BackstoryTranslations>
+  <ComputerGeek14>
+    <!-- EN: computer geek -->
+    <title>computer expert</title>
+    <!-- EN: geek -->
+    <titleShort>tserebrito</titleShort>
+    <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood on [PAWN_possessive] computer, typing away, never knowing when to get up and eat.\n\nHe had a very narrow interest: hacking cryptobiotic safety protocols. -->
+    <desc>[PAWN_nameDef] eating a diet without much of his childhood was spent in the computer.\n\nHe had a strong cryptographic protocols and information security, had a very limited interest.</desc>
+  </ComputerGeek14>
+  <Technician82>
+    <!-- EN: technician -->
+    <title>technical</title>
+    <!-- EN: techie -->
+    <titleShort>thongs</titleShort>
+    <!-- EN: As an IT technician, [PAWN_nameDef] didn't have much time to write code any more.\n\n[PAWN_pronoun] got called to work all the time to fix failures in the cryptobiotic chamber and AI subroutine misalignments. -->
+    <desc>If the technician has [PAWN_nameDef] some time and time to write.\n\n[PAWN_pronoun] it is known as obligatory at all times, it shows the weaknesses and sabrutaingalannu kriptobaistika kanditu.</desc>
+  </Technician82>
+</BackstoryTranslations>

@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Drifter.label>bully</Drifter.label>
-  <Scavenger.label>略奪者</Scavenger.label>
-  <Thrasher.label>殺し屋</Thrasher.label>
-  <Pirate.label>宙賊</Pirate.label>
+  <!-- EN: drifter -->
+  <Drifter.label>Robber</Drifter.label>
+  <Drifter.labelPlural>Biya</Drifter.labelPlural>
+  <Pirate.labelPlural>Pirates (contactor)</Pirate.labelPlural>
+  <!-- EN: scavenger gunner -->
+  <Scavenger.label>Championship (contact)</Scavenger.label>
+  <Scavenger.labelPlural>Promoter (contactors)</Scavenger.labelPlural>
+  <!-- EN: scavenger thrasher -->
+  <Thrasher.label>Champion (bat)</Thrasher.label>
+  <Thrasher.labelPlural>Championship (bat)</Thrasher.labelPlural>
 </LanguageData>

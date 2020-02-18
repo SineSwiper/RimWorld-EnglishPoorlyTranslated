@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: belt -->
+  <Belt.label>Belts</Belt.label>
+  <!-- EN: middle -->
+  <Middle.label>Center</Middle.label>
+  <!-- EN: skin -->
+  <OnSkin.label>Skin</OnSkin.label>
+  <!-- EN: headgear -->
+  <Overhead.label>Hat</Overhead.label>
+  <!-- EN: outer -->
+  <Shell.label>Lear</Shell.label>
+</LanguageData>

@@ -11,7 +11,7 @@
   <!-- EN: Animal taming -->
   <AnimalTaming.label>Simple animals</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>You can control animals usually live colonists team.\n\nThen the aliens agree food quality will try to help the animal.\n\nBeware - some animal abuse, they fail zähmversuch.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>You can control animals usually live colonists team.\n\nThen the aliens agree food quality will try to help the animal.\n\nBeware - some animal abuse, they fail random test.</AnimalTaming.helpText>
   <!-- EN: Animal training -->
   <AnimalTraining.label>Railway for animals</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
@@ -75,7 +75,7 @@
   <!-- EN: History tab -->
   <HistoryTab.label>Professor of history</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>Schaltfäche bottom of the screen and the history of the colony, you can see the timing.</HistoryTab.helpText>
+  <HistoryTab.helpText>Button bottom of the screen and the history of the colony, you can see the timing.</HistoryTab.helpText>
   <!-- EN: Home area -->
   <HomeArea.label>House</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->

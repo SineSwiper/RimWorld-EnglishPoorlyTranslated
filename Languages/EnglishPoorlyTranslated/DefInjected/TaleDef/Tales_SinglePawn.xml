@@ -148,8 +148,8 @@
   -->
   <Drunk.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef] dead drunk</li>
-    <li>tale_noun->[PAWN_nameDef] sternhagelveall</li>
-    <li>image->[PAWN_pronoun] [PAWN_nameFull] [circumstance_group] and drink in the area of information umhertaumelt</li>
+    <li>tale_noun->[PAWN_nameDef] very drunk</li>
+    <li>image->[PAWN_pronoun] [PAWN_nameFull] [circumstance_group] and drink in the area of information around</li>
     <li>image->[PAWN_pronoun] [PAWN_possessive] only working as a [PAWN_nameFull] controls before putting the phone [circumstance_group] alcohol</li>
     <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] year and all the bottles of spirits</li>
     <li>image->[PAWN_nameFull] [PAWN_pronoun] drunk [circumstance_group]</li>
@@ -387,7 +387,7 @@
     <li>desc_sentence->In mud and sweat [PAWN_nameDef].</li>
   </StruckMineable.rulePack.rulesStrings>
   <!-- EN: vomited -->
-  <Vomited.label>i</Vomited.label>
+  <Vomited.label>to pay</Vomited.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
     <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
@@ -459,12 +459,12 @@
     <li>image->[PAWN_nameFull] [PAWN_pronoun] [circumstance_group] in nude [nude_action]</li>
     <li>image->Nude [PAWN_nameFull] [PAWN_pronoun] [circumstance_group] [nude_action]</li>
     <li>image->[PAWN_pronoun] [circumstance_group] as [PAWN_nameFull] naked [nude_action]</li>
-    <li>nude_action->herumtanshelt</li>
+    <li>nude_action->women</li>
     <li>nude_action->slapstick</li>
     <li>nude_action->go here</li>
     <li>nude_action->running around</li>
     <li>nude_action->strutting around</li>
-    <li>nude_action->herumschlendert</li>
+    <li>nude_action->treatment</li>
     <li>nude_action->tiptoe around</li>
     <li>nude_action->hodam</li>
     <li>nude_action->when considering</li>
@@ -472,7 +472,7 @@
     <li>circumstance_phrase->without shame</li>
     <li>circumstance_phrase->see, when,</li>
     <li>circumstance_phrase->Unknown reason</li>
-    <li>circumstance_phrase->Ser people and animals</li>
+    <li>circumstance_phrase->generations to see the creatures, do not mix</li>
     <li>desc_sentence->[PAWN_nameDef] is under stress.</li>
     <li>desc_sentence->[PAWN_nameDef] covered with a liquid, which can not be explained.</li>
     <li>desc_sentence->[PAWN_nameDef] pain for unknown reasons.</li>

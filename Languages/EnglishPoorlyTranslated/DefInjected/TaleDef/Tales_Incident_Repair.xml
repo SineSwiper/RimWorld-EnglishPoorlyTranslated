@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: aurora -->
+  <Aurora.label>At that time</Aurora.label>
+  <!-- EN: caravan demand -->
+  <CaravanDemand.label>Ask about travel expenses</CaravanDemand.label>
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>Meeting of trailer a</CaravanMeeting.label>
+  <!-- EN: eclipse -->
+  <Eclipse.label>Reading the sun</Eclipse.label>
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Black clouds</Flashstorm.label>
+  <!-- EN: infestation -->
+  <Infestation.label>Fighting</Infestation.label>
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>People hunting packages</ManhunterPack.label>
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Partially toxic</ToxicFallout.label>
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>volcano in winter</VolcanicWinter.label>
+</LanguageData>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: joywire -->
-  <Joywire.label>Joy engineering</Joywire.label>
   <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
   <Joywire.description>Brain implant, which stimulates the pleasure center of the brain. This better mood for the use of freedom, but all the joy coating difficult to focus on anything else. In many communities around the world, corruption btl (better than-life) implants.</Joywire.description>
-  <!-- EN: painstopper -->
-  <Painstopper.label>Painkiller</Painstopper.label>
   <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
   <Painstopper.description>It is a focus on mental illness. This allows users to achieve more. but it turns out that the cause of the pain: no pain, without making the news is very easy to get a very serious injury.</Painstopper.description>
 </LanguageData>

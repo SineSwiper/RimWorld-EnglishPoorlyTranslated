@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: grizzly bear -->
-  <Bear_Grizzly.label>Brown sugar bear</Bear_Grizzly.label>
   <Bear_Grizzly.labelPlural>Grizzly bear</Bear_Grizzly.labelPlural>
   <Bear_Grizzly.lifeStages.0.label>Debbi</Bear_Grizzly.lifeStages.0.label>
   <Bear_Grizzly.lifeStages.1.label>Grizzly youth</Bear_Grizzly.lifeStages.1.label>
   <Bear_Grizzly.lifeStages.2.label>Grizzly bear</Bear_Grizzly.lifeStages.2.label>
-  <!-- EN: polar bear -->
-  <Bear_Polar.label>Polar bear</Bear_Polar.label>
   <Bear_Polar.labelPlural>Polar bear</Bear_Polar.labelPlural>
   <Bear_Polar.lifeStages.0.label>Die polar</Bear_Polar.lifeStages.0.label>
   <Bear_Polar.lifeStages.1.label>A young bear ruling</Bear_Polar.lifeStages.1.label>

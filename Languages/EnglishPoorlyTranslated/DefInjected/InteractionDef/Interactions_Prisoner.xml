@@ -73,7 +73,7 @@
     <li>subject(p=8)->[TalkTopicLightAcc]</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>Anwerbungsgesprach</RecruitAttempt.label>
+  <RecruitAttempt.label>Job interview</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>

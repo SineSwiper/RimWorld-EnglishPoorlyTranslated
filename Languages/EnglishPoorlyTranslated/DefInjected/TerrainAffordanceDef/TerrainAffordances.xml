@@ -10,8 +10,6 @@
   <Heavy.label>difficult</Heavy.label>
   <!-- EN: light -->
   <Light.label>easy</Light.label>
-  <!-- EN: medium -->
-  <Medium.label>into the middle</Medium.label>
   <!-- EN: moving water -->
   <MovingFluid.label>water</MovingFluid.label>
   <!-- EN: shallow water -->

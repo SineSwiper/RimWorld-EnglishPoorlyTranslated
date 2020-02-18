@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>Crypto old sleeping pills</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>the crypt of ancient dream dreams</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>The old sleeping capsules. You know it?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>The sarcophagus in this cryptosone seems to have been in this place long before, who knows what's inside?</AncientCryptosleepCasket.description>
   <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>Wrapping</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>Business packaging-region group</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>It will replace the convoy. In the camp you can reduce installation time.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Name a place where businesses.</CaravanPackingSpot.description>
   <!-- EN: comms console -->
-  <CommsConsole.label>The radio</CommsConsole.label>
+  <CommsConsole.label>communications console</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>Other groups and make radio contact with the orbiting traders.</CommsConsole.description>
+  <CommsConsole.description>It enables wireless communication between remote businessmen and other parts of business and diplomatic relations.</CommsConsole.description>
   <!-- EN: cryptosleep casket -->
-  <CryptosleepCasket.label>Sleep encryption capsules</CryptosleepCasket.label>
+  <CryptosleepCasket.label>kryptovalyuty sarcophagus</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>This should be a very artificial hibernation, is designed to independently drive capsule decades of occupation.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Open to the force, which has been around for years and is close to one of the official art galleries.</CryptosleepCasket.description>
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>Foam gun extinction</FirefoamPopper.label>
+  <FirefoamPopper.label>firewall foam</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>The space of the cylinder is a chip aga log fire shoot houses for the war. Handmade.</FirefoamPopper.description>
+  <FirefoamPopper.description>In the case of fire or combustion, the material and spits burst of foam around them.</FirefoamPopper.description>
   <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>All listings foam monitors</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>Active extinguish fire</FirefoamPopper.comps.CompUsable.useLabel>
   <!-- EN: grave -->
-  <Grave.label>Serious</Grave.label>
+  <Grave.label>two cemeteries</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>The graves of the dead and give them a place to rest well. Visit each of the graves at joy colonialism.</Grave.description>
+  <Grave.description>Bury their dead graves, so they have a good place for the best rest. The law is too busy to meditate on the graves.</Grave.description>
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>Reserved above</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>ground penetrating tube</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
-  <GroundPenetratingScanner.description>Equipped with sonar sensors and magnets for deep radar except photos. (but not their exact nature) can not obscure the vein of tracking objects. Note: you need a lot of energy.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Park and foundation radar clearly with gold and magnetic d 'resonance will help you know the dead minerals. (but see) on. It consumes a lot of energy.</GroundPenetratingScanner.description>
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>Resistance mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
   <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
-  <LongRangeMineralScanner.description>The researchers were able to identify the components on the planet. The time required to access using a random choice, but also depends on the ability of scientists.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>In the area near (for example, minerals and gems are gold and jade) feel automatically (but do not have a place). There are an average of 30 days of 30 instructions on the container. The same area has little or no effect on having more than one scanner or nearby.</LongRangeMineralScanner.description>
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>Name</MarriageSpot.label>
+  <MarriageSpot.label>wedding venue</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>A symbol than a marriage ceremony. The top can be seen by the public.</MarriageSpot.description>
+  <MarriageSpot.description>So, to be performed during the wedding. The view from both sides of the audience.</MarriageSpot.description>
   <!-- EN: moisture pump -->
-  <MoisturePump.label>Dry pump</MoisturePump.label>
+  <MoisturePump.label>vogpomp</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
-  <MoisturePump.description>Recall that it is too late, and the soft sand and shallow places drained clay soil that can be converted into common ground analysis. This building seems to take next. The impact on the water.</MoisturePump.description>
+  <MoisturePump.description>From there, it transports macha from its surrounding soil to wetlands on dry ground or turns it into more water. It does not affect deep water.</MoisturePump.description>
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>Contents</MultiAnalyzer.label>
+  <MultiAnalyzer.label>inspector of several stages</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>Research vessels, a high-tech, information, and fragrance research study will be installed monday. The analyzer can be used for desktop search.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>This also increases the speed of the investigation. This should be the research chair. Only one job is on the table, will have to many analysts.</MultiAnalyzer.description>
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>Birds orbit</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>approaching the business sales orbit</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>Trade round.\nIt is only in terms of the orbital distribution. You also can set.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Commercial orbit. You can sell the electrical circuit business for peripheral products. Can be put to.</OrbitalTradeBeacon.description>
   <!-- EN: party spot -->
-  <PartySpot.label>Party</PartySpot.label>
+  <PartySpot.label>about parties</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Features of the game will be kept in place.</PartySpot.description>
+  <PartySpot.description>This means that around parties stare.</PartySpot.description>
   <!-- EN: pod launcher -->
-  <PodLauncher.label>Launch pad</PodLauncher.label>
+  <PodLauncher.label>take a hint</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>The device starts with the innovative energy-shirt. You can shoot at the same time to run a bunch of pills sharing platform - to be next to each other, but it was built.</PodLauncher.description>
+  <PodLauncher.description>Port for the first time to install and load the capsule. The capsule launcher was canceled as a group. but the pitcher must be positioned side by side.</PodLauncher.description>
   <!-- EN: sarcophagus -->
-  <Sarcophagus.label>Sarcophagus</Sarcophagus.label>
+  <Sarcophagus.label>carnivorous</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>Decor as the final resting place of the dead.</Sarcophagus.description>
+  <Sarcophagus.description>Live live in honor of the dead.</Sarcophagus.description>
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>Temperature weapons</ToolCabinet.label>
+  <ToolCabinet.label>plug tool</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>Retained in addition to speed work, or table. Two will be awarded to the mechanism worked in an office chair.</ToolCabinet.description>
+  <ToolCabinet.description>Is. You have to be on the table. Table users at the same time, there are only two devices, you can access it.</ToolCabinet.description>
   <!-- EN: transport pod -->
-  <TransportPod.label>Transport capsules</TransportPod.label>
+  <TransportPod.label>the capsule to</TransportPod.label>
   <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>A great asset sub-orbital vehicle. These people, animals or objects. Send to a sudden attack or enhancing access to donation, people and goods continue to be used to transport war. Note: you need to be on the launch pad to start.</TransportPod.description>
+  <TransportPod.description>Used ballistic capsule product is released, people will be able to move the animals and objects. It can be used to strengthen the movement, attack or wonder at war.</TransportPod.description>
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>Important to monitor</VitalsMonitor.label>
+  <VitalsMonitor.label>direct monitoring signals</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>Surgical treatment, to improve the quality of the success rate and the coverage level. And then placed in a hospital with no success. More important than the same without the impact of additional in-country and the screen.</VitalsMonitor.description>
+  <VitalsMonitor.description>Enhance the quality of care, and the work of god the refreshment of the current system attacks increased, and after another couple to the hospital bed. This has the advantage of working in a hospital bed as a whole. Defines more than one monitor vital signs not have any effect on her bed.</VitalsMonitor.description>
 </LanguageData>

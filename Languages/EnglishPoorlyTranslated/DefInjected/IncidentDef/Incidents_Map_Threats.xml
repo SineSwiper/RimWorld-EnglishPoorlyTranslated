@@ -17,7 +17,7 @@
   <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
   <Infestation.letterText>Giant raking error. They break at any time, and establish colonies.\n\nSlow growth of the colonies of beetles and other sources.\n\nHis whole place, you do not want to take your army and destroy the colony. But beware, the beetle protect their homes.</Infestation.letterText>
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>People hunter rudel</ManhunterPack.label>
+  <ManhunterPack.label>People hunter pack</ManhunterPack.label>
   <!-- EN: ship part crash (poison) -->
   <PoisonShipPartCrash.label>Part of shipping (the sun)</PoisonShipPartCrash.label>
   <!-- EN: Poison ship -->

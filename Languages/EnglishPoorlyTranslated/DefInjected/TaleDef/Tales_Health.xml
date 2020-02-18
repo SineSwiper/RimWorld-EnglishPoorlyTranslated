@@ -65,7 +65,7 @@
     <li>circumstance_phrase->effects of rapid movement</li>
     <li>circumstance_phrase->Lack of emotional words</li>
     <li>circumstance_phrase->black spots</li>
-    <li>circumstance_phrase-> Fear, Halfway Heart</li>
+    <li>circumstance_phrase->Fear, Halfway Heart</li>
     <li>desc_sentence->See [Quantity_adjphrase] [AnimalPlural].</li>
     <li>desc_sentence->Revenue [PersonJob] [side_position] keys.</li>
     <li>desc_sentence->[VICTIM_nameDef] [AdjectiveAngsty].</li>
@@ -322,7 +322,7 @@
     <li>cap_removal->eliminate</li>
     <li>cap_removal->ready</li>
     <li>wound_name_past->massacre</li>
-    <li>wound_name_past->rsm zielorientierte</li>
+    <li>wound_name_past->rsm goal-oriented</li>
     <li>wound_name_past->i</li>
     <li>wound_name_past->elimination</li>
     <li>wound_name_present->destroyed</li>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>false</Ancients.leaderTitle>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>the leader</AncientsHostile.leaderTitle>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>maintenance</Insect.leaderTitle>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>head</Mechanoid.leaderTitle>
+</LanguageData>

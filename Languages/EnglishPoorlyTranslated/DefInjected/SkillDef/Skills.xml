@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Shooting.label>hunting</Shooting.label>
-  <Shooting.description>High-tech long struggle with low-tech weapons. </Shooting.description>
+  <Shooting.description>High-tech long struggle with low-tech weapons.</Shooting.description>
   <Shooting.skillLabel>stool</Shooting.skillLabel>
   <Melee.label>short</Melee.label>
-  <Melee.description>Weapons, melee weapons. </Melee.description>
+  <Melee.description>Weapons, melee weapons.</Melee.description>
   <Melee.skillLabel>efforts</Melee.skillLabel>
   <Construction.label>architecture</Construction.label>
-  <Construction.description>build houses and furniture removal. </Construction.description>
+  <Construction.description>build houses and furniture removal.</Construction.description>
   <Construction.skillLabel>architectural</Construction.skillLabel>
-  <Mining.label>Mining and quarrying</Mining.label>
-  <Mining.description>Tunnel drilling and extraction. </Mining.description>
+  <Mining.description>Tunnel drilling and extraction.</Mining.description>
   <Mining.skillLabel>mining</Mining.skillLabel>
   <Cooking.label>Cooking</Cooking.label>
-  <Cooking.description>To avoid food poisoning, fast-food raw materials. </Cooking.description>
+  <Cooking.description>To avoid food poisoning, fast-food raw materials.</Cooking.description>
   <Cooking.skillLabel>The cook</Cooking.skillLabel>
   <Plants.label>Agriculture</Plants.label>
-  <Plants.description>Plant, grow and harvest. Will take the service road. </Plants.description>
+  <Plants.description>Plant, grow and harvest. Will take the service road.</Plants.description>
   <Plants.skillLabel>increase</Plants.skillLabel>
-  <Animals.label>beast</Animals.label>
-  <Animals.description>Domesticated, animal control and trained. </Animals.description>
   <Animals.skillLabel>beast</Animals.skillLabel>
   <Crafting.label>crafts</Crafting.label>
-  <Crafting.description>Weapons, components and products have been created, including normal cleaning equipment. </Crafting.description>
-  <Crafting.skillLabel>Art</Crafting.skillLabel>
+  <Crafting.description>Weapons, components and products have been created, including normal cleaning equipment.</Crafting.description>
+  <Crafting.skillLabel>Write</Crafting.skillLabel>
   <Artistic.label>art</Artistic.label>
-  <Artistic.description>The need for skill and knowledge. </Artistic.description>
+  <Artistic.description>The need for skill and knowledge.</Artistic.description>
   <Artistic.skillLabel>art</Artistic.skillLabel>
   <Medicine.label>strengthen</Medicine.label>
-  <Medicine.description>They also do surgery, injuries and diseases. </Medicine.description>
+  <Medicine.description>They also do surgery, injuries and diseases.</Medicine.description>
   <Medicine.skillLabel>Medicine</Medicine.skillLabel>
-  <Social.label>social life</Social.label>
-  <Social.description>Negotiations to persuade others is a skill challenge and commitment. </Social.description>
+  <Social.description>Negotiations to persuade others is a skill challenge and commitment.</Social.description>
   <Social.skillLabel>social life</Social.skillLabel>
   <Intellectual.label>wit</Intellectual.label>
-  <Intellectual.description>Make alphabet pharmaceutical research. </Intellectual.description>
+  <Intellectual.description>Make alphabet pharmaceutical research.</Intellectual.description>
   <Intellectual.skillLabel>ingenuity</Intellectual.skillLabel>
 </LanguageData>

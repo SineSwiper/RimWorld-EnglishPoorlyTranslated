@@ -1,103 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Firefighter.labelShort>Fire</Firefighter.labelShort>
-  <Firefighter.pawnLabel>firefighters</Firefighter.pawnLabel>
-  <Firefighter.gerundLabel>Firefighters</Firefighter.gerundLabel>
-  <Firefighter.description>In simple. </Firefighter.description>
-  <Firefighter.verb>fire</Firefighter.verb>
-  <Patient.labelShort>died</Patient.labelShort>
-  <Patient.pawnLabel>scientist</Patient.pawnLabel>
-  <Patient.gerundLabel>death</Patient.gerundLabel>
-  <Patient.description>If this is not immediately life in bed for treatment if a serious health problem. </Patient.description>
-  <Patient.verb>death</Patient.verb>
-  <Doctor.labelShort>doctor</Doctor.labelShort>
-  <Doctor.pawnLabel>Teacher</Doctor.pawnLabel>
-  <Doctor.gerundLabel>therapy</Doctor.gerundLabel>
-  <Doctor.description>Allow He gave it wanted, and surgery for the treatment of chronic diseases, diet and comfortable in our area. The doctors and medicine, peanuts and condemn. </Doctor.description>
+  <Firefighter.labelShort>fire fighting</Firefighter.labelShort>
+  <Firefighter.pawnLabel>fire</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>Boys fire</Firefighter.gerundLabel>
+  <Firefighter.description>Panibesikka the fire is put out ial.</Firefighter.description>
+  <Firefighter.verb>put out the fire</Firefighter.verb>
+  <Patient.labelShort>The death</Patient.labelShort>
+  <Patient.pawnLabel>mold</Patient.pawnLabel>
+  <Patient.gerundLabel>die</Patient.gerundLabel>
+  <Patient.description>If the patient is too high, will, for example, long live long, this bed treatment.</Patient.description>
+  <Patient.verb>And die</Patient.verb>
+  <Doctor.labelShort>Dr</Doctor.labelShort>
+  <Doctor.pawnLabel>doctor</Doctor.pawnLabel>
+  <Doctor.gerundLabel>Treatment</Doctor.gerundLabel>
+  <Doctor.description>Meals are encouraged to serve the disease, given a specific function. doctor treats insulting.</Doctor.description>
   <Doctor.verb>Treatment</Doctor.verb>
-  <PatientBedRest.labelShort>poorly</PatientBedRest.labelShort>
-  <PatientBedRest.pawnLabel>patient</PatientBedRest.pawnLabel>
-  <PatientBedRest.gerundLabel>fun</PatientBedRest.gerundLabel>
-  <PatientBedRest.description>In addition, the symptoms did not participate in life, you have to sleep in bed recovering. </PatientBedRest.description>
-  <PatientBedRest.verb>be patient</PatientBedRest.verb>
-  <BasicWorker.labelShort>other</BasicWorker.labelShort>
-  <BasicWorker.pawnLabel>different</BasicWorker.pawnLabel>
-  <BasicWorker.gerundLabel>support for</BasicWorker.gerundLabel>
-  <BasicWorker.description>Necessary skills. Prisoners should be released, and then go ahead and turn machine. </BasicWorker.description>
-  <BasicWorker.verb>deal</BasicWorker.verb>
-  <Warden.labelShort>and managers</Warden.labelShort>
-  <Warden.pawnLabel>Prisoners</Warden.pawnLabel>
-  <Warden.gerundLabel>weapon</Warden.gerundLabel>
-  <Warden.description>The food service, and a set of small talk, and an inmate. </Warden.description>
-  <Warden.verb>watch</Warden.verb>
-  <Handling.labelShort>violence</Handling.labelShort>
-  <Handling.pawnLabel>trainer</Handling.pawnLabel>
-  <Handling.gerundLabel>abuse</Handling.gerundLabel>
-  <Handling.description>Either Tenazuke, discipline and disclaimer. </Handling.description>
-  <Handling.verb>oppression</Handling.verb>
-  <Cooking.labelShort>cooking</Cooking.labelShort>
-  <Cooking.pawnLabel>chef</Cooking.pawnLabel>
-  <Cooking.gerundLabel>Cook</Cooking.gerundLabel>
-  <Cooking.description>Or food preparation, or attempt to meat. </Cooking.description>
-  <Cooking.verb>cooking</Cooking.verb>
+  <PatientBedRest.labelShort>is sick</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Be patient</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>residence</PatientBedRest.gerundLabel>
+  <PatientBedRest.description>Lay in bed recovering from the rules of life.</PatientBedRest.description>
+  <PatientBedRest.verb>badly</PatientBedRest.verb>
+  <BasicWorker.labelShort>Different</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>mixed</BasicWorker.pawnLabel>
+  <BasicWorker.gerundLabel>support</BasicWorker.gerundLabel>
+  <BasicWorker.description>Skills and work unnecessary. After the release of prisoners and stop at the end of the exchange mechanism.</BasicWorker.description>
+  <BasicWorker.verb>this</BasicWorker.verb>
+  <Warden.labelShort>lock</Warden.labelShort>
+  <Warden.pawnLabel>Filter</Warden.pawnLabel>
+  <Warden.gerundLabel>Guard</Warden.gerundLabel>
+  <Warden.description>Manager, ALS plastic, knowledge and recruitment and short language and bond.</Warden.description>
+  <Warden.verb>it will break</Warden.verb>
+  <Handling.labelShort>tortured</Handling.labelShort>
+  <Handling.pawnLabel>coach</Handling.pawnLabel>
+  <Handling.gerundLabel>to training</Handling.gerundLabel>
+  <Handling.description>Or at the same time, discipline and devotion.</Handling.description>
+  <Handling.verb>torture</Handling.verb>
+  <Cooking.labelShort>chef</Cooking.labelShort>
+  <Cooking.pawnLabel>COOK</Cooking.pawnLabel>
+  <Cooking.gerundLabel>cook</Cooking.gerundLabel>
+  <Cooking.verb>Cook</Cooking.verb>
   <Hunting.labelShort>corner</Hunting.labelShort>
-  <Hunting.pawnLabel>hunter</Hunting.pawnLabel>
-  <Hunting.gerundLabel>hunt</Hunting.gerundLabel>
-  <Hunting.description>Hunting animals get these instructions. </Hunting.description>
-  <Hunting.verb>hunting</Hunting.verb>
+  <Hunting.pawnLabel>hunting</Hunting.pawnLabel>
+  <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
+  <Hunting.description>Animals and selected animals.</Hunting.description>
+  <Hunting.verb>Hunt</Hunting.verb>
   <Construction.labelShort>architecture</Construction.labelShort>
-  <Construction.pawnLabel>carpenter</Construction.pawnLabel>
-  <Construction.gerundLabel>architecture</Construction.gerundLabel>
-  <Construction.description>It was the building will be repaired or removed, asked whether the destroyed building built. </Construction.description>
-  <Construction.verb>do</Construction.verb>
-  <Growing.labelShort>agriculture</Growing.labelShort>
-  <Growing.pawnLabel>agriculture</Growing.pawnLabel>
-  <Growing.gerundLabel>POPPY cultivation</Growing.gerundLabel>
-  <Growing.description>Sow and harvest crops that are looking for a combination of weeds. </Growing.description>
-  <Growing.verb>processing</Growing.verb>
-  <Mining.labelShort>South</Mining.labelShort>
-  <Mining.pawnLabel>miners</Mining.pawnLabel>
-  <Mining.gerundLabel>mountain</Mining.gerundLabel>
-  <Mining.description>Drilling and with</Mining.description>
-  <Mining.verb>Mihad</Mining.verb>
-  <PlantCutting.labelShort>fashion</PlantCutting.labelShort>
-  <PlantCutting.pawnLabel>Reaper</PlantCutting.pawnLabel>
-  <PlantCutting.gerundLabel>yield</PlantCutting.gerundLabel>
-  <PlantCutting.description>And logging and harvesting. </PlantCutting.description>
-  <PlantCutting.verb>Harvest</PlantCutting.verb>
+  <Construction.pawnLabel>Carpenter</Construction.pawnLabel>
+  <Construction.gerundLabel>Architecture</Construction.gerundLabel>
+  <Construction.verb>the building</Construction.verb>
+  <Growing.labelShort>increases</Growing.labelShort>
+  <Growing.pawnLabel>Diller</Growing.pawnLabel>
+  <Growing.gerundLabel>factory</Growing.gerundLabel>
+  <Growing.description>Planting and harvesting and eliminating forest.</Growing.description>
+  <Growing.verb>floor</Growing.verb>
+  <Mining.labelShort>Mining and quarrying</Mining.labelShort>
+  <Mining.pawnLabel>small</Mining.pawnLabel>
+  <Mining.gerundLabel>dig</Mining.gerundLabel>
+  <Mining.verb>Increase</Mining.verb>
+  <PlantCutting.labelShort>Crop</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>addition</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>cultures</PlantCutting.gerundLabel>
+  <PlantCutting.description>Remember to pick up these plants.</PlantCutting.description>
+  <PlantCutting.verb>Sowing</PlantCutting.verb>
   <Smithing.labelShort>Smith</Smithing.labelShort>
-  <Smithing.pawnLabel>iron worker</Smithing.pawnLabel>
-  <Smithing.gerundLabel>for</Smithing.gerundLabel>
-  <Smithing.description>Raw materials such as blacksmith, or use a weapon or tool machining. </Smithing.description>
-  <Smithing.verb>smith</Smithing.verb>
-  <Tailoring.labelShort>sewing</Tailoring.labelShort>
-  <Tailoring.pawnLabel>Home Sewing</Tailoring.pawnLabel>
-  <Tailoring.gerundLabel>needlework</Tailoring.gerundLabel>
-  <Tailoring.description>Make a sauce of raw materials. </Tailoring.description>
-  <Tailoring.verb>Sewing</Tailoring.verb>
-  <Art.labelShort>the art</Art.labelShort>
-  <Art.pawnLabel>painting</Art.pawnLabel>
+  <Smithing.pawnLabel>smith</Smithing.pawnLabel>
+  <Smithing.gerundLabel>black's</Smithing.gerundLabel>
+  <Smithing.verb>blacksmith</Smithing.verb>
+  <Tailoring.labelShort>Garn</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Sewing at home</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>sewing</Tailoring.gerundLabel>
+  <Tailoring.description>Raw materials for the manufacture of garments.</Tailoring.description>
+  <Tailoring.verb>help</Tailoring.verb>
+  <Art.labelShort>Industry</Art.labelShort>
+  <Art.pawnLabel>Painters</Art.pawnLabel>
   <Art.gerundLabel>art</Art.gerundLabel>
-  <Art.description>From natural ingredients, it is such a beautiful picture. </Art.description>
-  <Art.verb>Arts</Art.verb>
-  <Crafting.labelShort>crafts</Crafting.labelShort>
-  <Crafting.pawnLabel>manual</Crafting.pawnLabel>
-  <Crafting.gerundLabel>crafts</Crafting.gerundLabel>
-  <Crafting.description>Sri stage and an art and less. In this work, stone cutting machine, melting furnace, etc., are also included. </Crafting.description>
-  <Crafting.verb>skill</Crafting.verb>
-  <Hauling.labelShort>safari</Hauling.labelShort>
-  <Hauling.pawnLabel>Two truck</Hauling.pawnLabel>
-  <Hauling.gerundLabel>transport</Hauling.gerundLabel>
-  <Hauling.description>What must have. </Hauling.description>
-  <Hauling.verb>right</Hauling.verb>
-  <Cleaning.labelShort>Cleaning</Cleaning.labelShort>
-  <Cleaning.pawnLabel>cleaning people</Cleaning.pawnLabel>
-  <Cleaning.gerundLabel>Cleaning</Cleaning.gerundLabel>
-  <Cleaning.description>and the removal of snow and cleaning the colonial system. </Cleaning.description>
-  <Cleaning.verb>Ready</Cleaning.verb>
-  <Research.labelShort>Research</Research.labelShort>
-  <Research.pawnLabel>researcher</Research.pawnLabel>
-  <Research.gerundLabel>study</Research.gerundLabel>
-  <Research.description>research. </Research.description>
-  <Research.verb>correction</Research.verb>
+  <Art.description>You can create something animated.</Art.description>
+  <Art.verb>Art</Art.verb>
+  <Crafting.labelShort>art</Crafting.labelShort>
+  <Crafting.pawnLabel>artist</Crafting.pawnLabel>
+  <Crafting.gerundLabel>His hand</Crafting.gerundLabel>
+  <Crafting.verb>famosaviana</Crafting.verb>
+  <Hauling.labelShort>reward</Hauling.labelShort>
+  <Hauling.pawnLabel>hauler</Hauling.pawnLabel>
+  <Hauling.gerundLabel>transportation</Hauling.gerundLabel>
+  <Hauling.description>Things that need to be taken care of in the right places.</Hauling.description>
+  <Hauling.verb>Earthen</Hauling.verb>
+  <Cleaning.labelShort>clean</Cleaning.labelShort>
+  <Cleaning.pawnLabel>cleaning</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>cleaning</Cleaning.gerundLabel>
+  <Cleaning.description>Remove and clean the colon.</Cleaning.description>
+  <Cleaning.verb>burn that</Cleaning.verb>
+  <Research.labelShort>research</Research.labelShort>
+  <Research.pawnLabel>Researcher</Research.pawnLabel>
+  <Research.gerundLabel>research</Research.gerundLabel>
 </LanguageData>

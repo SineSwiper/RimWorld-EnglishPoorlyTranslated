@@ -1,120 +1,36 @@
 ﻿//Example: "Die ...-Fraktion"
 
 Knife
-Reports
-Grill
-Dagger
-What
+Make-up
+Application
+Knife
 Sound
-Manicure language
-Razor
-Sega
-Harvest
-Sickle
-Harvest
+File
+Razor blades
+Omarna
+Braided
+Yogurt
+Hair
+(crescent)
 
 
 Sword
 Knife
 Saber
-Power
-Sword
-Saber
+Broadsword
+Pans
+Ilowsiiyay
+Lamberg
 Flamberge
-Mountains my
-Scimitar
-Elgohry
+Sword
+Ssimitar
 
 
-Spear
 Spears
-Ikvan
-Avon
 Spear
-Arrow
+Ikwa
+Comment
+Spears
+Window
 Bayonet
-The sword
-Spears
-Posch
-
-
-Axt
-Inter
-Mr thomas
-Ax
-
-
-Ignorance
-Whip
-
-
-Fans
-Close
-
-
-Pin-code
-Father
-Lobster
-Hammer
-Sledgehammer
-Sled
-Sunrise
-Day star
-
-
-Brass knuckles
-Brass knuckles for
-Related
-Boots
-
-
-Zülküf
-Darts
-Tir
-Arrow
-
-
-Crossbow
-Wrong
-Onion
-December
-
-
-Arms
-Weapon
-Weapon
-Dawn
-Gun
-Weapon
-Shooting
-Gun
-Gun
-Weapon
-
-
-Cannon
-Weapon
-Malta
-Mortar
-Howitzers
-Hong source hewitt
-
-
-Bomb
-Pace
-Istanbul
-Nuclear power
-Mines
-My
-Bomb
-Blow
-
-
-Missiles
-Missile system
-Rocket
-Rocketry
-Bomb
-Pomegranate
-Caramba
-Karamba
+Toothpick

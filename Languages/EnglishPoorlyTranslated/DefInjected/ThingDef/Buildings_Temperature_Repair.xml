@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>The family refused</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Traditional cooling work with the evaporation. Thanks to this new trees should be regularly supplied. This is not enough to freeze food.</PassiveCooler.description>
+</LanguageData>

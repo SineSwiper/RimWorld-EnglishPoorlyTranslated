@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animals -->
+  <Animals.label>Creature</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Notre dame, the control of trains and animals.</Animals.description>
+  <!-- EN: mining -->
+  <Mining.label>Minerals</Mining.label>
+  <!-- EN: social -->
+  <Social.label>Social relations</Social.label>
+</LanguageData>

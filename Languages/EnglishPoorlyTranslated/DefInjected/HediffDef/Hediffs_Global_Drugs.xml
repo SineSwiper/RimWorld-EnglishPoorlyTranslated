@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- WakeUp.xml -->
+  <WakeUpHigh.label>seasoning on top</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>sign height</WakeUpHigh.labelNoun>
+  <WakeUpTolerance.label>awakening refused</WakeUpTolerance.label>
+  <WakeUpTolerance.stages.small-0.label>Small</WakeUpTolerance.stages.small-0.label>
+  <WakeUpTolerance.stages.small-1.label>small</WakeUpTolerance.stages.small-1.label>
+  <WakeUpTolerance.stages.large.label>it is good</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>life</WakeUpTolerance.stages.massive.label>
+  <WakeUpAddiction.label>Fishing news story</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.withdrawal.label>Remove symptoms</WakeUpAddiction.stages.withdrawal.label>
+  <!-- Smokeleaf.xml -->
+  <SmokeleafHigh.label>Smoke caused by smoke</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>A lazy face</SmokeleafHigh.labelNoun>
+  <SmokeleafTolerance.label>Resistance to tobacco smoke</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.small-0.label>little</SmokeleafTolerance.stages.small-0.label>
+  <SmokeleafTolerance.stages.small-1.label>small</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.large.label>more</SmokeleafTolerance.stages.large.label>
+  <SmokeleafTolerance.stages.massive.label>Great</SmokeleafTolerance.stages.massive.label>
+  <SmokeleafAddiction.label>Tobacco dependency leaf</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.withdrawal.label>from</SmokeleafAddiction.stages.withdrawal.label>
+  <!-- Psychite_Flake.xml -->
+  <FlakeHigh.label>driven shells</FlakeHigh.label>
+  <FlakeHigh.labelNoun>smooth</FlakeHigh.labelNoun>
+  <PsychiteTeaHigh.label>Press the key</PsychiteTeaHigh.label>
+  <PsychiteTeaHigh.labelNoun>Kaito between</PsychiteTeaHigh.labelNoun>
+  <!-- Psychite_Yayo.xml -->
+  <YayoHigh.label>To enjoy Jayo</YayoHigh.label>
+  <YayoHigh.labelNoun>Hello Ieiyo</YayoHigh.labelNoun>
+  <PsychiteTolerance.label>The stability of the sciito</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.small-0.label>briefly said</PsychiteTolerance.stages.small-0.label>
+  <PsychiteTolerance.stages.small-1.label>small</PsychiteTolerance.stages.small-1.label>
+  <PsychiteTolerance.stages.large.label>Good</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.massive.label>otherwise</PsychiteTolerance.stages.massive.label>
+  <PsychiteAddiction.label>antipsychotics</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.withdrawal.label>For now retirazzione</PsychiteAddiction.stages.withdrawal.label>
+  <!-- Luciferium.xml -->
+  <LuciferiumHigh.label>Lusipheriama</LuciferiumHigh.label>
+  <LuciferiumAddiction.label>Luciferinaren dependent</LuciferiumAddiction.label>
+  <LuciferiumAddiction.stages.unmet.label>free</LuciferiumAddiction.stages.unmet.label>
+  <!-- MalariBlock.xml -->
+  <PenoxycylineHigh.label>Penokisirina</PenoxycylineHigh.label>
+</LanguageData>

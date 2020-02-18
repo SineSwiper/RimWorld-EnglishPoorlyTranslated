@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: wake-up -->
-  <WakeUp.label>Muntermatsher</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, and allows users to work for extended periods without getting tired. However, repeated use will produce an addiction which reduces mental performance and can even generate psychotic breaks.\n\nIn the most competitive universities and companies of many worlds, high-flying achievers are known for occasionally breaking down into psychosis due to wake-up addiction. -->
   <WakeUp.description>Artificial stimulants. Let eliminate the need for sleep and allows the use of a long time without fatigue. However, this can be addictive and can result in declining mental abilities and sometimes violent explosion.\n\nMost universities and large companies competitive and drink, psychosis, perhaps to thrive in this world events drowned.</WakeUp.description>
   <!-- EN: Take {0} -->

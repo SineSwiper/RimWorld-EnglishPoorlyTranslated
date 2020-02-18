@@ -177,10 +177,19 @@
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
   <GlobalUtility.rulePack.rulesStrings>
-    <li>Trans->aus</li>
-    <li>Trans->für</li>
-    <li>Trans->von</li>
-    <li>Trans->mit</li>
+    <li>Trans->of</li>
+    <li>Trans->for</li>
+    <li>Trans->by</li>
+    <li>Trans->with</li>
+    <li>Trans(p=0.8)->or</li>
+    <li>Trans(p=0.8)->on</li>
+    <li>Trans(p=0.8)->at</li>
+    <li>Trans(p=0.8)->in</li>
+    <li>of(p=0.3)->after</li>
+    <li>of(p=0.3)->before</li>
+    <li>of(p=0.3)->under</li>
+    <li>of(p=0.3)->over</li>
+    <li>of(p=0.3)->inside</li>
     <li>Character(p=6)->[PersonJob]</li>
     <li>Character(p=4)->[Animal]</li>
     <li>Character(p=3)->[Enemy]</li>

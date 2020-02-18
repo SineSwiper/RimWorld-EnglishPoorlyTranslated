@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: aurora -->
-  <Aurora.label>Dawn</Aurora.label>
   <!-- EN:
     <li>tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community]</li>
@@ -133,8 +131,6 @@
     <li>desc_sentence->Conflict zones fear [Quantity_adjphrase] [AnimalPlural].</li>
     <li>desc_sentence->Distance [PersonJob] concept of such activities.</li>
   </CaravanAmbushedByManhunter.rulePack.rulesStrings>
-  <!-- EN: caravan demand -->
-  <CaravanDemand.label>Caravan payment</CaravanDemand.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan receiving a demand</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan being threatened</li>
@@ -183,8 +179,6 @@
     <li>action->waiting for a decision</li>
     <li>action->Bottom [PAWN_nameDef]</li>
   </CaravanDemand.rulePack.rulesStrings>
-  <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>Camp meeting</CaravanMeeting.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being met by others</li>
     <li>image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]</li>
@@ -235,8 +229,6 @@
     <li>event->It lays down the last of the old love life</li>
     <li>event->talk to each other, relocated</li>
   </CaravanMeeting.rulePack.rulesStrings>
-  <!-- EN: eclipse -->
-  <Eclipse.label>Japanese</Eclipse.label>
   <!-- EN:
     <li>tale_noun->an eclipse over [PAWN_nameDef]'s [Community]</li>
     <li>image->an unnaturally dark sky, [circumstance_phrase]</li>
@@ -271,8 +263,6 @@
     <li>desc_sentence->Audience [Community] view peasefulli in the air.</li>
     <li>desc_sentence->[EnemySingular] him.</li>
   </Eclipse.rulePack.rulesStrings>
-  <!-- EN: flashstorm -->
-  <Flashstorm.label>Thunderstorm</Flashstorm.label>
   <!-- EN:
     <li>tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm</li>
@@ -317,8 +307,6 @@
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] flee the area.</li>
     <li>desc_sentence->Each crossbar in the world.</li>
   </Flashstorm.rulePack.rulesStrings>
-  <!-- EN: infestation -->
-  <Infestation.label>Destructive beetle</Infestation.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects</li>
     <li>image->a swarm of beetles [circumstance_phrase]</li>
@@ -423,8 +411,6 @@
     <li>desc_sentence->[Community] can be seen in the distance.</li>
     <li>desc_sentence->The unit is visible in the distance.</li>
   </JourneyOffer.rulePack.rulesStrings>
-  <!-- EN: manhunter pack -->
-  <ManhunterPack.label>Menstshenjagendes rudel</ManhunterPack.label>
   <!-- EN:
     <li>tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
@@ -453,7 +439,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <ManhunterPack.rulePack.rulesStrings>
-    <li>tale_noun->menschenjagende giant met [PAWN_nameDef] [Community]</li>
+    <li>tale_noun->curry giant met [PAWN_nameDef] [Community]</li>
     <li>tale_noun->[Community] criticized crazy game [PAWN_nameDef]</li>
     <li>image->[AnimalPluralDat] young [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [AnimalPlural] [circumstance_phrase]</li>
@@ -757,8 +743,6 @@
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] fled the area.</li>
     <li>desc_sentence->The animal to leave the area.</li>
   </TornadoFromItem.rulePack.rulesStrings>
-  <!-- EN: toxic fallout -->
-  <ToxicFallout.label>Toxic water</ToxicFallout.label>
   <!-- EN:
     <li>tale_noun->fallout settling over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic</li>
@@ -799,8 +783,6 @@
     <li>desc_sentence->[Quantity_adjphrase] lying on the floor [Animal] different.</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] and out.</li>
   </ToxicFallout.rulePack.rulesStrings>
-  <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
   <!-- EN:
     <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
     <li>image->a dark and cold sky, [circumstance_group]</li>

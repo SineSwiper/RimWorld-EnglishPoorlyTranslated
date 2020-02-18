@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Böden tab -->
+  <Architect_Floors.label>Flooring menu</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Böden" section of the Architect menu -->
+  <Architect_Floors.description>The primary task of "national" plans</Architect_Floors.description>
+  <!-- EN: Möbel tab -->
+  <Architect_Furniture.label>Furniture menu</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Möbel" section of the Architect menu -->
+  <Architect_Furniture.description>"furniture" is an important architecture work</Architect_Furniture.description>
+  <!-- EN: Entspannung tab -->
+  <Architect_Joy.label>Menu</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Entspannung" section of the Architect menu -->
+  <Architect_Joy.description>Menu key arrest "interested"</Architect_Joy.description>
+  <!-- EN: Diverses tab -->
+  <Architect_Misc.label>Other</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Diverses" section of the Architect menu -->
+  <Architect_Misc.description>Major contracts in the "other" in the architect</Architect_Misc.description>
+  <!-- EN: Befehle tab -->
+  <Architect_Orders.label>Instructions</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Befehle" section of the Architect menu -->
+  <Architect_Orders.description>Work on the command builders "</Architect_Orders.description>
+  <!-- EN: Strom tab -->
+  <Architect_Power.label>Menu power</Architect_Power.label>
+  <!-- EN: Key bindings for the "Strom" section of the Architect menu -->
+  <Architect_Power.description>The main tasks of the engineer</Architect_Power.description>
+  <!-- EN: Produktion tab -->
+  <Architect_Production.label>Package</Architect_Production.label>
+  <!-- EN: Key bindings for the "Produktion" section of the Architect menu -->
+  <Architect_Production.description>Dan in the "production" of key services menu</Architect_Production.description>
+  <!-- EN: Sicherheit tab -->
+  <Architect_Security.label>Menu security</Architect_Security.label>
+  <!-- EN: Key bindings for the "Sicherheit" section of the Architect menu -->
+  <Architect_Security.description>"the central question of security architect"</Architect_Security.description>
+  <!-- EN: Raumschiff tab -->
+  <Architect_Ship.label>Lifofa registration filed</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Raumschiff" section of the Architect menu -->
+  <Architect_Ship.description>The architect believes that "spacesip"</Architect_Ship.description>
+  <!-- EN: Strukturen tab -->
+  <Architect_Structure.label>Menu system</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Strukturen" section of the Architect menu -->
+  <Architect_Structure.description>L 'architect' business issues "body"</Architect_Structure.description>
+  <!-- EN: Temperatur tab -->
+  <Architect_Temperature.label>Temperature menu</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatur" section of the Architect menu -->
+  <Architect_Temperature.description>The architecture of the main objectives in the context menu "hot"</Architect_Temperature.description>
+  <!-- EN: Zone tab -->
+  <Architect_Zone.label>Menu area / region</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Zone" section of the Architect menu -->
+  <Architect_Zone.description>The main task of the menu structure "local / area"</Architect_Zone.description>
+</LanguageData>

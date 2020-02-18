@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alpaca -->
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <!-- EN: chicken -->
+  <Chicken.label>Chicken</Chicken.label>
+  <!-- EN: cow -->
+  <Cow.label>Food</Cow.label>
+  <!-- EN: pig -->
+  <Pig.label>Pork</Pig.label>
+</LanguageData>

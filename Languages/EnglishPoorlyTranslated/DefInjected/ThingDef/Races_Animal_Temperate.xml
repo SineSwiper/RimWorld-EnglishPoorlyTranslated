@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: caribou -->
-  <Caribou.label>Reindeer</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
   <Caribou.description>The younger members of the deer family, is able to adapt to very good, cold weather. Milk and pure domesticated deer, but he was not ready to help us.</Caribou.description>
   <!-- EN: left hoof -->
@@ -10,8 +8,6 @@
   <Caribou.tools.right_hoof.label>Right foot</Caribou.tools.right_hoof.label>
   <!-- EN: head -->
   <Caribou.tools.head.label>Leader</Caribou.tools.head.label>
-  <!-- EN: deer -->
-  <Deer.label>Red deer</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
   <Deer.description>Indirect and herds of grazing animals that live in fields and forests. Hart quickly.</Deer.description>
   <!-- EN: venison -->
@@ -24,8 +20,6 @@
   <Deer.tools.teeth.label>Teeth</Deer.tools.teeth.label>
   <!-- EN: head -->
   <Deer.tools.head.label>Head</Deer.tools.head.label>
-  <!-- EN: elk -->
-  <Elk.label>Rassen</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
   <Elk.description>Deer family, the cold weather is changing as well. In domestic milk mousse, but do not load analysis.</Elk.description>
   <!-- EN: left hoof -->
@@ -34,8 +28,6 @@
   <Elk.tools.right_hoof.label>the nails</Elk.tools.right_hoof.label>
   <!-- EN: head -->
   <Elk.tools.head.label>The host</Elk.tools.head.label>
-  <!-- EN: ibex -->
-  <Ibex.label>Capricorn</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
   <Ibex.description>Take the wild goats packaging. Ibex living in arid areas where there is no antelope live and feed on mosses and rare alpine plants. Jump down the slopes famous limestone lilomong attack, and also his last.</Ibex.description>
   <!-- EN: left hoof -->
@@ -44,16 +36,12 @@
   <Ibex.tools.right_hoof.label>left divided cloven</Ibex.tools.right_hoof.label>
   <!-- EN: head -->
   <Ibex.tools.head.label>Head</Ibex.tools.head.label>
-  <!-- EN: tortoise -->
-  <Tortoise.label>Turtle</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>The body of the organization, ground-dwelling snake is known for only a little while, this amazing speed. Due to its natural armor to fight long and hard to kill, can cause serious damage.</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>Phone</Tortoise.tools.beak.label>
   <!-- EN: head -->
   <Tortoise.tools.head.label>Head</Tortoise.tools.head.label>
-  <!-- EN: wild boar -->
-  <WildBoar.label>Bore</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
   <WildBoar.description>While some people think it is a fruit that is not clean woods and the company is known for the unique flavor of the meat.</WildBoar.description>
   <!-- EN: tusk -->

@@ -21,7 +21,7 @@
   <!-- EN: extreme -->
   <Animal_Plague.stages.extreme-1.label>very</Animal_Plague.stages.extreme-1.label>
   <!-- EN: fibrous mechanites -->
-  <FibrousMechanites.label>Fasermechaniten</FibrousMechanites.label>
+  <FibrousMechanites.label>Mechanites hair</FibrousMechanites.label>
   <!-- EN: mild pain -->
   <FibrousMechanites.stages.mild_pain.label>Mild Disease</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
@@ -61,7 +61,7 @@
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>extreme</Plague.stages.extreme-1.label>
   <!-- EN: sensory mechanites -->
-  <SensoryMechanites.label>Sensorikmetshaniten</SensoryMechanites.label>
+  <SensoryMechanites.label>Mechanites sensor</SensoryMechanites.label>
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>mild pain</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->

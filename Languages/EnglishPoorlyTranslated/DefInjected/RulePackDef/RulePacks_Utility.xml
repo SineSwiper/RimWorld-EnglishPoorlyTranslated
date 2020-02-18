@@ -3,5 +3,7 @@
   <!-- EN:
     <li>r_root->[RULE]</li>
   -->
-  <DynamicWrapper.rulePack.rulesStrings>r_root-> [RULE]</DynamicWrapper.rulePack.rulesStrings>
+  <DynamicWrapper.rulePack.rulesStrings>
+    <li>r_root->[RULE]</li>
+  </DynamicWrapper.rulePack.rulesStrings>
 </LanguageData>
