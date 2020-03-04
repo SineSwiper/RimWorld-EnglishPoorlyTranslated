@@ -23,12 +23,12 @@ $| = 1;
 
 $Text::Wrap::columns = 1000;
 
-our  $INPUT_BASE_DIR = './input';
-our $OUTPUT_BASE_DIR = './output';
+our  $INPUT_BASE_DIR = dir('./input');
+our $OUTPUT_BASE_DIR = dir('./output');
 
 our $DEBUG = 2;
 
-our @PROCESS_LANGUAGES = qw< English German Japanese >;
+our @PROCESS_LANGUAGES = qw< English German >;
 
 our $LANG_DEST_DIR = 'EnglishPoorlyTranslated';
 
@@ -39,18 +39,28 @@ our @FILE_BLACKLIST = ( qw<
     LangIcon.png
     README.md
 >,  qr< Strings/WordParts/.+ >x,
+    qr< Keyed/Grammar\.xml >x,
 );
 
-our %XML_TRANSLATION_KEYS;
+our %XML_KEYS_TRANSLATION;
+our %XML_KEY_FILE_COUNTS;
 
 ##################################################################################################
 
 # Read XML files for translation keys
+foreach my $lang (@PROCESS_LANGUAGES) {
+    my $lang_dir = dir($INPUT_BASE_DIR, 'Languages', $lang);
+    process_dir($lang_dir, $lang, $lang_dir, 'process_file_for_xml_keys');
+}
+say "\n" if $DEBUG >= 2;
 {
     my $lang_dir = dir($OUTPUT_BASE_DIR, 'Languages', $LANG_DEST_DIR);
     process_dir($lang_dir, 'en', $lang_dir, 'process_file_for_xml_keys');
-    say "\n" if $DEBUG >= 2;
 }
+say "\n" if $DEBUG >= 2;
+
+# Calculate %XML_KEY_FILE_COUNTS
+$XML_KEY_FILE_COUNTS{$_}++ for values %XML_KEYS_TRANSLATION;
 
 # Look for files to process
 foreach my $lang (@PROCESS_LANGUAGES) {
@@ -72,14 +82,20 @@ sub process_dir {
 }
 
 sub process_file_for_xml_keys {
-    my ($lang_dir, $lang, $output_file) = @_;
-    return if $output_file->is_dir;  # actually a directory
+    my ($lang_dir, $lang, $file) = @_;
+    return if $file->is_dir;  # actually a directory
+
+    my $is_input =
+        $INPUT_BASE_DIR ->subsumes($lang_dir) ? 1 :
+        $OUTPUT_BASE_DIR->subsumes($lang_dir) ? 0 :
+        die "Cannot figure out in/out for $lang_dir!"
+    ;
 
     # Parse filename
-    my $basename = $output_file->basename;
+    my $basename = $file->basename;
     return unless $basename =~ /\.xml$/i;
 
-    say "Reading XML data from: $output_file" if $DEBUG >= 2;
+    say "Reading XML data from: $file" if $DEBUG >= 2;
 
     my $lang_code = $LANG2CODE{$lang};
 
@@ -87,7 +103,7 @@ sub process_file_for_xml_keys {
         pretty_print => 'indented_c',
         comments     => 'keep',
     );
-    $xml->parsefile($output_file->stringify);
+    $xml->parsefile($file->stringify);
     my $root = $xml->root;
 
     if ($root->name =~ /LanguageData|BackstoryTranslations/ && $root->has_children) {
@@ -97,23 +113,28 @@ sub process_file_for_xml_keys {
             my $text = $child_node->text;
             next unless defined $text && length $text;
 
-            my $is_okay = _check_xml_node_key( check_then_delete => $child_node, $output_file );
-            $write_back = 1 unless $is_okay;
+            # Never ever write to the inputs
+            unless ($is_input) {
+                my $is_okay = _check_xml_node_key( check_then_delete => $child_node, $file );
+                $write_back = 1 unless $is_okay;
+            }
 
-            _check_xml_node_key( add => $child_node, $output_file );
+            _check_xml_node_key( add => $child_node, $file );
         }
 
-        if ($write_back) {
+        $write_back = 0 if $is_input;  # paranoia
+
+        if ($write_back && !$is_input) {
             # If we deleted down to nothing, delete this entire file
             if (!$root->has_children) {
-                say "Removed all nodes; deleting $output_file!\n" if $DEBUG >= 1;
-                $output_file->remove;
+                say "Removed all nodes; deleting $file!\n" if $DEBUG >= 1;
+                $file->remove;
                 return;
             }
 
-            say "Re-writing XML file: $output_file" if $DEBUG >= 1;
+            say "Re-writing XML file: $file" if $DEBUG >= 1;
 
-            my $out = $output_file->open('>:encoding(UTF-8)') || die "Can't open $output_file for writing: $!";
+            my $out = $file->open('>:encoding(UTF-8)') || die "Can't open $file for writing: $!";
             $xml->print($out);
             $out->close;
             $xml->purge;
@@ -130,18 +151,26 @@ sub _check_xml_node_key {
     my $root = $child_node->twig->root;
     my $parent_node = $child_node->parent;
 
+    my $is_input =
+        $INPUT_BASE_DIR ->subsumes($file) ? 1 :
+        $OUTPUT_BASE_DIR->subsumes($file) ? 0 :
+        die "Cannot figure out in/out for $file!"
+    ;
+
     if ($root->name eq 'LanguageData') {
         # Part of a larger rules set
         if ($parent_node->name eq 'li') {
+            # Only check the parent node once, so skip everything except the first li
+            return 1 unless $parent_node->xpath =~ m! /li\[1\] $!x;
             $parent_node = $parent_node->parent;
 
             # These don't seem to be affected by even duplicated parent nodes
-            return 1 if $parent_node->name =~ /\.rulePack\.rulesFiles$/;
+            return 1 if $parent_node->name =~ /\.rulePack\.rulesFiles$/ && !$is_input;
         }
     }
     elsif ($root->name eq 'BackstoryTranslations') {
         # Only check the parent node once, so skip the other two child tags
-        return 1 if $parent_node->name ne 'title';
+        return 1 unless $parent_node->name eq 'title';
         $parent_node = $parent_node->parent;
     }
     else {
@@ -157,15 +186,27 @@ sub _check_xml_node_key {
     $relative_dir =~ s!Defs!Def!g;
     $relative_dir = dir($relative_dir);
 
-    my $xml_key    = join('/', $relative_dir, $parent_node->name);
-    my $dupe_check = $XML_TRANSLATION_KEYS{$xml_key};
+    my $xml_key         = join('/', ($is_input ? 'IN' : 'OUT'), $relative_dir, $parent_node->xpath);
+    my $reverse_xml_key = join('/', ($is_input ? 'OUT' : 'IN'), $relative_dir, $parent_node->xpath);
+    my $dupe_check      = $XML_KEYS_TRANSLATION{$xml_key} // '';
+    my $no_input_check  = !$XML_KEYS_TRANSLATION{$reverse_xml_key};  ### XXX: assumes we've already ran through the input key list
+
+    # Show warnings for output file issues (that are probably going to get deleted)
+    unless ($is_input) {
+        say "\tFound duplicate key $xml_key!"   if $dupe_check     && $DEBUG >= 2;
+        say "\tFound unnecessary key $xml_key!" if $no_input_check && $DEBUG >= 2;
+    }
 
     if    ($cmd eq 'add') {
-        warn "\tFound duplicate key $xml_key!\n" if $dupe_check && $dupe_check ne $file;
-        return $dupe_check ? 0 : ($XML_TRANSLATION_KEYS{$xml_key} = $file);
+        if ($is_input) {
+            return $dupe_check ? 1 : ($XML_KEYS_TRANSLATION{$xml_key} = $file);
+        }
+        else {
+            return $dupe_check || $no_input_check ? 0 : ($XML_KEYS_TRANSLATION{$xml_key} = $file);
+        }
     }
-    elsif ($cmd eq 'check_then_delete') {
-        return $dupe_check && $dupe_check ne $file ? $parent_node->delete : 1
+    elsif ($cmd eq 'check_then_delete' && !$is_input) {
+        return $dupe_check || $no_input_check ? $parent_node->delete : 1;
     }
 
     die "What's $cmd?";
@@ -196,15 +237,17 @@ sub process_file_for_translation {
         ref $chk eq 'Regexp' ? $relative_path =~ $chk : $relative_path eq $chk;
     } @FILE_BLACKLIST;
 
-    # Never overwrite files
+    # Never overwrite (text) files
+    return if -e $output_file && $ext eq 'txt';
 
-    ### DEBUG: To fix some incorrectly deleted dupe keys
-    #if (-e $output_file && $ext eq 'xml') {
-    #    $output_file =~ s!\.xml!_Repair.xml!;
-    #    $output_file = file($output_file);
-    #}
+    # Compare XML keys and get out if there's nothing to change
+    if ($ext eq 'xml') {
+        my $inkey_count  = $XML_KEY_FILE_COUNTS{$input_file};
+        my $outkey_count = $XML_KEY_FILE_COUNTS{$output_file};
 
-    return if -e $output_file;
+        return unless $inkey_count;
+        return if     $outkey_count && $outkey_count >= $inkey_count;
+    }
 
     say "Parsing file: $input_file" if $DEBUG >= 1;
 
@@ -221,19 +264,26 @@ sub process_file_for_translation {
         if ($root->name =~ /LanguageData|BackstoryTranslations/ && $root->has_children) {
             foreach my $child_node (grep { $_->is_pcdata } $root->descendants) {
                 my $text = $child_node->text;
+                my $text_lang_code = $lang_code;
                 my $new_text;
 
-                _check_xml_node_key( check_then_delete => $child_node, $input_file ) || next;
+                _check_xml_node_key( check_then_delete => $child_node, $output_file ) || next;  # ie: does the output file have this node?
 
                 #warn "NODE: $text\nTYPE: ".$child_node->name."\nPARENT TYPE: ".$child_node->parent->name."\nGRANDPARENT TYPE: ".$child_node->parent->parent->name."\n";
 
                 # RulesFiles aren't actually language strings.  They are prefix key to filename mappings.
                 next if $child_node->parent->name eq 'li' && $child_node->parent->parent->name =~ /\.rulePack\.rulesFiles$/;
 
+                # If there is an 'EN:' comment, use that instead.
+                if ($child_node->parent->name ne 'li' && $child_node->parent->outer_xml =~ /^\s*<!--\s*EN: ([^<]+?)\s*-->/s) {
+                    $text = $1;
+                    $text_lang_code = 'en';
+                }
+
                 # Some of these are separated by \n or punctuation.  Process each sentence separately.
                 while ($text =~ /
                     # Something with punctuation, spaces, and lookahead for a start of a new sentence
-                    ([^\\]+?[.!?]+)( \s+ | (?=\p{Other_Letter}) )(?=\p{Uppercase}|\p{Titlecase}|\p{Other_Letter}) |
+                    ([^\\]+?[.!?]+)( \s+ | (?=\p{Other_Letter}) )(?=\p{Uppercase}|\p{Titlecase}|\p{Other_Letter}|\{|\[) |
                     # Something with newlines
                     (.+?)( (?:\\n)+ ) |
                     # Everthing up to the last char
@@ -245,13 +295,13 @@ sub process_file_for_translation {
 
                     # The rules packs will have a prefix in the form of "SomeName(p=6)->".  These
                     # can't be translated because they are exact keys.
-                    $prefix = $1 if $sentence =~ s/^([\w(=).\,!]+->)//;
+                    $prefix = $1 if $sentence =~ s/^([\w(=)<>.\,!]+->)//;
 
                     # Eastern script might not follow proper punctuation spacing
                     $suffix = ' ' if !length $suffix && $sentence =~ /[.,!?:;]$/;
 
                     $new_text .= $prefix;
-                    $new_text .= poorly_translate_text($lang_code, $sentence);
+                    $new_text .= poorly_translate_text($text_lang_code, $sentence);
                     $new_text .= $suffix;
                 }
 
@@ -259,7 +309,8 @@ sub process_file_for_translation {
 
                 $child_node->set_text($new_text);
 
-                _check_xml_node_key( add => $child_node, $input_file );
+                # To be written soon, so add it to the keys
+                _check_xml_node_key( add => $child_node, $output_file );
             }
         }
 
@@ -271,9 +322,24 @@ sub process_file_for_translation {
 
         say "Writing XML file: $output_file" if $DEBUG >= 1;
 
+        if (-e $output_file) {
+            # Output
+            my $out_xml = XML::Twig->new(
+                pretty_print => 'indented_c',
+                comments     => 'keep',
+            );
+            $out_xml->parsefile($output_file->stringify);
+            my $out_root = $out_xml->root;
+
+            # Combine the two!
+            $out_root->merge($root);
+            $xml = $out_xml;
+        }
+
         my $out = $output_file->open('>:encoding(UTF-8)') || die "Can't open $output_file for writing: $!";
         $xml->print($out);
         $out->close;
+
         $xml->purge;
     }
     elsif ($ext eq 'txt') {

@@ -193,14 +193,24 @@ sub poorly_translate_text {
     my ($starting_lang_code, $orig_text) = @_;
 
     # Don't dive too deeply into retry cycles
-    die "Translation death spiral for: $orig_text" if (caller(15))[0];
+    if ( (caller(15))[0] ) {
+        my $error = "Translation death spiral for: $orig_text";
+        if ($starting_lang_code eq 'en') {
+            say "$error\nGiving up and returning it unaltered..." if $DEBUG >= 1;
+            return $orig_text;
+        }
+        else {
+            die $error;
+        }
+    }
 
     state $punct_end_re   = qr/[.,!?:;]$/;
     state $punct_split_re = qr/[\s().,!?:;\-]/;
-    state $var_re         = qr/(?:
-        [\p{Lowercase}']* (?: \{|\[ ) [\w:]+ (?: \}|\] ) [\p{Lowercase}']* |
+    state $var_re         = qr~(?:
+        [\p{Lowercase}']* (?: \{|\[ ) [\w:/]+ (?: \}|\] ) [\p{Lowercase}']* |
+        \&lt; (?<xmltag>\w+) \&gt; .+? \&lt; /\g{xmltag} \&gt; |
         \w+_\w+
-    )/xa;  # use ASCII-only for \w, since variable names are bound to that
+    )~xa;  # use ASCII-only for \w, since variable names are bound to that
 
     # Short-circuit obvious non-words
     #return $orig_text if length $orig_text <= 3 && $starting_lang_code eq $LANG2CODE{$FINAL_LANGUAGE};
@@ -320,6 +330,8 @@ sub poorly_translate_text {
     $text =         lc $text if $cap_type eq 'lower';
 
     $text =~ s/rimworld/RimWorld/gi;
+    $text =~ s/(\A|\s)i(\s|\z)/${1}I${2}/g;
+    $text =~ s/(\A|\s)EMP(\s|\z)/${1}EMP${2}/g;
 
     # Plug back in any subtitutions
     foreach my $subtext (sort keys %substitutes) {
@@ -350,12 +362,10 @@ sub poorly_translate_text {
         say "Result missed some variables; trying again..." if $DEBUG >= 2;
         return poorly_translate_text($starting_lang_code, $orig_text);
     }
-
-    warn colored(['bold yellow'],
-        "Got a result that swallowed up a variable:\n".
-        "$orig_text ==> $text\n".
-        "Missing vars: ".join(' | ', map { "$_ => ".$substitutes{$_} } sort { $substitutes{$a} cmp $substitutes{$b} } keys %substitutes)
-    )."\n" if keys %substitutes;
+    elsif ($text =~ /qq|xyxxz|gogo/) {
+        say "Result chopped off some substitution words; trying again..." if $DEBUG >= 2;
+        return poorly_translate_text($starting_lang_code, $orig_text);
+    }
 
     warn colored(['bold yellow'],
         "Possible stray substition word:\n".
