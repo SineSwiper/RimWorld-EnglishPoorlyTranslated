@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
+	<packageId>SineSwiper.EnglishPoorlyTranslated</packageId>
     <name>English - Poorly Translated</name>
     <author>SineSwiper</author>
     <url>https://github.com/SineSwiper/RimWorld-EnglishPoorlyTranslated</url>
-    <supportedVersions><li>1.0</li></supportedVersions>
-<description>FIXME</description>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+    </supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+<description>RimWorld is a game that contains 45 thousand lines of text and is translated in 28 languages.  Let's ruin all of that hard work by replacing all of the English phrases with barely comprehensible gibberish from Google Translate!
+
+All text in the game has been run through Google Translate several times and eventually outputted as "English", using the English, German, Japanese, and Spanish translations as a source, and a small amount of hand-edits.  Inspired by the Dark Souls 3 Poorly Translated Edition mod.
+
+Can a game that relies so heavily on text be played with badly-translated English?  Test your skills and find out!  Or perhaps you should switch to "Phoebe-based Images" and the "Meaning Of" difficulty first.</description>
 </ModMetaData>
