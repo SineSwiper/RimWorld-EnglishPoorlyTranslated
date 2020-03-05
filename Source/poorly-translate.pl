@@ -28,7 +28,7 @@ our $OUTPUT_BASE_DIR = dir('./output');
 
 our $DEBUG = 2;
 
-our @PROCESS_LANGUAGES = qw< English German >;
+our @PROCESS_LANGUAGES = qw< English Russian Spanish German ChineseSimplified >;
 
 our $LANG_DEST_DIR = 'EnglishPoorlyTranslated';
 
@@ -42,20 +42,33 @@ our @FILE_BLACKLIST = ( qw<
     qr< Keyed/Grammar\.xml >x,
 );
 
+our $REMOVE_UNNECESSARY_KEYS = 0;  # ie: keys that don't exist in the input
+
 our %XML_KEYS_TRANSLATION;
 our %XML_KEY_FILE_COUNTS;
 
 ##################################################################################################
 
 # Read XML files for translation keys
-foreach my $lang (@PROCESS_LANGUAGES) {
-    my $lang_dir = dir($INPUT_BASE_DIR, 'Languages', $lang);
-    process_dir($lang_dir, $lang, $lang_dir, 'process_file_for_xml_keys');
+foreach my $input_dir (dir($INPUT_BASE_DIR)->children) {
+    next unless $input_dir->is_dir;
+
+    my $base_lang_dir;
+    $base_lang_dir = $input_dir->subdir('v1.1', 'Languages');
+    $base_lang_dir = $input_dir->subdir('1.1', 'Languages')  unless -d $base_lang_dir;
+    $base_lang_dir = $input_dir->subdir('Languages')         unless -d $base_lang_dir;
+    next unless -d $base_lang_dir;
+
+    foreach my $lang (@PROCESS_LANGUAGES) {
+        my $lang_dir = $base_lang_dir->subdir($lang);
+        process_dir($lang_dir, $lang, $lang_dir, 'process_file_for_xml_keys') if -d $lang_dir;
+    }
 }
+
 say "\n" if $DEBUG >= 2;
 {
     my $lang_dir = dir($OUTPUT_BASE_DIR, 'Languages', $LANG_DEST_DIR);
-    process_dir($lang_dir, 'en', $lang_dir, 'process_file_for_xml_keys');
+    process_dir($lang_dir, 'en', $lang_dir, 'process_file_for_xml_keys') if -d $lang_dir;
 }
 say "\n" if $DEBUG >= 2;
 
@@ -63,9 +76,19 @@ say "\n" if $DEBUG >= 2;
 $XML_KEY_FILE_COUNTS{$_}++ for values %XML_KEYS_TRANSLATION;
 
 # Look for files to process
-foreach my $lang (@PROCESS_LANGUAGES) {
-    my $lang_dir = dir($INPUT_BASE_DIR, 'Languages', $lang);
-    process_dir($lang_dir, $lang, $lang_dir, 'process_file_for_translation');
+foreach my $input_dir (dir($INPUT_BASE_DIR)->children) {
+    next unless $input_dir->is_dir;
+
+    my $base_lang_dir;
+    $base_lang_dir = $input_dir->subdir('v1.1', 'Languages');
+    $base_lang_dir = $input_dir->subdir('1.1', 'Languages')  unless -d $base_lang_dir;
+    $base_lang_dir = $input_dir->subdir('Languages')         unless -d $base_lang_dir;
+    next unless -d $base_lang_dir;
+
+    foreach my $lang (@PROCESS_LANGUAGES) {
+        my $lang_dir = $base_lang_dir->subdir($lang);
+        process_dir($lang_dir, $lang, $lang_dir, 'process_file_for_translation') if -d $lang_dir;
+    }
 }
 
 ##################################################################################################
@@ -100,8 +123,9 @@ sub process_file_for_xml_keys {
     my $lang_code = $LANG2CODE{$lang};
 
     my $xml = XML::Twig->new(
-        pretty_print => 'indented_c',
-        comments     => 'keep',
+        pretty_print    => 'indented_c',
+        comments        => 'keep',
+        output_encoding => 'UTF-8',
     );
     $xml->parsefile($file->stringify);
     my $root = $xml->root;
@@ -124,7 +148,8 @@ sub process_file_for_xml_keys {
 
         $write_back = 0 if $is_input;  # paranoia
 
-        if ($write_back && !$is_input) {
+        if ($write_back && !$is_input && $REMOVE_UNNECESSARY_KEYS) {
+
             # If we deleted down to nothing, delete this entire file
             if (!$root->has_children) {
                 say "Removed all nodes; deleting $file!\n" if $DEBUG >= 1;
@@ -184,10 +209,12 @@ sub _check_xml_node_key {
     my $relative_dir = $file->relative($base_dir)->dir;
 
     $relative_dir =~ s!Defs!Def!g;
-    $relative_dir = dir($relative_dir);
 
-    my $xml_key         = join('/', ($is_input ? 'IN' : 'OUT'), $relative_dir, $parent_node->xpath);
-    my $reverse_xml_key = join('/', ($is_input ? 'OUT' : 'IN'), $relative_dir, $parent_node->xpath);
+    my $xpath = $parent_node->xpath;
+    $xpath =~ s!^/!!;
+
+    my $xml_key         = join('/', ($is_input ? 'IN' : 'OUT'), $relative_dir, $xpath);
+    my $reverse_xml_key = join('/', ($is_input ? 'OUT' : 'IN'), $relative_dir, $xpath);
     my $dupe_check      = $XML_KEYS_TRANSLATION{$xml_key} // '';
     my $no_input_check  = !$XML_KEYS_TRANSLATION{$reverse_xml_key};  ### XXX: assumes we've already ran through the input key list
 
@@ -206,6 +233,7 @@ sub _check_xml_node_key {
         }
     }
     elsif ($cmd eq 'check_then_delete' && !$is_input) {
+        $no_input_check = 0 unless $REMOVE_UNNECESSARY_KEYS;
         return $dupe_check || $no_input_check ? $parent_node->delete : 1;
     }
 
@@ -255,8 +283,9 @@ sub process_file_for_translation {
 
     if ($ext eq 'xml') {
         my $xml = XML::Twig->new(
-            pretty_print => 'indented_c',
-            comments     => 'keep',
+            pretty_print    => 'indented_c',
+            comments        => 'keep',
+            output_encoding => 'UTF-8',
         );
         $xml->parsefile($input_file->stringify);
         my $root = $xml->root;
@@ -325,8 +354,9 @@ sub process_file_for_translation {
         if (-e $output_file) {
             # Output
             my $out_xml = XML::Twig->new(
-                pretty_print => 'indented_c',
-                comments     => 'keep',
+                pretty_print    => 'indented_c',
+                comments        => 'keep',
+                output_encoding => 'UTF-8',
             );
             $out_xml->parsefile($output_file->stringify);
             my $out_root = $out_xml->root;
