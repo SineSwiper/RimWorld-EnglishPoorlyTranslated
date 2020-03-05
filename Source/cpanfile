@@ -1,0 +1,8 @@
+requires 'Data::Dumper';
+requires 'List::Util';
+requires 'Path::Class';
+requires 'Text::Wrap';
+requires 'XML::Twig';
+requires 'Term::ANSIColor';
+requires 'Text::Levenshtein';
+requires 'WWW::Google::Translate';
